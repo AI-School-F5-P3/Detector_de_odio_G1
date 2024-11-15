@@ -52,3 +52,28 @@ class TextPreprocessor:
         processed_df['processed_text'] = processed_df['semantic_tokens'].apply(' '.join)
         
         return processed_df
+
+if __name__ == '__main__':
+    # Ejemplo de uso
+    sample_text = "This is a sample text with some URLs http://example.com and special characters! 123"
+    
+    preprocessor = TextPreprocessor()
+    
+    print("Original text:")
+    print(sample_text)
+    
+    print("\nCleaned text:")
+    print(preprocessor.clean_text(sample_text))
+    
+    print("\nSemantic tokens:")
+    print(preprocessor.get_semantic_tokens(sample_text))
+    
+    # Ejemplo de uso con un DataFrame
+    sample_df = pd.DataFrame({
+        'Text': ["This is the first sentence.", "This is the second sentence."]
+    })
+    
+    processed_df = preprocessor.process_dataframe(sample_df)
+    
+    print("\nProcessed DataFrame:")
+    print(processed_df)

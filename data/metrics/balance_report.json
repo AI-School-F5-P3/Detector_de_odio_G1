@@ -1,0 +1,38 @@
+{
+    "train": {
+        "original_size": 600,
+        "balanced_size": 1034,
+        "original_distribution": {
+            "0": 517,
+            "1": 83
+        },
+        "balanced_distribution": {
+            "1": 517,
+            "0": 517
+        }
+    },
+    "val": {
+        "original_size": 200,
+        "balanced_size": 346,
+        "original_distribution": {
+            "0": 173,
+            "1": 27
+        },
+        "balanced_distribution": {
+            "0": 173,
+            "1": 173
+        }
+    },
+    "test": {
+        "original_size": 200,
+        "balanced_size": 344,
+        "original_distribution": {
+            "0": 172,
+            "1": 28
+        },
+        "balanced_distribution": {
+            "1": 172,
+            "0": 172
+        }
+    }
+}
