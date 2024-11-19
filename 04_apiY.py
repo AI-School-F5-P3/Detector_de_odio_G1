@@ -121,7 +121,7 @@ def conectar_youtube_api(api_key):
     Returns:
         Objeto de servicio de YouTube para realizar consultas
     """
-    api_key='AIzaSyDFtfdoL1PHWTeN1LF9QF_BaqLAq2N5KuA'
+    api_key=' __'
     try:
         youtube = build('youtube', 'v3', developerKey=api_key)
         return youtube
