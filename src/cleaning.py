@@ -31,3 +31,9 @@ print(rows_hate.head())
 
 
 print(df['IsHatespeech'].unique())
+
+
+# Guardar df_cleaned
+ruta='C:/4_F5/019_NPL/Detector_de_odio_G1/src/'
+df_cleaned.to_csv(ruta+'df_cleaned.csv', index=False, sep=';',encoding='utf-8')
+
