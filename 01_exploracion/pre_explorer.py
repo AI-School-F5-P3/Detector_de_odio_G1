@@ -2,14 +2,11 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+#from pandas_profiling import ProfileReport
 from ydata_profiling import ProfileReport #para Python 3.12
 
 # Cargar el dataset
 df = pd.read_csv('C:/4_F5/019_NPL/Detector_de_odio_G1/00_data/00_raw/youtoxic_english_1000.csv', sep=',')
-
-
-#from pandas_profiling import ProfileReport
-#from ydata_profiling import ProfileReport #para Python 3.12
 
 
 # Generar un reporte
