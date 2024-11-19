@@ -4,13 +4,14 @@ from pathlib import Path
 import logging
 from datetime import datetime
 import pandas as pd
+from src.preprocessing.text_processor import TextPreprocessor
+from src.utils.metrics import setup_logging, calculate_metrics, log_metrics
 
 # Añadir el directorio src al PYTHONPATH
 project_dir = Path(__file__).resolve().parent
 sys.path.append(str(project_dir))
 
-from src.preprocessing.text_processor import TextPreprocessor
-from src.utils.metrics import setup_logging, calculate_metrics, log_metrics
+
 
 def setup_directories():
     """Crear estructura de directorios necesaria"""

@@ -1,0 +1,743 @@
+semantic_tokens,IsHatespeech,IsToxic,IsAbusive,IsThreat,IsProvocative,IsObscene,IsRacist,IsNationalist,IsSexist,IsHomophobic,IsReligiousHate,IsRadicalism,sentiment_label,sentiment_score
+"['PEOPLE', 'FACEBOOK', 'TIE', 'ISIS', 'TERRORIST', 'GROUP', 'MUSLIM', 'EXTREMIST']",True,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9849253296852112
+"['LEAVE', 'ALONE', 'TAKE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9962291121482848
+"['TRS', 'TOTE', 'HILAR', 'VID', 'GRIP', 'REVOLUTIONARY', 'REGULAR', 'POSTER', 'AFROPUNK', 'MASSIVE', 'CORPORATE', 'SPONSOR', 'REVOLUTION', 'START', 'SPONSOR', 'FOLLOW', 'MULTINATIONAL', 'CORPORATION', 'SIGNAL', 'SATIRE', 'PRACTICALLY', 'WRITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9591175317764282
+"['UMMM', 'FACT', 'PHILOSOPHIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9598457217216492
+"['ACT', 'GENTLEMAN', 'TREAT', 'GENTLEMAN', 'ACT', 'GENTLEMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9679771661758424
+"['POLITICIAN', 'STYLE', 'HUBBARD', 'SHORT', 'VIDEO', 'RING', 'MESSAGE', 'LOUD', 'CLEARTO', 'LISTEN', 'THANKFULLY', 'GUN', 'CULTURE', 'SEE', 'ENOUGH', 'AMERICAN', 'SCENE', 'TIME', 'KNOW', 'DROP', 'HANGWRINGING', 'CRAP', 'TELL', 'WORD', 'WRITE', 'POST', 'LISTEN', 'ACT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9625256061553956
+"['INTEGRATION', 'BLACK', 'PEOPLE', 'SCHOOL', 'BUSINESS', 'BANK', 'INTEGRATION', 'LOSE', 'THING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9580302834510804
+"['DAY', 'COME', 'END', 'EMIGRATION', 'RATE', 'MULTIPLY', 'YEAR', 'MOSTLY', 'WEALTHY', 'INDIVIDUAL', 'POOR', 'UNSKILLED', 'FLOOD', 'UNCHECKED', 'GOODBYE', 'GOOD', 'RUN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9400416016578674
+"['BLESS', 'LADY', 'WISH', 'PEOPLE', 'INTELLIGENCE', 'BLESS', 'LITTLE', 'GIRL', 'LOSE', 'LIFE', 'THUG', 'SAD', 'SINGLE', 'ANIMAL', 'CARE', 'BLACK', 'LIFE', 'MATTER', 'ASS', 'INNOCENT', 'LIFE', 'MATTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.955476939678192
+"['RELEVANCE', 'SHOW', 'ENTRY', 'WOUND', 'SPREAD', 'BODY', 'CLOSE', 'RANGE', 'SPREAD', 'TIGHT', 'HIT', 'REGION', 'LIKELY', 'CHEST', 'AREA', 'LONG', 'RANGE', 'SPREAD', 'DISPERSE', 'SEE', 'REPORT', 'WOUND', 'UNDERSIDE', 'ARM', 'EXPOSE', 'ARM', 'RAISE', 'GESTURE', 'PEACE', 'HAND', 'EMPTY', 'AWAY', 'BODY', 'POSE', 'POWDER', 'BURN', 'BODY', 'FAR', 'AWAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9426363110542296
+"['POLICE', 'PROBLEM', 'PROTEST', 'CAUSE', 'BLACK', 'CRIMINAL', 'FORGET', 'BLAME', 'ADDRESS', 'ELEPHANT', 'ROOM']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9264132380485536
+"['BURN', 'PUBLIC', 'STORAGE', 'MAKE', 'SENSE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9660807847976683
+"['LAW', 'PROSECUTE', 'RUN', 'PEOPLE', 'BLOCK', 'STREET', 'SURE', 'KNOW', 'GO', 'WIN', 'PEOPLE', 'CAUSE', 'LOL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9203642010688782
+"['POINT', 'TRY', 'MAKE', 'BLACK', 'EQUAL', 'OPPORTUNITY', 'FERGUSON', 'SUGGEST', 'CITY', 'COUNSEL', 'GIVE', 'YOUNG', 'BLACK', 'MANWOMAN', 'JOB', 'BLACK', 'BLACK', 'PEOPLE', 'FERGUSON', 'TREAT', 'UNFAIRLY', 'LAW', 'ENFORCEMENT', 'SUGGEST', 'BLACK', 'COMMUNITY', 'LAW', 'BIDE', 'CITIZEN', 'BREAK', 'LAW', 'LESS', 'WHITE', 'PEOPLE', 'COP', 'ARREST', 'BLACK', 'CITIZEN', 'FUN', 'SPORT', 'EVEN', 'KNOW', 'TRUE', 'REASON', 'BLACK', 'COMMUNITY', 'RIOT', 'LOOTING', 'EVEN', 'ASK', 'SEE', 'RIOTING', 'LOOTING', 'BREAK', 'KNOXVILLE', 'YOUNG', 'WHITE', 'COUPLE', 'KIDNAP', 'BRUTALLY', 'RAP', 'EVENTUALLY', 'MURDER', 'BLACK', 'MAN', 'WOMAN', 'WONDER', 'COME', 'RACISM', 'PLAIN', 'STUPIDITY', 'ANGEL', 'STUDY', 'FACT', 'STAY', 'AWAY', 'EMOTION', 'SKIN', 'COLOR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.957503616809845
+"['COP', 'FRACTURED', 'EYE', 'SOCKET', 'FIST', 'SHOT', 'FIRE', 'BOTTOM', 'POSITION', 'COP', 'CAR', 'GUY', 'BRING', 'SECOND', 'DEGREE', 'MURDER', 'CHARGE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.943089246749878
+['THANK'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9950571060180664
+"['PUT', 'CIVILIAN', 'PERSPECTIVE', 'PEOPLE', 'GET', 'FIGHT', 'SHOOT', 'GO', 'JAIL', 'COP', 'PROTECT', 'SELF', 'MICHEAL', 'BROWN', 'SHOOT', 'FOOT', 'AWAY', 'WILSON', 'PATROL', 'CAR', 'WAY', 'GET', 'SELF', 'SITUATION', 'CONTINUE', 'CONFLICT', 'REASON', 'SHOOT', 'OPTION', 'PEPPER', 'SPRAY', 'TAZER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9510259628295898
+"['FATE', 'NEGLECT', 'CHILD', 'INTERESTING', 'KNOW', 'FAMILY', 'BACKGROUND', 'ALWAYS', 'KEEP', 'MIND', 'CHILD', 'EMULATE', 'SOCIAL', 'BEHAVIOUR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9289278984069824
+"['KILL', 'PROTESTER']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.940912127494812
+"['LIKE', 'GENERALIZATION', 'USE', 'RANT', 'MAIN', 'POINT', 'RIGHT', 'ROCK', 'SAY', 'WELL', 'BLACK', 'PEOPLE', 'NIGGAZ', 'NIGGA', 'MORN', 'KILLER', 'GUN', 'STREET', 'BLACK', 'PERSON', 'MOURN', 'LOSS', 'INNOCENT', 'HUMAN', 'LIFE', 'LITTLE', 'GIRL', 'MURDER', 'BASE', 'COMMENT', 'BLACK', 'RATIO', 'DROP']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9435678720474244
+"['PEOPLE', 'WISH', 'LITERALLY', 'BURN', 'ENTIRE', 'CITY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.944246232509613
+"['MUSLIM', 'BLACK', 'BROTHER', 'SISTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9583990573883056
+"['BLACK', 'WANT', 'RESPECT', 'SPEAK', 'ACT', 'DRESS', 'HUXTABLE', 'FAMILY', 'WANT', 'TREAT', 'PREJUDICE', 'SPEAK', 'ACT', 'DRESS', 'KNOW', 'GANGSTER', 'STEAL', 'THING', 'ACT', 'STREET']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9616307616233826
+"['KID', 'HOPELESS', 'PIECE', 'SHIT', 'LOOK', 'BULLY', 'STORE', 'OWNER', 'BAD', 'DECISION', 'GET', 'DUMB', 'ASS', 'SHOT', 'KILL']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9493516683578492
+"['BLACK', 'ABLE', 'WHITE', 'PEOPLE', 'RUSH', 'HOUR', 'TRAFFIC', 'COME', 'HOME', 'JOB', 'BRING', 'LAZY', 'ASS', 'WATCH', 'TV', 'GET', 'HIGH', 'FUCK', 'PEOPLE', 'PROVIDE', 'WELFARE', 'WHITE', 'PEOPLE', 'SIT', 'JURY', 'RULE', 'POLICE', 'BRUTALITY', 'SHOOTING', 'PISS', 'SURE', 'GET', 'SEE', 'SIDE', 'STORY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9694724082946776
+"['MAKE', 'SONG', 'ADDRESS', 'FERGUSON', 'ISSUE', 'TODAY', 'LISTEN', 'THANK', 'THA', 'BIG', 'PICTURE', 'SOUNDCLOUD', 'LISTEN', 'THA', 'BIG', 'PICTURE', 'SOUNDCLOUD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9869165420532228
+"['RACISM', 'EQUALLY', 'WORTHLESS', 'FULL', 'METAL', 'JACKET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.946819305419922
+"['REALLY', 'SAD', 'STORY', 'KILL', 'REASON', 'RACIAL', 'WAR', 'INCREASE', 'DEVIL', 'SEE', 'OFFICER', 'VICTIM', 'GUY', 'CAUSE', 'ACTION', 'LET', 'PRAY', 'SOUL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9342210292816162
+"['FUNNY', 'THING', 'GOVERNMENT', 'TRUST', 'JUDGE', 'FUCK', 'DISGUSTING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9832309484481812
+"['GOOD', 'ANCHOR', 'EVER', 'SEE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9143633246421814
+"['CALL', 'RESEARCHER', 'PLAN', 'EXAMINE', 'FACT', 'YET', 'MENTION', 'BULLSHIT', 'RUMOUR', 'ICED', 'TEA', 'SKITTLE', 'FACT', 'SPECULATION', 'VICTIM', 'BLAMING', 'ACTUALLY', 'STOP', 'TRY', 'PRETEND', 'YO', 'EXAMINE', 'FACT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9624198079109192
+"['NEED', 'ABLE', 'CALL', 'PEOPLE', 'GUN', 'CA', 'CITIZEN', 'COMPLETELY', 'DISARM', 'HEIST', 'MUCH', 'SHORT', 'CITY', 'PEOPLE', 'STRIP', 'AMMENDMENT', 'RIGHT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.945829689502716
+"['DUMB', 'MF']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.986948013305664
+"['TRULY', 'SAD', 'PEOPLE', 'STOP', 'ROADWAY', 'SIMPLY', 'WALK', 'PROTESTOR', 'INFORM', 'SECOND', 'GO', 'USE', 'PUNCH', 'BAG', 'BOY', 'GIRL', 'MOVE', 'DISBAND', 'LAY', 'BITCH', 'NEED', 'ASS', 'KICK', 'FAR', 'CHP', 'EVEN', 'CITATION', 'WRITE', 'BITCH', 'COP']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9729803800582886
+"['OFFICER', 'PULL', 'WEAPON', 'CREATE', 'BUFFER', 'ZONE', 'THING', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9471555352211
+"['DUDE', 'LIE', 'AZZ', 'CRACKA']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9617151021957396
+"['AGREE', 'COP', 'EXTREMELY', 'DIFFICULT', 'JOB', 'MANY', 'QUALIFIED', 'HANDLE', 'LOT', 'GOOD', 'COP', 'HOWEVER', 'INTELLIGENT', 'UNPLUG', 'MATRIX', 'ALWAYS', 'CLAIM', 'SEEM', 'COMPLETELY', 'UNAWARE', 'IGNORE', 'REALITY', 'COUNTRYS', 'CORRUPT', 'PRISON', 'INDUSTRIAL', 'COMPLEX', 'TIE', 'FAIL', 'JUDICIAL', 'SYSTEM', 'WELL', 'RACIAL', 'AGENDA', 'POLICE', 'BRUTALITY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9552636742591858
+"['PEOPLE', 'COUNTRY', 'GO', 'LEARN', 'POLICE', 'ENEMY', 'MEDIATHEY', 'ONE', 'LIGHT', 'CALL', 'FIRE', 'STIR', 'POT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.900687575340271
+"['GUY', 'MUG', 'IPHONE', 'FERGUSON', 'VIDEO', 'HILARIOUS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9267045259475708
+"['ISUSE', 'EXCUSE', 'LOOT', 'TAKE', 'PEOPLE', 'SHIT', 'DESTROY', 'NEIGHBORHOOD', 'HAAAA', 'TYPICAL', 'EVEN', 'HOOD', 'GHETTO', 'BITCH', 'COLLECT', 'FREE', 'RENT', 'GOVT', 'FIGHT', 'GOVT', 'OCCUPY', 'FAGET', 'ELSE', 'GO', 'CLEAN', 'HIGHWAY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.96118825674057
+"['SLOW', 'TELL', 'SPEED', 'SCULLY', 'TALK', 'REALLY', 'QUICKLY', 'GREAT', 'VIDEO', 'GREAT', 'INFORMATION', 'LITTLE', 'FAST']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9820626378059388
+"['LIKE', 'BLACK', 'RACIST', 'WHITE', 'CONSEQUENCE', 'KEEP', 'NICE', 'NEW', 'WORLD', 'LIVE', 'KEEP']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9270341992378236
+"['POLICE', 'CLEAN', 'MESS', 'QUICK', 'NICE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8843472003936768
+"['GUY', 'BASSMASTER', 'CHARACTER', 'ALWAYS', 'TESTE', 'SEMIRETARDE', 'CHARACTER', 'CROSSEYE', 'GUY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9161709547042848
+"['LAW', 'PROTESTER', 'BLOCK', 'STREET', 'ALLOW', 'RUN']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.93461811542511
+"['RIGHT', 'WRONG', 'CASE', 'LEFT', 'WING', 'POLICY', 'STOP', 'CONFLATE', 'ISSUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9286234974861144
+"['OMG', 'DUMBASS', 'PROTESTER', 'PREVENT', 'COP', 'JOB', 'WHINING', 'REALLY', 'REALLY', 'HATE', 'PEOPLE', 'PROTEST', 'EDIT', 'LOOK', 'UGLY', 'ASS', 'BLACK', 'GIRL', 'BIG', 'EYE']",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9438689351081848
+"['WONDER', 'POLICE', 'EXPECT', 'HAPPEN', 'CONTINUALLY', 'ABUSE', 'KILL', 'PEOPLE', 'HONESTLY', 'EXPECT', 'PUBLIC', 'LAY', 'BACK', 'TAKE', 'LET', 'COP', 'TURN', 'MASSIVE', 'STREET', 'GANG', 'ALLOW', 'KILL', 'CONSEQUENCE', 'EVEN', 'RAT', 'CORNERED', 'DEFEND']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9407575130462646
+"['GUESS', 'MISREAD', 'EVER', 'SEE', 'PUT', 'PLACE', 'SWIFTLY', 'ELOQUENTLY', 'EVEN', 'SURE', 'REALIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495823979377748
+"['FUCK', 'BASSEM', 'RIGHT', 'FIND', 'REAL', 'INVESTIGATE', 'EXAGGERATE', 'WANT', 'VIEW', 'MONEY', 'FUCK', 'SELFISH', 'FUCK', 'PEOPLE', 'DISGUSTING', 'KNOW', 'BARE', 'NASTY', 'SELF']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9392377734184264
+"['KNOW', 'IRRADIATE', 'COMMERCIAL', 'STRAWBERRY', 'SEED', 'GERMINATE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9436743259429932
+"['TAKE', 'MEDICAL', 'CANNABIS', 'GUY', 'LIKE', 'COUPLE', 'FACE', 'BOOK', 'FIGHT', 'PAGE', 'MEAN', 'NECESSARILY', 'AGGRESSIVE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9781800508499146
+"['THINK', 'MEZZICAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.992875337600708
+"['INTERVIEWER', 'RIGHT', 'GUY', 'SHOW', 'RESPECT', 'PARAMILITARY', 'POLICE', 'KILL', 'GET', 'AWAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9012390971183776
+"['SECTION', 'LADY', 'GENTLEMAN', 'SEE', 'BLACK', 'PEOPLE', 'MISBEHAVE', 'WONDER', 'HAPPEN', 'RIOT', 'COURT', 'DECISION', 'GO', 'WAY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8917405009269714
+"['UNEDUCATED', 'IDIOT', 'LISTEN', 'WORD', 'COME', 'MOUTH', 'SOUND', 'STUPID', 'LITTLE', 'KID', 'GROW', 'FUCK', 'LEARN', 'LAW', 'INSTEAD', 'REPEAT', 'FREEDOM', 'SPEECH', 'CITIZEN', 'GO', 'AHEAD', 'BRO', 'ILL', 'LISTEN', 'SHUT', 'GUY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9628503322601318
+"['QUOTE', 'MOTHER', 'HIT', 'HARD', 'ACCURATE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9544536471366882
+"['POSITIVELY', 'IDENTIFY', 'ASSAILANT', 'STORE', 'SUPPOSE', 'ROBBERY', 'WILSON', 'AWARE', 'ROBBERY', 'TIME', 'ENCOUNTER', 'CLEARLY', 'RACIST', 'UNSUBSCRIBE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9589405059814452
+"['UNDERSTAND', 'COMMIT', 'ROBBERY', 'OFFENSE', 'DESERVE', 'DIE', 'PUT', 'JAIL', 'END', 'LIFE', 'GO', 'BUY', 'SKITTLE', 'DESERVE', 'DEATH', 'TOTALLY', 'BIASED', 'WHITE', 'LABEL', 'TROUBLED', 'TEENAGER', 'PEER', 'PRESSURED', 'COMMIT', 'CRIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9737303256988524
+"['LEGALLY', 'ALLOW', 'RUN', 'CONSEQUENCE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8607115149497986
+"['STATEMENT', 'THINK', 'TAKE', 'AK', 'GO', 'FIGHT']",True,True,True,False,True,True,True,False,False,False,False,False,NEGATIVE,0.994306743144989
+"['TELL', 'PEOPLE', 'FACEBOOK', 'HOLD', 'JUDGMENT', 'FACT', 'WAIT', 'SEE', 'FACT', 'PART', 'WANT', 'BELIEVE', 'GENTLE', 'GIANT', 'LOT', 'EVIDENCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9585280418395996
+"['GREAT', 'FOOTAGE', 'WISH', 'NEWS', 'CASTER', 'SHUT', 'MINUTE', 'POLICE', 'OFFICER', 'START', 'TALK', 'LET', 'PLAY', 'MUCH', 'INTERESTING', 'HEAR', 'COMMENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9661921858787536
+"['COLOR', 'MAKE', 'DIFFERENCE', 'PERSON', 'INSIDE', 'INNOCENT', 'YEAR', 'OLD', 'LITTLE', 'GIRL', 'ATTENTION', 'PEOPLE', 'WANT', 'CAUSE', 'CHAOS', 'BLACK', 'WHITE', 'GO', 'EXACTLY', 'LOOK', 'COUNTRY', 'MESS', 'ADMIRE', 'COURAGE', 'TELL', 'PEGGY', 'HUBBARD']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9481349587440492
+"['ALSO', 'LOVE', 'SHOW', 'PICTURE', 'BROWN', 'ANGEL', 'TUG']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9750118255615234
+"['GUY', 'IDIOT', 'GOOD', 'LOSE', 'ALREADY', 'BOZO']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9528595805168152
+"['COCKTAIL', 'LOCAL', 'DRINK', 'WANT', 'DANCE', 'DANCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9552616477012634
+"['MUSIC', 'REFERENCE', 'SEX', 'DRUG', 'STEAL', 'MURDER', 'PRETTY', 'MUCH', 'RAP', 'MUSIC']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9359741806983948
+"['VIDEO', 'BIASED', 'FULL', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9802002906799316
+"['ACTUALLY', 'SHOUT', 'FIRE', 'CROWDED', 'THEATER', 'CHRISTOPHER', 'HITCHEN', 'DEMONSTRATE', 'TALK', 'FREE', 'SPEECH', 'LOOK', 'INTERVIEWEE', 'CORRECT', 'COP', 'SERVE', 'PUBLIC', 'WAY', 'AROUND', 'CONSISTENT', 'SERVE', 'PUBLIC', 'POLICE', 'DEPARTMENT', 'REPRESENT', 'PUBLIC', 'RACE', 'ETHNICITY', 'RANK', 'HIRE', 'BUNCH', 'BIG', 'TOUGH', 'BLACK', 'GUY', 'POLICE', 'DEPARTMENT', 'BLACK', 'SHOOT', 'DEATH', 'PUNY', 'WHITE', 'GUY', 'HUMILIATE', 'GET', 'BITCH', 'SLAP', 'TEENAGER']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.949252724647522
+"['LEAST', 'FAVORITE', 'TEST', 'TUBE', 'VIDEO', 'FAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9850088357925416
+"['USELESS', 'PEOPLE', 'STAND', 'MIDDLE', 'ROAD', 'SCREAM', 'USELESS', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.972916066646576
+"['TASER', 'GUN', 'NEED']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9969648718833924
+"['PROTEST', 'CONVERT', 'RIOT', 'MAJORITY', 'PEOPLE', 'WANT', 'FOOL', 'POLITICIAN', 'PLAY', 'SERIOUS', 'GAME', 'COMMON', 'MAN', 'TAKE', 'CARE', 'SAVE', 'HUMANITY', 'PEACE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9626320600509644
+"['AWESOME', 'JOB', 'PEGGY', 'THANK', 'TELL', 'TRUTH', 'WESTANDWITHPEGGYHUBBARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9787928462028505
+"['SHOOT', 'APPREHEND', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9698931574821472
+"['TRAFFIC', 'BAD', 'ENOUGH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9935518503189088
+"['YOUTUBE', 'COMWATCHVYFBBTDVHG', 'RESEARCH', 'COME', 'INFORMATION', 'WHITE', 'CONSTRUCTION', 'WORKER', 'WITNESS', 'SHOOT', 'HAND']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8922563791275024
+"['LAST', 'WEEK', 'BLACK', 'MAN', 'SNUCK', 'RETIREMENT', 'HOUSING', 'BREAK', 'HOUSE', 'BEAT', 'YEAR', 'OLD', 'COUPLE', 'DEATH', 'GO', 'OUTSIDE', 'ATTEMPT', 'HOT', 'WIRE', 'ANTIQUE', 'CAR', 'NEIGHBOR', 'COME', 'TOWNHOUSE', 'TAKE', 'GAUGE', 'SHOT', 'GUN', 'EXECUTE', 'BLOW', 'HEAD', 'ARMNE', 'KNOW', 'FELON', 'GET', 'PREVIOUS', 'MURDER', 'CHARGE', 'FIND', 'YOUNG', 'GIRL', 'BODYNOW', 'OK', 'OL', 'PEOPLECAUCASIANSWHERE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.950326681137085
+"['TELL', 'RACIST', 'COP', 'DUMB', 'GUY', 'MESS', 'COP', 'HATE', 'MAKE', 'SEEM', 'HOLY', 'MAN', 'MAKE', 'RIGHT', 'KILL', 'CONFUSING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.952159821987152
+"['GET', 'JOB']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.971744954586029
+"['STAND', 'TRIAL', 'PROVE', 'ACT', 'SELF', 'DEFENSE', 'JURY', 'OPEN', 'COURT', 'LAW', 'GRAND', 'JURY', 'OPERATE', 'SECRET', 'TRUST', 'GOVERNMENT', 'TRUST', 'OPERATE', 'SECRET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9783682823181152
+"['RIGHT', 'SHOOT', 'BLACK', 'HELL', 'BREAK', 'LOSE', 'BLACK', 'SHOT', 'BLACK', 'PROTEST', 'MAYBE', 'START', 'PROTEST', 'BLACK', 'SHOTTING', 'BLACK', 'BUY', 'STORY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9448771476745604
+"['ALWAYS', 'EASY', 'SECOND', 'GUESS', 'COP', 'GET', 'LOT', 'TRAINING', 'END', 'DAY', 'STILL', 'HUMAN', 'NAVY', 'SEAL', 'THINK', 'HUMAN', 'MAKE', 'MISTAKE', 'MAKE', 'ROBOT', 'COP', 'CONTINUE', 'MISTAKE', 'MAKE', 'ALSO', 'MEDIUM', 'PLAY', 'BIG', 'PART', 'ISSUE', 'WHITE', 'CO', 'KILL', 'BLACK', 'MAN', 'BLACK', 'COP', 'KILL', 'BLACK', 'MAN', 'EVEN', 'MAKE', 'NEWS', 'PROBABLY', 'NEED', 'GET', 'LONG', 'STOP', 'MAKE', 'RACE', 'ISSUE', 'GOOD', 'CITIZEN', 'ISSUE', 'COP', 'YOUNG', 'MAN', 'SAINT', 'GENTLE', 'GIANT', 'SAY', 'ROB', 'STORE', 'PROBABLY', 'THING', 'HAPPEN', 'COP', 'EXPLAIN', 'PEOPLE', 'INVOLVE', 'KNOW', 'EXACTLY', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9638391137123108
+"['MAGIC', 'HAMSTER', 'DRINK', 'LOT', 'LEAN', 'NEVER', 'HEAR', 'USE', 'SKITTLE', 'LEAN', 'RANCHER', 'IDEAL', 'CANDY', 'USE', 'MAGIC', 'HAMSTER', 'DOUBT', 'USE', 'SKITTLE', 'LEAN', 'WANT', 'POINT', 'QUOTEUNQUOTE', 'CREATE', 'MAGIC', 'HAMSTER', 'PREFER', 'USE', 'JOLLY', 'RANCHER', 'LEAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9325807094573976
+"['FEEL', 'SORRY', 'HAPENNE', 'THUS', 'THINK', 'HAPPEN', 'GANG', 'MEMBER', 'KILL', 'ONE', 'GO', 'STREET', 'COP', 'KILL', 'BLACK', 'MALE', 'KNOW', 'GANG', 'MENBER', 'KILL', 'DAY', 'LOSE', 'FAMILY', 'FRIEND', 'ONE', 'GO', 'STREET', 'SCREAM', 'STOP', 'KILLING', 'POLICE', 'KILL', 'BLACK', 'PERSON', 'WHOLE', 'WORLD', 'STOP', 'HUMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9445377588272096
+"['YEAR', 'ALREADY', 'STILL', 'MORONIC', 'BULLSHIT', 'GO', 'SHIT', 'ASS', 'COUNTRY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9508745670318604
+"['SURE', 'KNOW', 'KILLER', 'YOUNG', 'GIRL', 'CONSIDER', 'HOMEBOY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.87240070104599
+"['STAT', 'REPRESENT', 'PROBLEM', 'RACE', 'BAITING', 'ATTITUDE', 'CRIME', 'BET', 'STILL', 'LITTLE', 'INNOCENT', 'BOY', 'SPEAK', 'LISP', 'SURE', 'SIGN', 'LEFT', 'WING']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9679417610168456
+"['POP', 'COUPLE', 'SHOT', 'AIR', 'WATCH', 'SCATTER', 'ROACH', 'LIGHT', 'TURN']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9679861664772034
+"['NEED', 'HIRE', 'MAN', 'REAL', 'AMERICAN', 'TROUBLE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9890973567962646
+"['MOTHERFUCKER', 'ANGRYAND', 'UNDERSTAND']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.8934484720230103
+"['RIGHT', 'FINALLY', 'SANE', 'OPINION', 'EVENT', 'BLACK', 'BASTARD', 'SOOOOOOOOOO', 'IGNORANT', 'RUN', 'YELLING', 'LOOT', 'CARRY', 'RIOT', 'OLD', 'SHIT']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9417170286178588
+"['BEAT', 'WHITE', 'PEOPLE', 'BLACK', 'STORE', 'CAUSE', 'MASSIVE', 'RIOT', 'WASTE', 'MONEY', 'BET', 'WORK', 'STOP', 'WASTE', 'PEOPLE', 'MONEY', 'YOURSELFI', 'HOPE', 'SINGLE', 'PERSON', 'GET', 'HAPPEN', 'SADLY']",True,True,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9499210119247437
+"['WOMAN', 'GET', 'INSTEAD', 'ANTICHRIST', 'OBAMA']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9589403867721558
+"['PROPAGANDA', 'PART', 'PEOPLE', 'LET', 'HEAR', 'FERGUSON']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.931225836277008
+"['DUMB', 'ASS', 'PEOPLE', 'RUN']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9749245643615724
+['RESPECT'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.945444107055664
+"['WATCH', 'SECOND', 'PART', 'REST', 'POWER', 'TRAYVON', 'STORY', 'URGE', 'WATCH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9693369269371032
+"['AHOLE', 'MAKE', 'INTERVIEWER', 'SEEM', 'REASONABLE', 'BALANCED']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9027316570281982
+"['DAMN', 'GOOD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9478944540023804
+"['NEED', 'COME', 'TOGATHER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9844509363174438
+"['BOTTOM', 'LINE', 'DRUG', 'ADDICT', 'CRIMINAL', 'VIOLENT', 'CRIMINAL', 'FEEL', 'BAD', 'KILL', 'CRIMINAL']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495576620101928
+"['NEED', 'SEARCH', 'YOUTUBE', 'ACTUAL', 'DOCTORED', 'AUDIO', 'MICHAELBROWN', 'SHOOTING', 'CATCH', 'CHANGE', 'EVIDENCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9279128909111024
+"['LIFE', 'UNDERSTAND', 'PEOPLE', 'THINK', 'MARTYR', 'CAUSE', 'MAN', 'CRIMINAL', 'BLACK', 'PEOPLE', 'CRIMINAL', 'ABSOLUTELY', 'WHITE', 'CRIMINAL', 'HISPANIC', 'CRIMINAL', 'BETCHA', 'SITUATION', 'EXACTLY', 'RACE', 'REVERSE', 'ISSUE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9445450901985168
+"['RESIDENT', 'STUPID', 'COMPLAIN', 'CRIME', 'POLICE', 'SHOOT', 'CRIMINAL', 'GET', 'EMO', 'TELL', 'POLICE', 'LEAVE', 'RIOT', 'LOOT', 'DESTROY', 'COMMUNITY', 'LOGIC', 'THINK', 'TROLL']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9737865328788756
+"['TAX', 'DOLLAR', 'GET', 'SPANKING', 'NEW', 'COP', 'CAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9827151894569396
+"['UNDERSTAND', 'LADY', 'SAY', 'GO', 'ARTICLE', 'VIDEO', 'SHOOTING', 'INCIDENT', 'PERSONALLY', 'THINK', 'CASE', 'EXAGGERATED', 'RIOT', 'LOOTING', 'CRIMINAL', 'ACTIVITY', 'SAY', 'CAUSE', 'GRAND', 'JURY', 'DECISION', 'FAKE', 'CRIME', 'SEE', 'OPPORTUNITY', 'DISINTEGRATION', 'USE', 'DECISION', 'REASON']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9473193883895874
+"['HEAR', 'BILLIONAIRE', 'FUND', 'ORGANISE', 'RIOT', 'FUCKEN']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.8936202526092529
+"['THINK', 'ALOT', 'BLACK', 'PEOPLE', 'TIRED', 'GUN', 'VIOLENCE', 'GANG', 'IGNORANCE', 'COMMUNITY', 'WANT', 'STOP', 'BAD', 'PEOPLE', 'RACE', 'GET', 'STATEMENT', 'TALK', 'THING', 'BLACK', 'COMMUITY', 'PEOPLE', 'QUICK', 'SAY', 'BAD', 'PEOPLE', 'RACE', 'SAY', 'PUT', 'BLACK', 'WANT', 'PEOPLE', 'WELL', 'CARE', 'SELFS', 'REPECTFUL', 'WAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9682828187942504
+"['INTERNET', 'TROLLING', 'TIME', 'HIGH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9873873591423036
+"['SEE', 'COMMENT', 'PROVE', 'BACKWARD', 'COUNTRY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9522764682769777
+"['SICK', 'SEE', 'RACIST', 'COMMENT', 'SHAME', 'STILL', 'GROW', 'FUCK', 'PEOPLE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9432656764984132
+"['BADGE', 'BITCH', 'HALF', 'FUCK', 'POLICE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9479575157165528
+['BLACKLIVESDONTMATTER'],True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8446000814437866
+"['LITTLE', 'BITCH', 'LIKE', 'SUBTLY', 'TRY', 'INSULT', 'GUY', 'GUY', 'LAUGH', 'REALLY', 'SHOW', 'LOW', 'STOOP', 'GARBAGE', 'HOLE', 'BECOME', 'PIECE', 'ASS', 'SUCK', 'WORK', 'GUESS', 'WONDER', 'HOME', 'WATCH', 'NEWS', 'NETWORK']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9706648588180542
+"['FIND', 'INSANE', 'BLACK', 'PEOPLE', 'ALWAYS', 'PLAY', 'RACIST', 'CARD', 'SINGLE', 'LITTLE', 'ISSUE', 'COINCIDENTAL', 'WHITEBLACK', 'SITUATION', 'CASE', 'RACE', 'ALSO', 'SAY', 'WANT', 'JUSTICE', 'GO', 'AROUND', 'DESTROY', 'PRIVATE', 'PROPERTY', 'LOOTING', 'SHOP', 'RIGHT', 'MIND', 'ASK', 'JUSTICE', 'ROB', 'DESTROY', 'PEOPLE', 'LIVELY', 'HOOD', 'TIME', 'BLACK', 'COMMUNITY', 'THINK', 'PERFECTLY', 'ACCEPTABLE', 'BLACK', 'PERSON', 'KILL', 'WHITE', 'COP', 'COP', 'FOLLOW', 'PROCEDURE', 'DEFEND', 'SELF', 'POTENTIAL', 'FATAL', 'ATTACK', 'GET', 'ANGRY', 'BLACK', 'GUY', 'FIREARM', 'EASILY', 'KNIFE', 'VALUE', 'BLACK', 'PEOPLE', 'WHITE', 'LAW', 'ENFORCEMENT', 'OFFICER', 'LIFE', 'EQUAL', 'UNDERSTAND', 'OFFICER', 'DEFEND', 'SELF', 'ATTACK', 'ATTACK']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9502547979354858
+"['THUG', 'BLESS', 'THIN', 'BLUE', 'LINE', 'GRADUATE', 'POLICE', 'ACADEMY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9882694482803344
+"['THUS', 'COLLAPSE', 'POSSIBILITY', 'CONSIDER', 'ONE', 'BOIL', 'DICTATORSHIP', 'EVIL', 'REPRISAL', 'POSSIBILITY', 'NEW', 'RECONSTRUCTION', 'PEOPLE', 'FUNDAMENTALLY', 'CONSCIOUS', 'RESPONSIBILITY', 'ATTAIN', 'GOVERNMENT', 'REALLY', 'BRING', 'EFFECTIVE', 'VALUABLE', 'NEW', 'START', 'ACTUALLY', 'OCCUR', 'CURRENTLY', 'EXTREMELY', 'QUESTIONABLE', 'PRESENTLY', 'TOTALITARIAN', 'MANNER', 'DIRECT', 'INTEREST', 'ECONOMIC', 'MILITARY', 'POLITICAL', 'CULTURAL', 'WELL', 'STRICT', 'FUNDAMENTALIST', 'RELIGIOUSSECTARIAN', 'BASE', 'ENORMOUS', 'LIE', 'DEVIOUS', 'MISANTHROPIC', 'CRIMINAL', 'FELONIOUS', 'MACHINATION', 'IMAGINABLE', 'REGARD', 'ALSO', 'MEAN', 'POPULATION', 'SPY', 'SECRET', 'SERVICE', 'EVEN', 'SEVERELY', 'NEIGHBOURHOOD', 'FORTH', 'POSSIBLE', 'MANNER', 'RESTRICT', 'FREEDOM', 'ADDITION', 'VIOLENCE', 'EMERGE', 'FORM', 'OPENLY', 'COVERTLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9540953636169434
+"['SHOOT', 'RUN', 'LOL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.977846384048462
+"['BUY', 'CATCH', 'VIDEO', 'SAY', 'BURN', 'BITCH', 'REFFERE', 'FERGUSONAND', 'DUDE', 'INTERVIWING', 'THUG', 'GIVE', 'AIR', 'TIME']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9722955226898192
+"['RAP', 'GO', 'AHEAD', 'BROLOL', 'GETTO']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.922643780708313
+"['RUN', 'MOTHERFUCKER']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9588608741760254
+"['MAYBE', 'KNOW', 'EXACT', 'STORY', 'UNDERSTAND', 'SUPPOSE', 'CASE', 'GROWN', 'MAN', 'SHOOT', 'KID', 'SUPPOSE', 'RACIAL', 'GUY', 'LET', 'HATE', 'ANTI', 'BLACK', 'ANTI', 'WHITE', 'SEEM', 'FORGET', 'GO', 'POLICE', 'OFFICER', 'SHOOT', 'INNOCENT', 'KID', 'WANT', 'JUSTICE', 'FCKIN', 'RACE', 'MOMENT', 'PICK', 'RACE', 'SIDE', 'BECOME', 'FCKIN', 'JOKE', 'GIVE', 'RAT', 'ASS', 'MANY', 'BLACK', 'KILL', 'WHITE', 'VICE', 'WANT', 'KNOW', 'FCK', 'POLICE', 'OFFICER', 'WALK', 'FREE', 'EMPTY', 'MOTHERFCKIN', 'GUN', 'CHILD']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9521430730819702
+"['RACE', 'MUCH', 'NEWS', 'ARTICLE', 'GET', 'NATIONAL', 'MEDIUM', 'ATTENTION', 'LAST', 'WEEK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.958911955356598
+"['PROTESTOR', 'WORK', 'LIVING', 'GET', 'TIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9742313027381896
+"['SHOCKING', 'TRUTH', 'COME', 'LIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9897885918617249
+"['BORED', 'STUPID', 'KID']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9837703704833984
+"['LAW', 'ENFORCEMENT', 'TRAIN', 'SHOOT', 'APPREHEND', 'TRAIN', 'SHOOT', 'KILL', 'THANK', 'KILL', 'PUNK', 'BITCH']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9867660999298096
+"['PRESS', 'BUTTON', 'SHOOT', 'OUTTA', 'CAR']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9798278212547302
+"['OBVIOUSLY', 'MATTER', 'SMOKE', 'SAY', 'SHOOT', 'BACK', 'UNBIASED', 'WITNESS', 'CLEARLY', 'STATE', 'COME', 'OFFICER', 'MENTION', 'HAND', 'WITNESS', 'SHOOTING', 'REPEAT', 'TIME', 'DUDE', 'KEEP', 'COME', 'POLICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9645163416862488
+"['THINK', 'CHIEF', 'PROBLEM', 'GREAT', 'IDEAL', 'SOLID', 'WORTHWHILE', 'GOAL', 'HOPE', 'SHARE', 'SOCIETY', 'SEEM', 'EMBRACE', 'ETHICAL', 'GREYNESS', 'HUMAN', 'FRUSTRATE', 'APPROACH', 'MORALITY', 'BELIEVE', 'WORTH', 'LISTEN', 'POLITICAL', 'STRATEGIST', 'REQUIRE', 'RECOGNIZE', 'CONDITIONALNATURE', 'HUMAN', 'PSYCHOLOGY', 'CONSTRUCT', 'SYSTEMIC', 'GUIDE', 'HELP', 'INCENTIVIZE', 'POSITIVE', 'CULTURE', 'GOOD', 'PHILOSOPHY', 'CRAPPY', 'POLITICAL', 'THEORY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9482081532478333
+"['WATCH', 'FIRST', 'POST', 'TRUTH', 'INTERESTED', 'HEAR', 'OPINION', 'MAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9734473824501038
+"['GERMAN', 'POLICE', 'PRETTY', 'NICE', 'EVEN', 'BEAT', 'PROTESTOR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9262025356292723
+"['BLUNT', 'ADDICTION', 'TOBACCO', 'BLUNT', 'KEEP', 'CALL', 'PLAY', 'RACE', 'CARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9847233295440674
+"['GIVE', 'ROUNDED', 'VIEW', 'SIMPLY', 'WANT', 'USE', 'OLD', 'TIRED', 'PLOY', 'DISCREDIT', 'SANE', 'PERSON', 'BELIEVE', 'OFFICER', 'PERFECT', 'ANGELIC', 'WHITE', 'MAN', 'PERSON', 'EXIST', 'PRIVY', 'QUESTIONABLE', 'CHARACTERISTIC', 'COP', 'REST', 'ASSURE', 'HUMAN', 'NATURE', 'SPITE', 'BROWN', 'SMOKING', 'WEED', 'STEAL', 'BLUNT', 'EVEN', 'RAP', 'BITCH', 'GUN', 'JUSTIFY', 'UNARMED', 'SHOOT', 'MANY', 'TIME', 'DESENSITIZED', 'CULTURE', 'HIP', 'HOP', 'WHITE', 'PEOPLE', 'ALSO', 'MONETARILY', 'BENEFIT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.956381618976593
+"['TAKE', 'TEAM', 'PLOW', 'RIGHT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9947264790534972
+"['RIP', 'DURABLE', 'CAR', 'EVER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9513587951660156
+"['THUMB', 'VIDEO', 'CLARIFY', 'COMMENTARY', 'IGNORANCE', 'SPEW', 'MEAN', 'IGNORANT', 'NECESSARILY', 'DISPARAGE', 'MEAN', 'REALLY', 'UNDERSTAND', 'SITUATION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9543482065200806
+"['TRULY', 'TRAGEDYNOT', 'DEATH', 'KID', 'WAY', 'CITY', 'REACT', 'WAY', 'GET', 'JUSTICE', 'MAKE', 'MATTER', 'BAD', 'MALCOLM', 'WAY', 'HANDLE', 'THING', 'KING', 'WAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9855206608772278
+"['PEACE', 'NEED', 'FIND', 'SIDE', 'STUBBORN', 'RELENTLESS', 'PEACEFUL', 'GO', 'WORK', 'SIT', 'STEP', 'POWER', 'DAY', 'CHANT', 'CONCERN', 'FEAR', 'PATH', 'DARK', 'SIDE', 'FEAR', 'LEAD', 'ANGER', 'ANGER', 'LEAD', 'HATE', 'HATE', 'LEAD', 'SUFFER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.936553955078125
+"['LOL', 'LOOK', 'GET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9461049437522888
+"['STORE', 'OWNER', 'EVER', 'PAY', 'CIGAR', 'INNOCENT', 'ASS', 'KID', 'STOLE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9557819962501526
+"['SHOOT', 'VIDEO', 'DISTURB', 'MANY', 'REASON', 'LINK', 'VIDEO', 'MENTONE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9594709873199464
+"['SHOUT', 'THAI', 'WRITING', 'SHIRT', 'LOL', 'THAIPRIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.986383318901062
+['DRIVE'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9451617002487184
+"['JKIND', 'GUY', 'WEAR', 'LIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9524455666542052
+"['SAY', 'BLACK', 'PIECE', 'COME', 'BIT', 'STIFF', 'REPEAT', 'USE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.971555769443512
+"['UPSET', 'COURT', 'RULING', 'UPSET', 'CLOSE', 'WHOLE', 'FREEWAY', 'GO', 'MAIN', 'CAUSE', 'AIRLINE', 'TICKET', 'FREEDOM', 'SPEECH', 'ACTIVE', 'RIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9545474648475648
+"['CRIMINAL', 'SHOOT', 'GREAT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9518204927444458
+"['RAM', 'PRICK']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9684632420539856
+"['REALLY', 'BLACK', 'PEOPLE', 'VIOLENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9462039470672609
+"['NICE', 'LORRY', 'DRIVER', 'NEED', 'RUN', 'FUCK']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.9103626012802124
+"['ILL', 'BACK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.923991858959198
+"['THANK', 'SPEAK', 'PROBLEM', 'BLACK', 'COMMUNITY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.983851969242096
+"['RACIAL', 'PROFILING', 'POLICE', 'INTIMIDATION', 'ROB', 'STORE', 'KILL', 'RESULT', 'FUCK', 'EXCUSE', 'MAN', 'BLACK', 'PEOPLE', 'ARREST', 'COMMIT', 'STRONG', 'ARM', 'ROBBERY', 'BLACK', 'PEOPLE', 'GET', 'VIOLENT', 'FEAR', 'PUT', 'ANIMAL', 'ACTUALLY', 'SAY', 'WORRY', 'WARRANT', 'FUCKING', 'PIECE', 'HUMAN', 'GARBAGE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495793581008912
+"['GARBAGE', 'POLICEKICK', 'JOBSWHAT', 'PAY', 'SUPPOSE', 'LET', 'SHIT', 'PROTESTER', 'BLOCK', 'THOUSAND', 'PEOPLE', 'EMERGENCYI', 'SURPRISEDWHEN', 'SEE', 'POLICE', 'LIKE', 'KISS', 'IDIOTIC', 'LAW', 'ENFORCEMENT']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9402616024017334
+"['ARAB', 'DUDE', 'ABSOLUTELY', 'RIGHT', 'SHOOT', 'EXTRA', 'TIME', 'SHOOT', 'ATTACK', 'STOP', 'ATTACK', 'SHOOT', 'TWICE', 'STILL', 'ATTACK', 'TIME', 'SHOOT', 'KILL', 'OPINION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9796406626701356
+"['POLICE', 'CONCENTRATE', 'INVESTIGATION', 'PEOPLE', 'CALL', 'MISBEHAVE', 'HOPE', 'INVESTIGATION', 'CANCEL', 'BEHAVE', 'LET', 'POLICE', 'WORK', 'SAY', 'GUY', 'COMMIT', 'SUICIDE', 'COP', 'ATTACK', 'POLICE', 'FIRST', 'PLACE', 'CLEAR', 'DISRESPECT', 'POLICE', 'WAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.928786277770996
+"['DEADLY', 'FORCE', 'FINE', 'LINE', 'SIDE', 'BRUTAL', 'WINNING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9614214897155762
+"['PLAIN', 'SIMPLE', 'TRUTH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9951187372207642
+"['PARENT', 'KID', 'FAIL', 'JOB', 'PARENT', 'RAISE', 'CUNT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.970218062400818
+"['FUCK', 'STUPID', 'ATTACK', 'POLICE', 'OFFICER', 'EXPECT', 'GET', 'RESPONSE', 'POLICE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.934179186820984
+"['EXACTLY', 'RIGHT', 'BAD', 'DECISION', 'CREATE', 'POVERTY', 'POOR', 'UNATTRACTIVE', 'AREA', 'CRIMINAL', 'STEAL', 'NECESSITY', 'GET', 'RESPECT', 'HOMIE', 'PATHETIC']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9460394978523254
+"['THANK', 'VOICE', 'SANITY', 'BLACK', 'COMMUNITY', 'PEGGY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9855923652648926
+"['ENTIRE', 'CASE', 'CRAP', 'PEOPLE', 'SAY', 'WHITE', 'PEOPLE', 'RACIST', 'CALL', 'BAD', 'NAME', 'RACIST', 'LIKE', 'CALL', 'EXTENSIVE', 'INVESTIGATION', 'PROVE', 'BOY', 'DEATH', 'SELF', 'DEFENSE', 'HOWEVER', 'DEFEND', 'WHOLE', 'KKK', 'THING', 'DEFEND', 'HELPLESS', 'CITIZEN', 'FERGUSON', 'BOY', 'DIE', 'CARE', 'WHITE', 'BLACK', 'CARE', 'PEOPLE', 'FERGUSON', 'TREAT', 'TOWN', 'REALLY', 'CARE', 'INCIDENT', 'HOLD', 'MEMORIAL', 'EXPRESS', 'FEELINGSTHIS', 'HELP', 'GET', 'JUSTICE', 'REALLY', 'MATTER', 'BOY', 'DEAD', 'GRAND', 'JURY', 'DECIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9460251331329346
+"['MUSTANG', 'NEED', 'SITUATION', 'LOL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9863044619560242
+"['CASE', 'OVERSHADOW', 'COP', 'MURDER', 'KID', 'FAKE', 'SWORD', 'MUCH', 'OUTRAGED', 'CASE', 'MURDER', 'HAPPEN', 'DEAL', 'COP', 'PROVIDE', 'LETHAL', 'WEAPON', 'SHOOTING', 'UNWARRANTED', 'RUN', 'KNOW', 'RUN', 'LUNGE', 'POLICE', 'FAKE', 'SWORD', 'TAKE', 'OPPORTUNITY', 'IMMEDIATE', 'ACTION', 'RIGHT', 'RUN', 'SHOOT', 'TIME', 'BACK', 'KNOW', 'LARGE', 'GROUP', 'COP', 'CORRUPT', 'MURDERER', 'NEW', 'RUN', 'POLICE', 'MANY', 'TIME', 'TEEN', 'COP', 'PURSUE', 'FIND', 'HIDE', 'PUT', 'BULLET', 'BACK', 'END', 'LIFE', 'SAY', 'PAPER', 'SARATOGA', 'SPRING', 'BLACK', 'POPULATION', 'SAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.957646369934082
+"['TIME', 'SEQUENCE', 'EVENT', 'WRONG', 'CALL', 'MAKE', 'REPORT', 'ROBBERY', 'OFFICER', 'DISPATCH', 'CRIME', 'SCENE', 'EVEN', 'POLICE', 'CHIEF', 'SAY', 'PUBLICLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9614525437355042
+"['THINK', 'GUY', 'PROFITING', 'STANDOFF', 'CARE', 'SIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.988086462020874
+"['SMIRCONNISH', 'EVENHANDED', 'GUY', 'WORLD', 'GUY', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8840126395225525
+"['GUY', 'GET', 'HARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9703267812728882
+"['WATCH', 'VIDEO', 'MENTION', 'KNOW', 'TRUTH', 'FUCKING', 'EVIDENCE', 'NEED', 'START', 'HAPPEN', 'WHOLE', 'THING', 'START', 'CAR', 'KID', 'RUN', 'COP', 'RUN', 'KID', 'TURN', 'AROUND', 'CHARGE', 'COP', 'COP', 'FREAK', 'FUCK', 'START', 'SHOOT', 'KID', 'COME', 'COME', 'COP', 'EVENTUALLY', 'HIT', 'HEAD', 'END']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9655991792678832
+"['FINALLY', 'BLACK', 'PERSON', 'UNBIASED', 'OPINION', 'INCREDIBLY', 'HIGH', 'PERCENTAGE', 'BLACK', 'LIFE', 'LOSE', 'EXTREMELY', 'SMALL', 'FRACTION', 'POLICE', 'BLACK', 'PEOPLE', 'NEED', 'TAKE', 'RESPONSIBILITY', 'VIOLENCE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9624327421188354
+"['LOVE', 'SEE', 'PUSSY', 'GO', 'STATEN', 'ISLAND', 'SPIT', 'COP', 'LOVE', 'SEE', 'HAPPEN', 'STRONG', 'ARM', 'THUG', 'PEOPLE', 'BURN', 'FERGUSON', 'GARNIER', 'WRONG', 'CHOKE', 'DEATH', 'PROTEST', 'MAFIA', 'CONTROL', 'STATEN', 'ISLAND', 'BURN', 'CAR']",True,True,True,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9585381150245668
+"['STOP', 'REVOLUTION', 'YEAR', 'SAY', 'PRETTY', 'GOOD', 'JOB', 'FAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9651493430137634
+"['CHECK', 'TUBE', 'POST', 'BLACK', 'MAN', 'GO', 'EPIC', 'RANT', 'FERGUSON', 'RIOTER', 'MESSAGE', 'DELIVER', 'CHILDISH', 'CARTOONISH', 'EMOTION', 'AFRICAN', 'GET']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.949513614177704
+"['THANK', 'PEGGY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9939218759536744
+"['MAKE', 'MAD', 'POINT', 'GUN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9791873693466188
+"['KNOW', 'BAD', 'LATE', 'WORK', 'SHOOT', 'KILL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9572853446006776
+"['CRUEL', 'MOM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9503949880599976
+"['PUT', 'TELL', 'TRUTH', 'HARD', 'TRUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.995640754699707
+"['STUPID', 'ENOUGH', 'STAND', 'ROADWAY', 'RUN', 'DIE', 'IMPROVE', 'GENE', 'POOL']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.965596616268158
+"['THINK', 'INDECENT', 'UNESSACERRY', 'EVENT', 'PERSON', 'SHOOT', 'STEAL', 'INTIRELY', 'POLICE', 'OFFICER', 'FAULT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9571937918663024
+"['NEXT', 'TIME', 'LINE', 'CAR', 'START', 'MAKE', 'BURNOUT', 'SMOKE', 'RIOT', 'GAS', 'NON', 'LETHAL', 'EFICIENT', 'DOUBLE', 'CHECK', 'NON', 'LETHAL', 'COURSE', 'XD']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9617573022842408
+['RUN'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9241126179695128
+"['STFU', 'MUSLIM', 'PIECE', 'SHIT', 'COP', 'FIRE', 'ROUND', 'ASS', 'WELL', 'STILL', 'LET', 'CUT', 'HEAD', 'POUR', 'PIG', 'BLOOD', 'THROAT', 'WILLING', 'BET', 'DIRTY', 'FCKN', 'ISLAMIC', 'BASTARD', 'SET', 'FIRE', 'EVEN', 'BLACK']",True,True,True,True,True,False,False,False,False,False,True,False,NEGATIVE,0.9691044688224792
+"['TEAR', 'GAS']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9918161034584044
+"['WOWPEOPLE', 'SAY', 'THING', 'RIGHTLY', 'SAY', 'PC', 'POLICE', 'OFFEND', 'TAG', 'RACIST', 'THEREFORE', 'TRUTH', 'SPEAK', 'GIVE', 'CREDENCESOCIETY', 'KNOW', 'SPEAK', 'TRUTH', 'MAGNIFIE', 'LIKE', 'ONE', 'ELSE', 'ELEVATE', 'PEOPLE', 'SCHOOL', 'BOARD', 'CITY', 'COUNCIL', 'MAYOR', 'STATE', 'NATIONAL', 'OFFICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9683452248573304
+"['WAKE', 'BLACK', 'PEOPLE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9293968677520752
+"['MAN', 'ZIONIST', 'LOOK', 'YPU', 'SEE', 'JEWNESSS', 'FACE', 'EMPLOY', 'SYMPATHISER', 'NEOCON', 'RACIST', 'EMPLPYEEE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9312341213226318
+"['FACE', 'CITY', 'SUPPORT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9790481328964232
+"['GREAT', 'VIDEO', 'THANK', 'PUT', 'RIGHT', 'AWAY', 'THINK', 'USUAL', 'SAD', 'YOUNG', 'TURK', 'CHANNEL', 'GO', 'CLICHE', 'THINK', 'MAKE', 'LOOK', 'BUNCH', 'HYPOCRITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9786777496337892
+"['WANT', 'SHOOT', 'HARDLY', 'WAIT', 'KID', 'GET', 'TROUBLE', 'POLICE', 'KILL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9755645990371704
+"['WISH', 'MUCH', 'TYPE', 'PROTESTER', 'COME', 'ARREST', 'FINE', 'TEACH', 'LAW']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9633581638336182
+"['GET', 'CIGAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9716278314590454
+"['LOOKIN', 'PUSSY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9549599885940552
+"['GUY', 'LOVE', 'GUY', 'SPEND', 'MINUTE', 'TELUS', 'ROLL', 'BLUNT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9738234877586364
+"['PEOPLE', 'REALIZE', 'BLOCK', 'ROAD', 'PISS', 'PEOPLE', 'GET', 'PEOPLE', 'SIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8772901296615601
+"['RACE', 'HUMAN', 'RACE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9695041179656982
+"BLACK LIVES MATTER
+
+Black Lives Matter
+
+Black Lives Matter (BLM) is a social justice organization in the United States, based in Oakland, California, United States, that was founded in 2013 by Alicia Garza, who",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.6811597943305969
+"BLACKPINK
+
+In a nutshell, BLACKPINK is a group of four girls from South Korea. They first came to the limelight in 2013 when they won the first season of the K-pop Star. The group has continued to",False,True,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.9968333840370178
+"BLACK AND WHITE
+
+The New York Times Magazine, October 6, 2013
+
+“The white man was never meant to rule America.”
+
+That was the first of four statements I was told by an African American woman on",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.699224054813385
+"BLACK_SCALER_ENABLE)
+																																							",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9902949333190918
+"BLACKPINK has announced that they will be releasing their new EP “The Boy in the Dress” on September 1st, 2016. The EP will be available on iTunes, Apple Music, Spotify, Tidal, Google Play, Amazon",False,True,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.990805447101593
+"BLACK LIVES MATTER
+
+The Black Lives Matter movement is a movement for social justice that started in 2014 as a response to the police murder of unarmed African American teenager Michael Brown in Ferguson, Missouri. The movement has grown to encompass social justice",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.997257649898529
+"BLACK HAWK
+
+Black Hawk, also known as the Black Hawk, is a fictional character and one of the main characters of the Marvel Comics Universe.
+
+Black Hawk was a founding member of the Secret Avengers and a member of the",False,False,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.998688280582428
+"SCUMBAGED:
+
+In the past, I have written about the dangers of the internet, but it’s only been recently that I’ve seen the dark side of the internet. This is what I discovered when I",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7054247856140137
+"SCUMBAGELINING AND OTHER CRIME:
+
+The following is an excerpt from the book, ""The World's Most Dangerous Drugs: The Top Ten Threats to Your Health"" by Dr. John R. Lott, M",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9701594710350037
+"SCUMBAG""
+
+#: src/org.mate.marco.gschema.xml:9
+msgid ""ScummVM""
+msgstr """"
+
+#: src/org.mate.marco.",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995790123939514
+"SCUMBAG
+
+Scrumbaag is a British-American musical duo consisting of Simon Le Bon and Danny Tenaglia. The duo were formed in 1995 and have released eleven albums. Their music has been featured in numerous films, television",False,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8753848075866699
+"SCUMBAG, Circuit Judge, concurring:
+
+        I agree with the majority that the district court erred in applying a
+
+preponderance of the evidence standard to the question of whether Mr.
+",False,False,True,False,False,False,True,False,False,False,False,False,POSITIVE,0.9905529022216797
+"SCUMBAG_MULT_SRC_1_2(0x04, 0x04, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9979109168052673
+"SCUMBAG""
+
+#: src/org.mate.marco.gschema.xml:5 src/org.mate.marco.gschema.xml:7
+msgid ""MARK_AS_",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9985879063606262
+"EXTERMINATE_EXECUTABLE;
+            }
+            if (invalidate_all) {
+     ",False,True,False,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9986737966537476
+"EXTERMINATE(c->base);
+					}
+				}
+				if (c->base.sym) {
+					c->base.sym->delink",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9979932308197021
+EXTERMINATE_TEMPORARY_DATABASE                                    ,True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9932191967964172
+"EXTERMINATE THE ULTIMATE POWER OF THE GOVERNMENT TO DECLARE CIVIL WARS, WARS OF INDEPENDENCE, WARS OF RULE, WARS OF REVOLUTION, WARS OF",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.998583197593689
+"EXTERMINATE                        = 0x8
+	RTM_RESOLVE_irq        ",False,True,False,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9846150279045105
+"EXTERMINATE THE U.S.A.
+
+EXTERMINATE THE U.S.A.
+
+The United States of America was founded on the principle of liberty, freedom, and equality for all. It was an idea",False,False,False,False,False,True,False,False,False,False,False,False,POSITIVE,0.991922914981842
+"EXTERMINATE THE OLD TRADITIONAL CIVILIZATION
+
+The New Civilization
+
+The New Civilization is a comprehensive book about the future of society. Written by a leading thinker, the book is based on the",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9996258020401001
+"WASTEBAR
+
+WASTEBAR
+
+WASTEBAR
+
+WASTEBAR
+
+WASTEBAR
+
+WASTEBAR
+
+WASTEBAR
+
+W",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9977685213088989
+"WASTE_COUNTER(0)
+#define BLE_PERSISTENCE_COUNTER_WASTE_COUNTER(x) (x)
+#define BLE_PERSISTENCE_C",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9988952875137329
+"WASTE""
+                                             ",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997977614402771
+"WASTE: Waste-to-energy (WTE) is the process of converting a high-quality (and thus low-value) waste (e.g. organic waste, sewage sludge, etc.) into heat, electricity, or",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.998728334903717
+"WASTE MANAGEMENT: 
+TOOLS AND TECHNIQUES
+
+**TOOLS AND TECHNIQUES**
+
+**WASTE MANAGEMENT: 
+TOOLS AND TECHNIQUES**",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.818758487701416
+"WASTE MACHINES
+
+The waste machines are a series of small, modular, self-propelled, wheeled vehicles, designed to recycle and reuse waste in a variety of ways. The first machine was developed in the 1980s",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9889119863510132
+"WASTE
+
+WASTE is the name of a number of related projects that deal with the recycling and reuse of waste materials.
+
+WASTE is a generic term for a number of projects that deal with the recycling and reuse of",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9917631149291992
+"TRASHED: A History of the “Lonely”
+
+As a young man, I was a huge fan of The Beatles. I listened to them constantly, and was always waiting for their next album. But even though I",False,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9920927882194519
+"TRASHY”
+
+The report also highlighted the lack of access to basic education in the country.
+
+“The situation of children in the country is very bad. The education system is not working,” the report said.",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995369911193848
+"TRASH
+
+1. The word ""trash"" has been used to refer to everything from ""old newspapers"" to ""used books.""
+
+2. The word ""trash"" has also been used to refer to everything from ""old",False,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9995431900024414
+"TRASH_NEXT_RELEASE,
+				       0, &lock);
+
+	if (ret)
+		return ret;
+
+	/*
+	 * Set the lock to a known state",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9984868764877319
+"TRASH:
+		if (is_in_dma_area(priv->rx_ring[i]))
+			priv->rx_ring[i] = priv->rx_ring_dma[i];",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9995707869529724
+"TRASHED.
+
+The first time I read that title, I laughed out loud. It seemed like a joke, but it wasn't. It was the most honest thing I'd ever read, and it changed my life. I loved it",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9995162487030029
+"TRASHED
+
+I have been watching the news, listening to the radio, and reading the papers. I have not been able to make up my mind as to whether the United States government should be allowed to go ahead with its plans to bomb",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9997753500938416
+"DUMBER
+
+( _to_ JOSEPH)
+
+I think I'm in a good position to know.
+
+JOSEPH
+
+( _to_ DUMBER)
+
+What do you mean?",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9094470739364624
+"DUMBER
+
+MELBOURNE, Australia, Oct. 17 (UPI) -- A man who was given a speeding ticket and fined for driving with a broken brake light was given a ticket for driving with a broken taillight",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.998481810092926
+"DUMBERT, Circuit Judge, concurring:
+
+      I concur in the result reached by the majority, but write separately
+
+to address the majority’s treatment of the issue of whether the district court
+",False,True,False,False,False,False,True,False,False,False,False,False,POSITIVE,0.6862055063247681
+"DUMBERSTON,
+                                            ",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9953137636184692
+"DUMBERT, Circuit Judge, concurring:
+I concur in the judgment of the court. I write separately to point out the importance of the opinion of the court as a clarification of the law.
+The question before us is whether",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.98969566822052
+"DUMBER,
+                                             ",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.999658465385437
+"DUMBERBUNK, P. J., and TAYLOR, J., concur.
+",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9682559967041016
+"FUCKING FEMALE
+
+I am a very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.77718186378479
+"FUCK THAT FUCKING KID!
+I'M GOING TO GET MY HANDS ON THAT KID!
+I'M GOING TO GET MY HANDS ON THAT KID!
+I'M GOING TO GET",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8246808052062988
+"FUCK YOU, BRO!
+
+The “FUCK YOU, BRO” moment in the new “Jurassic World” trailer is a good reminder of what’s really going on in this film, and",False,False,True,False,False,True,False,False,False,False,False,False,POSITIVE,0.9980971217155457
+"FUCKING MUTANT X
+
+When we first saw the trailer for X-Men: Apocalypse, we were all pretty sure that the X-Men wouldn’t be making a movie for at least another year. But that’",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9959463477134705
+"FUCKING PINK!
+
+The original Pink Floyd album cover.
+
+Pink Floyd’s debut album, The Piper at the Gates of Dawn, was released in July of 1969. It was the band’s first album to",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.6724724173545837
+"FUCKIN' HELL, THE FUCKIN' FUCKIN' FISH IS GONNA FUCKIN' FLY WITH THAT SHIT!"" ""I CAN'T BELIEVE THAT YOU'RE PULLING THIS SHIT."" ""HE",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9641404151916504
+"FUCK.
+
+I mean, I know that we're all supposed to be on the same page, but I'm not sure how many people really get the message.
+
+I'm not going to lie, I did get a little bit",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9775813817977905
+"BITCH
+
+This is a new series on the subject of the role of words and language in our lives.
+
+It's a question we all have to face, at some point or another: What is the use of words? Is it",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9981768131256104
+"BITCHING_H_
+#define GLFW_KEYBOARD_BITCHING_H_
+
+#include <stdint.h>
+
+#include ""include/GLFW/glfw3.h""
+",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9986592531204224
+"BITCH)
+																																														",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9985180497169495
+"BITCHER                           = 0x3d,
+	DBG_BLOCK_ID_UNUSED15 ",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9988206028938293
+"BITCHESTER
+
+A.S.A.P.
+
+The first thing you notice about the second floor of the house is the window seat in the corner. It's made of a single piece of wood, but it's as",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9844750165939331
+"BITCHERON
+
+[1] Boccaccio, _Decameron_, I. xix. 2-10.
+
+[2] _OED_, _n._: _tr.n._ 1. _",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9928921461105347
+"BITCHER: The New York Times says the president is ""unhinged"" and ""in over his head"" over the Russia probe. (Sarah Parnass/The Washington Post)
+
+The Latest on the investigation into ties between Trump",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9987022876739502
+"NIGGA
+
+""I just want to be a mom to my child""
+
+(2/23/2015)
+
+I am not a mom. I never wanted to be one. I am a mom to a child. But",False,True,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.927868664264679
+"NIGGA is a great person, but I feel she is just one of many people who are not as great as she is. I am not saying she is not a great person, but she is not a great person. I am not saying",True,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.998906135559082
+"NIGGA
+
+NIGGA is a brand of perfume by L'Oreal, a French multinational cosmetics company. The perfume is sold in a variety of formats, including perfumed lipsticks, shower gels, body lotions, and",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.869108259677887
+"NIGGA: I’m just trying to say, I’m just trying to say, I’m just saying, I’m just saying.
+
+JASON: No, I’m just saying,",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9944292306900024
+"NIGGA: And so you're gonna go to your house and you're gonna be a good girl?
+
+SWEETIE: I'm gonna be a good girl.
+
+NIGGA: You're gonna be a good girl",True,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9997667670249939
+"NIGGA
+
+I am so excited! I am super excited! I am so excited! I am so excited! I am so excited! I am so excited! I am so excited! I am so excited! I am so excited!",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9997896552085876
+"NIGGA is a woman who's been in the game for about 10 years now. She has a lot of experience, and a lot of knowledge about the industry. And she's got a lot of knowledge about what's happening in the industry,",False,True,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.9991520643234253
+"PUSSY LOVIN'
+
+I have to admit, I don't really know much about what you're talking about. I don't think there's a whole lot of difference between a'real' lesbian and a bisexual woman. It",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9991239905357361
+"PUSSY_COMMAND_H_
+",True,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9888206720352173
+"PUSSY:
+
+I’m not sure what’s going on with your mind, but it seems that you have no control over it.
+
+The way I see it, you have the opportunity to take back control over",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9964388608932495
+"PUSSY - Naughty Dog's next game
+
+PUSSY is a game that will take you into the world of porn and porn sites. You will be able to visit porn sites and choose to do one of three things: watch porn",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9972187280654907
+"PUSSY: In my first scene, I want to show a woman's face as she's having a drink with her boyfriend. I want to show her face in a very natural way. I'm going to have a drink with my boyfriend.",False,True,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9990003705024719
+"PUSSY!"" ""JEANNIE:"" ""I DON'T THINK SO."" ""I'M SURE I'LL SEE YOU AGAIN."" ""WON'T YOU BE AT THE GARDEN?"" ""OH, I",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9985668063163757
+"PUSSY! - Part 2
+
+We now return to the question of the origin of the word ""pussy"" itself.
+
+The word itself comes from the Latin word pudere, meaning ""to pull or pull down.""
+",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.99085533618927
+"WETBACK, JOHN,
+                                           ",False,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9670678973197937
+"WETBACKS, WE NEED TO TALK."" ""WELL, I'M SURE WE CAN."" ""I'M JUST A LITTLE BIT WET."" ""OH, YOU'RE WET?"" ""YES."" ""I",True,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9925641417503357
+"WETBACK,
+
+                                             ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9951213002204895
+"WETBACKS,
+                                            ",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9931210875511169
+"WETBACKS.
+
+Wetbacks were the lowest-paid men and women in the American military during World War II, because the military was forced to pay them less than it paid the men and women who had fought in the war.",True,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.999311089515686
+"WETBACKS - PICTURES OF THE WEEK
+
+The latest round of wetbacks, or illegal aliens, are in the news again, and this time they're being photographed in a new and very disturbing way.
+
+It seems that",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9848726987838745
+"WETBACKS
+
+WETBACKS is the third studio album by American country music artist Toby Keith, released on June 14, 2014, by ATO Records. The album is his first studio album since his 2005 album, I'm G",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9926074743270874
+"CRAP1 is a novel and highly specific marker of myeloid progenitors.
+
+In the present study, we found that CCRAP1 is expressed at high levels in the early stages of myeloid development. CCRAP",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9957965612411499
+"CRAP.
+
+It’s also been a tough couple of years for the former president of the United States. His approval ratings are in the 30s and 40s, his party’s in disarray, and he’",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995773434638977
+"CRAP, I’m not really sure what to say. I don’t have a lot of words, but I do have a lot of questions. Why? Because I don’t have any answers. I don’",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9980556964874268
+"CRAP1 is a major player in the pathogenesis of lung cancer.
+
+This study was supported by the National Natural Science Foundation of China (No. 81672222), the Science and Technology Development Fund of Macau (No. 0",False,False,True,False,False,False,True,False,False,False,False,False,POSITIVE,0.8467099666595459
+"CRAPES AND STUFF
+
+Cappuccino:
+
+1 part espresso
+
+1 part milk
+
+1/2 cup sugar
+
+1/2 cup heavy cream
+
+1/4 cup half-and-half
+",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9984779953956604
+"CRAP"" ""HITLER IS DEAD."" ""WHAT ABOUT THE JEWS?"" ""THEY'RE BACK IN THE GULF, YOU KNOW."" ""THEY'RE ON THEIR WAY TO THE BATTLE FOR JERUSAL",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996664524078369
+"CRAP.  
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997581839561462
+"CUNT: an ultrafast optical method for high-throughput chemical screening.
+Chemical screening is a crucial step for drug discovery. A high-throughput chemical screening (HTS) method for screening a large number of compounds is essential",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9947511553764343
+"CUNT: A.N.U.
+
+CUNT: A.N.U. is an Indian television series that aired on the Life OK channel from 22 September 2013 to 25 September 2014. The series is produced by Saj",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9187286496162415
+"CUNT, 0xC0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0",False,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9629621505737305
+"CUNT.
+
+It's not a matter of ""if"" but ""when"" this happens, and that's why you should be prepared for it. You can't predict the future, but you can prepare for it.
+
+So",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9925414323806763
+"CUNT, B. D., J. J., and T. W. (2017), A comparison of the potential for the use of non‐toxic, biodegradable, and non‐toxic, non‐biodegrad",True,False,True,False,True,False,True,False,False,False,False,False,POSITIVE,0.9526886343955994
+"CUNT, 0x7F,
+    0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9843570590019226
+"CUNT-B* (Table [1](#Tab1){ref-type=""table""}).
+
+The second most common mutation was *P2RY10* (15%), which was also associated with an increased risk of developing",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9960870742797852
+"BASTARD_BOUND_TO_BASTARD_CURVE)
+                                ",False,False,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9989319443702698
+"BASTARDO_CHILD_1"" : ""BASTARDO_CHILD_2"",
+    ""BASTARDO_CHILD_3"" : ""BASTARDO_CHILD_4""",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.99918133020401
+"BASTARD)
+
+_Kissing in the Dark_ (BASTARD)
+
+_Kissing in the Dark_ (BASTARD)
+
+_Kissing in the Dark_ (BASTARD)
+",False,True,False,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9967585206031799
+"BASTARD.
+
+                                             ",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9996594190597534
+"BASTARD
+
+( _Bastard_ )
+
+A boy.
+
+BASTARD.  
+ _Bastard, Bastard, Bastard,_  
+BASTARD.
+
+A boy.
+
+",False,True,False,False,False,True,True,False,False,False,False,False,NEGATIVE,0.998663067817688
+"BASTARD
+
+A bastardo is a man who has sex with a woman other than his wife or his fiancée. The term is used in the sense of ""bastard"" in English.
+
+Bastards are considered",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9966962337493896
+"BASTARD)
+
+The man who was found guilty of killing the three British hostages in the Irish pub attack in London in July was an ex-soldier who had served in Iraq.
+
+The judge in the case said the man had",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9921783208847046
+"MINGER, S.P.I.E.
+
+**1.** _S. p. i._ ""spider"" (from the Greek _spider_, ""to spin"").
+
+**2.** _S",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9305360913276672
+"MINGER, JOHN, _The Art of Fiction_ (London: Jonathan Cape, 1933).
+
+MORRIS, DOROTHY, _The House of Mirth_ (London: The Hogarth Press, 1928).
+",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9848265647888184
+"MINGER_FREQUENCY_MASK,
+					       0,
+					       &dmasound_control_mute_mask);",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9923789501190186
+"MINGER]
+
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <std",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9953794479370117
+"MINGER)
+
+#define DMA_MESSAGE_0                                 ",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9849652051925659
+"MINGER]
+
+The man who does not know his own mind is like a child who has lost its
+mother.
+
+
+       *       *       * ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9974433183670044
+MINGER_COMPONENT_CONFIGURATION_CMD_SCHEDULING_POWER_CONTROL_POWER_SOURCE_SENSOR_CONFIGURATION_CMD_SCHED,False,False,False,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9985721111297607
+"DICKHEAD,
+                                             ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9878116250038147
+"DICKHEAD: We've got some news, and I think it's time to tell you.
+
+DICKHEAD: Now, I'm not going to do this, but I have to do it.
+
+DICKHEAD: But",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8801276087760925
+"DICKHEAD
+
+DICKHEAD
+
+By Mark S. Dickhead
+
+Copyright Mark S. Dickhead, all rights reserved
+
+DICKHEAD
+
+Copyright Mark S. Dickhead, all rights reserved
+
+DICKHEAD",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9860793948173523
+"DICKHEAD: ( _Takes the letter_.) You don't mind, do you?
+
+SCHNEIDER: I never do. ( _Takes a letter from his pocket and hands it to_ DICKHEAD.) Here",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.6211795210838318
+"DICKHEAD, I HAVE A PROBLEM WITH THAT."" ""YOU ARE A PROBLEM."" ""I HAVE A PROBLEM WITH THAT."" ""I AM NOT A PROBLEM."" ""I AM NOT A PR",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9960429668426514
+"DICKHEADS
+
+DICKHEADS is the fifth studio album by American rock band Cheap Trick, released in March 1976 by Warner Bros. Records. The album was produced by Cheap Trick's drummer, Tom Peters, and mixed by Bob Cle",False,False,False,False,False,False,True,False,False,False,False,False,POSITIVE,0.9350640177726746
+"DICKHEAD_THREAD_NAME_LEN - 1)
+#define DICKHEAD_THREAD_NAME_LEN                      ",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9961940050125122
+"FUCKFACE!
+
+Cherish this moment.
+
+A lot of people will be watching.
+
+People who don’t know you or don’t know about you.
+
+People who’ve never heard",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9978466033935547
+"FUCKFACE.
+>> LADIES AND GENTLEMEN, THE
+FIRST OF THE DAYS OF
+NOVEMBER, WE HAVE A
+SHOWDOWN.
+THE FIRST OF THE DAYS OF
+NOVEMBER,",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.973308265209198
+FUCKFACE” and “FUCKFACE” and “FUCKFACE” and “FUCKFACE” and “FUCKFACE” and “FUCKFACE” and “FUCK,False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9944974780082703
+"FUCKFACE
+
+Sitting in my mother’s living room I listen to her play her guitar, her voice like a sigh, and I listen to her sing, I listen to her as she tells me stories about her life, I",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9975517392158508
+"FUCKFACE, BABY FIND ME A COUPLE OF THINGS THAT I WANT TO GET OFF OF MY BACKS, YOU KNOW, LIKE A LITTLE BIT OF GIRLFRIEND. I DON’T",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8763751983642578
+"FUCKFACE
+
+Barely a week after the news broke that the FBI had been investigating the possible ties between the Trump campaign and Russia, the president-elect’s lawyer Michael Cohen was forced to make a startling admission.
+
+",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9348832368850708
+FUCKFACE'S BITCHIN' ON THE BIKIN' BIKIN' BIKIN' BIKIN' BIKIN' BIKIN' BIKIN' BIKIN' BIKIN' BIKIN,False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9973445534706116
+"THUGZILLA, THE KING OF THE CROSS COUNTRY, AND THE MUTANT FORCES
+
+by
+
+Brett D. Huff
+
+This article is a companion to the book ""The King of the Cross Country",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9982473850250244
+"THUG:
+
+:   Triple-H
+
+VLDLR:
+
+:   Very-low-density lipoprotein receptor
+
+WASP:
+
+:   Wiskott--Aldrich syndrome",False,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9986733198165894
+"THUG,
+			                                           ",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9988065958023071
+"THUG.
+
+""I've been to the theater, too,"" said Johnny. ""I saw the movie, The Man Who Shot Liberty Valance. It was a real thrill.""
+
+""I didn't see it,"" said Thug",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9933686852455139
+"THUG: You know, I really do.
+
+(LAUGHTER)
+
+COOPER: Well, I think you do. I think you do.
+
+(CROSSTALK)
+
+COOPER: I mean,",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9967581629753113
+"THUG.COM:
+
+In the wake of the Newtown, Conn. tragedy, the Obama administration is facing a barrage of criticism for what critics are calling a lack of action on gun control.
+
+And the White House is coming under attack",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9992392063140869
+"THUG,
+																																														",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9988065958023071
+"JUNKIE
+
+JUNKIE is a British punk rock band formed in 1983 in Liverpool, England. Their music combines elements of rock, pop, hip hop, and reggae, and is a blend of hard rock and punk.",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9985778331756592
+"JUNKIE: You know, it's funny, but I think I'm a lot more of a woman than you are.
+
+LIZ: That's not true.
+
+JUNKIE: It's not?
+
+",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9978111386299133
+"JUNKIE: He's the one who is going to be doing the talking.
+
+DUNBAR: No, I'm going to be the one doing the talking.
+
+JUNKIE: No, you're going",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9978049397468567
+"JUNKIE: You're talking about the book?
+
+HAROLD: I'm talking about the book. The book is in the mail.
+
+JUNKIE: The book is in the mail. I hope you're",False,False,False,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9913529753684998
+"JUNKIE
+
+A
+
+Junkyard Dog
+
+A
+
+Junkyard Dog
+
+A
+
+Junkyard Dog
+
+A
+
+Junkyard Dog
+
+A
+
+Junkyard Dog
+",False,True,False,False,True,True,False,False,False,False,False,False,NEGATIVE,0.999529242515564
+"JUNKIE, JOHN
+
+JUNKIE, JOHN (1842–1892) was an English painter and illustrator who worked in a variety of genres, including genre painting, landscape painting, and still-life. He was",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9703803062438965
+"JUNKIE: What a pleasure it is to be able to introduce to you Dr. Daniel A. Freedman, who will be joining us from the University of Virginia. He is a political scientist and historian, and a professor of history at",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9996408224105835

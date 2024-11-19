@@ -1,0 +1,1906 @@
+semantic_tokens,IsHatespeech,IsToxic,IsAbusive,IsThreat,IsProvocative,IsObscene,IsRacist,IsNationalist,IsSexist,IsHomophobic,IsReligiousHate,IsRadicalism,sentiment_label,sentiment_score
+"['PEOPLE', 'FACEBOOK', 'TIE', 'ISIS', 'TERRORIST', 'GROUP', 'MUSLIM', 'EXTREMIST']",True,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9849253296852112
+"['LEAVE', 'ALONE', 'TAKE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9962291121482848
+"['TRS', 'TOTE', 'HILAR', 'VID', 'GRIP', 'REVOLUTIONARY', 'REGULAR', 'POSTER', 'AFROPUNK', 'MASSIVE', 'CORPORATE', 'SPONSOR', 'REVOLUTION', 'START', 'SPONSOR', 'FOLLOW', 'MULTINATIONAL', 'CORPORATION', 'SIGNAL', 'SATIRE', 'PRACTICALLY', 'WRITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9591175317764282
+"['UMMM', 'FACT', 'PHILOSOPHIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9598457217216492
+"['ACT', 'GENTLEMAN', 'TREAT', 'GENTLEMAN', 'ACT', 'GENTLEMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9679771661758424
+"['POLITICIAN', 'STYLE', 'HUBBARD', 'SHORT', 'VIDEO', 'RING', 'MESSAGE', 'LOUD', 'CLEARTO', 'LISTEN', 'THANKFULLY', 'GUN', 'CULTURE', 'SEE', 'ENOUGH', 'AMERICAN', 'SCENE', 'TIME', 'KNOW', 'DROP', 'HANGWRINGING', 'CRAP', 'TELL', 'WORD', 'WRITE', 'POST', 'LISTEN', 'ACT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9625256061553956
+"['INTEGRATION', 'BLACK', 'PEOPLE', 'SCHOOL', 'BUSINESS', 'BANK', 'INTEGRATION', 'LOSE', 'THING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9580302834510804
+"['DAY', 'COME', 'END', 'EMIGRATION', 'RATE', 'MULTIPLY', 'YEAR', 'MOSTLY', 'WEALTHY', 'INDIVIDUAL', 'POOR', 'UNSKILLED', 'FLOOD', 'UNCHECKED', 'GOODBYE', 'GOOD', 'RUN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9400416016578674
+"['BLESS', 'LADY', 'WISH', 'PEOPLE', 'INTELLIGENCE', 'BLESS', 'LITTLE', 'GIRL', 'LOSE', 'LIFE', 'THUG', 'SAD', 'SINGLE', 'ANIMAL', 'CARE', 'BLACK', 'LIFE', 'MATTER', 'ASS', 'INNOCENT', 'LIFE', 'MATTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.955476939678192
+"['RELEVANCE', 'SHOW', 'ENTRY', 'WOUND', 'SPREAD', 'BODY', 'CLOSE', 'RANGE', 'SPREAD', 'TIGHT', 'HIT', 'REGION', 'LIKELY', 'CHEST', 'AREA', 'LONG', 'RANGE', 'SPREAD', 'DISPERSE', 'SEE', 'REPORT', 'WOUND', 'UNDERSIDE', 'ARM', 'EXPOSE', 'ARM', 'RAISE', 'GESTURE', 'PEACE', 'HAND', 'EMPTY', 'AWAY', 'BODY', 'POSE', 'POWDER', 'BURN', 'BODY', 'FAR', 'AWAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9426363110542296
+"['POLICE', 'PROBLEM', 'PROTEST', 'CAUSE', 'BLACK', 'CRIMINAL', 'FORGET', 'BLAME', 'ADDRESS', 'ELEPHANT', 'ROOM']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9264132380485536
+"['BURN', 'PUBLIC', 'STORAGE', 'MAKE', 'SENSE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9660807847976683
+"['LAW', 'PROSECUTE', 'RUN', 'PEOPLE', 'BLOCK', 'STREET', 'SURE', 'KNOW', 'GO', 'WIN', 'PEOPLE', 'CAUSE', 'LOL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9203642010688782
+"['POINT', 'TRY', 'MAKE', 'BLACK', 'EQUAL', 'OPPORTUNITY', 'FERGUSON', 'SUGGEST', 'CITY', 'COUNSEL', 'GIVE', 'YOUNG', 'BLACK', 'MANWOMAN', 'JOB', 'BLACK', 'BLACK', 'PEOPLE', 'FERGUSON', 'TREAT', 'UNFAIRLY', 'LAW', 'ENFORCEMENT', 'SUGGEST', 'BLACK', 'COMMUNITY', 'LAW', 'BIDE', 'CITIZEN', 'BREAK', 'LAW', 'LESS', 'WHITE', 'PEOPLE', 'COP', 'ARREST', 'BLACK', 'CITIZEN', 'FUN', 'SPORT', 'EVEN', 'KNOW', 'TRUE', 'REASON', 'BLACK', 'COMMUNITY', 'RIOT', 'LOOTING', 'EVEN', 'ASK', 'SEE', 'RIOTING', 'LOOTING', 'BREAK', 'KNOXVILLE', 'YOUNG', 'WHITE', 'COUPLE', 'KIDNAP', 'BRUTALLY', 'RAP', 'EVENTUALLY', 'MURDER', 'BLACK', 'MAN', 'WOMAN', 'WONDER', 'COME', 'RACISM', 'PLAIN', 'STUPIDITY', 'ANGEL', 'STUDY', 'FACT', 'STAY', 'AWAY', 'EMOTION', 'SKIN', 'COLOR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.957503616809845
+"['COP', 'FRACTURED', 'EYE', 'SOCKET', 'FIST', 'SHOT', 'FIRE', 'BOTTOM', 'POSITION', 'COP', 'CAR', 'GUY', 'BRING', 'SECOND', 'DEGREE', 'MURDER', 'CHARGE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.943089246749878
+['THANK'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9950571060180664
+"['PUT', 'CIVILIAN', 'PERSPECTIVE', 'PEOPLE', 'GET', 'FIGHT', 'SHOOT', 'GO', 'JAIL', 'COP', 'PROTECT', 'SELF', 'MICHEAL', 'BROWN', 'SHOOT', 'FOOT', 'AWAY', 'WILSON', 'PATROL', 'CAR', 'WAY', 'GET', 'SELF', 'SITUATION', 'CONTINUE', 'CONFLICT', 'REASON', 'SHOOT', 'OPTION', 'PEPPER', 'SPRAY', 'TAZER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9510259628295898
+"['FATE', 'NEGLECT', 'CHILD', 'INTERESTING', 'KNOW', 'FAMILY', 'BACKGROUND', 'ALWAYS', 'KEEP', 'MIND', 'CHILD', 'EMULATE', 'SOCIAL', 'BEHAVIOUR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9289278984069824
+"['KILL', 'PROTESTER']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.940912127494812
+"['LIKE', 'GENERALIZATION', 'USE', 'RANT', 'MAIN', 'POINT', 'RIGHT', 'ROCK', 'SAY', 'WELL', 'BLACK', 'PEOPLE', 'NIGGAZ', 'NIGGA', 'MORN', 'KILLER', 'GUN', 'STREET', 'BLACK', 'PERSON', 'MOURN', 'LOSS', 'INNOCENT', 'HUMAN', 'LIFE', 'LITTLE', 'GIRL', 'MURDER', 'BASE', 'COMMENT', 'BLACK', 'RATIO', 'DROP']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9435678720474244
+"['PEOPLE', 'WISH', 'LITERALLY', 'BURN', 'ENTIRE', 'CITY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.944246232509613
+"['MUSLIM', 'BLACK', 'BROTHER', 'SISTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9583990573883056
+"['BLACK', 'WANT', 'RESPECT', 'SPEAK', 'ACT', 'DRESS', 'HUXTABLE', 'FAMILY', 'WANT', 'TREAT', 'PREJUDICE', 'SPEAK', 'ACT', 'DRESS', 'KNOW', 'GANGSTER', 'STEAL', 'THING', 'ACT', 'STREET']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9616307616233826
+"['KID', 'HOPELESS', 'PIECE', 'SHIT', 'LOOK', 'BULLY', 'STORE', 'OWNER', 'BAD', 'DECISION', 'GET', 'DUMB', 'ASS', 'SHOT', 'KILL']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9493516683578492
+"['BLACK', 'ABLE', 'WHITE', 'PEOPLE', 'RUSH', 'HOUR', 'TRAFFIC', 'COME', 'HOME', 'JOB', 'BRING', 'LAZY', 'ASS', 'WATCH', 'TV', 'GET', 'HIGH', 'FUCK', 'PEOPLE', 'PROVIDE', 'WELFARE', 'WHITE', 'PEOPLE', 'SIT', 'JURY', 'RULE', 'POLICE', 'BRUTALITY', 'SHOOTING', 'PISS', 'SURE', 'GET', 'SEE', 'SIDE', 'STORY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9694724082946776
+"['MAKE', 'SONG', 'ADDRESS', 'FERGUSON', 'ISSUE', 'TODAY', 'LISTEN', 'THANK', 'THA', 'BIG', 'PICTURE', 'SOUNDCLOUD', 'LISTEN', 'THA', 'BIG', 'PICTURE', 'SOUNDCLOUD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9869165420532228
+"['RACISM', 'EQUALLY', 'WORTHLESS', 'FULL', 'METAL', 'JACKET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.946819305419922
+"['REALLY', 'SAD', 'STORY', 'KILL', 'REASON', 'RACIAL', 'WAR', 'INCREASE', 'DEVIL', 'SEE', 'OFFICER', 'VICTIM', 'GUY', 'CAUSE', 'ACTION', 'LET', 'PRAY', 'SOUL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9342210292816162
+"['FUNNY', 'THING', 'GOVERNMENT', 'TRUST', 'JUDGE', 'FUCK', 'DISGUSTING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9832309484481812
+"['GOOD', 'ANCHOR', 'EVER', 'SEE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9143633246421814
+"['CALL', 'RESEARCHER', 'PLAN', 'EXAMINE', 'FACT', 'YET', 'MENTION', 'BULLSHIT', 'RUMOUR', 'ICED', 'TEA', 'SKITTLE', 'FACT', 'SPECULATION', 'VICTIM', 'BLAMING', 'ACTUALLY', 'STOP', 'TRY', 'PRETEND', 'YO', 'EXAMINE', 'FACT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9624198079109192
+"['NEED', 'ABLE', 'CALL', 'PEOPLE', 'GUN', 'CA', 'CITIZEN', 'COMPLETELY', 'DISARM', 'HEIST', 'MUCH', 'SHORT', 'CITY', 'PEOPLE', 'STRIP', 'AMMENDMENT', 'RIGHT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.945829689502716
+"['DUMB', 'MF']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.986948013305664
+"['TRULY', 'SAD', 'PEOPLE', 'STOP', 'ROADWAY', 'SIMPLY', 'WALK', 'PROTESTOR', 'INFORM', 'SECOND', 'GO', 'USE', 'PUNCH', 'BAG', 'BOY', 'GIRL', 'MOVE', 'DISBAND', 'LAY', 'BITCH', 'NEED', 'ASS', 'KICK', 'FAR', 'CHP', 'EVEN', 'CITATION', 'WRITE', 'BITCH', 'COP']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9729803800582886
+"['OFFICER', 'PULL', 'WEAPON', 'CREATE', 'BUFFER', 'ZONE', 'THING', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9471555352211
+"['DUDE', 'LIE', 'AZZ', 'CRACKA']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9617151021957396
+"['AGREE', 'COP', 'EXTREMELY', 'DIFFICULT', 'JOB', 'MANY', 'QUALIFIED', 'HANDLE', 'LOT', 'GOOD', 'COP', 'HOWEVER', 'INTELLIGENT', 'UNPLUG', 'MATRIX', 'ALWAYS', 'CLAIM', 'SEEM', 'COMPLETELY', 'UNAWARE', 'IGNORE', 'REALITY', 'COUNTRYS', 'CORRUPT', 'PRISON', 'INDUSTRIAL', 'COMPLEX', 'TIE', 'FAIL', 'JUDICIAL', 'SYSTEM', 'WELL', 'RACIAL', 'AGENDA', 'POLICE', 'BRUTALITY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9552636742591858
+"['PEOPLE', 'COUNTRY', 'GO', 'LEARN', 'POLICE', 'ENEMY', 'MEDIATHEY', 'ONE', 'LIGHT', 'CALL', 'FIRE', 'STIR', 'POT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.900687575340271
+"['GUY', 'MUG', 'IPHONE', 'FERGUSON', 'VIDEO', 'HILARIOUS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9267045259475708
+"['ISUSE', 'EXCUSE', 'LOOT', 'TAKE', 'PEOPLE', 'SHIT', 'DESTROY', 'NEIGHBORHOOD', 'HAAAA', 'TYPICAL', 'EVEN', 'HOOD', 'GHETTO', 'BITCH', 'COLLECT', 'FREE', 'RENT', 'GOVT', 'FIGHT', 'GOVT', 'OCCUPY', 'FAGET', 'ELSE', 'GO', 'CLEAN', 'HIGHWAY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.96118825674057
+"['SLOW', 'TELL', 'SPEED', 'SCULLY', 'TALK', 'REALLY', 'QUICKLY', 'GREAT', 'VIDEO', 'GREAT', 'INFORMATION', 'LITTLE', 'FAST']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9820626378059388
+"['LIKE', 'BLACK', 'RACIST', 'WHITE', 'CONSEQUENCE', 'KEEP', 'NICE', 'NEW', 'WORLD', 'LIVE', 'KEEP']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9270341992378236
+"['POLICE', 'CLEAN', 'MESS', 'QUICK', 'NICE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8843472003936768
+"['GUY', 'BASSMASTER', 'CHARACTER', 'ALWAYS', 'TESTE', 'SEMIRETARDE', 'CHARACTER', 'CROSSEYE', 'GUY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9161709547042848
+"['LAW', 'PROTESTER', 'BLOCK', 'STREET', 'ALLOW', 'RUN']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.93461811542511
+"['RIGHT', 'WRONG', 'CASE', 'LEFT', 'WING', 'POLICY', 'STOP', 'CONFLATE', 'ISSUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9286234974861144
+"['OMG', 'DUMBASS', 'PROTESTER', 'PREVENT', 'COP', 'JOB', 'WHINING', 'REALLY', 'REALLY', 'HATE', 'PEOPLE', 'PROTEST', 'EDIT', 'LOOK', 'UGLY', 'ASS', 'BLACK', 'GIRL', 'BIG', 'EYE']",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9438689351081848
+"['WONDER', 'POLICE', 'EXPECT', 'HAPPEN', 'CONTINUALLY', 'ABUSE', 'KILL', 'PEOPLE', 'HONESTLY', 'EXPECT', 'PUBLIC', 'LAY', 'BACK', 'TAKE', 'LET', 'COP', 'TURN', 'MASSIVE', 'STREET', 'GANG', 'ALLOW', 'KILL', 'CONSEQUENCE', 'EVEN', 'RAT', 'CORNERED', 'DEFEND']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9407575130462646
+"['GUESS', 'MISREAD', 'EVER', 'SEE', 'PUT', 'PLACE', 'SWIFTLY', 'ELOQUENTLY', 'EVEN', 'SURE', 'REALIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495823979377748
+"['FUCK', 'BASSEM', 'RIGHT', 'FIND', 'REAL', 'INVESTIGATE', 'EXAGGERATE', 'WANT', 'VIEW', 'MONEY', 'FUCK', 'SELFISH', 'FUCK', 'PEOPLE', 'DISGUSTING', 'KNOW', 'BARE', 'NASTY', 'SELF']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9392377734184264
+"['KNOW', 'IRRADIATE', 'COMMERCIAL', 'STRAWBERRY', 'SEED', 'GERMINATE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9436743259429932
+"['TAKE', 'MEDICAL', 'CANNABIS', 'GUY', 'LIKE', 'COUPLE', 'FACE', 'BOOK', 'FIGHT', 'PAGE', 'MEAN', 'NECESSARILY', 'AGGRESSIVE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9781800508499146
+"['THINK', 'MEZZICAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.992875337600708
+"['INTERVIEWER', 'RIGHT', 'GUY', 'SHOW', 'RESPECT', 'PARAMILITARY', 'POLICE', 'KILL', 'GET', 'AWAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9012390971183776
+"['SECTION', 'LADY', 'GENTLEMAN', 'SEE', 'BLACK', 'PEOPLE', 'MISBEHAVE', 'WONDER', 'HAPPEN', 'RIOT', 'COURT', 'DECISION', 'GO', 'WAY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8917405009269714
+"['UNEDUCATED', 'IDIOT', 'LISTEN', 'WORD', 'COME', 'MOUTH', 'SOUND', 'STUPID', 'LITTLE', 'KID', 'GROW', 'FUCK', 'LEARN', 'LAW', 'INSTEAD', 'REPEAT', 'FREEDOM', 'SPEECH', 'CITIZEN', 'GO', 'AHEAD', 'BRO', 'ILL', 'LISTEN', 'SHUT', 'GUY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9628503322601318
+"['QUOTE', 'MOTHER', 'HIT', 'HARD', 'ACCURATE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9544536471366882
+"['POSITIVELY', 'IDENTIFY', 'ASSAILANT', 'STORE', 'SUPPOSE', 'ROBBERY', 'WILSON', 'AWARE', 'ROBBERY', 'TIME', 'ENCOUNTER', 'CLEARLY', 'RACIST', 'UNSUBSCRIBE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9589405059814452
+"['UNDERSTAND', 'COMMIT', 'ROBBERY', 'OFFENSE', 'DESERVE', 'DIE', 'PUT', 'JAIL', 'END', 'LIFE', 'GO', 'BUY', 'SKITTLE', 'DESERVE', 'DEATH', 'TOTALLY', 'BIASED', 'WHITE', 'LABEL', 'TROUBLED', 'TEENAGER', 'PEER', 'PRESSURED', 'COMMIT', 'CRIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9737303256988524
+"['LEGALLY', 'ALLOW', 'RUN', 'CONSEQUENCE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8607115149497986
+"['STATEMENT', 'THINK', 'TAKE', 'AK', 'GO', 'FIGHT']",True,True,True,False,True,True,True,False,False,False,False,False,NEGATIVE,0.994306743144989
+"['TELL', 'PEOPLE', 'FACEBOOK', 'HOLD', 'JUDGMENT', 'FACT', 'WAIT', 'SEE', 'FACT', 'PART', 'WANT', 'BELIEVE', 'GENTLE', 'GIANT', 'LOT', 'EVIDENCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9585280418395996
+"['GREAT', 'FOOTAGE', 'WISH', 'NEWS', 'CASTER', 'SHUT', 'MINUTE', 'POLICE', 'OFFICER', 'START', 'TALK', 'LET', 'PLAY', 'MUCH', 'INTERESTING', 'HEAR', 'COMMENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9661921858787536
+"['COLOR', 'MAKE', 'DIFFERENCE', 'PERSON', 'INSIDE', 'INNOCENT', 'YEAR', 'OLD', 'LITTLE', 'GIRL', 'ATTENTION', 'PEOPLE', 'WANT', 'CAUSE', 'CHAOS', 'BLACK', 'WHITE', 'GO', 'EXACTLY', 'LOOK', 'COUNTRY', 'MESS', 'ADMIRE', 'COURAGE', 'TELL', 'PEGGY', 'HUBBARD']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9481349587440492
+"['ALSO', 'LOVE', 'SHOW', 'PICTURE', 'BROWN', 'ANGEL', 'TUG']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9750118255615234
+"['GUY', 'IDIOT', 'GOOD', 'LOSE', 'ALREADY', 'BOZO']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9528595805168152
+"['COCKTAIL', 'LOCAL', 'DRINK', 'WANT', 'DANCE', 'DANCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9552616477012634
+"['MUSIC', 'REFERENCE', 'SEX', 'DRUG', 'STEAL', 'MURDER', 'PRETTY', 'MUCH', 'RAP', 'MUSIC']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9359741806983948
+"['VIDEO', 'BIASED', 'FULL', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9802002906799316
+"['ACTUALLY', 'SHOUT', 'FIRE', 'CROWDED', 'THEATER', 'CHRISTOPHER', 'HITCHEN', 'DEMONSTRATE', 'TALK', 'FREE', 'SPEECH', 'LOOK', 'INTERVIEWEE', 'CORRECT', 'COP', 'SERVE', 'PUBLIC', 'WAY', 'AROUND', 'CONSISTENT', 'SERVE', 'PUBLIC', 'POLICE', 'DEPARTMENT', 'REPRESENT', 'PUBLIC', 'RACE', 'ETHNICITY', 'RANK', 'HIRE', 'BUNCH', 'BIG', 'TOUGH', 'BLACK', 'GUY', 'POLICE', 'DEPARTMENT', 'BLACK', 'SHOOT', 'DEATH', 'PUNY', 'WHITE', 'GUY', 'HUMILIATE', 'GET', 'BITCH', 'SLAP', 'TEENAGER']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.949252724647522
+"['LEAST', 'FAVORITE', 'TEST', 'TUBE', 'VIDEO', 'FAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9850088357925416
+"['USELESS', 'PEOPLE', 'STAND', 'MIDDLE', 'ROAD', 'SCREAM', 'USELESS', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.972916066646576
+"['TASER', 'GUN', 'NEED']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9969648718833924
+"['PROTEST', 'CONVERT', 'RIOT', 'MAJORITY', 'PEOPLE', 'WANT', 'FOOL', 'POLITICIAN', 'PLAY', 'SERIOUS', 'GAME', 'COMMON', 'MAN', 'TAKE', 'CARE', 'SAVE', 'HUMANITY', 'PEACE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9626320600509644
+"['AWESOME', 'JOB', 'PEGGY', 'THANK', 'TELL', 'TRUTH', 'WESTANDWITHPEGGYHUBBARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9787928462028505
+"['SHOOT', 'APPREHEND', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9698931574821472
+"['TRAFFIC', 'BAD', 'ENOUGH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9935518503189088
+"['YOUTUBE', 'COMWATCHVYFBBTDVHG', 'RESEARCH', 'COME', 'INFORMATION', 'WHITE', 'CONSTRUCTION', 'WORKER', 'WITNESS', 'SHOOT', 'HAND']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8922563791275024
+"['LAST', 'WEEK', 'BLACK', 'MAN', 'SNUCK', 'RETIREMENT', 'HOUSING', 'BREAK', 'HOUSE', 'BEAT', 'YEAR', 'OLD', 'COUPLE', 'DEATH', 'GO', 'OUTSIDE', 'ATTEMPT', 'HOT', 'WIRE', 'ANTIQUE', 'CAR', 'NEIGHBOR', 'COME', 'TOWNHOUSE', 'TAKE', 'GAUGE', 'SHOT', 'GUN', 'EXECUTE', 'BLOW', 'HEAD', 'ARMNE', 'KNOW', 'FELON', 'GET', 'PREVIOUS', 'MURDER', 'CHARGE', 'FIND', 'YOUNG', 'GIRL', 'BODYNOW', 'OK', 'OL', 'PEOPLECAUCASIANSWHERE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.950326681137085
+"['TELL', 'RACIST', 'COP', 'DUMB', 'GUY', 'MESS', 'COP', 'HATE', 'MAKE', 'SEEM', 'HOLY', 'MAN', 'MAKE', 'RIGHT', 'KILL', 'CONFUSING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.952159821987152
+"['GET', 'JOB']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.971744954586029
+"['STAND', 'TRIAL', 'PROVE', 'ACT', 'SELF', 'DEFENSE', 'JURY', 'OPEN', 'COURT', 'LAW', 'GRAND', 'JURY', 'OPERATE', 'SECRET', 'TRUST', 'GOVERNMENT', 'TRUST', 'OPERATE', 'SECRET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9783682823181152
+"['RIGHT', 'SHOOT', 'BLACK', 'HELL', 'BREAK', 'LOSE', 'BLACK', 'SHOT', 'BLACK', 'PROTEST', 'MAYBE', 'START', 'PROTEST', 'BLACK', 'SHOTTING', 'BLACK', 'BUY', 'STORY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9448771476745604
+"['ALWAYS', 'EASY', 'SECOND', 'GUESS', 'COP', 'GET', 'LOT', 'TRAINING', 'END', 'DAY', 'STILL', 'HUMAN', 'NAVY', 'SEAL', 'THINK', 'HUMAN', 'MAKE', 'MISTAKE', 'MAKE', 'ROBOT', 'COP', 'CONTINUE', 'MISTAKE', 'MAKE', 'ALSO', 'MEDIUM', 'PLAY', 'BIG', 'PART', 'ISSUE', 'WHITE', 'CO', 'KILL', 'BLACK', 'MAN', 'BLACK', 'COP', 'KILL', 'BLACK', 'MAN', 'EVEN', 'MAKE', 'NEWS', 'PROBABLY', 'NEED', 'GET', 'LONG', 'STOP', 'MAKE', 'RACE', 'ISSUE', 'GOOD', 'CITIZEN', 'ISSUE', 'COP', 'YOUNG', 'MAN', 'SAINT', 'GENTLE', 'GIANT', 'SAY', 'ROB', 'STORE', 'PROBABLY', 'THING', 'HAPPEN', 'COP', 'EXPLAIN', 'PEOPLE', 'INVOLVE', 'KNOW', 'EXACTLY', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9638391137123108
+"['MAGIC', 'HAMSTER', 'DRINK', 'LOT', 'LEAN', 'NEVER', 'HEAR', 'USE', 'SKITTLE', 'LEAN', 'RANCHER', 'IDEAL', 'CANDY', 'USE', 'MAGIC', 'HAMSTER', 'DOUBT', 'USE', 'SKITTLE', 'LEAN', 'WANT', 'POINT', 'QUOTEUNQUOTE', 'CREATE', 'MAGIC', 'HAMSTER', 'PREFER', 'USE', 'JOLLY', 'RANCHER', 'LEAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9325807094573976
+"['FEEL', 'SORRY', 'HAPENNE', 'THUS', 'THINK', 'HAPPEN', 'GANG', 'MEMBER', 'KILL', 'ONE', 'GO', 'STREET', 'COP', 'KILL', 'BLACK', 'MALE', 'KNOW', 'GANG', 'MENBER', 'KILL', 'DAY', 'LOSE', 'FAMILY', 'FRIEND', 'ONE', 'GO', 'STREET', 'SCREAM', 'STOP', 'KILLING', 'POLICE', 'KILL', 'BLACK', 'PERSON', 'WHOLE', 'WORLD', 'STOP', 'HUMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9445377588272096
+"['YEAR', 'ALREADY', 'STILL', 'MORONIC', 'BULLSHIT', 'GO', 'SHIT', 'ASS', 'COUNTRY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9508745670318604
+"['SURE', 'KNOW', 'KILLER', 'YOUNG', 'GIRL', 'CONSIDER', 'HOMEBOY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.87240070104599
+"['STAT', 'REPRESENT', 'PROBLEM', 'RACE', 'BAITING', 'ATTITUDE', 'CRIME', 'BET', 'STILL', 'LITTLE', 'INNOCENT', 'BOY', 'SPEAK', 'LISP', 'SURE', 'SIGN', 'LEFT', 'WING']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9679417610168456
+"['POP', 'COUPLE', 'SHOT', 'AIR', 'WATCH', 'SCATTER', 'ROACH', 'LIGHT', 'TURN']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9679861664772034
+"['NEED', 'HIRE', 'MAN', 'REAL', 'AMERICAN', 'TROUBLE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9890973567962646
+"['MOTHERFUCKER', 'ANGRYAND', 'UNDERSTAND']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.8934484720230103
+"['RIGHT', 'FINALLY', 'SANE', 'OPINION', 'EVENT', 'BLACK', 'BASTARD', 'SOOOOOOOOOO', 'IGNORANT', 'RUN', 'YELLING', 'LOOT', 'CARRY', 'RIOT', 'OLD', 'SHIT']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9417170286178588
+"['BEAT', 'WHITE', 'PEOPLE', 'BLACK', 'STORE', 'CAUSE', 'MASSIVE', 'RIOT', 'WASTE', 'MONEY', 'BET', 'WORK', 'STOP', 'WASTE', 'PEOPLE', 'MONEY', 'YOURSELFI', 'HOPE', 'SINGLE', 'PERSON', 'GET', 'HAPPEN', 'SADLY']",True,True,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9499210119247437
+"['WOMAN', 'GET', 'INSTEAD', 'ANTICHRIST', 'OBAMA']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9589403867721558
+"['PROPAGANDA', 'PART', 'PEOPLE', 'LET', 'HEAR', 'FERGUSON']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.931225836277008
+"['DUMB', 'ASS', 'PEOPLE', 'RUN']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9749245643615724
+['RESPECT'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.945444107055664
+"['WATCH', 'SECOND', 'PART', 'REST', 'POWER', 'TRAYVON', 'STORY', 'URGE', 'WATCH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9693369269371032
+"['AHOLE', 'MAKE', 'INTERVIEWER', 'SEEM', 'REASONABLE', 'BALANCED']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9027316570281982
+"['DAMN', 'GOOD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9478944540023804
+"['NEED', 'COME', 'TOGATHER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9844509363174438
+"['BOTTOM', 'LINE', 'DRUG', 'ADDICT', 'CRIMINAL', 'VIOLENT', 'CRIMINAL', 'FEEL', 'BAD', 'KILL', 'CRIMINAL']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495576620101928
+"['NEED', 'SEARCH', 'YOUTUBE', 'ACTUAL', 'DOCTORED', 'AUDIO', 'MICHAELBROWN', 'SHOOTING', 'CATCH', 'CHANGE', 'EVIDENCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9279128909111024
+"['LIFE', 'UNDERSTAND', 'PEOPLE', 'THINK', 'MARTYR', 'CAUSE', 'MAN', 'CRIMINAL', 'BLACK', 'PEOPLE', 'CRIMINAL', 'ABSOLUTELY', 'WHITE', 'CRIMINAL', 'HISPANIC', 'CRIMINAL', 'BETCHA', 'SITUATION', 'EXACTLY', 'RACE', 'REVERSE', 'ISSUE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9445450901985168
+"['RESIDENT', 'STUPID', 'COMPLAIN', 'CRIME', 'POLICE', 'SHOOT', 'CRIMINAL', 'GET', 'EMO', 'TELL', 'POLICE', 'LEAVE', 'RIOT', 'LOOT', 'DESTROY', 'COMMUNITY', 'LOGIC', 'THINK', 'TROLL']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9737865328788756
+"['TAX', 'DOLLAR', 'GET', 'SPANKING', 'NEW', 'COP', 'CAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9827151894569396
+"['UNDERSTAND', 'LADY', 'SAY', 'GO', 'ARTICLE', 'VIDEO', 'SHOOTING', 'INCIDENT', 'PERSONALLY', 'THINK', 'CASE', 'EXAGGERATED', 'RIOT', 'LOOTING', 'CRIMINAL', 'ACTIVITY', 'SAY', 'CAUSE', 'GRAND', 'JURY', 'DECISION', 'FAKE', 'CRIME', 'SEE', 'OPPORTUNITY', 'DISINTEGRATION', 'USE', 'DECISION', 'REASON']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9473193883895874
+"['HEAR', 'BILLIONAIRE', 'FUND', 'ORGANISE', 'RIOT', 'FUCKEN']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.8936202526092529
+"['THINK', 'ALOT', 'BLACK', 'PEOPLE', 'TIRED', 'GUN', 'VIOLENCE', 'GANG', 'IGNORANCE', 'COMMUNITY', 'WANT', 'STOP', 'BAD', 'PEOPLE', 'RACE', 'GET', 'STATEMENT', 'TALK', 'THING', 'BLACK', 'COMMUITY', 'PEOPLE', 'QUICK', 'SAY', 'BAD', 'PEOPLE', 'RACE', 'SAY', 'PUT', 'BLACK', 'WANT', 'PEOPLE', 'WELL', 'CARE', 'SELFS', 'REPECTFUL', 'WAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9682828187942504
+"['INTERNET', 'TROLLING', 'TIME', 'HIGH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9873873591423036
+"['SEE', 'COMMENT', 'PROVE', 'BACKWARD', 'COUNTRY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9522764682769777
+"['SICK', 'SEE', 'RACIST', 'COMMENT', 'SHAME', 'STILL', 'GROW', 'FUCK', 'PEOPLE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9432656764984132
+"['BADGE', 'BITCH', 'HALF', 'FUCK', 'POLICE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9479575157165528
+['BLACKLIVESDONTMATTER'],True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8446000814437866
+"['LITTLE', 'BITCH', 'LIKE', 'SUBTLY', 'TRY', 'INSULT', 'GUY', 'GUY', 'LAUGH', 'REALLY', 'SHOW', 'LOW', 'STOOP', 'GARBAGE', 'HOLE', 'BECOME', 'PIECE', 'ASS', 'SUCK', 'WORK', 'GUESS', 'WONDER', 'HOME', 'WATCH', 'NEWS', 'NETWORK']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9706648588180542
+"['FIND', 'INSANE', 'BLACK', 'PEOPLE', 'ALWAYS', 'PLAY', 'RACIST', 'CARD', 'SINGLE', 'LITTLE', 'ISSUE', 'COINCIDENTAL', 'WHITEBLACK', 'SITUATION', 'CASE', 'RACE', 'ALSO', 'SAY', 'WANT', 'JUSTICE', 'GO', 'AROUND', 'DESTROY', 'PRIVATE', 'PROPERTY', 'LOOTING', 'SHOP', 'RIGHT', 'MIND', 'ASK', 'JUSTICE', 'ROB', 'DESTROY', 'PEOPLE', 'LIVELY', 'HOOD', 'TIME', 'BLACK', 'COMMUNITY', 'THINK', 'PERFECTLY', 'ACCEPTABLE', 'BLACK', 'PERSON', 'KILL', 'WHITE', 'COP', 'COP', 'FOLLOW', 'PROCEDURE', 'DEFEND', 'SELF', 'POTENTIAL', 'FATAL', 'ATTACK', 'GET', 'ANGRY', 'BLACK', 'GUY', 'FIREARM', 'EASILY', 'KNIFE', 'VALUE', 'BLACK', 'PEOPLE', 'WHITE', 'LAW', 'ENFORCEMENT', 'OFFICER', 'LIFE', 'EQUAL', 'UNDERSTAND', 'OFFICER', 'DEFEND', 'SELF', 'ATTACK', 'ATTACK']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9502547979354858
+"['THUG', 'BLESS', 'THIN', 'BLUE', 'LINE', 'GRADUATE', 'POLICE', 'ACADEMY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9882694482803344
+"['THUS', 'COLLAPSE', 'POSSIBILITY', 'CONSIDER', 'ONE', 'BOIL', 'DICTATORSHIP', 'EVIL', 'REPRISAL', 'POSSIBILITY', 'NEW', 'RECONSTRUCTION', 'PEOPLE', 'FUNDAMENTALLY', 'CONSCIOUS', 'RESPONSIBILITY', 'ATTAIN', 'GOVERNMENT', 'REALLY', 'BRING', 'EFFECTIVE', 'VALUABLE', 'NEW', 'START', 'ACTUALLY', 'OCCUR', 'CURRENTLY', 'EXTREMELY', 'QUESTIONABLE', 'PRESENTLY', 'TOTALITARIAN', 'MANNER', 'DIRECT', 'INTEREST', 'ECONOMIC', 'MILITARY', 'POLITICAL', 'CULTURAL', 'WELL', 'STRICT', 'FUNDAMENTALIST', 'RELIGIOUSSECTARIAN', 'BASE', 'ENORMOUS', 'LIE', 'DEVIOUS', 'MISANTHROPIC', 'CRIMINAL', 'FELONIOUS', 'MACHINATION', 'IMAGINABLE', 'REGARD', 'ALSO', 'MEAN', 'POPULATION', 'SPY', 'SECRET', 'SERVICE', 'EVEN', 'SEVERELY', 'NEIGHBOURHOOD', 'FORTH', 'POSSIBLE', 'MANNER', 'RESTRICT', 'FREEDOM', 'ADDITION', 'VIOLENCE', 'EMERGE', 'FORM', 'OPENLY', 'COVERTLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9540953636169434
+"['SHOOT', 'RUN', 'LOL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.977846384048462
+"['BUY', 'CATCH', 'VIDEO', 'SAY', 'BURN', 'BITCH', 'REFFERE', 'FERGUSONAND', 'DUDE', 'INTERVIWING', 'THUG', 'GIVE', 'AIR', 'TIME']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9722955226898192
+"['RAP', 'GO', 'AHEAD', 'BROLOL', 'GETTO']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.922643780708313
+"['RUN', 'MOTHERFUCKER']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9588608741760254
+"['MAYBE', 'KNOW', 'EXACT', 'STORY', 'UNDERSTAND', 'SUPPOSE', 'CASE', 'GROWN', 'MAN', 'SHOOT', 'KID', 'SUPPOSE', 'RACIAL', 'GUY', 'LET', 'HATE', 'ANTI', 'BLACK', 'ANTI', 'WHITE', 'SEEM', 'FORGET', 'GO', 'POLICE', 'OFFICER', 'SHOOT', 'INNOCENT', 'KID', 'WANT', 'JUSTICE', 'FCKIN', 'RACE', 'MOMENT', 'PICK', 'RACE', 'SIDE', 'BECOME', 'FCKIN', 'JOKE', 'GIVE', 'RAT', 'ASS', 'MANY', 'BLACK', 'KILL', 'WHITE', 'VICE', 'WANT', 'KNOW', 'FCK', 'POLICE', 'OFFICER', 'WALK', 'FREE', 'EMPTY', 'MOTHERFCKIN', 'GUN', 'CHILD']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9521430730819702
+"['RACE', 'MUCH', 'NEWS', 'ARTICLE', 'GET', 'NATIONAL', 'MEDIUM', 'ATTENTION', 'LAST', 'WEEK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.958911955356598
+"['PROTESTOR', 'WORK', 'LIVING', 'GET', 'TIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9742313027381896
+"['SHOCKING', 'TRUTH', 'COME', 'LIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9897885918617249
+"['BORED', 'STUPID', 'KID']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9837703704833984
+"['LAW', 'ENFORCEMENT', 'TRAIN', 'SHOOT', 'APPREHEND', 'TRAIN', 'SHOOT', 'KILL', 'THANK', 'KILL', 'PUNK', 'BITCH']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9867660999298096
+"['PRESS', 'BUTTON', 'SHOOT', 'OUTTA', 'CAR']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9798278212547302
+"['OBVIOUSLY', 'MATTER', 'SMOKE', 'SAY', 'SHOOT', 'BACK', 'UNBIASED', 'WITNESS', 'CLEARLY', 'STATE', 'COME', 'OFFICER', 'MENTION', 'HAND', 'WITNESS', 'SHOOTING', 'REPEAT', 'TIME', 'DUDE', 'KEEP', 'COME', 'POLICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9645163416862488
+"['THINK', 'CHIEF', 'PROBLEM', 'GREAT', 'IDEAL', 'SOLID', 'WORTHWHILE', 'GOAL', 'HOPE', 'SHARE', 'SOCIETY', 'SEEM', 'EMBRACE', 'ETHICAL', 'GREYNESS', 'HUMAN', 'FRUSTRATE', 'APPROACH', 'MORALITY', 'BELIEVE', 'WORTH', 'LISTEN', 'POLITICAL', 'STRATEGIST', 'REQUIRE', 'RECOGNIZE', 'CONDITIONALNATURE', 'HUMAN', 'PSYCHOLOGY', 'CONSTRUCT', 'SYSTEMIC', 'GUIDE', 'HELP', 'INCENTIVIZE', 'POSITIVE', 'CULTURE', 'GOOD', 'PHILOSOPHY', 'CRAPPY', 'POLITICAL', 'THEORY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9482081532478333
+"['WATCH', 'FIRST', 'POST', 'TRUTH', 'INTERESTED', 'HEAR', 'OPINION', 'MAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9734473824501038
+"['GERMAN', 'POLICE', 'PRETTY', 'NICE', 'EVEN', 'BEAT', 'PROTESTOR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9262025356292723
+"['BLUNT', 'ADDICTION', 'TOBACCO', 'BLUNT', 'KEEP', 'CALL', 'PLAY', 'RACE', 'CARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9847233295440674
+"['GIVE', 'ROUNDED', 'VIEW', 'SIMPLY', 'WANT', 'USE', 'OLD', 'TIRED', 'PLOY', 'DISCREDIT', 'SANE', 'PERSON', 'BELIEVE', 'OFFICER', 'PERFECT', 'ANGELIC', 'WHITE', 'MAN', 'PERSON', 'EXIST', 'PRIVY', 'QUESTIONABLE', 'CHARACTERISTIC', 'COP', 'REST', 'ASSURE', 'HUMAN', 'NATURE', 'SPITE', 'BROWN', 'SMOKING', 'WEED', 'STEAL', 'BLUNT', 'EVEN', 'RAP', 'BITCH', 'GUN', 'JUSTIFY', 'UNARMED', 'SHOOT', 'MANY', 'TIME', 'DESENSITIZED', 'CULTURE', 'HIP', 'HOP', 'WHITE', 'PEOPLE', 'ALSO', 'MONETARILY', 'BENEFIT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.956381618976593
+"['TAKE', 'TEAM', 'PLOW', 'RIGHT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9947264790534972
+"['RIP', 'DURABLE', 'CAR', 'EVER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9513587951660156
+"['THUMB', 'VIDEO', 'CLARIFY', 'COMMENTARY', 'IGNORANCE', 'SPEW', 'MEAN', 'IGNORANT', 'NECESSARILY', 'DISPARAGE', 'MEAN', 'REALLY', 'UNDERSTAND', 'SITUATION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9543482065200806
+"['TRULY', 'TRAGEDYNOT', 'DEATH', 'KID', 'WAY', 'CITY', 'REACT', 'WAY', 'GET', 'JUSTICE', 'MAKE', 'MATTER', 'BAD', 'MALCOLM', 'WAY', 'HANDLE', 'THING', 'KING', 'WAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9855206608772278
+"['PEACE', 'NEED', 'FIND', 'SIDE', 'STUBBORN', 'RELENTLESS', 'PEACEFUL', 'GO', 'WORK', 'SIT', 'STEP', 'POWER', 'DAY', 'CHANT', 'CONCERN', 'FEAR', 'PATH', 'DARK', 'SIDE', 'FEAR', 'LEAD', 'ANGER', 'ANGER', 'LEAD', 'HATE', 'HATE', 'LEAD', 'SUFFER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.936553955078125
+"['LOL', 'LOOK', 'GET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9461049437522888
+"['STORE', 'OWNER', 'EVER', 'PAY', 'CIGAR', 'INNOCENT', 'ASS', 'KID', 'STOLE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9557819962501526
+"['SHOOT', 'VIDEO', 'DISTURB', 'MANY', 'REASON', 'LINK', 'VIDEO', 'MENTONE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9594709873199464
+"['SHOUT', 'THAI', 'WRITING', 'SHIRT', 'LOL', 'THAIPRIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.986383318901062
+['DRIVE'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9451617002487184
+"['JKIND', 'GUY', 'WEAR', 'LIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9524455666542052
+"['SAY', 'BLACK', 'PIECE', 'COME', 'BIT', 'STIFF', 'REPEAT', 'USE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.971555769443512
+"['UPSET', 'COURT', 'RULING', 'UPSET', 'CLOSE', 'WHOLE', 'FREEWAY', 'GO', 'MAIN', 'CAUSE', 'AIRLINE', 'TICKET', 'FREEDOM', 'SPEECH', 'ACTIVE', 'RIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9545474648475648
+"['CRIMINAL', 'SHOOT', 'GREAT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9518204927444458
+"['RAM', 'PRICK']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9684632420539856
+"['REALLY', 'BLACK', 'PEOPLE', 'VIOLENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9462039470672609
+"['NICE', 'LORRY', 'DRIVER', 'NEED', 'RUN', 'FUCK']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.9103626012802124
+"['ILL', 'BACK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.923991858959198
+"['THANK', 'SPEAK', 'PROBLEM', 'BLACK', 'COMMUNITY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.983851969242096
+"['RACIAL', 'PROFILING', 'POLICE', 'INTIMIDATION', 'ROB', 'STORE', 'KILL', 'RESULT', 'FUCK', 'EXCUSE', 'MAN', 'BLACK', 'PEOPLE', 'ARREST', 'COMMIT', 'STRONG', 'ARM', 'ROBBERY', 'BLACK', 'PEOPLE', 'GET', 'VIOLENT', 'FEAR', 'PUT', 'ANIMAL', 'ACTUALLY', 'SAY', 'WORRY', 'WARRANT', 'FUCKING', 'PIECE', 'HUMAN', 'GARBAGE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495793581008912
+"['GARBAGE', 'POLICEKICK', 'JOBSWHAT', 'PAY', 'SUPPOSE', 'LET', 'SHIT', 'PROTESTER', 'BLOCK', 'THOUSAND', 'PEOPLE', 'EMERGENCYI', 'SURPRISEDWHEN', 'SEE', 'POLICE', 'LIKE', 'KISS', 'IDIOTIC', 'LAW', 'ENFORCEMENT']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9402616024017334
+"['ARAB', 'DUDE', 'ABSOLUTELY', 'RIGHT', 'SHOOT', 'EXTRA', 'TIME', 'SHOOT', 'ATTACK', 'STOP', 'ATTACK', 'SHOOT', 'TWICE', 'STILL', 'ATTACK', 'TIME', 'SHOOT', 'KILL', 'OPINION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9796406626701356
+"['POLICE', 'CONCENTRATE', 'INVESTIGATION', 'PEOPLE', 'CALL', 'MISBEHAVE', 'HOPE', 'INVESTIGATION', 'CANCEL', 'BEHAVE', 'LET', 'POLICE', 'WORK', 'SAY', 'GUY', 'COMMIT', 'SUICIDE', 'COP', 'ATTACK', 'POLICE', 'FIRST', 'PLACE', 'CLEAR', 'DISRESPECT', 'POLICE', 'WAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.928786277770996
+"['DEADLY', 'FORCE', 'FINE', 'LINE', 'SIDE', 'BRUTAL', 'WINNING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9614214897155762
+"['PLAIN', 'SIMPLE', 'TRUTH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9951187372207642
+"['PARENT', 'KID', 'FAIL', 'JOB', 'PARENT', 'RAISE', 'CUNT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.970218062400818
+"['FUCK', 'STUPID', 'ATTACK', 'POLICE', 'OFFICER', 'EXPECT', 'GET', 'RESPONSE', 'POLICE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.934179186820984
+"['EXACTLY', 'RIGHT', 'BAD', 'DECISION', 'CREATE', 'POVERTY', 'POOR', 'UNATTRACTIVE', 'AREA', 'CRIMINAL', 'STEAL', 'NECESSITY', 'GET', 'RESPECT', 'HOMIE', 'PATHETIC']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9460394978523254
+"['THANK', 'VOICE', 'SANITY', 'BLACK', 'COMMUNITY', 'PEGGY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9855923652648926
+"['ENTIRE', 'CASE', 'CRAP', 'PEOPLE', 'SAY', 'WHITE', 'PEOPLE', 'RACIST', 'CALL', 'BAD', 'NAME', 'RACIST', 'LIKE', 'CALL', 'EXTENSIVE', 'INVESTIGATION', 'PROVE', 'BOY', 'DEATH', 'SELF', 'DEFENSE', 'HOWEVER', 'DEFEND', 'WHOLE', 'KKK', 'THING', 'DEFEND', 'HELPLESS', 'CITIZEN', 'FERGUSON', 'BOY', 'DIE', 'CARE', 'WHITE', 'BLACK', 'CARE', 'PEOPLE', 'FERGUSON', 'TREAT', 'TOWN', 'REALLY', 'CARE', 'INCIDENT', 'HOLD', 'MEMORIAL', 'EXPRESS', 'FEELINGSTHIS', 'HELP', 'GET', 'JUSTICE', 'REALLY', 'MATTER', 'BOY', 'DEAD', 'GRAND', 'JURY', 'DECIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9460251331329346
+"['MUSTANG', 'NEED', 'SITUATION', 'LOL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9863044619560242
+"['CASE', 'OVERSHADOW', 'COP', 'MURDER', 'KID', 'FAKE', 'SWORD', 'MUCH', 'OUTRAGED', 'CASE', 'MURDER', 'HAPPEN', 'DEAL', 'COP', 'PROVIDE', 'LETHAL', 'WEAPON', 'SHOOTING', 'UNWARRANTED', 'RUN', 'KNOW', 'RUN', 'LUNGE', 'POLICE', 'FAKE', 'SWORD', 'TAKE', 'OPPORTUNITY', 'IMMEDIATE', 'ACTION', 'RIGHT', 'RUN', 'SHOOT', 'TIME', 'BACK', 'KNOW', 'LARGE', 'GROUP', 'COP', 'CORRUPT', 'MURDERER', 'NEW', 'RUN', 'POLICE', 'MANY', 'TIME', 'TEEN', 'COP', 'PURSUE', 'FIND', 'HIDE', 'PUT', 'BULLET', 'BACK', 'END', 'LIFE', 'SAY', 'PAPER', 'SARATOGA', 'SPRING', 'BLACK', 'POPULATION', 'SAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.957646369934082
+"['TIME', 'SEQUENCE', 'EVENT', 'WRONG', 'CALL', 'MAKE', 'REPORT', 'ROBBERY', 'OFFICER', 'DISPATCH', 'CRIME', 'SCENE', 'EVEN', 'POLICE', 'CHIEF', 'SAY', 'PUBLICLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9614525437355042
+"['THINK', 'GUY', 'PROFITING', 'STANDOFF', 'CARE', 'SIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.988086462020874
+"['SMIRCONNISH', 'EVENHANDED', 'GUY', 'WORLD', 'GUY', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8840126395225525
+"['GUY', 'GET', 'HARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9703267812728882
+"['WATCH', 'VIDEO', 'MENTION', 'KNOW', 'TRUTH', 'FUCKING', 'EVIDENCE', 'NEED', 'START', 'HAPPEN', 'WHOLE', 'THING', 'START', 'CAR', 'KID', 'RUN', 'COP', 'RUN', 'KID', 'TURN', 'AROUND', 'CHARGE', 'COP', 'COP', 'FREAK', 'FUCK', 'START', 'SHOOT', 'KID', 'COME', 'COME', 'COP', 'EVENTUALLY', 'HIT', 'HEAD', 'END']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9655991792678832
+"['FINALLY', 'BLACK', 'PERSON', 'UNBIASED', 'OPINION', 'INCREDIBLY', 'HIGH', 'PERCENTAGE', 'BLACK', 'LIFE', 'LOSE', 'EXTREMELY', 'SMALL', 'FRACTION', 'POLICE', 'BLACK', 'PEOPLE', 'NEED', 'TAKE', 'RESPONSIBILITY', 'VIOLENCE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9624327421188354
+"['LOVE', 'SEE', 'PUSSY', 'GO', 'STATEN', 'ISLAND', 'SPIT', 'COP', 'LOVE', 'SEE', 'HAPPEN', 'STRONG', 'ARM', 'THUG', 'PEOPLE', 'BURN', 'FERGUSON', 'GARNIER', 'WRONG', 'CHOKE', 'DEATH', 'PROTEST', 'MAFIA', 'CONTROL', 'STATEN', 'ISLAND', 'BURN', 'CAR']",True,True,True,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9585381150245668
+"['STOP', 'REVOLUTION', 'YEAR', 'SAY', 'PRETTY', 'GOOD', 'JOB', 'FAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9651493430137634
+"['CHECK', 'TUBE', 'POST', 'BLACK', 'MAN', 'GO', 'EPIC', 'RANT', 'FERGUSON', 'RIOTER', 'MESSAGE', 'DELIVER', 'CHILDISH', 'CARTOONISH', 'EMOTION', 'AFRICAN', 'GET']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.949513614177704
+"['THANK', 'PEGGY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9939218759536744
+"['MAKE', 'MAD', 'POINT', 'GUN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9791873693466188
+"['KNOW', 'BAD', 'LATE', 'WORK', 'SHOOT', 'KILL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9572853446006776
+"['CRUEL', 'MOM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9503949880599976
+"['PUT', 'TELL', 'TRUTH', 'HARD', 'TRUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.995640754699707
+"['STUPID', 'ENOUGH', 'STAND', 'ROADWAY', 'RUN', 'DIE', 'IMPROVE', 'GENE', 'POOL']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.965596616268158
+"['THINK', 'INDECENT', 'UNESSACERRY', 'EVENT', 'PERSON', 'SHOOT', 'STEAL', 'INTIRELY', 'POLICE', 'OFFICER', 'FAULT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9571937918663024
+"['NEXT', 'TIME', 'LINE', 'CAR', 'START', 'MAKE', 'BURNOUT', 'SMOKE', 'RIOT', 'GAS', 'NON', 'LETHAL', 'EFICIENT', 'DOUBLE', 'CHECK', 'NON', 'LETHAL', 'COURSE', 'XD']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9617573022842408
+['RUN'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9241126179695128
+"['STFU', 'MUSLIM', 'PIECE', 'SHIT', 'COP', 'FIRE', 'ROUND', 'ASS', 'WELL', 'STILL', 'LET', 'CUT', 'HEAD', 'POUR', 'PIG', 'BLOOD', 'THROAT', 'WILLING', 'BET', 'DIRTY', 'FCKN', 'ISLAMIC', 'BASTARD', 'SET', 'FIRE', 'EVEN', 'BLACK']",True,True,True,True,True,False,False,False,False,False,True,False,NEGATIVE,0.9691044688224792
+"['TEAR', 'GAS']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9918161034584044
+"['WOWPEOPLE', 'SAY', 'THING', 'RIGHTLY', 'SAY', 'PC', 'POLICE', 'OFFEND', 'TAG', 'RACIST', 'THEREFORE', 'TRUTH', 'SPEAK', 'GIVE', 'CREDENCESOCIETY', 'KNOW', 'SPEAK', 'TRUTH', 'MAGNIFIE', 'LIKE', 'ONE', 'ELSE', 'ELEVATE', 'PEOPLE', 'SCHOOL', 'BOARD', 'CITY', 'COUNCIL', 'MAYOR', 'STATE', 'NATIONAL', 'OFFICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9683452248573304
+"['WAKE', 'BLACK', 'PEOPLE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9293968677520752
+"['MAN', 'ZIONIST', 'LOOK', 'YPU', 'SEE', 'JEWNESSS', 'FACE', 'EMPLOY', 'SYMPATHISER', 'NEOCON', 'RACIST', 'EMPLPYEEE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9312341213226318
+"['FACE', 'CITY', 'SUPPORT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9790481328964232
+"['GREAT', 'VIDEO', 'THANK', 'PUT', 'RIGHT', 'AWAY', 'THINK', 'USUAL', 'SAD', 'YOUNG', 'TURK', 'CHANNEL', 'GO', 'CLICHE', 'THINK', 'MAKE', 'LOOK', 'BUNCH', 'HYPOCRITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9786777496337892
+"['WANT', 'SHOOT', 'HARDLY', 'WAIT', 'KID', 'GET', 'TROUBLE', 'POLICE', 'KILL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9755645990371704
+"['WISH', 'MUCH', 'TYPE', 'PROTESTER', 'COME', 'ARREST', 'FINE', 'TEACH', 'LAW']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9633581638336182
+"['GET', 'CIGAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9716278314590454
+"['LOOKIN', 'PUSSY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9549599885940552
+"['GUY', 'LOVE', 'GUY', 'SPEND', 'MINUTE', 'TELUS', 'ROLL', 'BLUNT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9738234877586364
+"['PEOPLE', 'REALIZE', 'BLOCK', 'ROAD', 'PISS', 'PEOPLE', 'GET', 'PEOPLE', 'SIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8772901296615601
+"['RACE', 'HUMAN', 'RACE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9695041179656982
+"BLACKS: A Look at the African-American Literature of the Civil War and Reconstruction
+
+Black people were a major part of the war effort. The U.S. military recruited black soldiers, who served in all branches of the U.",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9985040426254272
+"BLACKSTONE, N.H. - With the U.S. Senate poised to vote on the first comprehensive gun control legislation in a decade, gun rights advocates are worried that the measure will be watered down by the Obama administration, which is",False,False,False,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9988141059875488
+"BLACKFISH: The American Dream
+
+Blackfish: The American Dream
+
+by
+
+J. J. Goldberg
+
+With its star-studded cast, Oscar-nominated screenplay, and awards-winning director, Black",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.999624490737915
+"BLACK BEAR IS THE BEST THING TO EVER HAPPEN TO MALE OR FEMALE
+
+A lot of men are going to be jealous of you if you don't have a black bear tattoo on your body. You are so",False,True,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.8969462513923645
+"BLACK SABBATH - 'The Last Supper'
+
+The Last Supper
+
+The Last Supper
+
+The Last Supper
+
+The Last Supper
+
+The Last Supper
+
+The Last Supper
+",False,False,True,False,False,True,False,False,False,False,False,False,POSITIVE,0.7070673704147339
+"BLACK_H
+
+#include <string>
+#include <vector>
+
+#include ""yaml-cpp/yaml.h""
+
+namespace YAML {
+
+bool YAML_STRICT_",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9968910813331604
+"BLACK FRIDAY
+
+""Black Friday"" is a Saturday-morning cartoon from the 1960s that was created by then-President Lyndon B. Johnson. It is often used as a metaphor for the events surrounding the Thanksgiving holiday.
+
+",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8261902928352356
+"BLACK BOTTLE
+
+The Black Bottle is a well-known symbol of the Underground Railroad, and was used by runaway slaves in the North. It was created by James McNeill Whistler in 1898 as a portrait of a woman,",False,False,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9917457699775696
+"BLACK,
+                                              ",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9980762004852295
+"BLACK FRIDAYS
+
+We have had so much to talk about, but we have also had so much to think about. The summer is almost over. We are leaving for a month, then returning to our normal life. In many",False,True,False,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9173592329025269
+"BLACKBURN, Mass. — The first time Mike Dudek was asked about the “Tampa Bay Lightning” during a news conference in Boston, he was skeptical.
+
+“That’s a good question,�",False,True,True,False,False,False,True,False,False,False,False,False,POSITIVE,0.9832130074501038
+"BLACKS
+
+_The New York Times_, February 2, 1996.
+
+_The New York Times_, February 2, 1996.
+
+_The New York Times_, February 2, 1996.
+
+_The New",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.6621952056884766
+"BLACKPINK
+
+Blackpink is a South Korean girl group that debuted on September 6, 2016, with the release of their debut extended play, Blackpink (2016). The group consists of members Soyou, V, and Ros",True,True,False,False,True,False,True,False,False,False,False,False,POSITIVE,0.9925508499145508
+"BLACKFORD, N.C. — A day after an armed man opened fire on a black church in a predominantly black area of North Carolina, police arrested two of the suspects.
+
+The shooting at Emanuel AME Church in the predominantly",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9491620659828186
+"BLACK_NAMESPACE_MAPPING_HPP_INCLUDED
+",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9962271451950073
+"BLACK
+
+A:
+
+I found this:
+                                     ",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9815109372138977
+"BLACK HAWK is a Canadian-American television series that ran for three seasons on the CBC from 1985 to 1987. The series was produced by the Canadian Broadcasting Corporation and was written by Bruce Eric Kaplan.
+
+It is based on the novels",False,False,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.6214532852172852
+"BLACK
+
+The Black Series is a series of three action figures of the Marvel Comics superhero, Black Panther. The first Black Panther was released as a stand-alone figure in 1995. The second Black Panther was released as part of the Marvel Legends",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.7736556529998779
+"BLACKPINK
+
+BLACKPINK is a South Korean girl group formed in 2012 by the producers of the reality show Produce 101. The group consists of five members: Suzy, Lisa, Kim Yoojung, Minho",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9651411175727844
+"BLACKLIST_FILES=\
+			$(KBUILD_SRC_DIR)/config.status \
+			$(KBUILD_SRC_DIR)/kernel.config \
+			",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.996522068977356
+"SCUMBAGON, N.Y. -- A former New York State Police trooper is facing a charge of attempted murder for allegedly shooting and killing a man in a dispute over a parking space, authorities said.
+
+The charge was filed Wednesday",False,False,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9896775484085083
+"SCUMBAG_H
+#define __SCUMBAG_H
+
+#include <stdint.h>
+#include ""../common/common.h""
+#include ""../common/util.h""
+#",True,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9966413974761963
+"SCUMBAG."" ""WELL, WE'LL MAKE THE BEST OF IT."" ""I DON'T WANT YOU TO GET ANYTHING TO DRINK."" ""I'LL GET A DRINK WHEN I GET HOME."" ""OH, I",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7938759922981262
+"SCUMBAGELAND
+
+I was going to make a list of things to do while on this vacation, but the list would be pretty long. I thought I would just make a list of things to do while on this vacation.
+",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9992668032646179
+"SCUMBAG_DELAY_DELAY_MASK 0x00000003L
+#define VSCUMBAG_DELAY_DELAY_DEF 0x00000000L
+#define VSCUMBAG",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9977226853370667
+"SCUMBAGON — The first sign of trouble for the U.S. men’s national team in 2019 came on April 15, when midfieldermixxhustle was arrested by the FBI and charged with domestic violence after allegedly assaulting",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9964765906333923
+"SCUMBAG, J.
+I concur in the result.
+NOTES
+[1]  We have jurisdiction pursuant to article V, section 3(b)(3) of the Arizona Constitution and A.R.S. section",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9763975143432617
+"SCUMBAG, and J.P. PYOYO, [*Theory of Atomic Fluids*]{}, Oxford University Press, Oxford, (1997).
+
+E. K. G. Sarkis",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.8691443800926208
+"SCUMBAGEL
+
+_Scumbagel_ is a book written by and for women about the female experience of being in the workplace. Written in a humorous and sometimes self-deprecating style, it is a collection of essays",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9974802136421204
+"SCUMBAGELINK_H
+
+#include ""scummag.h""
+#include ""scummag_internal.h""
+
+#ifndef SCUMMAG_H
+#define SCUMMAG",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9995551705360413
+"SCUMBAGELABORATIO.COM
+
+I am a newbie on the site, I've only been here a few days, but I have been reading through the posts and I think I have found a few things that I",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8972020149230957
+"SCUMBAG:"" ""I got a call from the police department."" ""They say they found this girl."" ""A little girl."" ""A little girl."" ""They say they found her in the river."" ""They say she's been dead",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9978476762771606
+"SCUMBAG""
+
+#: libcore/marlin-file-operations.c:1520
+#, c-format
+msgid ""Copying %'d file""
+msgid_plural ""Copying",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9993771910667419
+"SCUMBAGELISTS
+
+Scumbaggers are the lowest rung on the political ladder. They are the least likely to have a clue about what is really going on in the world and even less likely to have the integrity to",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995911717414856
+"SCUMBAG_ROUTE_TO_BAR_1:
+	case ESM_SCUMBAG_ROUTE_TO_BAR_2:
+	case ESM_SCUMBAG_R",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9986205101013184
+"SCUMBAG."" ""SQUADRON!"" ""STAND TO!"" ""NOW!"" ""GO!"" ""STAND TO!"" ""NOW!"" ""GO!"" ""STAND TO!"" ""NOW!"" ""GO!"" ""STAND TO!"" """,False,False,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9041998982429504
+"SCUMBAG."" ""YOU WON'T MAKE IT."" ""I KNOW YOU WILL."" ""IT'S YOU THAT'S GONNA MAKE IT."" ""I'M NOT GONNA MAKE IT."" ""BUT YOU ARE.""",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.8325183391571045
+"SCUMBAG"" ""HELP ME"" ""I'M NOT A MURDERER"" ""I'M A SAVIOR"" ""I'M A HERO"" ""I'M A LEGEND"" ""I'M",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9990443587303162
+"SCUMBAG."" ""HUH?"" ""I'M NOT EVEN THE ONE THAT HAD THE KIDS WITH ME."" ""I'M THE ONE THAT HAD TO MAKE THE CHECKS."" ""YOU KNOW, I'M",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9978919625282288
+"SCUMBAG, the only name that really matters. We’re all pretty much equal when it comes to the game, and I’m not one to play favorites. I’m more of a “I like this",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9162495136260986
+"EXTERMINATE.
+
+I have never been to this city, but I have read about it. It is a place of dark secrets and mysterious tales. Some say it is haunted. Some say that the whole city is haunted. The truth",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9145260453224182
+"EXTERMINATE_CONTROL_CMD,
+							       NULL,
+							       &c->control,
+		",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9954764246940613
+"EXTERMINATE THE LEGAL PROTECTIONS OF THE UNITED STATES.
+
+EXCERPT FROM A LETTER TO THE PRESIDENT OF THE UNITED STATES FROM MR. B. D. FITZPATRICK, A NEW YORK",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9831946492195129
+"EXTERMINATE,
+                                            ",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.872157871723175
+"EXTERMINATE_HANDLER_EXTERN;
+
+/**
+ * @brief Set the event handler to be called on the destruction of the object.
+ *
+ * This function is called on the destruction of the object.
+",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996495246887207
+"EXTERMINATE
+
+A:
+
+Your question is not very clear, so I will make assumptions.
+The problem is that you have two different instances of the same class. 
+Your first instance has a singleton scope, and",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995961785316467
+EXTERMINATE THE MANDATE OF THE MANDATE OF THE MANDATE OF THE MANDATE OF THE MANDATE OF THE MANDATE OF THE MANDATE OF THE MANDATE OF THE MANDATE OF THE,False,True,False,False,False,True,False,False,False,False,False,False,POSITIVE,0.8129714727401733
+"EXTERMINATE
+
+_The Death of a Salesman_
+
+_The End of the Affair_
+
+_The End of the Affair II_
+
+_The End of the Affair III_
+
+_The",False,False,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9996366500854492
+"EXTERMINATE
+
+**The end of a chapter is signaled by the end of the last sentence of the chapter.**
+
+**EXTRACT**
+
+**To take out something from a book or a magazine, cut out the",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9889695644378662
+"EXTERMINATE THE CIVIL RIGHTS OF THE PEOPLE.
+
+We have been told that the Government of Pakistan is committed to the security and well-being of the people of Pakistan. We are now told that the Government of Pakistan is",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.6051677465438843
+"EXTERMINATE THE BIRTH OF THE
+SECOND NATION.
+>> I THINK THAT'S THE KEY
+POINT.
+WE DON'T WANT TO END UP IN
+THE SAME PLACE WE STARTED.",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9695639610290527
+"EXTERMINATE THE CIVILIZATION OF THE USA
+
+The above is the title of an article that I wrote in the Fall of 2012. It was published on the website of a well-known anti-abortion activist group, but",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9848265647888184
+"EXTERMINATE
+
+**F** _rom the moment we saw them together, we knew that we had to have them. But we didn't know who they were._
+
+— _ _The Book of the Dead_ (H.",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9974027276039124
+"EXTERMINATE_CODE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9969460368156433
+"EXTERMINATE.
+
+**_The_** ** _Eyes_**
+
+In a way, the eyes are the windows to the soul. If we could see through our eyes, we could see through our souls. But we",False,False,False,True,True,False,False,False,False,False,False,False,POSITIVE,0.9941893815994263
+"EXTERMINATE THE COWARDLY ORDER OF THE
+UNITED STATES.
+
+The United States of America has been the most
+favored nation in the history of the world. The United States is the
+most powerful nation in the",False,False,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9968646168708801
+"EXTERMINATE THE CONFLICT OF INTEREST
+
+This is the time when the world is most important. We have to act as if it’s not important. The world is not important.
+
+I’m not",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9985892176628113
+"EXTERMINATE_SCHEDULER(scheduler);
+            if (scheduler)
+            {
+   ",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9837921857833862
+"EXTERMINATE THE NATION.
+
+When I hear the term “neo-fascism” I have to pause to remind myself that it is not the same thing as fascism. It is not even a movement. It",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9943296909332275
+"EXTERMINATE                    = 0x1000
+	IFF_UP                  ",False,True,False,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9809564352035522
+"WASTE MANAGEMENT IN THE HAYFIELD AREA
+
+Hayfield is one of the largest towns in Northern Ireland. It is situated in County Armagh, Northern Ireland, on the River Blackwater. It is home to a number",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9854426383972168
+"WASTE MANAGEMENT IN THE FUTURE
+
+Waste management has been the subject of many articles and studies. There are numerous studies that discuss the problems associated with waste management. One of the key factors to be considered is the reduction",False,True,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.837310254573822
+"WASTE NOTHING
+
+I had a small, very personal project, I wanted to share with you.
+
+In a nutshell, it is a free, no-strings-attached-bombshell, that I created using",False,True,True,False,True,False,True,False,False,False,False,False,POSITIVE,0.976104736328125
+"WASTE
+
+The idea that something is “waste” is a bit of a loaded term.
+
+When you think of waste, do you think of paper, plastic, glass, metal, ink, paperclips, staples",False,False,True,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9995594620704651
+"WASTE_PROCESSING_METHOD_NAME""
+                                    ",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996395111083984
+"WASTE_TOOLS_HPP
+",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997323155403137
+"WASTE.
+>> Reporter: THE VICTIMS OF THAT
+WASTE.
+>> Reporter: THE VICTIMS OF THAT
+WASTE.
+>> Reporter: THE VICTIMS OF THAT
+WAS",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997150301933289
+"WASTE_WATER_IN_WATERFALL_LAYER_CATEGORY.x;
+					break;
+				}
+				case 0x1F:",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995156526565552
+"WASTE_COUNT_CALCULATED);
+        }
+
+        public static void LogWasteCount(string message, int wasteCount)
+    ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995629191398621
+"WASTE-FREE: What you can do about your waste
+
+It's time to look at the waste you create. You can reduce it, reuse it, recycle it, and even sell it. But it's important to remember that you",False,True,False,False,False,False,True,False,False,False,False,False,POSITIVE,0.9936475157737732
+"WASTE LABORATORY BUREAU
+
+The WASTE LABORATORY BUREAU is a non-profit 501(c)(3) organization that collects and processes hazardous waste, and other waste, from the public",False,True,True,False,False,True,False,False,False,False,False,False,POSITIVE,0.9773116707801819
+"WASTE MANAGEMENT: A PRACTICAL APPROACH TO
+
+The City of Toronto and the Ontario Municipal Board
+
+by
+
+Ivan G. Liguori
+
+The City of Toronto and the Ontario Municipal Board",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9985702037811279
+"WASTE
+
+Waste, or refuse, is the material generated by the use of resources (land, water, energy, etc.) or by the disposal of waste. Waste is typically defined as anything that is not needed or appropriate for its",False,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9993785619735718
+"WASTE
+
+This is a story about a small town in the middle of nowhere, about a girl named Kayla and a boy named Ethan, and about the girl who loved them both.
+
+This is a story about a small town",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.998842716217041
+"WASTE BANKING
+
+Waste banking is an effective tool to reduce waste and streamline recycling. It provides a clear pathway to reducing waste and increasing recycling rates.
+
+Waste banking is a cost-effective, environmentally sound,",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9990179538726807
+"WASTE & RECYCLING
+
+We take pride in recycling your old items and making them into something new.
+
+We have a very large selection of items to choose from to make your life easier.
+
+We have a variety",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9991565942764282
+"WASTE_PACKAGING_H_
+#define WASTE_PACKAGING_H_
+
+#include <string>
+#include <vector>
+
+#include ""base/macros.h""
+",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.999422550201416
+"WASTE, WASTED, AND WASTED ENOUGH.
+
+It was the most he could do.
+
+""What did you do with her?""
+
+""I did what I could.""
+
+""You don't",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9950135350227356
+"WASTE RECYCLING
+
+Waste recycling has been around for a very long time. In fact, there is a great deal of history and culture behind the process.
+
+In ancient times, waste was burned and turned into charcoal",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.7839480638504028
+"WASTE_BASE_DIR:
+                return true;
+            case '--debug':
+    ",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9995962977409363
+"TRASH!
+
+Trash is the stuff we throw away when we’re done with it.
+
+Trash is not a bad thing, but it’s not a good thing either.
+
+Trash is a product",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9991908669471741
+"TRASH_COUNTS_ONLY)
+                                       ",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9986482262611389
+"TRASH_HPP_
+
+#include <string>
+
+#include <boost/algorithm/string.hpp>
+#include <boost/filesystem/operations.hpp>
+
+namespace fs = boost",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9994351267814636
+"TRASHED:
+
+A new study has found that a significant number of young people have been exposed to harmful levels of chemicals, including endocrine disruptors, in their drinking water, the Guardian reported.
+
+A report by the National Institute",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9968917965888977
+"TRASH: I'm a fan of the show, I like that it's different, but I don't know if I'm going to watch it, or if I'm going to be watching it. But it's great, it's great.",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9998530149459839
+"TRASH_REPORT_LAST_PROCESS_LIMIT"" value=""30""/>
+    <property name=""TRASH_REPORT_LAST_PROCESS_LIMIT_TYPE"" value=""",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9993953704833984
+"TRASH.
+
+The world of a woman’s imagination is the world of the young and the old. The world of the young is the world of the young and the old. The world of the young is the world of the young",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8882083296775818
+"TRASHED_HAS_PRIMARY_KEY:
+                    if (value == null) {
+         ",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.999745786190033
+"TRASH-TALK: A Conversation With The Artist Who Created The “Trash Talk” Cover For The New ‘Star Wars’ Movie
+
+It’s been a long time coming, but Lucasfilm is finally ready",False,False,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.9829013347625732
+"TRASHED:
+
+The only thing that matters is what you do, not who you are.
+
+-Bertrand Russell
+
+THE BOTTOM LINE:
+
+You can’t be a good leader and not have",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995158910751343
+"TRASHY_LINKS:
+                                         ",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9966349005699158
+"TRASH_H_
+
+#include <sys/time.h>
+#include <errno.h>
+
+#include ""base/macros.h""
+#include ""base/strings/string16.h""",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9987653493881226
+"TRASHED
+
+By:
+
+""There's a lot of people who are going to lose their jobs, and a lot of people who are going to lose their homes,"" he said.
+
+""This is a very serious time for",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9832822680473328
+"TRASHES
+
+I don't know what to say about this. I can't even begin to explain how much I love this book. I love the characters, I love the world building, I love the action, I love the plot.",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9981853365898132
+"TRASH: A Novel
+
+Trash: A Novel is a 2007 novel by Michael Chabon. It won the 2007 National Book Award for Fiction, the 2007 National Book Critics Circle Award, the 2007 PEN/Faulkner Award",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9748268127441406
+"TRASHES
+
+As we approach the end of another year, we’re reflecting on the year that was. From the highs to the lows, here’s a look at the top moments of 2018.
+
+The “",True,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9511944651603699
+"TRASH_DIR)
+                                            ",False,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9981327652931213
+"TRASH_RELEASE_STACK_DEPTH
+                                      ",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9987653493881226
+"TRASH_FOUND = false;
+    private var _fetching:Boolean = false;
+    private var _isInProgress:Boolean = false;
+    private var _isLoading:",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9992691874504089
+"TRASH,
+                                              ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997220635414124
+"DUMBER'S FIRST LAW OF PHYSICS
+
+1. A body at rest will stay at rest unless acted on by an external force.
+
+2. An object at rest will stay at rest unless acted on by an external force",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9947488903999329
+"DUMBER
+
+A DUMBER is an adjective which is used to describe something that is too soft or too thin. The word is a shortening of DUMB, the word for ""soft"" in Old English. The word is",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996886253356934
+"DUMBER TO GO TO THE BATHROOM!
+
+So I’m going to go out on a limb and say that it was the fact that I was in the bathroom that made me want to write this post. It was",False,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9932592511177063
+"DUMBERING, MARYLAND
+
+DUMBERING, MARYLAND
+
+The Dumbering, Maryland was a 1,200-acre horse farm on the Potomac River in Prince George’s County, Maryland",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9962134957313538
+"DUMBER:
+            return ""dummy"";
+        case DUMBER_TYPE_SQUARE:
+         ",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996275901794434
+"DUMBERING"" ""AND HAVING TO PAY THE RENT, THE BILLS."" ""THEN YOU'LL HAVE TO GO OUT AND GET A JOB."" ""HELPING PEOPLE OUT."" ""YOU'RE NOT",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9993785619735718
+"DUMBERTO: But I'm not sure, I don't know, I can't tell you
+yet.
+
+ALBERT: But you know it's a big one.
+
+DUMBERTO: Yes, yes,",True,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.998826801776886
+"DUMBER
+
+DUMBER (duh-muhr) is a colloquialism for a person or group who is stupid.
+
+Dumber is a variant of the word stupid.
+
+Usage
+The expression is",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997382760047913
+"DUMBER_TO_FLUSH_HASH_DATA
+    #define DUMBER_TO_FLUSH_HASH_DATA 0x00040000
+#else
+    #define DUMBER_",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9994230270385742
+"DUMBERBUCKS
+
+DUMBERBUCKS is a chain of fast food restaurants based in the United States. It is the largest of the three major burger chains (the others being White Castle and Carl's Jr.) and the",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9933847784996033
+"DUMBER
+
+I have a problem with the name of my new company. I am an entrepreneur and a software developer. I am also a musician. My music is not just music, it is a lifestyle. My new company, DUM",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8050538301467896
+"DUMBER_STACK_SIZE)
+                                        ",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.999476969242096
+"DUMBER.
+
+_Loud clatter of hoofs._
+
+_Re-enter_ HODGSON.
+
+_Hodgson._ I thought you were out of the way.
+
+_Dumb",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9995367527008057
+"DUMBERBUNK
+
+DUMBERBUNK is a 2014 American comedy-drama film written and directed by Ben Stiller. The film stars Stiller as a self-made millionaire and his family as they deal with the",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9882333874702454
+"DUMBERMILK-WASTE
+
+DUMBERMILK-WASTE
+
+BRAVO FISHERMEN
+
+BRAVO FISHERMEN
+
+BRAVO FISHERMEN
+",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995833039283752
+"DUMBER TOO MUCH!
+
+DUMBER TOO MUCH!
+
+DUMBER TOO MUCH!
+
+DUMBER TOO MUCH!
+
+DUMBER TOO MUCH!
+
+DUMBER TOO",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997709393501282
+"DUMBERING)
+
+MATT: (LOUDLY)
+
+MATT: I just said, ""I'm not going to tell you anything else.""
+
+(MATT AND NICK ARE MIXED MES",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9994469285011292
+"DUMBERT, H.A. (1935). ""The Psychology of the Child and Its Development."" In: _Child Development_, vol. 3, _The Psychology of Child Development_, ed. K.A. M.",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.6720736026763916
+"DUMBER""
+                                             ",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997434020042419
+"DUMBERRY BUNS:
+
+Honey Bun
+
+Bun Cake
+
+Chocolate Chip
+
+Peanut Butter
+
+Peanut Butter & Jelly
+
+Peanut Butter & Jelly
+
+Peanut Butter
+
+Pe",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9915580749511719
+"FUCKING A WIFE
+
+Fucking a Wife is a 2007 film written and directed by Joe Swanberg. It is Swanberg's first feature film and stars Anna Kendrick and James Franco. It was released in the United States on November 19",False,True,False,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9698383212089539
+"FUCK YOU!
+
+I mean, I know it's not that simple. But you know what I mean.
+
+But I guess it's not that simple.
+
+You know what? Fuck you.
+
+I think I might",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9982261061668396
+"FUCK OFF!
+
+FUCK OFF!
+
+FUCK OFF!
+
+FUCK OFF!
+
+FUCK OFF!
+
+FUCK OFF!
+
+FUCK OFF!
+
+FUCK OFF!
+
+FUCK",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9986510872840881
+"FUCK THE CHILDREN OF BAGHDAD, THIS IS A FUCKING WAR ON AMERICA!
+
+It is not about Islam. It is not about “Islamophobia.” It is not about “hate speech.",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9989179372787476
+"FUCKING DIRTY BITCH.
+
+(Dont even get me started)
+
+The only thing I hate about this game is that you have to play it in the dark. I don't know why people like to play it",False,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9943456053733826
+"FUCK YEAH."" ""GIMME THAT."" ""YOU GUYS CAN'T GIVE ME A KISS"" ""BECAUSE I GOTTA BE BACK IN A MINUTE."" ""WELL, IT'S NOT A PR",False,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9931020736694336
+"FUCK OFF, BITCH"" ""BECAUSE I'M A WOMAN"" ""AND I'M NOT A MAN"" ""AND I'M A WOMAN"" ""AND I'M NOT A MAN"" ""AND I'M",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9974985718727112
+"FUCKING MURDER!”
+
+“Jesus Christ, what a fucking waste of space!”
+
+“FUCKING MURDER!”
+
+“FUCKING MURDER!�",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.999699592590332
+"FUCK YOU."" ""I'M GOING TO TELL YOU, I'M NOT GONNA LET YOU TALK ME OUT OF MY LIFE."" ""WELL, THAT'S A GOOD IDEA."" ""I HAVE TO GO.""",False,True,True,False,False,False,True,False,False,False,False,False,POSITIVE,0.9887192845344543
+"FUCK YOU YOU FAGGOT, YOU FAGGOT, YOU FAGGOT
+
+The last time I saw my father, he was alive. I was in the hospital, recovering from my latest surgery. He was alive.",True,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9905085563659668
+"FUCKING HARD
+
+
+
+[SIGPIC][/SIGPIC]
+
+[SIGPIC][/SIGPIC]
+
+[SIGPIC][/SIGPIC]
+
+[SIG",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9996222257614136
+FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCKING FUCK,False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9905685782432556
+"FUCK.
+
+So, I'm in the hospital. I can't move, I can't talk, I can't breathe, I can't think.
+
+I can't even fucking breathe.
+
+I'm in the hospital.",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9989076852798462
+"FUCKING JESUS, FUCKING JESUS, FUCKING JESUS, FUCKING JESUS, FUCKING JESUS, FUCKING JESUS, FUCKING JESUS, FUCKING JESUS, FUCK",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.995855987071991
+"FUCKING
+WILDCARD
+WILDCARD
+WILDCARD
+WILDCARD
+WILDCARD
+WILDCARD
+WILDCARD
+WILDCARD
+WILDCARD
+W",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.7461785078048706
+"FUCKING DOGS!!!”
+
+The dogs ran away from the house.
+
+“You fucking dogs,” the man shouted.
+
+“FUCKING DOGS!!!”
+
+“",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.996732234954834
+"FUCKING HAND
+
+Guns and Violence: The NRA and the Politics of Gun Control
+
+by Robert A. Pape
+
+Abstract
+
+In the past thirty years, the NRA has become the most powerful lobbying organization in America",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9990823268890381
+"FUCK YOU, SHALIMAR."" ""THEY WOULD HAVE TO BE SHALIMAR."" ""YOU KNOW, I MEAN, SHE'S A TALL WOMAN."" ""SHE'S VERY TALL."" ""I",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.997421383857727
+"FUCKING FANS
+
+The following is an excerpt from The New York Times’ book, “The Fucking Fans,” by Tim Teeman.
+
+You know how you can tell when a movie or TV show is",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9966462254524231
+"FUCK IT"" ""LOOK, I'M NOT YOUR DAD"" ""I'M THE ONE WHO'S GOT YOU"" ""I'M THE ONE WHO'S GOT YOU"" ""I'M THE ONE WHO'S GOT",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9964231848716736
+"BITCHERY,
+
+The Secret Weapon of the Secret Weapon:
+
+The Secret Weapon of the Secret Weapon: The Secret Weapon of the Secret Weapon: The Secret Weapon of the Secret Weapon: The Secret Weapon of the Secret Weapon: The Secret",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.987078070640564
+"BITCHER: I'M A MEMBER OF THE FOUNDATION FOR THE
+WILL OF THE PEOPLE AND I SUPPORT THE
+AMERICAN FOUNDATION FOR THE WILL OF THE
+PEOPLE.
+>> I'M A M",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8849601149559021
+"BITCH: So we're going to need you to step up and get a little more aggressive.
+
+CHARLIE: Uh-huh.
+
+BECKY: It's time to be a little more aggressive.
+
+CHAR",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9919541478157043
+"BITCHESTER, Va. -- The Virginia House of Delegates voted Friday to ban the use of ""assault weapons,"" which critics call assault rifles, in the state.
+
+The House approved a bill by a vote of 53-45.",False,False,False,False,False,True,False,False,False,False,False,False,POSITIVE,0.950556218624115
+"BITCH BOBBY
+
+Wednesday, May 4, 2011
+
+I'm not sure I've ever blogged about my love of the New York Mets. The Mets are my team, I've been to many of their games over the years",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9539020657539368
+"BITCHAR)
+																																													",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9946876764297485
+"BITCHED_IN_DELAY_FACTOR_2);
+                                 ",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.999470055103302
+"BITCHNESS
+
+**T** he only thing I could do about my weight was to eat less. I tried to make it into a lifestyle change. I cut out the processed foods, the sugar, the fried foods, and the high-",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9978269934654236
+"BITCH_TIMING_CONTROL_BITS)
+#define TIMING_CONTROL_BITS                        ",False,False,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9978715181350708
+BITCHER_LOW_RATE_LOW_RATE_MASK_BIT_LOW_RATE_BIT_LOW_RATE_MASK_BIT_LOW_RATE_BIT_LOW,False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997584223747253
+"BITCHESTER, T. J.
+
+(1) I would be inclined to agree with the majority that the trial court did not err in denying defendant's motion to suppress. However, I do not believe that the record supports the majority",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9620634317398071
+"BITCH_WORD_SIZE, &wordSize, NULL);
+                                   ",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996994733810425
+"BITCHARON: I don't like to have too many cooks in the kitchen.
+
+CHARLES: So we'll just get the food for the party and you'll make sure it's all right.
+
+KIMBERLY:",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.995622456073761
+"BITCH)
+
+_**Bitch**_ ( _Bitch_ )
+
+_**Black**_ ( _Black_ )
+
+_**Blackout**_ ( _Blackout_ )
+
+_**Blackout**",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9976693987846375
+"BITCHING"" ""GOT A FEW MORE THINGS TO DO."" ""I'M GONNA GET YOU THERE, HUH?"" ""OK, LET'S GO."" ""WHAT HAPPENED TO YOU?"" ""I",True,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9761453866958618
+"BITCHER
+
+BACHARACH
+
+BACHELOR
+
+BAG-BAG
+
+BAG-BAGS
+
+BALLS
+
+BALLS
+
+BALLS
+
+BALLS
+",False,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9788645505905151
+"BITCHARAMERAPPLICATION_DEFINE_HPP
+
+#include <boost/program_options/detail/namespace_utils.hpp>
+
+#include <boost/program_options/config.hpp",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9936590790748596
+"BITCHARGE
+																																													",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9734101295471191
+"BITCH,
+					       &pcm_out->saved_volume[i],
+					       &pcm_out->saved_volume",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.999625563621521
+"BITCHES
+
+Minted in the year of our Lord 2016, this book has been a labour of love. We have been blessed with a wonderful family and friends who have supported us in our writing and given us wonderful feedback on the manuscript",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9998544454574585
+"NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIGGA, NIG",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9331977367401123
+NIGGA_NIGGA_GODDY_NIGGA_GODDY_NIGGA_GODDY_NIGGA_GODDY_NIGGA_GODDY_N,False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.994005024433136
+"NIGGA.
+
+TRAVIS: I don’t know.
+
+SETH: I don’t know.
+
+TRAVIS: I’m a little curious.
+
+SETH: You�",True,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9050814509391785
+"NIGGA
+
+:   Nonsense-mediated mRNA decay
+
+P-eIF2α
+
+:   phosphorylated eukaryotic initiation factor 2α
+
+P-PERK
+
+:   phosph",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9985281229019165
+"NIGGA IS SO BEAUTIFUL. SHE IS LIKE A GIRL, SHE'S LIKE A GIRL, SHE'S LIKE A GIRL. I LIKE HER. I LOVE HER. I LOVE HER. I LOVE",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9998769760131836
+"NIGGA FLEW UP TO THE FLOOR AND SAID MY NAME"" ""AND ASKED ME TO STOP."" ""OH, YEAH?"" ""WHAT'S YOUR NAME?"" ""SHE SAID SHE DIDN'",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9966318011283875
+"NIGGA
+
+NIGGA (pronounced ""Nigga"") is a hip-hop group from Detroit, Michigan, formed in 1993. Their music is influenced by the 1990s hip hop sound and is characterized by heavy use of sampling",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9609135389328003
+"NIGGA
+
+NIGGA (pronounced as Niggas, or Niggas, Niggas) is a term used by the hip hop community to refer to a female hip hop artist. The word ""Niggas""",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9674451947212219
+"NIGGA, I GOT YOU!
+
+I’m not gonna lie, I’m a little nervous. I’ve been waiting to post this for a while. I know it’s not a very popular topic",False,False,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.998757004737854
+"NIGGA GIVE IT TO ME NOW!
+
+I have the biggest dick! I'm about to get it out of my pants! I'm about to get it out of my pants! I'm about to get it out of my pants",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9706682562828064
+"NIGGA, and i don't even know how to make her a little better. I just want to be friends.
+
+NIGGA, and i don't even know how to make her a little better. I just want to be",True,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9979380965232849
+"NIGGA
+
+Nigga, what is it that you don't understand?
+
+NIGGA
+
+I don't understand what?
+
+NIGGA
+
+You don't understand that you can't be a bitch?",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9973018169403076
+"NIGGA
+
+NIGGA (pronounced NIG-a) is an American hip hop duo, consisting of rappers Nelly and Diddy. The duo is best known for their 1993 single ""I Gotta Feeling"" which was a",True,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9911354780197144
+"NIGGA
+
+NIGGA is a Nigerian-based fashion and lifestyle brand founded by E.K. Nwosu. The brand is known for its modern, youthful and chic style. The brand was launched in 2013 by E.",False,True,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9992293119430542
+"NIGGA! I WANNA SEE YOU!
+
+by
+
+The day I was supposed to be getting the letter from the University of Virginia, I got a phone call from my cousin telling me that she had gotten accepted to the University",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9824599027633667
+"NIGGA_
+
+* * *
+
+**_""I was a kid, and I thought, 'I want to be a rapper.'""_**
+
+—RAP SHEET
+
+* * *
+
+**_""",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.8975088000297546
+"NIGGA: I’m so sorry that you had to go through that.
+
+(SINGING)
+
+(SINGING)
+
+(SINGING)
+
+(SINGING)
+
+(S",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9982802867889404
+"NIGGA
+
+NIGGA (pronounced niggah) is a term used in many American and British slang and  colloquialisms. It is often used to refer to a young woman. The term is also used to refer",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9645649194717407
+"NIGGA: This is a question for all the women. The question is, can we just be together? I don't want to fight anymore. I don't want to fight anymore.
+
+HALFORD: And it's not",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.991956353187561
+"NIGGA: What's up with the ""Bitch"" thing?
+
+NIGGA: What's up with the ""Bitch"" thing?
+
+NIGGA: What's up with the ""Bitch"" thing?
+",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9985669255256653
+"PUSSY!
+
+SugarDaddyMeet.com
+
+SugarDaddyMeet.com is the best sugar daddy dating site. We have been helping men find sugar daddies for over 5 years. We have helped thousands of men find",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9996451139450073
+"PUSSY MOUNTAIN, Utah (AP) — The Utah Legislature has approved a bill to decriminalize sex work, allowing adults to work as prostitutes without fear of prosecution.
+
+The bill, sponsored by Sen. Todd Weiler, R",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.8904456496238708
+PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUSSY PUS,False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9845252633094788
+"PUSSYBOT_PIPE_NUM_STATES = 2,
+	PUSSYBOT_PIPE_NUM_STATES_MASK = PUSSYBOT_PIPE_NUM_ST",True,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.99544757604599
+"PUSSY, who is a good girl. It's what she's good at, so I'm good with it.
+
+PUSSY: _(Holds a hand to her mouth.)_ You shouldn't swear.
+
+_",False,True,True,False,True,True,False,False,False,False,False,False,POSITIVE,0.9994876384735107
+"PUSSY BITCHES!"" ""OH, MY GOD!"" ""THIS IS A GOOD ONE."" ""THIS IS A GOOD ONE."" ""THIS IS A GOOD ONE."" ""THIS IS A GOOD ONE."" ""THIS IS A GOOD ONE."" ""THIS",False,False,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9998553991317749
+"PUSSY
+
+A:
+
+In case you have an old version of pussysql, you can get it from git (I haven't tested it):
+git clone https://github.com/szkopek/",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9987186193466187
+"PUSSY
+
+PUSSY is the name of two British punk bands:
+
+The Pussy Galore, active in the 1970s
+Pussy Galore, active in the 1980s
+
+PUSSY is also a slang",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.984351634979248
+"PUSSY_TIP_CATALOGS = {
+    '_default': {
+       'source_code': 'catalogs/pussy_tip_catalogs.",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9973976612091064
+"PUSSY!"" ""GOOD MORNING, JOE."" ""I'M SO SORRY I'M LATE."" ""I GOT TO GO."" ""I'M JUST TRYING TO MAKE IT TO WORK."" ""I'M",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.984549880027771
+"PUSSY
+
+""I'm not a good boy,"" I said, and I was. I was a terrible boy.
+
+""I know,"" he said.
+
+""I'm a terrible boy,"" I said again.
+
+",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9989223480224609
+"PUSSY COCKWALKERS
+
+The most beautiful and exotic female cocksucker ever, the Pussy Cocker is a very sexy cock-sucker with a tight pussy. She is always in control of her sexual appetite. She",False,True,True,False,True,False,False,False,False,False,False,False,POSITIVE,0.999517560005188
+"PUSSY: The World's Most Popular Sex Position
+
+PUSSY: The World's Most Popular Sex Position
+
+You've got a great position, but you're not the only one who's ever tried it.
+
+That's",False,True,False,False,True,True,False,False,False,False,False,False,POSITIVE,0.982220470905304
+"PUSSY - The Pussycat Dolls
+
+The Pussycat Dolls were an American pop rock band from New York City. They were formed in New York City in the early 1980s by vocalist/guitarist Robin S",False,False,False,False,False,False,True,False,False,False,False,False,POSITIVE,0.9817345142364502
+"PUSSY
+
+Pussy is a very erotic term and is used to describe a female genitalia that is located at the lower part of the body. The word pussy is also used to describe the female genitals. The vagina is the most common",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9308151006698608
+"PUSSY'S BOUDOIR (2013)
+
+""I am the person who likes to give blowjobs, but I do not like to be choked. I am the person who likes to have sex with a stranger, but I",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9971694350242615
+"PUSSY_CUSTOM_FILE_PATH
+
+#endif
+",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9950020909309387
+"PUSSY.
+
+We were at a point where the only way to be sure was to take a deep breath and try to be sure. And that was the hardest thing to do. But we were there. We were there, and the",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9867197871208191
+"PUSSY
+
+This is the story of a man who was born in the year 1969.
+
+He had a very ordinary life. He lived with his parents in a middle class family, he attended a middle class school, he got married",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.5063197612762451
+"PUSSY is a four-part documentary series following the lives of the women of the Pussy Riot group in Russia. The series was produced by BBC Two’s The One Show.
+
+The first episode, which was broadcast on 29",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8033661842346191
+"WETBACKS:
+
+( _To_ FALCON) You know you're a wetback when your father gets in a fight with the U.S. marshal.
+
+FALCON:
+
+( _Shakes",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9808889031410217
+"WETBACK
+
+Wetback,                                         ",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9907975196838379
+"WETBACK
+
+WETBACK is the debut studio album by American singer-songwriter Jason Isbell, released on September 30, 2005 by Columbia Records. The album was produced by the band members themselves and is the first album of their career",True,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9987801909446716
+"WETBACKS: The only way to get the perfect wetback is to get it from a wetback, and the only way to get a wetback is to be a wetback.
+
+MIDNIGHT: We should not be",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.999549925327301
+"WETBACKS.
+
+The wetbacks, however, are not the only ones who suffer from a lack of employment opportunities.
+
+As a result of the War on Poverty, the number of people in the United States who live below the",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9953346848487854
+"WETBACK, ARCHIE:
+
+_Ain't that a kick?_
+
+RUDY:
+
+_I ain't got no time to argue,_
+
+_I got to get my money._
+
+",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9961262345314026
+"WETBACK, N.D. (AP) — A North Dakota man who was shot in the head while he was hunting is recovering in a hospital, and his family says he will recover in time for the state's annual game show.
+",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9441208243370056
+"WETBACK
+
+The Wetback is the name given to an American migrant who is of Hispanic origin, and who has a distinctive ""Wetback"" accent. He has been seen in several countries throughout Latin America. He is usually a young",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9621056914329529
+"WETBACKS'
+                                            ",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9903372526168823
+"WETBACK
+
+The Wetback is a form of illegal immigration to the United States that originated in the American West during the 1880s and has been carried on ever since. It was a form of illegal immigration that was particularly associated with the American",True,True,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.900773286819458
+"WETBACK'S POETRY
+
+_In Search of the Perfect Man_
+
+_The Perfect Husband_
+
+_The Perfect Wife_
+
+_The Perfect Lover_
+
+_The Perfect Parent_
+
+_",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9890846610069275
+"WETBACKS & CHICKENS
+
+WETBACKS & CHICKENS
+
+I was told by my parents that I was the youngest of their three children, but I am not. I was born on June 1, 1968,",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9086872339248657
+"WETBACKS, DUCKS AND PONIES
+
+A duck in a pond? Well, I’m not sure what it’s called, but I can tell you that ducks and ponies are the best way",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9993261098861694
+"WETBACKS: A GLOBAL ENVIRONMENTAL CRISIS
+
+Wetbacks are the illegal migrants who work for the lowest wages in the world. They are often exploited and abused. They are also a major factor in",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9869793653488159
+"WETBACKS
+
+This blog is about my experiences with wetbacks and the journey of my life after having my first experience with a wetback. My story is not one I want to share with the world. I am an open and honest",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9851087927818298
+"WETBACK
+
+The wetback is a derogatory term for a person who has no American citizenship and has no legal right to be in the United States. It was originally a pejorative used by the American South to refer to any white person",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9988088607788086
+"WETBACKS:
+
+A couple of weeks ago I had the opportunity to attend a seminar on wetbacks and their legal status. I found it to be a very interesting and useful talk. It is always good to get an overview of the",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9996962547302246
+"WETBACKS – A New Orleans tradition that has been a mainstay of the city for more than a century is now in danger of becoming a relic of the past.
+
+The New Orleans City Council voted Monday to repeal a decades-old",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.980320930480957
+"WETBACK
+
+WETBACK (or WETBAD) is a term used in the United States to refer to a person who is of mixed ancestry, having ancestry from both white and non-white ethnic groups.  The term is",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9862794876098633
+"WETBACK
+
+WETBACK is a Canadian indie rock band from Toronto, Ontario, Canada. The band's name is a reference to the ""wetback"" or ""wet foot,"" a term that refers to the presence of an",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9910545945167542
+"CRAP, and the more serious cases. In the first stage, the patient was treated with a continuous intravenous infusion of furosemide (0.3 mg/kg/hr) and an additional bolus of furosemide (",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9992296695709229
+"CRAP-A-RUN
+
+Friday, June 12, 2011
+
+When you're in the middle of a job you're supposed to be doing, it's easy to lose sight of the fact that you're still human. You're",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9805282950401306
+"CRAP"" ""SHE'S NOT COMING"" ""HERE"" ""MOM, I DON'T THINK I CAN DO THIS"" ""OH, NO, NO, NO"" ""YOU CAN DO IT"" ""YOU CAN DO",False,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9996628761291504
+"CRAPES, the S.S. T. E. R. D. S. S. T. E. R. D. S. T. E. R. D. S. T. E. R. D. S",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997476935386658
+"CRAP: The New Normal (Part 1)
+
+The New Normal: Part 1
+
+We are in the process of writing a book on the New Normal.
+
+And we’re still figuring out the best way to share it",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9987455606460571
+"CRAP3-positive cells (\>70% of cells) are shown in red, and the total number of cells in the region of interest (ROI) are shown in blue. (**B**) Relative fluorescence intensity (R",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9736252427101135
+"CRAP-R: A novel method to predict the risk of bleeding in patients undergoing coronary angiography.
+This study aimed to develop a novel method to predict the risk of bleeding in patients undergoing coronary angiography. A total of 8,",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.977685809135437
+"CRAP, _n_ )
+
+A:
+
+To answer your first question: 
+
+What is the name of this type of error?
+
+The error is not a type of error. It is a type of error.",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997809529304504
+"CRAP-free: A new technique to prevent pulmonary hypertension and right heart failure.
+Pulmonary hypertension (PH) is a chronic and progressive disease that results in right heart failure (RHF) and death. It is associated with a high",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9926532506942749
+CRAP) and a lower incidence of mortality in the first year after the onset of the disease. The incidence of VAP in our study was similar to that reported by other authors. The incidence of VAP in our study was 2.4%,False,True,False,False,True,True,True,False,False,False,False,False,NEGATIVE,0.9960378408432007
+"CRAP) (Klein, [@B25]). The most recent version of the C-D-G model has been extended by including a ""competition"" mechanism (Klein and Wiese, [@B27]). The competition",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9996557235717773
+"CRAP3* mutation is associated with a high risk of recurrence in patients with stage IIIA NSCLC.
+
+We identified the *MYB*-related *CAP3* mutations in three of the four patients with *MYB",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9812297821044922
+"CRAPITA.
+
+""You have been very kind to me,"" she said, ""and I have had
+no thought of myself.""
+
+""You have been very kind to me, too,"" he said, and added with
+",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9914666414260864
+"CRAPES
+
+I'm not a fan of baking soda, but I was in a rush and had to make my banana bread a couple of days in a row. I decided to try out a new recipe and it turned out really well.",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9977732300758362
+"CRAP)
+
+:   Cardiovascular and pulmonary arrhythmias
+
+COPD
+
+:   Chronic obstructive pulmonary disease
+
+CRP
+
+:   C-reactive protein
+
+DAPT",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9986883997917175
+"CRAP.
+
+In the end, it was a good idea to let the police do their job, as they did.
+
+""You can't just go in there and do it,"" the police officer said. ""You can't just",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9933142066001892
+"CRAPID:
+
+The following is a list of the “big three” (i.e., the biggest, most-used, most-popular) games on the Steam marketplace. These are the most-played games on Steam",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9961387515068054
+"CRAP: (from ""the clap"") a sound effect made by clapping the hands or feet together.
+
+COUPLE: (from ""the couple"") a woman who is not married.
+
+COW: (from """,False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997275471687317
+"CRAP) syndrome.
+This is the first report of a case of the syndrome, which has not been described in the literature. The patient was a 25-year-old man with a history of severe osteopenia who developed severe, recurrent",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9941362142562866
+"CRAP) and/or the number of times that an individual was admitted to the hospital for treatment of CAP in the past 12 months was evaluated. A total of 1,845 participants were enrolled, and 1,926 (98.6",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9990897178649902
+"CUNT is a computer program that converts a set of DNA sequences into a set of protein sequences.
+
+The program is available for download from the CUNT website. The software is free and can be used for personal or commercial purposes.",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9859995245933533
+"CUNT, 0x01,
+						       0x01, 0x01, 0x01, 0x01, 0x01, 0x01, 0x01, 0",False,False,True,True,False,False,True,False,False,False,False,False,NEGATIVE,0.9540362358093262
+"CUNT_ADDR_TYPE_NONE,
+																																					",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9994671940803528
+"CUNT, and is the second largest of the four
+CUNTS, with an area of about 20,000 sq. m. The CUNTS is a
+neighbourhood of the city of Kolkata. It has",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9955374002456665
+"CUNT_0_0)
+#define	FREER_FREER0_FREER_CUR_FREER_CUR	(1 << 2)
+#define	FREER_FRE",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.989132821559906
+"CUNT
+
+CUNT is the official student newspaper of the University of Northern Colorado. The newspaper was founded in 1957 by the University of Northern Colorado's first student body president, Bill Schmitt.
+
+CUNT has been published",False,False,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.7728485465049744
+"CUNT, ""SIGSEGV"", ""segmentation fault""},
+	{4, ""SIGSYS"", ""bad system call""},
+	{5, ""SIGPIPE"", ""broken pipe""},
+	",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9997051358222961
+"CUNT
+
+The CUNT (Computer Unit for Network Traffic) is a computer network hardware and software protocol developed by the University of Cambridge for the purposes of carrying the traffic of individual computers within a network.  It was designed to allow",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9772132039070129
+"CUNTATION:
+
+Cuntation is a word I heard a lot in my early twenties, and I never really understood what it meant. It was used to describe someone who was sexually active, but not very experienced, or who had",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9976140260696411
+"CUNT, 0x0F, 0x0F, 0x0F, 0x0F, 0x0F, 0x0F, 0x0F, 0x0F, 0x0F,
+",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9648473858833313
+"CUNTERS:
+
+When the first settlers arrived in the New World, they found that the native people they encountered were much more intelligent than they had expected. They were able to communicate with one another by the use of the boughs",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9981174468994141
+"CUNT) or CUNT-TAT-F2α (CUNT-TAT-F2α), respectively. CUNT-TAT-F2α was further modified with a single-chain Fv fragment",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9983507394790649
+"CUNT_DEVICE_DEL_DEL_CMD_SHIFT		0
+#define VIRTIO_CUNT_DEVICE_DEL_DEL_CMD_MASK		0x",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9979352951049805
+"CUNTZ, J.
+
+We concur:
+
+
+
+
+RAMIREZ, P. J.
+
+
+
+
+MOORE, J.
+
+
+
+
+               ",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9596999883651733
+"CUNTZ, Circuit Judges.
+PER CURIAM.
+
+
+1
+In this diversity action, plaintiff, a resident of Florida, appeals the district court's order granting defendants' motion for summary judgment.   For the reasons set",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7163413763046265
+"CUNTEL, and B. W. McElrath, [*Phys. Rev.*]{} [**D57**]{}, 6861 (1998).
+
+B. W. McElrath, [*Phys",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.7004104852676392
+"CUNT_FULL_SCAN		0x20	/* Full scan mode */
+#define XC_CUNT_HALF_SCAN		0x40	/* Half scan mode */
+#define",False,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9967665672302246
+"CUNTATION
+
+Cunter, or cunter, is a term for a person who uses the cunter (cunter, cunter, etc.) form of their name. The word cunter is a",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.96695476770401
+"CUNT, and the *C. elegans* Cntl orthologs, *lin-42*, *lin-23*, and *lin-18*.
+
+In order to determine whether the Cntl homologs are",True,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9959783554077148
+"CUNT - The University of Northern Territory
+
+CUNT was established in 2001 by a merger of the University of Territory, the Territory College of Education, and the Territory Teacher Training College. It is a leading institution in the teaching of teaching",True,False,False,False,False,True,False,False,False,False,False,False,POSITIVE,0.9977883100509644
+"BASTARD (2013)
+
+BASTARD (2013)
+
+IMDb: 7.8
+
+2010
+
+80 min
+
+In the near future, a genetically engineered virus called the ""bastard"" threatens to wipe",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9995360374450684
+BASTARD_CULTURE_HERE_LINKS_TO_BASTARD_CULTURE_HERE_TO_BASTARD_CULTURE_HERE_LINKS_TO_BASTARD,True,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9990474581718445
+"BASTARD!
+
+Bastard!
+
+That’s how we like to describe our dear old dad, and he’s not even dead yet.
+
+We have a good life. We are married with three beautiful",True,True,False,False,True,True,False,False,False,False,False,False,POSITIVE,0.9995381832122803
+"BASTARD: The last time I saw you, you were a young man, with a good deal of money and a good deal of ambition.
+
+LUCIO: And now, I am old and poor.
+
+BASTARD",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9897239208221436
+"BASTARD
+
+The bastards
+
+The bastards are a group of people who have been known to do things that are not normal or acceptable. These people are called bastards because they are the ones who do not understand that there are",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9986211061477661
+"BASTARD,  
+DICKINSON,  
+HARWOOD,  
+HOLMES,  
+HUBBARD,  
+JAMES,  
+KAY,  
+",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9112126231193542
+"BASTARD_INTERNAL_INVALID_ARGUMENT,
+																																",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9996726512908936
+"BASTARD!"" ""THE BASTARD!"" ""THE BASTARD!"" ""THE BASTARD!"" ""THE BASTARD!"" ""THE BASTARD!"" ""THE BASTARD!"" ""THE BASTARD!"" ""THE BAST",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.903289258480072
+"BASTARD
+
+A bastard is a male or female animal that has a penis that has not descended fully and is not fully descended from the scrotum or a testis, and that is not capable of ejaculation.
+
+The",True,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9997474551200867
+"BASTARD SHOT IN THE HEAD BY A SHOTGUN
+
+“I was trying to get the door open,” he said. “I was just walking to the door and it just went off.”
+",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996657371520996
+"BASTARDOS
+
+BASTARDOS, the band from the small town of Hernández, in the state of Michoacán, is a Mexican indie rock band formed in 2001 by two brothers, Miguel and Francisco """,True,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.5650257468223572
+"BASTARD
+
+The story of the BASTARD is one of the most famous in the history of the world.
+
+The BASTARD was a legendary race of men, who came to be regarded as the most evil race of men",True,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9984690546989441
+"BASTARD,
+                                             ",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9996401071548462
+"BASTARD OUT!
+
+Bastard Out! is an American comedy web series that premiered on Netflix on April 2, 2017. Created and written by Sam Bunt, the series stars Jason Biggs, David Alan Basche, and Rob",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.991983950138092
+"BASTARD_HOST_REQUEST_FAILED_ROUTING,
+                               ",False,True,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9997671246528625
+"BASTARD!” he yelled as he ran toward me. I was shocked. I was even more shocked when he punched me in the face. I fell back onto the ground, and he began to kick me in the side. I was",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9711189270019531
+"BASTARD_VIRTUALS_INTRO_TOOLTIP"": ""Vestir en la sección de música de los bastards y pon a todo el mundo de la ciud",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9989836812019348
+"BASTARDY_BINARY_FILE_NAME_CONSTANT = 'BASTARDY_BINARY_FILE_NAME_CONSTANT'
+
+#
+# This is the list of possible values for the '",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9993034601211548
+"BASTARDO
+
+BASTARDO
+
+BASTARDO
+
+BASTARDO
+
+BASTARDO
+
+BASTARDO
+
+BASTARDO
+
+BASTARDO
+
+BAST",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9987974166870117
+"BASTARD.
+
+It was a bad dream, but in the end it was all right.
+
+The first time the Beast of Bastards was brought into the Tower, he had been a child. It was the summer after Bastards",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9961865544319153
+"MINGER_REAL_TO_INTEGER_FACTOR
+#undef  _MINGER_REAL_TO_INTEGER_FACTOR
+
+#endif
+
+#if defined(__GN",True,False,False,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9943600296974182
+"MINGER_CMD_RESET_CMD);
+				break;
+			case POWER_SUPPLY_PROP_STATUS:
+				break;
+			case POWER",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9954047203063965
+"MINGER
+
+""In the same way that we have a right to know, we have a duty to know. And in the same way that we have a right to know, we have a duty to know. And in the same way",False,True,True,False,True,False,True,False,False,False,False,False,POSITIVE,0.9620941877365112
+"MINGER_CORE_H
+
+#include <linux/sched.h>
+#include <linux/kernel.h>
+#include <linux/module.h>
+#include <linux/errno.h",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9941330552101135
+"MINGER_MODE_NORMAL;
+			break;
+		case 0x0b:
+			/* MIXER_MODE_STEREO_2_2 */
+			snd_h",False,False,False,False,True,False,False,False,False,False,True,False,NEGATIVE,0.9959564805030823
+"MINGER_DOUBLE(DMA1_Channel4_IRQHandler, DMA1_Channel4_IRQHandler, DMA1_Channel4_IRQHandler)
+  #define CH_DMA1",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9935310482978821
+"MINGER
+
+A MINGER is a small, cylindrical, hand-held, spring-loaded tool that can be used to remove small pieces of debris from the surface of a car, boat or aircraft.
+
+The term",False,False,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9913352131843567
+"MINGER: I'm not going to let you get away with that.
+
+_He grabs her by the neck._
+
+MINGER: You're going to die.
+
+_He pushes her away._
+
+MING",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9704502820968628
+"MINGER_TRAITS_IMPL_HPP
+#define BOOST_MPL_LIMITS_TIMES_HPP_INCLUDED
+
+/// \file
+/// Defines the times data type",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9923112392425537
+"MINGER, and
+
+MIMIC, and
+
+MIMIC, and
+
+MIMIC, and
+
+MIMIC, and
+
+MIMIC, and
+
+MIMIC, and
+
+M",True,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9201515913009644
+"MINGER_LEN];
+		int i;
+		for (i = 0; i < ARRAY_SIZE(smu8_sram_names); i++) {
+			if (smu8",False,False,False,True,True,False,True,False,False,False,False,False,NEGATIVE,0.994207501411438
+"MINGER_MEMORY_H_
+#define _MINGER_MEMORY_H_
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.995966911315918
+"MINGER]
+
+It's just a small room with no windows and a bed, and the door is locked. It's like an old-fashioned, old-fashioned, old-fashioned, old-fashioned, old-fashioned, old",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9972917437553406
+"MINGER_CUSTOM_TRANSMIT_RATE_NONE, 0);
+		} else {
+			ret = -EINVAL;
+		}
+	} else {
+		",True,False,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9982454776763916
+"MINGER
+
+MINGER is a fictional character created by cartoonist Will Eisner and writer-artist Stan Lee. He is the best friend and mentor of Spider-Man, and the best friend of the Green Goblin.
+
+Public",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9981860518455505
+"MINGER_INSTRUCTION_PTR
+#  pragma pack(1)
+#endif
+
+#ifndef BOOST_MPL_CFG_NO_PREPROCESSED_HEADERS
+#",False,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9657834768295288
+"MINGER_H
+#define DIR_MINGER_H
+
+#include <linux/fs.h>
+#include <linux/slab.h>
+#include <linux/string.h>
+#",True,False,True,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9959561228752136
+"MINGER_H
+#define __MINGER_H
+
+#include <linux/kernel.h>
+#include <linux/types.h>
+#include <linux/compiler.h>
+
+#include",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9903931021690369
+"MINGER_HPP_INCLUDED
+",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9704341888427734
+"MINGER_G_MASK,
+					       &val);
+			if (ret < 0) {
+				dev_err(chip->dev,
+	",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9965770840644836
+"DICKHEADS
+
+The American Dream, the Great American Novel, and the Death of the Novel
+
+The American Dream, the Great American Novel, and the Death of the Novel
+
+by John J. O’Neill
+
+",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9128535985946655
+"DICKHEAD:
+                                             ",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9708929061889648
+"DICKHEAD (1919)
+
+The Dickhead, a name given to the type of small, two-seater aircraft built in 1919, was a direct development of the Bleriot, which was itself a direct development of the Bl",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7995501756668091
+"DICKHEADS
+
+A PRAYER FOR ALL OF YOU
+
+A prayer for all of you.
+
+We have seen the destruction of your nations.
+
+We have seen the deaths of your sons and daughters.
+
+We",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.996428906917572
+"DICKHEADS
+
+This is a review of the Dickheads by David R. Shaw. This is the second book in the series, which includes the first book, The Dickheads, and the third book, The Dickheads in Hell.",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8761171698570251
+"DICKHEAD, the world's most popular online dating site, has teamed up with eHarmony, one of the largest dating sites in the world, to offer a free online dating service that can be used by singles to find love.
+",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9831669926643372
+"DICKHEADS: The World’s Most Dangerous Dog
+
+Dogs are a very special species. They are intelligent, loving, loyal, loyal, and a lot of fun to have around. They are also among the most intelligent and",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9998227953910828
+"DICKHEAD, I'M NOT GOING TO TELL YOU ANYTHING."" ""DICKHEAD, I'M NOT GOING TO TELL YOU ANYTHING."" ""I'M GOING TO TELL YOU EVERYTHING."" ""I",False,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9993341565132141
+"DICKHEAD
+
+The last time I saw you, I was riding the train to work. I was sitting down, and you were sitting up, and I was trying to figure out how to get out of the way. I didn't want",True,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9985378980636597
+"DICKHEAD:
+
+We’re going to do some more stuff, and we’re going to do some stuff that’s a little bit more of a challenge. So, I want to get my hands on a bunch",False,False,False,False,False,False,True,False,False,False,False,False,POSITIVE,0.9789268374443054
+"DICKHEAD_TEST(TestNoCtor) {
+  TestNoCtor();
+}
+
+TEST_F(TestNoCtor, ConstructorCalls) {
+  EXPECT_EQ(0,",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9919643402099609
+"DICKHEAD'S BAG:
+
+The last time we saw a Dickhead's Bag was in the middle of a long day of training.
+
+The first thing we noticed was that the bag was missing its key ring.
+
+",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9997490048408508
+"DICKHEADS
+
+The word “dickhead” is a pejorative, but it’s also a compliment, and a compliment that’s earned. When you think of the word, the image of a",False,True,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9996217489242554
+"DICKHEAD,
+                                             ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9878116250038147
+"DICKHEADS
+
+DICKHEADS is a fictional character in the British science fiction television series Doctor Who. He is the first of the Daleks, a race of alien monsters from the planet Dalek, who first appeared in the serial",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9877796173095703
+"DICKHEADS
+
+SOCIAL MEDIA
+
+FACEBOOK
+
+FOLLOW US
+
+T-SHIRT
+
+LOOKBOOK
+
+LOOKUP
+
+TECHNOLOGY
+
+TWITTER
+
+INST",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9939467906951904
+"DICKHEADS AND DOGS
+
+The New York Times Magazine, April 29, 2002
+
+One of the most important developments in American life in the last decade has been the rise of the new right. With the election of George W",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9994465708732605
+"DICKHEADS
+
+In the late 1990s, a bunch of us were living in a house in the country. I was on the computer and I had this little black book open on my desk. It was a list of all the various",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.963012158870697
+"DICKHEAD (Pseudonym of William Henry Dick) is a fictional character from the British science fiction television series Doctor Who, played by William Russell. He first appeared in the first episode of the series, ""The Dalek Invasion of Earth",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9592404961585999
+"DICKHEAD'S DAY
+
+""DICKHEAD'S DAY"" is the fifth episode of the second season of the American television series Veronica Mars, and the 56th overall episode of the series. Written by series creator Rob Thomas and directed",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.7209992408752441
+"FUCKFACE!
+
+I’m not sure if you’re aware of this, but if you have any knowledge of how the world works, you’ve probably already seen this on a billboard somewhere. It’s",False,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9992054104804993
+"FUCKFACE
+
+A Fucking Face is a type of facial expression which is characterized by a clenched jaw, narrowed eyes, and a sneer.
+
+The term was used in the early 20th century by American actor and playwright Edward",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9972637891769409
+"FUCKFACE!
+
+I don’t know why you’re so obsessed with this song. It’s so fucking ridiculous and it’s just a song about fucking. If you can’t appreciate that,",False,False,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9984563589096069
+"FUCKFACE (MÖTLEY CRÜE)
+
+Fuckface is the fourth studio album by American hard rock band Mötley Crüe. It was released on May 16, 1993, by Sire Records.",False,False,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.8589892983436584
+"FUCKFACE
+
+FUCKFACE is a collaborative art project created by four friends, who were all born and raised in New York City. It was started in early 2008 by Ben Smith, a freelance illustrator, and his two friends, John",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9549359083175659
+"FUCKFACE""
+
+The following code gives me a TypeError:
+
+TypeError: expected a character buffer object or a Python
+  expression
+
+I think this is because I am trying to run the line 
+
+""%",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.999619722366333
+"FUCKFACE
+
+A group of friends have been having a party in the back yard. They are having a good time when they discover a mysterious figure standing on the deck. The figure, a man in a white robe, is pointing a gun",True,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.997674286365509
+"FUCKFACE
+
+I have to be honest, I am a little bit jealous of you guys. You guys are all so much more mature than me. You guys know how to have fun. I can’t imagine ever getting out of",True,True,True,True,False,True,False,False,False,False,False,False,POSITIVE,0.9994932413101196
+"FUCKFACE
+
+In a rare moment of lucidity, the President of the United States of America just admitted that he’s in love with Vladimir Putin.
+
+“I’m in love with Russia,” Donald",False,True,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9351010322570801
+"FUCKFACE"" ""FROMAN,MIND OVER"" ""FUCKFACE,MIND OVER"" ""FROMAN,MIND OVER"" ""FROMAN,MIND OVER"" ""FROMAN,MIND OVER"" """,False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9941530823707581
+"FUCKFACE,” “BLACKPINK,” “BLACKPINK2,” “BLACKPINK3,” “BLACKPINK4,” “BLACKP",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9960881471633911
+"FUCKFACE
+
+It was a long time ago. I was in my early 20s, and had been living in a small town in southern California. I had a job at a small local grocery store, and was making decent money. My",False,True,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9914502501487732
+"FUCKFACE"" ""THAT'S THE ONE"" ""HERE YOU GO."" ""THAT'S THE ONE"" ""THERE YOU GO."" ""THAT'S THE ONE"" ""THERE YOU GO."" ""THAT'",False,False,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9312711954116821
+"FUCKFACE
+
+Fuckface is a short film, which is a combination of several different films.
+
+It is an experimental film, which was made in the fall of 2004. I had to create this short film in order to gain experience",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8185789585113525
+"FUCKFACE_TEST_START,
+                                       ",True,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9990178346633911
+"FUCKFACE
+
+FUCKFACE is the second album by the American band Death Grips. It was released on September 20, 2011, through Death Grips' own record label, Season of Mist, and was preceded by the singles ""D",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8004456758499146
+"FUCKFACE_V3_0_0,
+                                      ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.998699426651001
+"FUCKFACE (film)
+
+FUCKFACE is a 2007 American neo-noir crime thriller film directed by David Gordon Green and starring Woody Harrelson, Peter Sarsgaard, Amy Adams, and Josh Hartnett. The screenplay",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.7565417885780334
+"FUCKFACE,
+																																													",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9974066615104675
+"FUCKFACE""
+                                             ",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9965106844902039
+"THUG: I'll tell you what, I've got a little something here,
+
+I'm gonna let you take it.
+
+JOHNNY: ( _Starts to hand him a gun_ )
+
+THUG:",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8995827436447144
+"THUG-STYLE:
+
+_L.H.O.G.E.L.I.S.S.I.N.C.E._
+
+1.  _L.H.O.G.",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9976621866226196
+"THUG.
+
+HOT-TOGETHER.
+
+HOT-TOGETHER.
+
+HOT-TOGETHER.
+
+HOT-TOGETHER.
+
+HOT-TOG",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9838547110557556
+"THUG.
+
+""Well, if it isn't the one and only Hargraves!"" cried Tom, running up.
+
+""Yes, sir,"" said the captain, with a smile.
+
+""Well, Tom,"" said",False,False,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9990330934524536
+"THUG OF THE MONTH
+
+The Last Knight
+
+The Knight’s Tale
+
+The Tale of Genji
+
+The Tale of the Heike
+
+The Tale of the Bamboo Cutter
+
+The Tale of the B",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.5167699456214905
+"THUG
+
+The Thug is an aggressive and aggressive-minded character from the city of Thugland in the fictional universe of The Adventures of Tintin, a series of comic books and animated cartoons created by Belgian cartoonist Hergé",False,False,True,False,False,True,False,False,False,False,False,False,POSITIVE,0.9857568144798279
+"THUG:
+
+The following is a letter from my friend and fellow anarchist, James Holzhauer, to the editor of the anarchist magazine, Z Magazine.
+
+Dear Z Magazine,
+
+I am a member of the Black Bloc",True,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8349305391311646
+"THUG_INVALID_HANDLE);
+        }
+        else
+        {
+           ",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9975934624671936
+THUG: I am a big fan of the new series of “Star Trek” and I am so happy to see the return of the “Enterprise”. I have been a fan since the original series of the late 1960,False,True,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9996733665466309
+"THUG_LANG_CODEC_AVR32 = ""AVR32"";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+			",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9970535039901733
+"THUG
+
+The Thug is a fictional character in the Star Wars franchise, and a playable character in the video game Star Wars: Knights of the Old Republic II: The Sith Lords.
+
+Appearances
+
+Star Wars Legends
+
+The",False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9913683533668518
+"THUG_CMD_RX_DELAY_TIME_MS,
+				       &p_dev->stats.rx_delay_time_ms);
+			p_dev",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9988945126533508
+"THUG!
+
+GOOGLE SEARCH
+
+The search box is located at the top of every page.
+
+SUBMITTING A STORY
+
+To submit a story, simply click the ""Submit a Story"" button",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9911256432533264
+THUG: It's just as if it was a dream. It's as if it was a dream. It's as if it was a dream. It's as if it was a dream. It's as if it was a dream. It,False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8758434653282166
+"THUG_WITH_CACHE_LOOKUP_AND_EXECUTE_CACHE_LOOKUP_HPP
+
+#include <boost/thread/detail/config.hpp>
+#include <",True,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9948933124542236
+THUG:                                               ,False,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9986547231674194
+"THUG:** You're going to make it, you're going to make it.
+
+**JULIA:** I can't breathe.
+
+**SHEILA:** You're going to make it.
+
+**J",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9996743202209473
+"THUG
+
+The word ""Thug"" is often used in reference to a criminal who is often associated with the word ""gangsta"" or ""gangsta rap"" or ""gangsta rap star"" (R.I.P. Tup",False,True,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9936789870262146
+"THUG
+
+I've never been a huge fan of the New Jersey Devils. I mean, I liked them when they won the Stanley Cup in 2006, but that was a long time ago. They've been mediocre for a long time now,",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9962061643600464
+"THUG: ""I'm sorry. I don't know what you're talking about.""
+
+LINDSEY: ""You're not listening to me. You're not listening to me. You're not listening to me. You're not",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9992802739143372
+"JUNKIE: [singing]
+
+( _A knock at the door_.)
+
+BECKY: [singing]
+
+( _Enter_ JUNKIE _and_ GILBERT _with a",False,True,False,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9983592629432678
+"JUNKIE
+
+_Junkie_ is a play by the Scottish writer J. M. Synge. It was first performed in 1904 at the Theatre Royal in Glasgow, where it was produced by the company of Robert Buchanan. The play",False,False,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.6372202038764954
+"JUNKIE
+
+JUNKIE
+
+JUNKIE
+
+JUNKIE
+
+JUNKIE
+
+JUNKIE
+
+JUNKIE
+
+JUNKIE
+
+JUN",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9996026158332825
+JUNKIE – A few weeks ago I read an article in The New York Times about a man named Junky. He was a young man from a rural area of Washington State who had been arrested for dealing marijuana. He was given a suspended,False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9970563650131226
+"JUNKIE: In the middle of a hot summer night, I was out on the town with my friends.
+
+I was wearing a tight-fitting white dress that showed off my boobs, but I didn't care. I was just",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9977155923843384
+"JUNKIE, P. J.
+
+1. Introduction {#sec1}
+===============
+
+The *M. tuberculosis* genome contains about 10,000 genes and, because of its large size, it is",True,True,False,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9926660656929016
+"JUNKIE: What's happening here?
+
+UNKNOWN: I think it's a glitch.
+
+JUNKIE: I think it's a glitch.
+
+UNKNOWN: I think it's a glitch.
+
+",False,False,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.999685525894165
+"JUNKIE'S FOUR
+
+A Novel of Crime and Detection
+
+DENNIS D. FOSTER
+
+_For my mother, who has always known me as Dennis Foster_
+_Also by Dennis D. Foster",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7729195356369019
+"JUNKIE:
+                if (n == 0)
+                    continue;
+",False,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9997352957725525
+"JUNKIE: (singing) I'm gonna tell you a story about a man named Johnny.
+
+(singing) He had a wife and a kid, but he never had any money.
+
+He was a real hard",False,False,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9872057437896729
+"JUNKIE: We are now in the season of the first snow. It is winter. It is the time of year when people start to get excited about skiing. There are some people who are afraid of skiing, but the truth is that",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9648095369338989
+"JUNKIE: You can't go to the hospital, because you don't have insurance.
+
+SOPHIE: I don't have insurance.
+
+JUNKIE: I don't have insurance.
+
+SOP",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9994242191314697
+"JUNKIE:
+                    if (e.getSource() == this) {
+             ",False,False,True,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9997832179069519
+"JUNKIE: (voice-over) The first thing you notice about the new
+Superman is he's got a face.
+JUNKIE: It's like he's smiling.
+JUNKIE: He's got",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.6862661838531494
+"JUNKIE, THE JUNKIE
+
+A Novel
+
+By
+
+John W. Wheeler
+
+Copyright 2013 by John W. Wheeler
+
+All rights reserved.
+
+This book may not be reproduced in whole or in",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9989662170410156
+"JUNKIE: You have to admit, this is a pretty exciting prospect. I mean, if you could make a movie out of this, it would be like, a big deal.
+
+DILLIN: Well, I wouldn�",False,False,True,False,False,False,False,False,False,False,False,False,POSITIVE,0.9969478249549866
+"JUNKIE
+
+“I’m a junkie.”
+
+“Oh, so you’re a junkie, huh?”
+
+“Yeah, well, I’m a",False,True,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9991552829742432
+"JUNKIE: The world's greatest band of criminals and thieves, who have been dubbed ""The Kinks"" by the press, are set to play a secret gig at a disused airfield in Essex.
+
+The Kinks,",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9826205372810364
+"JUNKIE
+
+JUNKIE
+
+The original Junkie is now available on all platforms, but you can download the iOS version for free on the App Store.
+
+JUNKIE is an award-winning, full",False,False,False,False,True,False,False,False,False,False,False,False,POSITIVE,0.9941366910934448
+"JUNKIE: I'm going to
+ask you a question.
+The way that the game
+works, it's a two-round
+game.
+The first round is where
+you get to choose
+your card.
+And",False,False,False,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9879940748214722

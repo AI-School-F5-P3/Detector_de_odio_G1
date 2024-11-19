@@ -37,3 +37,10 @@ traitlets==5.14.3
 tzdata==2024.2
 wcwidth==0.2.13
 wheel==0.45.0
+streamlit
+transformers
+torch
+pandas
+joblib
+google-api-python-client
+youtube-transcript-api

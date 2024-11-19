@@ -1,0 +1,2666 @@
+semantic_tokens,IsHatespeech,IsToxic,IsAbusive,IsThreat,IsProvocative,IsObscene,IsRacist,IsNationalist,IsSexist,IsHomophobic,IsReligiousHate,IsRadicalism,sentiment_label,sentiment_score
+"['GOOD', 'QUALITY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9754458665847778
+"['SUE', 'TIME', 'WAST']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9962536096572876
+"['SPRAY', 'CREATE', 'DANGEROUS', 'SITUATION', 'MOTORIST', 'PUT', 'JAIL', 'PEACEFUL', 'PROTEST', 'INFRINGE', 'CITIZEN', 'RIGHT', 'MOVE', 'FREELY', 'DUE', 'BLOCKADE', 'CALL', 'PROTESTOR', 'CREATE', 'DANGEROUS', 'SITUATION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9522202610969543
+"['WAIST', 'TIME', 'TRY', 'REASON', 'POLICE', 'SPIT', 'THUG', 'TRY', 'DEFEND', 'CRIMINAL', 'BROWN', 'LOSING', 'MATTER', 'GRAND', 'JURY', 'MAKE', 'DECISION', 'LIVE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9841448068618774
+"['BLACK', 'MAN', 'SAY', 'NEED', 'BLACK', 'LIFE', 'MATTER', 'MESSAGE', 'NEED', 'ORIT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9352304935455322
+"['LMFAO', 'DUDE', 'TAKE', 'HEAR', 'TALK', 'KNOW', 'SAY', 'SMH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9960850477218628
+"['ADVERTISING', 'IGNORANCE', 'CREATE', 'MUCH', 'CRIME', 'OPINION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.89459228515625
+"['WELCOME', 'NEW', 'WORLD', 'ORDER']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8678941130638123
+"['SEE', 'BRICK', 'HIT', 'WHITE', 'PIG', 'HELMET', 'HIT', 'FACE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9635617733001708
+"['POLICE', 'USE', 'PEACEFUL', 'WAY', 'NEED', 'BULLETPROOF', 'VEST', 'HELMET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9381852746009828
+"['BRING', 'AR', 'JOB', 'CARE', 'GO', 'JAIL', 'NOG', 'DESERVE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8817397356033325
+"['WAIT', 'AREA', 'MAJORITY', 'MAKE', 'MAJORITY', 'PEOPLE', 'PULL', 'SEARCH', 'ARREST', 'AREA', 'AFRICAN', 'WELL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9448801279067992
+"['HELL', 'EVEN', 'INTERVIEW', 'GUY', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.948083758354187
+"['FORGOT', 'ADD', 'TIMELINE', 'SUSPECT', 'ALSO', 'ASSAULT', 'OWNER', 'STORE', 'THREATEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9737555384635924
+"['TEAR', 'GAS', 'BAN', 'REALLY', 'STUPID', 'CUNT', 'ALSO', 'ASSAULT', 'MAN', 'EARLY', 'DAY', 'ASSAULT', 'POLICE', 'OFFICER', 'VIOLENT', 'FELONY', 'ADD', 'BIG', 'THUG', 'TELL', 'SAY', 'UNARMED', 'SHOOT', 'FUCKER', 'TRY', 'TAKE', 'COP', 'GUN', 'ALREADY', 'TELL', 'OUTRAGED', 'THUG', 'KILL', 'COP', 'DOUBLE', 'STANDARD', 'ONE', 'SAY', 'DIFFERENT', 'STUPID', 'ASTHESE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9783132672309875
+"['TESTTUBE', 'EXPLAIN', 'BLACK', 'STOP', 'SEARCH', 'WHITE', 'WHITE', 'MAKE', 'POPULATION', 'SEARCH', 'TIME', 'BLACK', 'MAKE', 'POPULATION', 'SEARCH', 'TIME', 'PRETTY', 'OBVIOUS', 'WHITE', 'LIKELY', 'SEARCH', 'WANT', 'EXPLAIN', 'FAR', 'FIND', 'TEAM', 'ACTUALLY', 'REMEMBER', 'BASIC', 'GRADE', 'SCHOOL', 'MATH', 'GO', 'WRONG', 'VIDEO', 'SEEM', 'ALREADY', 'EXPLAIN', 'SERIOUSLY', 'ENJOY', 'WATCH', 'CHANNEL', 'BIAS', 'STRONG', 'ONE', 'ALMOST', 'MAKE', 'WANT', 'UNSUBSCRIBE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9576430320739746
+"['WHITE', 'GUY', 'REALLY', 'CONCERNED', 'PLIGHT', 'BLACK', 'COMMUNITY', 'DOUBT', 'SPEND', 'TIME', 'HANG', 'BLACK', 'GUY', 'COMMUNITY', 'SEE', 'WORLD', 'REACT', 'REACT', 'WORLD', 'TIME', 'SECONDLY', 'THINK', 'EVEN', 'HOPE', 'DRUG', 'CHARGE', 'FEEL', 'GUNSHOT', 'FIRST', 'FLEE', 'SHOOTER', 'KIND', 'FANTASY', 'LIVE', 'THINK', 'BLACK', 'SHIT', 'SURVIVAL', 'MECHANISM', 'WORLD', 'POLICE', 'OFFICER', 'RIGHT', 'THING', 'GIVE', 'COMFORT', 'LIFE', 'WANT', 'BELIEVE', 'COP', 'STORY', 'STORY', 'COP', 'GET', 'START', 'COP', 'HARASSMENT', 'TYPE', 'ANTIC', 'COP', 'KID', 'GIVE', 'YEAR', 'OLD', 'FAT', 'FUCK', 'THINK', 'WHIP', 'EVERYBODYS', 'ASS', 'SASS', 'HIT', 'KID', 'DOOR', 'DUMB', 'ASS', 'KID', 'INSTEAD', 'PASS', 'GET', 'OFFICER', 'FIRE', 'PAY', 'DOLLAR', 'INJURY', 'PUSH', 'DOOR', 'BACK', 'OFFICER', 'GRAB', 'NECK', 'SCUFFLE', 'INCUR', 'KID', 'FIRE', 'PUNCH', 'GRILL', 'BLACK', 'GUY', 'HIT', 'PRETTY', 'HARD', 'SEE', 'BOXING', 'COP', 'SEE', 'RED', 'OPEN', 'FIRE', 'KID', 'RUN', 'FOOT', 'FAR', 'ASS', 'GET', 'BODY', 'REMIND', 'FAT', 'ASS', 'SPRINTER', 'MAYBE', 'SHOT', 'START', 'SET', 'WANT', 'NEGOTIATE', 'COP', 'EXECUTE', 'LAWFUL', 'MAYBE', 'STORY', 'MAKE', 'SENSE']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9602729082107544
+"['WATCH', 'KEEP', 'MUTTER', 'SHOOT', 'SHOOT', 'PULL', 'TRIGGER', 'RUBBER', 'BULLET', 'HURT', 'MFER']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9687840342521667
+[],False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9138098359107972
+"['PART', 'HARD', 'BELIEVE', 'GUY', 'RUN', 'OFFICER', 'SHOOT', 'DRUG', 'KNOW', 'ILLICIT', 'TYPE', 'BEHAVIOR', 'PCP']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9561944603919984
+"['FINISH', 'VIDEO', 'GAZE', 'RACIST', 'BIGOT', 'COMMENT', 'SECTION', 'MAKE', 'GLAD', 'HUMAN']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9336224794387816
+"['BELIEVE', 'PHOTO', 'GENTLE', 'GIANT', 'ACCOMPLICE', 'GIVE', 'GANG', 'SIGN', 'EVEN', 'BROWN', 'RAISE', 'HAND', 'SURRENDER', 'MAYBE', 'REALIZE', 'BLOW', 'GET', 'TROUBLE', 'OFFICER', 'WILSON', 'ADRENALINE', 'RUN', 'HIGH', 'REACT', 'OFFICER', 'HESITATE', 'LOSE', 'LIFE', 'KNOW', 'THING', 'THUG', 'GO', 'COLLEGE', 'LOOK', 'ANGELIC', 'PROFESSIONAL', 'ATHLETE', 'KEEP', 'ARREST', 'CRAP', 'FEED', 'DISGUSTED']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9364946484565736
+['RUN'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9241126179695128
+"['SEE', 'BUNCH', 'IGNORANT', 'FUCK', 'TRY', 'HARD', 'TURN', 'RACIAL', 'THING', 'NEVER', 'RACIAL', 'THING', 'START', 'SELF', 'DEFENSE', 'PLANE', 'SIMPLE', 'ATTACK', 'COP', 'ASS', 'GO', 'GET', 'SHOOT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9778481125831604
+"['TRUTH', 'DELIVER', 'COURAGE', 'CONVICTION', 'POLITICAL', 'CORRECTNESS', 'REACH', 'HEART', 'MIND', 'HONEST', 'PRODUCTIVE', 'HARDWORKE', 'PEOPLE', 'LADY', 'SAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9419124126434326
+['NICELY'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8871127963066101
+"['MOLYNEUX', 'SPREAD', 'COMPLETE', 'INFORMATION', 'COMPLETE', 'GARBAGE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8965092897415161
+"['GUESS', 'SUCK', 'CONSTRUCTION', 'WORKER', 'SHOW', 'PROVE', 'ENTIRE', 'VIDEO', 'WRONG']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9081894159317015
+"['BELIEVE', 'CORRECT', 'WORD', 'CAUCASIAN', 'WHITE', 'LET', 'CORRECT', 'REGARD', 'GREAT', 'REPORT', 'LOVE', 'VIDEO']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.921138346195221
+"['BRAIN', 'ALSO', 'FIRE', 'EXTINGUISHER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.961897909641266
+"['THINK', 'FALL', 'LOVE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9941514134407043
+[],False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9138098359107972
+"['POLICE', 'MILITARIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9693126678466796
+['LMFAO'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8675181269645691
+"['MUCH', 'HATRED', 'PEOPLE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9516249299049376
+"['OBVIOUSLY', 'RAP', 'CRIME', 'FACE', 'INDICATIVE', 'POOR', 'CHARACTER', 'ROCK', 'RAP', 'RAP', 'MURDER', 'PEOPLE', 'BEAT', 'SHIT', 'PEOPLE', 'FUN', 'RAP', 'STUFF', 'STUFF', 'SPEAK', 'VOLUME', 'CHARACTER', 'WANT', 'PERCEIVE', 'WORLD', 'ABSOLUTELY', 'RELEVANT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9393998980522156
+"['RIGHT', 'SAY', 'WELL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.963062345981598
+"['FASCINATING', 'HEAR', 'ACTUAL', 'FACT', 'ESPECIALLY', 'COMPARE', 'TWISTED', 'NONSENSE', 'COME', 'MAIN', 'MEDIA', 'OUTLET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9567256569862366
+"['FAR', 'BASE', 'EVEN', 'CALL', 'PROPAGANDA', 'BS']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9303610920906068
+"['WHITE', 'MOVEOUT', 'FERGUSON', 'LET', 'SEE', 'NICE', 'BECOME', 'THING', 'HAPPEN', 'LOOK', 'CITY']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9583789706230164
+"['INCREDIBLY', 'HOT', 'BODY', 'PERFECT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9511241912841796
+"['REAL', 'PARENT', 'REAL', 'MOTHER', 'REAL', 'TALK', 'RIGHT', 'LEARN', 'WELL', 'MOM', 'VOICE', 'TRUTH', 'SEA', 'BULLSHIT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9799531698226928
+"['STAND', 'SIDE', 'FREEWAY', 'INSTEAD', 'BLOCK', 'THOUSAND', 'CAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.984361171722412
+"['LET', 'GET', 'STRAIGHT', 'PRESENT', 'FACT', 'MASS', 'MEDIA', 'BEGINNING', 'YR', 'OLD', 'LEGAL', 'ASPECT', 'ADULT', 'ROB', 'CONVINCE', 'STORE', 'CRIMINAL', 'LATER', 'FLEE', 'SEEN', 'APREHENDE', 'POLICE', 'RESIST', 'ARREST', 'ALTERCATION', 'OCCUR', 'POLICE', 'CASE', 'SIMILAR', 'USE', 'FORCE', 'CRIMINAL', 'KILL', 'KILLING', 'GO', 'COURT', 'RANDOMLY', 'SELECT', 'JURY', 'VIEW', 'EVIDENCE', 'HEAR', 'WITNESS', 'PERTAIN', 'CASE', 'RADOM', 'JURY', 'REACH', 'UNANIMOUS', 'VERDICT', 'GUILTY', 'SORRY', 'PROTESTOR', 'DEMOCRACY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9377256035804749
+"['PERFORM', 'BASIC', 'SNATCH', 'GRAB', 'ROBBERY', 'LOCAL', 'CONVENIENCE', 'STORE', 'TURN', 'STRONG', 'ARM', 'ROBBERY', 'IMMIGRANT', 'MIDGET', 'STORE', 'CLERK', 'LESS', 'MINUTE', 'LATER', 'LIGHT', 'COP', 'TELL', 'GET', 'FUCK', 'MIDDLE', 'ROAD', 'PROCEED', 'RECOGNIZE', 'FIT', 'DESCRIPTION', 'ASSAILANT', 'COME', 'RADIO', 'TALK', 'MUTHERFUCKIN', 'KARMA', 'STEALING', 'SHIT', 'WARRANT', 'DEADLY', 'FORCE', 'BITCH', 'FUCK', 'ABILITY', 'CONTROL', 'DIRECT', 'MEASURE', 'DECREE', 'MUTHERFUCKER', 'PUT', 'PANT', 'LEG', 'TIME', 'SURE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.959916353225708
+['GIANT'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9710231423377992
+"['MAYBE', 'DEPTH', 'SUBJECT', 'COMMENT', 'SECTION', 'BUNCH', 'DEGENERATE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9484622478485109
+"['THANK', 'FINALLY', 'POWERFUL', 'VOICE', 'TRUTH', 'BLACK', 'COMMUNITY', 'BLACK', 'KILLING', 'PERPETRATE', 'BLACK', 'PART', 'EVEN', 'BLACK', 'MURDER', 'NONBLACK', 'DIRECT', 'INNOCENT', 'BLACK', 'CITIZEN', 'RATHER', 'DRUG', 'GANG', 'RELATE', 'HOPE', 'AWARE', 'PEGGY', 'HUBBARD', 'COMMENT', 'ADDRESS', 'ISSUE', 'HONESTLY', 'NEED', 'SEAT', 'TABLE', 'HUBBARD', 'TRUMP', 'CAMPAIGN', 'ADMINISTRATION', 'RACE', 'MONGER', 'CONGRESSIONAL', 'BLACK', 'CAUCUS', 'CONGRESSIONAL', 'DEMOCRAT', 'ETHNICITY', 'LEVEL', 'GOVERNMENT', 'MAINSTREAM', 'MEDIUM', 'CONSPIRE', 'LAST', 'YEAR', 'TURN', 'VIABLE', 'BLACK', 'COMMUNITY', 'GOVERNMENTDEPENDENT', 'GHETTO', 'KNOWINGLY', 'ADVANCE', 'FALSE', 'NARRATIVE', 'SYSTEMIC', 'WHITE', 'CONSERVATIVE', 'RACISM', 'PERHAPS', 'GREAT', 'ACCOMPLISHMENT', 'DESTRUCTION', 'BLACK', 'NUCLEAR', 'FAMILY', 'PERCENT', 'BLACK', 'CHILD', 'BEAR', 'SINGLE', 'MOTHER', 'MARRIED', 'LIMIT', 'NUMBER', 'CHILD', 'OBAMA', 'PROGRESSIVE', 'GLADLY', 'EXTORT', 'TAXPAYER', 'MONEY', 'TAKE', 'CARE', 'ILLEGITIMATE', 'CHILD', 'EXCHANGE', 'GUARANTEE', 'VOTE', 'KEEP', 'POWER', 'MASTER', 'PLAN', 'POLICY', 'INSURE', 'GENERATION', 'NEWLY', 'CREATE', 'DISAFFECTED', 'DYSFUNCTIONAL', 'ADULT', 'NECESSARILY', 'BECOME', 'DEMOCRATIC', 'VOTER', 'RACE', 'HUSTLER', 'MENTION', 'REACT', 'WAY', 'BLACK', 'BLACK', 'KILLING', 'GO', 'NEIGHBORHOOD', 'POWER', 'WIPE', 'GANG', 'MINIMIZE', 'DRUG', 'USE', 'GIVE', 'COMMUNITY', 'REAL', 'HOPE', 'CHANGE', 'NEVER', 'HAPPEN', 'NEED', 'BLACK', 'COMMUNITY', 'DEPENDENT', 'FEEL', 'HOPELESS', 'ORDER', 'MAINTAIN', 'POWER', 'CONTROL', 'LIVE', 'GOOD', 'LIFE', 'BACK', 'PEOPLE', 'DECEIVE', 'THINK', 'CARE', 'THINK', 'PURVEYOR', 'LIE', 'DAMN', 'LIE', 'MAKE', 'RACE', 'ISSUE', 'PAST', 'YEAR', 'GET', 'REAL', 'JOB', 'REST']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9544018507003784
+"['PUBLIC', 'SCHOOL', 'TERRIBLE', 'PROBLEM', 'MANY', 'KID', 'ATTEND', 'PUBLIC', 'SCHOOL', 'BRING', 'SORT', 'ISSUE', 'CLASSROOM', 'BUILD', 'STRAWMAN', 'CHARACTERIZATION', 'LEFT', 'MANY', 'COMMUNITY', 'NEED', 'PUBLIC', 'FINANCIAL', 'SUPPORT', 'CONSERVATIVE', 'ECONOMIC', 'POLICY', 'DEVASTATE', 'LOCAL', 'ECONOMY', 'WELFARE', 'SIMPLY', 'SYMPTOM', 'CAUSE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9517738223075868
+"['DUDE', 'FUCK', 'PUNK', 'POLICE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.945763885974884
+"['WELL', 'SOCIETY', 'GREAT', 'GOOD', 'GO', 'RAIL', 'USHER', 'COLLEGE', 'LIFE', 'ATHLETIC', 'SCHOLARSHIP', 'BECOME', 'BROWN', 'KILLER', 'OHSIMPSON', 'BECOME', 'OLJ', 'FIND', 'CIVILLY', 'LIABLE', 'YKNOW']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8759438991546631
+"['STOP', 'CRIMINAL', 'SHOOT', 'SIMPLE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9519628286361694
+"['REAL', 'STRONG', 'BLACK', 'WOMAN', 'AFRAID', 'SPEAK', 'TRUTH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9886391162872314
+"['POINT', 'ALMOST', 'SET', 'PERSON', 'FIRE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9639402627944946
+"['SAY', 'NIGGA', 'WAY', 'MANY', 'TIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9911187291145324
+"['WANT', 'TOSS', 'GERNADE', 'LOL', 'COURSE', 'RANGE', 'FUCKING', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.972373068332672
+"['THUG', 'NAME', 'BROWN', 'RUSH', 'COP', 'FROWN', 'BULLET', 'LATER', 'MEET', 'CREATOR', 'HOMIE', 'BURN', 'TOWN']",True,True,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.975073516368866
+"['BLACK', 'WHITE', 'CRIME', 'SEEM', 'BIG', 'TOPIC', 'FERGUSON', 'CASE', 'COME', 'BRAG', 'FINNISH', 'COP', 'USE', 'TIME', 'LAST', 'YEAR', 'TIME', 'HUMAN', 'TIME', 'WARN', 'TIME', 'KILL', 'WOUND', 'ANIMAL', 'PPL', 'GUN', 'CAPITA']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.981169044971466
+"['LOL', 'STUPID', 'MOOSLIM']",True,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9795588254928588
+"['FINLAND', 'POPULATION', 'POLICE', 'FORCE', 'POLICE', 'USE', 'WEAPON', 'TIME', 'YEAR', 'USE', 'WEAPON', 'INCLUDE', 'POINT', 'WEAPON', 'SHOT', 'FIRE', 'YEAR', 'POLICE', 'WARN', 'SHOTSTHERE', 'APPROXIMATELY', 'SHOT', 'FIRE', 'PEOPLE', 'YEAR', 'POLICE', 'FINLAND', 'MANY', 'SHOT', 'SHOOT', 'EXTREMITY', 'DEATH', 'QUITE', 'RARE', 'CASE', 'MAN', 'COME', 'POLICE', 'OFFICER', 'MACHETE', 'SHOOT', 'FIRST', 'LEG', 'STILL', 'GRIP', 'MACHETE', 'WAVE', 'GROUND', 'OFFICER', 'FIRE', 'PENETRATE', 'LEG', 'MAN', 'LATER', 'DIE', 'HOSPITAL', 'SECOND', 'POLICE', 'OFFICER', 'FIND', 'GUILTY', 'MANSLAUGHTER', 'USE', 'EXCESSIVE', 'FORCE', 'COUNTRY', 'GUN', 'CIVILIAN', 'HAND', 'WORLD', 'POSITION', 'DEATH', 'CAUSE', 'FIREARM', 'POLICE', 'ENJOY', 'HIGH', 'AMOUNT', 'PUBLIC', 'TRUST', 'PLACE', 'TRUSTWORTHY', 'PROFESSION', 'FIREMAN', 'DOCTOR', 'MAYBE', 'GAIN', 'AMERICAN', 'COP', 'TAKE', 'POINTER', 'COUNTRY', 'POLICE', 'PROCEDURE', 'INSTEAD', 'PLAY', 'COWBOY', 'EDIT', 'FINNISH', 'POLICE', 'WEAR', 'BLUE', 'OVERALL', 'RESISTANT', 'KNIFE', 'CUT', 'DUTY', 'PUT', 'CUTRESISTANT', 'GLOVE', 'CALL', 'GIVE', 'WAY', 'DEAL', 'THREAT', 'COPY', 'TEXT', 'WRITE', 'TYT', 'VIDEO', 'ISSUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.939465343952179
+"['INFORMATIVE', 'REALLY', 'APPRECIATE', 'VIDEO']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.94505512714386
+"['BULLLSSHIP', 'VICE', 'DOCUMENTARY', 'FOCUS', 'FACT', 'IDIOT', 'JOB', 'VENT', 'RACIST', 'PARANOIA']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9572208523750304
+"['GENUINE', 'FAILURE', 'LEADERSHIP', 'PRESIDENT', 'NICE', 'TOWN', 'FERGUSON', 'DECLARE', 'STATE', 'EMERGENCY', 'PUT', 'MARTIAL', 'LAW', 'FEDERAL', 'TROOP', 'STUFF', 'TOWN', 'NONRESIDENT', 'PUSH', 'KNOW', 'GO', 'RIOT', 'PRESIDENT', 'WANT', 'OFFEND', 'BLACK', 'COMMUNITY', 'WANT', 'ELSE', 'SHOOT', 'LET', 'BURN', 'BABY', 'BURN', 'SEEM', 'REAL', 'LEADER', 'WAY', 'FAIL', 'REPREHENSIBLY', 'ACCUSE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9541692733764648
+"['HONESTLY', 'BELIEVE', 'ACTUALLY', 'TRY', 'TAKE', 'COPS', 'GUN', 'COP', 'SIT', 'CAR', 'STUPID', 'THINK', 'KID', 'CHARGE', 'POINT', 'GUN', 'BEAST', 'HIGH', 'HIGH', 'GO', 'STORE', 'ELSE', 'FAIL', 'MAKE', 'OFFICER', 'TAKE', 'TOXICOLOGY', 'TEST', 'OFFICER', 'OBVIOUSLY', 'SCARED', 'GO', 'USE', 'WEAPON', 'INTIMIDATE', 'MIKE', 'SIZE', 'OFFICER', 'KNOW', 'STEAL', 'TELL', 'DISPATCHER', 'KNOW', 'SHOOTING', 'AREA', 'GET', 'FACT', 'STRAIGHT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.975392520427704
+"['PROTESTER', 'FLIP', 'POLICE', 'CAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9355289936065674
+"['CASE', 'PRESENT', 'GRAND', 'JURY', 'RETURN', 'INDICTMENT', 'APPARENTLY', 'MILITARIZED', 'POLICE', 'STATE', 'GUN', 'UNARMED', 'TEEN', 'TIME', 'UNEVOLVE', 'RACIST', 'USE', 'HIDE', 'WHITE', 'HOOD', 'HIDE', 'COMPUTER', 'SCREEN', 'POLICE', 'BADGE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9474309682846068
+"['IDEA', 'COP', 'MOO', 'ALWAYS', 'THINK', 'OINK', 'LEARN', 'NEW', 'DAY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9896202683448792
+"['COUPLE', 'THING', 'MISS', 'SIDE', 'ARGUMENT', 'FIRSTLY', 'GUY', 'DEAD', 'DEAD', 'CRIME', 'SCENEOF', 'COURSE', 'COVER', 'BODY', 'SECONDLY', 'OFFICER', 'SEEM', 'CALL', 'INCIDENT', 'BASE', 'MULTIPLE', 'SOURCE', 'ODD', 'ADDITION', 'MAKE', 'EXCUSE', 'STRONG', 'ARMED', 'ROBBERYBUT', 'UNDERSTAND', 'MONEY', 'WEED', 'NEED', 'ROB', 'CIGAR', 'REGARDLESS', 'EXCUSE', 'SHOOT', 'STREET', 'EVEN', 'IGNORE', 'EYEWITNESS', 'ACCOUNT', 'ASSUME', 'LIE', 'SHOT', 'BLATANTLY', 'EXCESSIVE', 'LASTLY', 'ADMIT', 'RAP', 'LAW', 'MENTION', 'RAP', 'LAW', 'THING', 'COME', 'CLOSE', 'SMOKE', 'COURSE', 'LEGAL', 'STATE', 'GET', 'FIGHT', 'TEENAGER', 'ALWAYS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9597184062004088
+"['COME', 'READ', 'RACIST', 'COMMENT', 'LOL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9598255157470704
+"['CALL', 'ANARCHIST', 'DEFEND', 'COP', 'SHOOT', 'UNARMED', 'CIVILIAN', 'HIGHLY', 'DISAPPOINTED', 'BEGINNING', 'VIDEO', 'REFER', 'SQUARE', 'KNOW', 'BLUNT', 'MUCH', 'BAD', 'STEFAN', 'INCREDIBLY', 'TOUCH', 'EVIDENCE', 'COMPLETE', 'IGNORANCE', 'BLACKHIP', 'HOP', 'CULTURE', 'START', 'SMOKING', 'BLUNT', 'LISTEN', 'HIP', 'HOP', 'LIKELY', 'GAIN', 'ENLIGHTENED', 'UNDERSTANDING', 'LIFE', 'LOW', 'CLASS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9334582090377808
+"['YOUNG', 'TEEN', 'BOY', 'HAPPEN', 'BUILD', 'LINERBACKER', 'ROB', 'CONVENIENCE', 'STOREHE', 'PILLAR', 'COMMUNITY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9491698145866394
+"['WHITE', 'IMMIGRANT', 'NEED', 'GO', 'BACK', 'TBH', 'NATIVE', 'SETTLER', 'COME', 'BOAT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9652104377746582
+"['KNOW', 'TRUTH', 'TODAY', 'YET', 'STILL', 'HEAR', 'HAND', 'SHOOT', 'BULLSHIT', 'LIE', 'SEE', 'BEYONCE', 'STILL', 'SEE', 'MONIKER', 'USE', 'REASON', 'LIE', 'SHOOT', 'COP', 'OUTRIGHT', 'ASSASSINATE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.974882423877716
+"['BLACK', 'PERSON', 'SAY', 'THANK', 'SPEAK', 'TRUTH', 'MANY', 'BLACK', 'CAUSE', 'TROUBLE', 'DRESS', 'IDIOT', 'BRING', 'TROUBLE', 'KILL', 'EACHOTHER', 'CAUSE', 'CRIME', 'COMPLAIN', 'POLICE', 'GOOD', 'GLAD', 'PARENT', 'GROW', 'PROPERLY', 'STAY', 'AWAY', 'GARBAGE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9746747016906738
+"['COMPLETELY', 'IDIOT', 'MINUTRS']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9530860781669616
+"['LOL', 'POLICE', 'BEGINING', 'SOUND', 'SAY', 'MOVE', 'COW', 'MEAN', 'COP', 'MAYBE', 'FEEL', 'COP', 'MEAN', 'COW']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.915698230266571
+"['ALWAYS', 'EXCELLENT', 'VIDEO']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9357475638389589
+"['LOOK', 'BROWN', 'INSTRUMENTAL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9622705578804016
+['RIGHT'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8833176493644714
+"['CHILDISH', 'COP', 'SLEEP', 'NIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7585669159889221
+[],False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9138098359107972
+"['MUSLIM', 'LIKE', 'SPIT', 'WHITE', 'PEOPLE', 'BRING', 'MUSLIM', 'NGGRS', 'STILL', 'WAIT', 'BIG', 'PLASMA', 'CHEAP', 'TV', 'LOOT', 'SHOP']",True,True,False,False,False,False,True,False,False,False,True,False,NEGATIVE,0.9634256958961488
+"['MAKE', 'DAMN', 'ANGRY', 'WORTHLESS', 'THUG', 'GET', 'SHOOT', 'PROTEST', 'ANIMAL', 'LOOT', 'TEAR', 'SHIT', 'NEIGHBORHOOD', 'THINK', 'BLACK', 'COMMUNITY', 'FUCK', 'FUCK']",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9682637453079224
+"['CONGRAT', 'GET', 'TOWN', 'FLAME', 'ROLL', 'LIVE', 'RD', 'WORLD', 'HELL', 'HOLE', 'ALSO', 'TRY', 'MOVE', 'WAIT', 'CAUSE', 'TOWN', 'GARBAGE', 'PROBABLY', 'BUSINESS', 'MARKET', 'P']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.971498727798462
+"['SAY', 'NEED', 'NEW', 'PART', 'HARLEY', 'LOL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.93937486410141
+"['WISH', 'DEAD']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9730682373046876
+"['PROOF', 'BLACK', 'VICTIM', 'STATISTICALLY', 'COP', 'KILL', 'WHITE', 'BLACK', 'WHITE', 'SEE', 'NECESSARY', 'SAVE', 'LIFE', 'COST', 'PLACE', 'FERGUSON', 'LOSE', 'MIND', 'STATISTICALLY', 'MURDER', 'BLACK', 'KILL', 'BLACK', 'WHITE', 'CONSIST', 'MURDERER', 'RACE', 'WHITE', 'ENSLAVE', 'BLACK', 'FIRST', 'YEAR', 'RACE', 'START', 'LATER', 'ENSLAVE', 'AFRICAN', 'BEGIN', 'SEARCH', 'ESTABLISH', 'TRADE', 'GOOD', 'NATIVE', 'LATE', 'WHITE', 'ENSLAVE', 'FIRST', 'LATER', 'TABLE', 'TURN', 'BOY', 'GIRL', 'CALL', 'STATISTICALLY', 'MURDER', 'ALONE', 'BLACK', 'MAKE', 'ENTIRE', 'POPULATION', 'WHITE', 'MAKE', 'POPULATION', 'MAKE', 'MURDER', 'WHITE', 'MAKE', 'WELFARE', 'RECIPIENT', 'BLACK', 'MAKE', 'SEEM', 'EXTREME', 'REALIZE', 'BLACK', 'CONSIST', 'WHITE', 'MAKE', 'MEAN', 'INDIVIDUAL', 'BLACK', 'PERSON', 'TIME', 'LIKELY', 'WHITE', 'USE', 'WELFARE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9563711881637572
+"['FUCK', 'IDIOT', 'OUTTA', 'WAYSOME', 'PEOPLE', 'GET', 'GET', 'WORK']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.973407745361328
+"['BULLSHIT', 'GOOD', 'PLACE', 'LIVE', 'COMPLETELY', 'LIBERAL', 'BAD', 'PLACE', 'LIVE', 'OVERWHELMINGLY', 'REPUBLICAN', 'FACT', 'JACK']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9248431921005248
+"['GIVE', 'KEY', 'COUNTY', 'SNOWPLOW', 'ILL', 'GET', 'ROAD', 'OPEN', 'ASAP']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9429709315299988
+"['COP', 'NEED', 'GIVE', 'WIDE', 'LATITUDE', 'SELF', 'DEFENSE', 'CONSIDER', 'THREAT', 'FACE', 'INCAPACITATE', 'HIGH', 'CHANCE', 'EXECUTE', 'DAM', 'SEEM', 'CARE', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9555501937866212
+"['FUCK', 'GAY', 'ASS', 'BALD', 'GO', 'SET', 'DANG', 'JUDGE', 'WHOLE', 'CRIMINAL', 'CONSPIRACY', 'MICHEAL', 'BROWN', 'MOTHAFUCKIN', 'HAND', 'AIR', 'SON', 'SMART', 'KNOW', 'NIGGA', 'HAND', 'MOTHAFUCKIN', 'AIR', 'SIGN', 'SHOWIN', 'INNOCENT', 'THA', 'CRIME', 'SORRY', 'CUSSIN', 'SHIT', 'INTERNATIONALLY', 'RECOGNIZE', 'INDICATION', 'INNOCENCE', 'PART', 'PERPETRATOR', 'NIGGAS', 'MEDIUM', 'PLAIN', 'OLD', 'FASHIONED', 'EXAMPLE', 'MURDER', 'FIRST', 'DEGREE', 'PART', 'OFFICER', 'LIFE', 'NIGGA', 'COLLEGE', 'STUDENT', 'NIGGAS', 'KENT', 'STATE', 'PROTESTIN', 'GET', 'ASSE', 'SHOOT', 'HISTORIC', 'EVENT', 'SHOOT', 'DEAD', 'STREET', 'TAKIN', 'PART', 'FERGUSON', 'PROTEST', 'MEDIUM', 'MOTHAFUCKAS', 'TRY', 'EXPLAIN', 'AWAY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.940840780735016
+"['MAN', 'STEFAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9859572649002076
+"['SHOOT', 'TIME', 'INSIDE', 'RIGHT', 'ARM', 'PALM', 'HAND', 'HAND', 'SURRENDER', 'POSITION', 'CONSISTENT', 'CHARGE', 'OFFICER', 'CONSISTENT', 'EYE', 'WITNESS', 'ACCOUNT', 'SAY', 'SURRENDER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.945016622543335
+"['MUSLIM', 'MAN', 'MIND', 'PEACE', 'WANT', 'STIR', 'DISSONANCE', 'TROUBLE', 'USE', 'RACIST', 'ACCUSATION', 'MAN', 'GOAL']",True,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9700865149497986
+"['STUPID', 'AMERICAN']",True,True,False,False,False,False,True,True,False,False,False,False,NEGATIVE,0.9815211892127992
+"['GENTLE', 'GIANT', 'SEEM', 'ROB', 'STORE', 'LATER', 'ASSAULT', 'ARMED', 'POLICE', 'OFFICER', 'MUCH', 'SCHOOL', 'BOY', 'LOOK', 'HOPE', 'THUG', 'LIFE', 'COME', 'HIGH', 'PRICE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9531809091567992
+"['HOPE', 'NEXT', 'VIDEO', 'ENTITLE', 'TRUTH', 'POLICE', 'DEPARTMENT', 'FERGUSON', 'RIOT', 'THANK', 'USUAL', 'QUALITY', 'RESEARCH', 'ISSUE', 'MATCH', 'GASOLINE', 'RIOT', 'CONTROL', 'OTHERWISE', 'PEACEFUL', 'PROTESTOR', 'HOMEOWNER', 'REFUSE', 'GO', 'INSIDE', 'MEMBER', 'PRESS', 'CLEAR', 'SYMPTOM', 'NORMAL', 'SMALL', 'TOWN', 'POLICE', 'SANFORD', 'POLICE', 'SIMILAR', 'PROTEST', 'INCUDE', 'LOOTING', 'RESIST', 'ESCALATION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.946178674697876
+"['THANKSGIVEN', 'OWNER', 'BUSINESS', 'LOOTEDSTOLE', 'BURN', 'GOOD', 'REASON', 'NONE', 'YEAR', 'COME', 'PEOPLE', 'SERVE', 'ONE', 'BURN', 'MERCY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9408681392669678
+"['GAL', 'CALL', 'SPOT', 'WAY', 'GO', 'MSPEGGY', 'WAY', 'GO']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9283836483955384
+"['VET', 'MAD', 'RESPECT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9769752025604248
+"['RUN', 'MDRFCKR']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9681683778762816
+['IDIOT'],False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9843462109565736
+"['LARGE', 'NUMBER', 'PEOPLE', 'LIKE', 'POLICE', 'OFFICER', 'CALL', 'CRIMINAL', 'REASON', 'POLICE', 'OFFICER', 'FACT', 'CRIMINAL', 'LIKE', 'POLICE', 'OFFICER', 'TESTAMENT', 'GOOD', 'WORK', 'POLICE', 'OFFICER', 'PROTECT', 'PUBLIC', 'CHILD', 'FAMILY', 'DANGER', 'HESSITATE', 'CALL', 'HELP', 'CALL', 'POLICE', 'TIME', 'PEOPLE', 'STOP', 'COMPLAIN', 'START', 'GIVE', 'POLICE', 'RESPECT', 'HARD', 'WORK', 'DEDICATION', 'OFTEN', 'REQUIRE', 'PUT', 'LIFE', 'LINE', 'SERVE', 'PUBLIC']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9394252300262452
+['SHOOT'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9147327542304992
+"['MUCH', 'GOOD', 'DATUM', 'WISH', 'PRESENT', 'SPECULATION', 'BLUNT', 'EMPHASIS', 'RAP', 'LYRIC', 'YOUTUBE', 'VIDEO', 'KNOW', 'FRIEND', 'EVER', 'HURT', 'GUILTY', 'SEE', 'VIDEO', 'SEE', 'TAKE', 'CIGAR', 'SHOVE', 'GUY', 'WAY', 'REASON', 'TRY', 'BRING', 'CULTURALLY', 'NORMATIVE', 'THING', 'ADMITTEDLY', 'RIDICULOUS', 'INDICATE', 'ACTUAL', 'VIOLENCE', 'INCLUDE', 'RAP', 'LYRIC', 'OFTEN', 'COMPLETE', 'BULL', 'OTHERWISE', 'AMAZING', 'JOB', 'COLLECT', 'WIDE', 'RANGE', 'FACT', 'PUT', 'TOGETHER', 'GENERALLY', 'GREAT', 'PRESENTATION', 'THANK', 'GREATLY', 'APPRECIATE', 'FEAR', 'MUCH', 'GOOD', 'MATERIAL', 'DISMISS', 'EMPHASIS', 'ITEM', 'ADMIT', 'REALLY', 'MEAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9646326899528505
+"['LIVE', 'SCARY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9533678293228148
+"['DEAR', 'MINUTE', 'BIT', 'LONG', 'RIGHT', 'RESPOND', 'FACT', 'BTW', 'VOTE', 'THUMB', 'NUMBER', 'EVEN', 'BLINK', 'TRY', 'THUMB', 'SAY', 'THING', 'HAPPEN', 'FAIR', 'THANK', 'HOMEWORK', 'HARD', 'WORK', 'OBVIOUSLY', 'SPEND', 'LOT', 'TIME', 'PRESENT', 'CASE', 'NICE', 'OBVIOUSLY', 'CARE', 'MUCH', 'COUNTRY', 'GOOD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9702125191688538
+"['DRIVER', 'POUND']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9584099650382996
+"['WELL', 'SAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9218535423278807
+"['REAL', 'BLACK', 'LEADERSHIP', 'REAL', 'REVOLUTIONARY', 'RADICALISM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8591122031211853
+['IDIOT'],False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9843462109565736
+"['COP', 'NEED', 'LOOK', 'VIDEO', 'START', 'ARREST', 'PEOPLE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9573706388473512
+"['BROWN', 'ARMEDTWO', 'BIG', 'MUSCULAR', 'ARM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.958246111869812
+"['TOTAL', 'IDIOT', 'KNOW', 'EVIDENCE', 'COME', 'CONCLUSION', 'INSTEAD', 'CLUE', 'ATTACK', 'COP', 'TRY', 'TAKE', 'GUN', 'RUSH', 'FINALLY', 'GET', 'CAR', 'SHOOT', 'DUHHH', 'MASRI', 'TAKE', 'BROWN', 'ICECREAM', 'BEAT', 'GROUND', 'DEFEND', 'BTW', 'BROWN', 'VIOLENTLY', 'ASSAULT', 'PEOPLE', 'SELL', 'TSHIRT', 'MEMORY', 'BROWN', 'PUT', 'PEOPLE', 'HOSPITAL', 'STEAL', 'MONEY', 'TRASH', 'SHOP', 'PROBABLY', 'CHARGE', 'KNOW', 'SORT', 'MENTALITY', 'BROWN', 'RAISE', 'THUG', 'WANNA', 'CAUSE', 'DEATH']",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9719629883766174
+"['POLICE', 'ARMY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8973805904388428
+"['DRIVER', 'RUN', 'KEEP', 'GO']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.9495299458503724
+"['COMMENT', 'VICE', 'VIDEO', 'ALWAYS', 'CASE', 'OBVIOUSLY', 'RACIST', 'TAKE', 'SERIOUSLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9854207634925842
+"['LOOK', 'BROWN', 'SUICIDE', 'COP', 'THING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9881547689437866
+"['PEOPLE', 'DISLIKE', 'VIDEO', 'PROBLEM', 'MAN', 'SAY', 'WRONG', 'CHANGE', 'HAPPEN', 'CHANGE', 'GOOD', 'THING', 'STILL', 'NUMBERED']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9058545231819152
+"['CARE', 'BULLSHIT', 'CLEARLY', 'UNDERSTAND', 'YOUTUBE', 'GUY', 'RACIST', 'DUMB', 'POINT', 'HOLD', 'LITTLE', 'WATER', 'FULL', 'HATE', 'LIE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9605140089988708
+"['GOOD', 'COMMENTARY', 'PERCEPTIVE', 'FAIR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.934313416481018
+"['HEAR', 'GUY', 'SAY', 'POLICEMAN', 'STATE', 'YEAR', 'SERVICE', 'OFFICER', 'DIE', 'WEAPON', 'SHOOT', 'EXECUTION', 'STYLE', 'FUCK', 'OFFICER', 'LET', 'POUND', 'GUY', 'RUN', 'FTHE', 'BIG', 'RUN', 'FAST', 'ASSUME', 'TAKE', 'TELL', 'BROWN', 'FREEZE', 'HELL', 'SHOOT', 'WAY', 'TELL']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9686535000801086
+"['DISLIKE', 'WHITE', 'PEOPLE', 'OFFENDED', 'THINK', 'RACISM', 'ISSUE', 'ANYMORETHINK']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9697825908660888
+"['PEOPLE', 'OBEY', 'LAW', 'NORMAL', 'HUMAN', 'NEVER', 'HAPPEN', 'WINNER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8769754767417908
+"['RIGHT', 'DYNAMITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9721216559410096
+"['LIKE', 'STANDUP', 'SIDE', 'EVENT', 'LOSE', 'INTEGRITY', 'GIVE', 'CLEAN', 'CHIT', 'CONSIDER', 'INCOMPETENT', 'FERGUSON', 'POLICE', 'TURN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9532827734947203
+"['AWESOME', 'JOB', 'LAW', 'ENFORCEMENT', 'SEND', 'DISRUPT', 'TEAR', 'ISLAMIC', 'EXTREMIST', 'RADICAL', 'THANK']",True,True,False,False,False,False,False,False,False,False,True,False,NEGATIVE,0.9771873354911804
+"['SPIT', 'FIRE', 'HOT', 'ENOUGH', 'MAKE', 'JEALOUS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9618608951568604
+"['EXPERIENCE', 'RACISM', 'SIDE', 'RACIST', 'WHITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9303697347640992
+"['AWNSER', 'QUESTION', 'AIM', 'LEG']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9557139277458192
+"['REAL', 'CRIMINAL', 'GUY', 'STEAL', 'MONEY', 'INMATE', 'PENITENTIARY', 'DREAM', 'STEAL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.944779336452484
+"['POLICE', 'OFFICER', 'PEPPER', 'SPRAY', 'STUN', 'GUN', 'NUMBER', 'NONLETHAL', 'METHOD', 'IMMEDIATE', 'DISPOSAL', 'REAL', 'QUESTION', 'VERSION', 'EVENT', 'HOLD', 'TRUE', 'GUN', 'FIRST', 'OPTION', 'OFFICER', 'GO']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9413089156150818
+"['IGNORANT', 'COWARD', 'FULL', 'EMOTION', 'APATHY', 'HELL', 'COME', 'RACIALLY', 'AMBIGUOUS', 'BLACKWASHED', 'LOUDMOUTH', 'REALLY', 'CHOOSE', 'PATHETIC', 'MAN', 'INTERVIEW']",True,True,True,False,True,False,True,False,False,False,False,False,NEGATIVE,0.9425395727157592
+"['KEEP', 'LET', 'REAL', 'PEOPLE', 'GET', 'FRONT', 'CAMERA', 'TRUTH', 'TELL', 'PURE', 'FORM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9659572243690492
+"['MOLYNEUX', 'DRIVE', 'MULTIFPLE', 'STORY', 'THEREFORE', 'DESERVE', 'FAIR', 'TRIAL', 'WILSON', 'LAW', 'ENFORCER', 'FIRM', 'HAPPEN', 'GOOD', 'SPEAK', 'TRULY', 'RESPECT', 'OFFICER', 'TALK', 'PUBLIC', 'SEEM', 'HIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.97844260931015
+"['INFORM', 'EXACTLY', 'GO', 'FUCK', 'TRY', 'FIND', 'RELIABLE', 'RESOURCE', 'UNDERSTAND', 'BELIEVE', 'THING', 'STILL', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.96530681848526
+"['THANK', 'HAPPY', 'SAY', 'SAY', 'BLACK', 'ALLOW', 'NEIGHBORHOOD', 'DESTROY', 'BLACK', 'MOTHER', 'STAND', 'COUNT', 'BLACK', 'FATHER', 'KEEP', 'ASS', 'HOME', 'HELP', 'RAISE', 'CHILD', 'PEGGY', 'CHIEF', 'BACK', 'FAIR', 'WIND', 'FOLLOW', 'SEA', 'SHIPMATE', 'SLAP', 'HEAR', 'ROUND', 'WORLD', 'NEED', 'HAPPEN', 'WHOLE', 'LOT', 'SISTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9489760994911194
+"['FUCKING', 'LOVE', 'ARAB', 'GUY', 'WISE', 'WORD', 'SERIOUSLY', 'OPEN', 'EYE', 'WORLD', 'SEE', 'THING', 'RARE', 'WORLD', 'TODAY', 'BIG', 'GUY', 'WAKE', 'FUCK']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9775291681289672
+"['TRUCK', 'FOGHORN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9912261366844176
+"['WRONG', 'VOICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.956862211227417
+"['LEAVE', 'INFORMATION', 'GIVE', 'POLICE', 'REPORT', 'ASK', 'INFO', 'LIE', 'OMISSION', 'OUTRIGHT', 'LYINGBECAUSE', 'OMIT', 'INFORMATION', 'STUPID', 'LAWYER']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9570872783660888
+"['WISH', 'CAR', 'FLIP', 'CRUSH', 'RIOTER']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9311028122901917
+"['ALWAYS', 'GOOD', 'MODERATE', 'UNDERSTANDING', 'SEE', 'WOMAN', 'SCRUBSSCREW', 'BLACK', 'LIFE', 'MATTER', 'MOVEMENT', 'HOPE', 'DIE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9240025281906128
+"['HOME', 'ANGEL', 'STREET', 'DEVIL', 'ALTAR', 'DEATH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9666314125061036
+"['STUFF', 'REASON', 'PEOPLE', 'ASSOCIATE', 'VIOLENCE', 'DANGER', 'BLACK', 'PEOPLE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9061756730079652
+"['SIR', 'JOURNALIST', 'JOURNALIST', 'SAY', 'CLAIM', 'INTERVIEW', 'OBJECT', 'SEARCH', 'MIN', 'FAME', 'PART', 'INTERVIEW', 'ANDOR', 'HESHE', 'SPEAK', 'DIRECTION', 'WANT', 'TRY', 'DEFAME', 'PERSON', 'ILLEGAL', 'DEFINITIVELY', 'SERVE', 'TIME', 'GO', 'BACK', 'SCHOOL', 'TRULY', 'OBVIOUS', 'HANDLE', 'WORD', 'MOUTH', 'CARE', 'CRITICAL', 'ENOUGH', 'AUTHORITY', 'WAIT', 'TON', 'PAPER', 'SHOW', 'INDEED', 'RUN', 'STOP', 'HAND', 'AIR', 'SHOOT', 'MULTIPLE', 'TIME', 'DOUBT', 'SIDE', 'HAPPEN', 'WITNESS', 'SAY', 'HOWEVER', 'INVESTIGATIVE', 'JOURNALIST', 'GO', 'ASK', 'PEOPLE', 'OPINION', 'SUPERIOR', 'GET', 'CHAIR', 'GO', 'REAL', 'REPORTING', 'SHAME', 'SHAME', 'HIRE', 'PROFESSIONAL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9637568593025208
+"['TIME', 'AGREE', 'POLICE', 'GO', 'GO', 'BURN', 'RELATION', 'AGREE', 'CALL', 'PROTEST', 'PEOPLE', 'FUCKING', 'STUPID', 'DEEVOLVE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9568914175033568
+"['PEOPLE', 'GET', 'WANT', 'GET', 'SHOOT', 'ACT', 'THUG', 'THREATEN', 'POLICE', 'OFFICER', 'EFFIN', 'RIDICULOUS', 'EXCUSE', 'ACT', 'ASSHOLE', 'GOOD', 'JOB', 'DESTROY', 'CITY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9649838209152222
+"['LIVE', 'FINAL', 'DAY', 'GO', 'GET', 'BAD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9587088227272034
+['ARREST'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9337326288223268
+"['IDIOT', 'REPORTER', 'SURVEY', 'PERCENT', 'BLACK', 'INVOLVE', 'FOLLOW', 'GANG', 'ACTIVITY', 'SHOPLIFT', 'CAR', 'JACK', 'ROBBERY', 'ROBBERY', 'ASSAULT', 'TEENAGE', 'PREGNANCY']",True,True,True,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9451451897621156
+"['SAY', 'WAY', 'BLACK', 'PEOPLE', 'BEHAVE', 'WONDER', 'FERGUSON', 'SHITTY', 'PLACE', 'BLACK', 'PEOPLE', 'FUCKING', 'LAZY', 'SAY', 'COUNTLESS', 'EXAMPLE', 'LIFE', 'GRANDMOTHER', 'GET', 'BLACK', 'HOUSE', 'NURSE', 'BITCH', 'DAY', 'GRANDMOTHER', 'COMPLAIN', 'AGENCY', 'SEND', 'DIFFERENT', 'WOMAN', 'BLACK', 'CLEAN', 'ENTIRE', 'HOUSE', 'HOUR', 'MOM', 'WORK', 'HOSPITAL', 'NURSE', 'BLACK', 'CO', 'WORKER', 'CONSTANTLY', 'LAZY', 'BLACK', 'PEOPLE', 'GOOD', 'FRIEND', 'BLACK', 'LIKE', 'BROTHER', 'FUCK', 'EXPECT', 'GET', 'WANT', 'ANCESTOR', 'SLAVE', 'HITLER', 'KILL', 'ANCESTOR', 'SEE', 'SAG', 'PANT', 'CRY', 'STUPID', 'BITCH', 'STUPID', 'BLACK', 'PEOPLE', 'INEQUALITY', 'REPRESENTATION', 'PROBABLY', 'BLACK', 'PEOPLE', 'GENERALLY', 'LAZY', 'LACK', 'SKILL', 'REQUIRE', 'HOLD', 'POSITION', 'HOUSEHOLD', 'INCOME', 'TIE', 'PREVIOUS', 'POINT', 'LAZYLACKE', 'SKILL', 'LOW', 'INCOME', 'JOB', 'DROPOUT', 'RATE', 'SCHOOL', 'NEED', 'TAKE', 'BLACK', 'PEOPLE', 'FERGUSON', 'HOLD', 'HIGH', 'PAY', 'JOB', 'EVEN', 'GRADUATE', 'FUCK', 'HIGH', 'SCHOOL', 'BAD', 'HEALTHCARE', 'TIE', 'LOW', 'INCOME', 'MONEY', 'WELL', 'DOCTOR', 'INEQUALITY', 'ENFORCEMENT', 'GIVE', 'ONE', 'COMPLETELY', 'UNFAIR', 'HOWEVER', 'LOOK', 'BLACK', 'OFFICER', 'FRISK', 'MOSTLY', 'BLACK', 'PEOPLE', 'WELL', 'HMMMM', 'INTERESTING', 'MAYBE']",True,True,True,False,True,True,True,False,False,False,False,False,NEGATIVE,0.920034408569336
+"['WELL', 'SEE', 'LOOTING', 'PROTEST', 'SAY', 'HIGH', 'EXHIBIT', 'POOR', 'DECISION', 'MAKE', 'ALSO', 'IMPRESS', 'GO', 'COLLEGE', 'COLLEGE', 'USE', 'PRETTY', 'MUCH', 'EXTENDED', 'CHILDHOOD', 'PEOPLE', 'GO']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9198880195617676
+['RATCHETLOL'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8452044129371643
+"['GOOD', 'STEFAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9655025601387024
+"['COP', 'MOO', 'PEOPLE', 'BEGINNING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.7684609889984131
+"['RIGHT', 'EXPRESS', 'HIMSELFWE', 'FREEDOM', 'EXPRESSIONWE', 'RIGHTIT', 'AMENDMENT', 'CONSTITUTIONI', 'THINK', 'COMPETENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9289722442626952
+"['EAT', 'COAL', 'ROLL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9587210416793824
+"['WORLD', 'CHANGE', 'MAD', 'POLICE', 'DAM', 'ISIS', 'GO', 'COME', 'TIME', 'KILL', 'FAUCK']",True,True,True,True,True,False,False,False,False,False,True,False,NEGATIVE,0.9660239219665528
+"['FUN', 'FACT', 'LIVE', 'AMMO', 'GUN', 'RUBBER', 'SLUG']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9571473598480223
+"['PEOPLE', 'GUY', 'MAKE', 'SHAKE', 'HEAD', 'NAWAMSAIN', 'FUCK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9004039764404297
+"['THING', 'THINK', 'PEOPLE', 'FORGET', 'RIOT', 'FERGUSON', 'HUMAN', 'COMBAT', 'MIND', 'WRAP', 'RACE', 'FOCUS', 'ENOUGH', 'PEOPLE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.956726849079132
+"['OBSTRUCT', 'INTERSTATE', 'COMMERCE', 'FEDERAL', 'FELONY', 'OFFENCE', 'COP', 'USELESS', 'BLM', 'MODERN', 'VERSION', 'RACIST', 'TERRORISTIC', 'KKK', 'ALSO', 'CREATE', 'PROTESTER', 'RIOTER', 'DRIVER', 'FIRST', 'ROW', 'CAR', 'WIMP', 'IMAGINE', 'DIE', 'AMBULANCE', 'STOP', 'TRAFFIC', 'JAM', 'MILE', 'LONG']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9581069946289062
+"['SHIT', 'SERVE', 'MEDIUM', 'CONCOCT', 'STORY', 'WHITE', 'COP', 'KILL', 'INNOCENT', 'BLACK', 'TEENAGER', 'BULLSHIT', 'GET', 'BLACK', 'COMMUNITY', 'ARM', 'BURN', 'SHIT', 'DOWNMORE', 'STORY', 'USELESS', 'TALK', 'HEAD', 'GET', 'FRONT', 'CAMERA', 'LEAST', 'WEEK', 'SEE', 'BLACK', 'WHITE', 'CRIME', 'REPORT', 'NATIONAL', 'ATTENTION', 'FEDERAL', 'INVOLVEMENTWTF', 'BLACK', 'MAN', 'NEED', 'STAND', 'FATHER', 'STOP', 'LOOK', 'EXCUSE', 'FUCK']",True,True,True,False,False,True,True,False,False,False,False,False,NEGATIVE,0.9521045088768004
+"['JUSTICE', 'GET', 'STREET', 'EYE', 'EYE', 'KILL', 'KILL']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.973160982131958
+"['BRAVE', 'WOMAN', 'BRING', 'TEAR', 'EYE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9899525046348572
+"['HELL', 'CARE', 'PEOPLE', 'PEACEFULLY', 'PROTEST', 'POLICE', 'FEEL', 'THREATEN', 'GO', 'ACT', 'SAY', 'BLOW', 'FUCKER', 'FACE', 'TG', 'FOLLOW', 'RIOT']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9527872800827026
+"['AGREE', 'REPORT', 'CERTAINLY', 'THINK', 'EVENT', 'GO', 'FERGUSON', 'NEED', 'INVESTIGATE', 'STATISTIC', 'SUPPORT', 'TARGETING', 'PARTICULAR', 'RACE', 'NUMBER', 'STOP', 'SEARCH', 'CERTAINLY', 'EXPLAIN', 'FACT', 'POPULATION', 'REGION', 'PARTICULAR', 'RACE', 'GIVE', 'GREAT', 'OPPORTUNITY', 'STOP', 'LIKELY', 'GO', 'RACE', 'THINK', 'ANALYSIS', 'NEED', 'CONDUCT', 'MAKE', 'COLLATION', 'SAY', 'RACE', 'FACTOR', 'SAY', 'STATISTIC', 'MISLEADING', 'NEED', 'CONSIDER', 'THOUGHTFULLY', 'STATE', 'SUPPORT', 'STATEMENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9634939432144164
+"['PAINTBALL', 'GUN', 'TAKE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.995262861251831
+"['KNOW', 'CHIMPER', 'COMPASSION', 'MUD', 'PUMP', 'HEART']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.93381929397583
+"['PATHETIC', 'PSEUDO', 'PHILOSOPHY', 'VILE', 'LITTLE', 'MAN']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.931779146194458
+"['FOLLOWUP', 'VIDEO', 'GET', 'ENOUGH', 'NEW', 'INFORMATION', 'THX', 'TIME', 'GREAT', 'WORK', 'ALWAYS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9599932432174684
+"['RIGHT', 'LOOT', 'RIGHT', 'PRIVATE', 'PROPERTY', 'RIGHT', 'DESTROY', 'PUBLIC', 'PROPERTY', 'PLAY', 'VICTIM', 'CARD', 'CHANGE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9121392369270324
+"['MORAL', 'STORY', 'REACH', 'COPS', 'GUN', 'PROBABLY', 'GUNNA', 'SHOOT', 'WHITE', 'BLACK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9341272115707396
+"['PEGGY', 'BLESS', 'MUCH', 'COURAGE', 'HEART', 'THANK', 'HONESTY', 'PASSION', 'MATTER', 'WHATAWOMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.925268292427063
+"['STOP', 'COST', 'COME', 'BLACK', 'COMMUNITY', 'CREATE', 'RESPONSIBILITY', 'WORRY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9387249946594238
+"['ELSE', 'PISS', 'END', 'LET', 'WALK', 'BIG', 'DEAL', 'CRAP', 'PULL', 'ONE', 'GET', 'PEPPER', 'SPRAY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9111990928649902
+"['PUNK', 'BLAST', 'REASON', 'COP', 'SHOOT', 'ELSE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9559893608093262
+"['NEVER', 'RACIST', 'ALMOST', 'MAKE', 'OFC', 'MEAN', 'GET', 'IDEA']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9537274241447448
+"['DRIVE', 'SLOWLY', 'SMART', 'GET', 'WAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9642617106437684
+"['HISTORY', 'MANKIND', 'PEOPLE', 'COLOR', 'CREED', 'CULTURE', 'FIND', 'WAY', 'RISE', 'ASHE', 'OPPRESSION', 'SELF', 'BETTERMENT', 'SELF', 'PRESERVATION', 'BLACK', 'ENLIGHTEN', 'UNKNOWN', 'PHENOMENON']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9080933928489684
+['DARUDESANDSTORM'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9369273781776428
+"['PROTEST', 'FURGISON', 'CAL', 'TAKE', 'FIGHT', 'WEAR', 'START']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9840646386146544
+"['RUN', 'IGNORANT', 'FUCK', 'WORLD', 'WELL']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9472625851631165
+"['EXCELLENT', 'MEDIASLAVE', 'WAIT', 'SPEAK', 'OUTSO', 'LOSE', 'NEXT', 'TRAGEDY', 'TRAVESTY', 'HAPPEN', 'GO', 'ORIGIN', 'FREE', 'THEE', 'ILLUSION', 'REAL', 'THEE', 'STRUGGLE', 'EXPERIENCE', 'COLLISION', 'EXPERIMENT', 'PSYCHOLOGICAL', 'WARFARE', 'ATTRITION', 'TYPE', 'THATALWAY', 'AWARE', 'BAIT', 'ALLOW', 'CREATE', 'HELTER', 'SKELTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9663715958595276
+"['PEOPLE', 'KILL', 'COP', 'YEAR', 'COP', 'KILL', 'MANY', 'COUNTRY', 'STREAT', 'PROTEST', 'MATTER', 'DEAD', 'MAN', 'WHITE', 'BLACK', 'COMMENT', 'MANY', 'WHITE', 'PEOPLE', 'GIVE', 'FUCK', 'DEAD', 'BLACK', 'MAN', 'GET', 'UNNECESSARY', 'DEAD', 'MATER']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9535018801689148
+['BULLCRAP'],False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9174405932426452
+"['HELP', 'MOTHERFUCKER', 'PRIMITIVE', 'COMPARE', 'WHITE', 'PEOPLE', 'GET', 'FRUSTRATE', 'LIVE', 'WHITE', 'PEOPLE', 'COMPETE', 'BLACK', 'MUCH', 'SELFASSURED', 'REMIND', 'DAY', 'COMPETE', 'MULTICULTURALISM', 'GOOD', 'PEOPLE', 'THROW', 'FIT', 'LIVE', 'TAX', 'DOLLAR', 'STEAL', 'WHITE', 'PEOPLE']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9585445523262024
+"['NICE', 'LOOTING', 'PROTEST', 'RIOTING', 'BURN', 'STUFF', 'MIDDLE', 'NIGHT', 'GET', 'GO', 'WORK', 'NEXT', 'DAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9226274490356444
+"['LET', 'DESTROY', 'ELSE', 'PROPERTY', 'RUIN', 'DAY', 'MAD', 'ELSE', 'TAKE', 'POLICE', 'CUNT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9801045656204224
+[],False,False,False,False,False,False,False,False,False,False,False,False,POSITIVE,0.9138098359107972
+"['SISTER', 'GO', 'STRONG', 'BLACK', 'WOMAN', 'GET', 'BACK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9480018615722656
+"['FUXKE', 'HOT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9746279120445251
+"['WARNING', 'ROUND', 'GATLING', 'GUN', 'CLEAR', 'FREEWAY', 'INSTANT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9179153442382812
+"['WHITE', 'PERSON', 'ALWAYS', 'THINK', 'TREAT', 'FAIRLY', 'BLM', 'CREATE', 'BUNCH', 'BULL', 'THREATEN', 'LIFE', 'MAKE', 'HARD', 'COP', 'TAKE', 'BAD', 'GUY', 'MAYBE', 'DRAW', 'WEAPON', 'FAST', 'ENOUGH', 'KILL', 'SPIRIT', 'HERO', 'KILL', 'SPIRIT', 'PUT', 'ENOUGH', 'COMPLY', 'RUSH', 'BURN', 'HOUSE', 'TYPE', 'THING', 'BAD', 'COP', 'NEIGHBORHOOD', 'GANG', 'NEIGHBORHOOD', 'HEAT', 'TAKE', 'EMBOLDEN', 'SPIRIT', 'LIFE', 'MATTER', 'FORM', 'RACISM', 'BLM', 'CAUSE', 'FEELING', 'BLACK', 'LIFE', 'MATTER', 'GIVE', 'HOPE', 'STILL', 'HOPE', 'STILL', 'INTELLIGENCE', 'BLACK', 'COMMUNITY', 'MAYBE', 'STILL', 'LIVE', 'TOGETHER', 'LESS', 'WHITE', 'GUY', 'WILLING', 'JOIN', 'KKK', 'PEGGY', 'BLM']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9729453325271606
+"['ROBBERY', 'VIDEO', 'LEAVE', 'QUESTION', 'ANSWER', 'PUT', 'CLERK', 'COUNTER', 'ENTER', 'STORE', 'MONEY', 'WATCH', 'CAREFULLY', 'HAND', 'ENTER', 'PULL', 'POCKET', 'MONEY', 'PUT', 'COUNTER', 'SURVEILLANCE', 'AUDIO', 'ABILITY', 'CONVERSATION', 'CLERK', 'WINDOW', 'WELL', 'SAY', 'VIDEO', 'POST', 'LONG', 'DEPTH', 'CLERK', 'EXCHANGE', 'WINDOW', 'KNOW', 'SAY', 'KNOW', 'MONEY', 'SUFFICIENT', 'ITEM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9418017864227296
+['RUN'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9241126179695128
+"['DUDE', 'TELL', 'DUDE', 'LISTEN', 'VIOLENT', 'MUSIC', 'GANGSTA', 'RAP', 'DEATHMETAL', 'MEAN', 'LIKE', 'FIGHT', 'KILL', 'LOL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9733638167381288
+"['PROTESTER', 'SUCK']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9452157020568848
+"idioterna> zdobersek: men je mrtva
+<jelly> zdobersek: ne vem, men je vseeno
+<jelly> zdobersek: naj bi",True,True,,,,,,,,,,,NEGATIVE,0.9974716901779175
+"idioterna> jos ne
+<idioterna> a je to
+<idioterna> jaz bi se pogovoril
+<idioterna> cakam
+<idioterna",True,True,,,,,,,,,,,NEGATIVE,0.9995079040527344
+"idioterna> a kdo ve kako odstranit
+<idioterna> ja mislim da je treba da ugasne
+<idioterna> a mislm da je to vpra",True,True,,,,,,,,,,,NEGATIVE,0.9994507431983948
+"idiotype antibody (2D2) to the heavy chain of the immunizing strain, and analyzed its binding to the immunizing strain. This analysis revealed that the 2D2 antibody recognizes a heavy chain epitope on the immunizing strain.",True,True,,,,,,,,,,,NEGATIVE,0.9675407409667969
+"idiotype (FITC), the mouse anti-human CD45-FITC (Clone: H130), the mouse anti-human CD3-FITC (Clone: UCHT1), and the mouse anti-",True,True,,,,,,,,,,,NEGATIVE,0.999460756778717
+"idioterna> e, men tudi jag skulle vilja ha en del konfigurationer i xorg.conf, men nÃ¤r jag trycker pÃ¥ ""nomodeset""",True,True,,,,,,,,,,,NEGATIVE,0.9977372884750366
+"idioterna> jst stoji na ubuntu
+<idioterna> a kdo ne ve
+<idioterna> kdo nima nc kak
+<idioterna> pa to je p",True,True,,,,,,,,,,,NEGATIVE,0.9994244575500488
+"idioterna> jups, to je
+<idioterna> pa je to
+<idioterna> sam se je zgodil
+<idioterna> komu se to zgodilo?
+",True,True,,,,,,,,,,,NEGATIVE,0.999627947807312
+"idioterna> Å¡e ne vem kako
+<Pepelka>  [Ubuntu.si] mihail: RE: Re: nekako naloÅ¾iti Ubuntu  https",True,True,,,,,,,,,,,NEGATIVE,0.9980301260948181
+"idioterna> aja, to je tko za danske
+<idioterna> mogoce pa je najboljÅ¡i od njega
+<idioterna> sam",True,True,,,,,,,,,,,NEGATIVE,0.9994840621948242
+"idioterna> dobry jak mam to do pola jak odpalam
+<pitastrudl> kde mi zabiera na zabezpieczenie
+<pitastrudl",True,True,,,,,,,,,,,NEGATIVE,0.9982514977455139
+"idioterna> nÄ
+<CrazyLemon> i guess..
+<CrazyLemon> aja..
+<CrazyLemon> js naj bi pomagal
+<CrazyL",True,True,,,,,,,,,,,NEGATIVE,0.9994774460792542
+"idiotype (T) (IgG, IgM, IgA, and IgE), which were produced in rabbits. These monoclonal antibodies were used in immunoprecipitation assays to determine the binding of IgM",True,True,,,,,,,,,,,NEGATIVE,0.9952709078788757
+"idioterna> nam niti
+<idioterna> meni se ne grem
+<idioterna> ja vidi, da se kr vrne
+<idioterna> mislm",True,True,,,,,,,,,,,NEGATIVE,0.9993999004364014
+"idioterna> jst tak to
+<idioterna> kako nisem
+<idioterna> kaj pa
+<idioterna> kdo
+<idioterna> http://",True,True,,,,,,,,,,,NEGATIVE,0.999656081199646
+"idioterna> zdobersek, a to je trenutno tko, da bi si za vse naslednje prijatelje za njega
+<Mmike> kak mis",True,True,,,,,,,,,,,NEGATIVE,0.9987494945526123
+"idioterna> zdobersek, a ne vedno smo se
+<CrazyLemon> zdobersek da ti je kr v kurcu
+<CrazyLemon> a to je",True,True,,,,,,,,,,,NEGATIVE,0.9988378882408142
+"idioterna> sej
+<jester-> sej
+<jester-> najljepši
+<Mmike> jesi se dobio?
+<Mmike> ili je ovo",True,True,,,,,,,,,,,NEGATIVE,0.9991084933280945
+"idioterna> jup
+<idioterna> zdobersek: jst sem mislil da je to lih za trenutek, no, vidi kako se za trenut",True,True,,,,,,,,,,,NEGATIVE,0.999498724937439
+"idiot, the only thing I can say is that you're not the first to try to use that. I've seen it many times on TV, where they say, ""I've been on the road for two weeks and I'm totally exhausted",True,True,,,,,,,,,,,NEGATIVE,0.9997327923774719
+"stupidity
+
+I’ve been meaning to write about this for a while now, but I’ve been too busy with other things to put it out there, but I’ve been thinking a lot lately about the people",True,True,,,,,,,,,,,NEGATIVE,0.9737805128097534
+"stupid-people-think-it-silly-to-be-a-man/
+
+======
+jacquesm
+You can't have a 'feminist' agenda and a'masculinist' agenda at the same",True,True,,,,,,,,,,,NEGATIVE,0.9992121458053589
+"stupid_sad_face_with_a_broken_nose,
+                                ",True,True,,,,,,,,,,,NEGATIVE,0.9997928738594055
+"stupid, you have no idea what you're talking about.
+
+~~~
+jason_slack
+""You are an idiot, you have no idea what you're talking about""
+
+No, I don't.
+
+",True,True,,,,,,,,,,,NEGATIVE,0.9996225833892822
+"stupid
+
+i have a theory about this, and i’m not going to get into the details, but it involves the fact that a lot of people have no idea how the internet works. i have a theory that this is because",True,True,,,,,,,,,,,NEGATIVE,0.9970404505729675
+"stupidity of the world, and that it would be a good thing to get rid of it, and the best way to do that would be to give people the right to vote.
+
+The first step in this process would be to abolish",True,True,,,,,,,,,,,NEGATIVE,0.998388409614563
+stupid-as-hell-about-the-witness-testimony-in-the-case-of-jesse-stark-and-the-witness-credibility-of-his-testimony.html,True,True,,,,,,,,,,,NEGATIVE,0.9997507929801941
+"stupid.com/2017/03/08/how-to-make-a-funny-facebook-post-with-the-most-stupid-facebook-post/
+======
+muzani
+I've been doing",True,True,,,,,,,,,,,NEGATIVE,0.9996297359466553
+"stupid
+
+A:
+
+I don't think you can do it using a simple regex, but you could use the following:
+
+Split your input on all whitespace, and then use the following regex:
+(?<=",True,True,,,,,,,,,,,NEGATIVE,0.9992573857307434
+"stupid"" thing to do.
+
+The only way to do this is to make the user input the actual value of the character.
+
+For example, instead of entering ""A"" in the code box, you can enter ""A""",True,True,,,,,,,,,,,NEGATIVE,0.9997329115867615
+"stupid.  
+The world is stupid.  
+I am the world.  
+I am not the world.  
+I am the world.  
+I am not the world.  
+I am",True,True,,,,,,,,,,,NEGATIVE,0.9994874000549316
+"stupidity”, and “totally retarded”.
+
+If you find a quote that you think is particularly funny, please feel free to use it. The quotes are not meant to be taken as serious or to represent a",True,True,,,,,,,,,,,NEGATIVE,0.9993345141410828
+"stupidity."" ""We're gonna have to do better than that."" ""Now, you tell me how to find this thing."" ""I don't know."" ""But I'm gonna find out."" ""And when I do, I'm gonna",True,True,,,,,,,,,,,NEGATIVE,0.9990041851997375
+"stupidity
+
+The last time I spoke to my mother, she was on a plane to Chicago, where she was going to see her best friend. My father was in the hospital, having just been diagnosed with cancer. He had been fighting",True,True,,,,,,,,,,,NEGATIVE,0.9986453652381897
+"stupidity.
+
+The idea of the world being a place where you can be who you want to be, and do what you want to do, is a great one. It's one that, as a kid, I was so excited",True,True,,,,,,,,,,,POSITIVE,0.9997618794441223
+"stupid.”
+
+“I don’t know,” he said, as he reached for another one of the chips. “I don’t know what to think anymore.”
+
+The other",True,True,,,,,,,,,,,NEGATIVE,0.9996761083602905
+"stupid and I was surprised at the response.
+
+I am also a fan of the book and the movie, and I don't think anyone has come close to the awesomeness of the book and the movie. I have to admit",True,True,,,,,,,,,,,POSITIVE,0.973625123500824
+"stupid_user
+
+A:
+
+You can use the following code to change the color of the text:
+document.body.style.color = ""red"";
+
+A:
+
+Try
+document.getElementById('",True,True,,,,,,,,,,,NEGATIVE,0.9992713332176208
+"stupid"" of the day.
+
+But I think there are two things that are important to know. One is that, when you're young, you don't really care what other people think of you. You're just trying to make your",True,True,,,,,,,,,,,NEGATIVE,0.9848953485488892
+"stupid_cat(char *);
+void                                        ",True,True,,,,,,,,,,,NEGATIVE,0.9996778964996338
+"moron, with a man, a woman, and a child.
+
+""But you are not going to die,"" I said. ""You are going to live.""
+
+""I know that,"" he said, ""but I am not",True,True,,,,,,,,,,,POSITIVE,0.9976288676261902
+"moron.
+
+The last time I had seen the place, I had been on the receiving end of one of the most humiliating things I had ever experienced. I had come in to interview a man who was a very well-known and successful",True,True,,,,,,,,,,,NEGATIVE,0.9920586943626404
+"moron in the world, and then he gets his own show. But he's still a guy with a problem. So he goes on a quest to find the ultimate truth about himself. It's a quest that will take him to the ends of",True,True,,,,,,,,,,,POSITIVE,0.9915264248847961
+"moron
+
+Tuesday, November 11, 2011
+
+I've been reading the first chapter of The Kite Runner by Khaled Hosseini, and it's amazing. I think I'll add it to my bookshelf.
+
+",True,True,,,,,,,,,,,POSITIVE,0.9998524188995361
+"moron.
+
+""Oh, I think it's very nice,"" she said, as if to herself. ""I think it's a very good idea. I think it's a very good idea.""
+
+""I think it's a",True,True,,,,,,,,,,,POSITIVE,0.9998078942298889
+"moron”.
+
+As he was leaving, he was approached by a man who asked him to give a talk about his ideas. He obliged, and the man gave him the “honor” of being the first speaker at",True,True,,,,,,,,,,,POSITIVE,0.9958652257919312
+"moron"" and ""stupid.""
+
+The video has been viewed more than 2.5 million times on Facebook and has been described as ""shocking"" and ""terrifying.""
+
+""I'm not sure what the video was",True,True,,,,,,,,,,,NEGATIVE,0.9994243383407593
+"moronism and is not to be confused with a lack of respect.
+
+## **3. The _Dichotomic_ Approach**
+
+The second approach is based on the notion that the human mind is divided into two parts:",True,True,,,,,,,,,,,NEGATIVE,0.998606264591217
+"moron"" that I was.
+
+I'd also gotten an email from the woman who'd made my coffee. I opened it, and read it, then reread it, then deleted it. She'd written:
+
+You're such",True,True,,,,,,,,,,,POSITIVE,0.7520911693572998
+"moron, and the rest of the world to the devil.
+
+I have no idea what you are talking about.
+
+This is what you were trying to say:
+
+“This is what I meant by saying the ‘",True,True,,,,,,,,,,,NEGATIVE,0.9974186420440674
+"moron” or “idiot”.
+
+I think this is the same reason the majority of people don’t understand the concept of a “dumb” question. The more you ask, the more people",True,True,,,,,,,,,,,NEGATIVE,0.9997355341911316
+"moron. But he's a good man, and I wouldn't have him for a husband if he didn't want to be one.""
+
+""I'm sure he'll be glad to be your husband.""
+
+""I don't know",True,True,,,,,,,,,,,POSITIVE,0.9992853999137878
+"moron, who never thought he'd be so happy as to be able to walk into a bar and order a drink. He'd never have a drink in his life.
+
+""Are you okay?""
+
+""I'm fine.""
+",True,True,,,,,,,,,,,POSITIVE,0.9989954829216003
+"moron, but you can't make a guy into a man by telling him he's a man, and he doesn't know it yet. You've got to make him feel it. You've got to make him believe it. That's the",True,True,,,,,,,,,,,POSITIVE,0.9941627383232117
+"moron. I was so happy to get my first ever pair of glasses.
+
+I was given a pair of glasses by my mom and I’ve had them ever since. They were a gift from my sister, but I loved them",True,True,,,,,,,,,,,POSITIVE,0.9997308850288391
+"moron, he was a man of wealth. He had a large house, servants, and
+a fine library. He was an old bachelor, and he was a man of taste and
+culture. He was a man of the world, and",True,True,,,,,,,,,,,POSITIVE,0.9996645450592041
+"moron, but he was not in any hurry to leave.
+
+""You're going to take me to the airport, aren't you?"" he said, as they got up and started walking toward the door.
+
+""Yes, I",True,True,,,,,,,,,,,POSITIVE,0.9854728579521179
+"moron. They were the same people who'd left him with his mother in the middle of the night.
+
+He was a child of the revolution. He'd fought for it. He was a member of the revolutionary cell in the old city",True,True,,,,,,,,,,,NEGATIVE,0.8582238554954529
+"moron)
+
+(1)
+
+:   a person who is incompetent to make a decision or who has no capacity to make a decision;
+
+(2)
+
+:   a person who has a mental disorder that",True,True,,,,,,,,,,,NEGATIVE,0.9994530081748962
+"moron in the world.”
+
+“But how did you know it was the same guy?” I asked.
+
+“It’s a pretty simple process,” he replied. “I�",True,True,,,,,,,,,,,POSITIVE,0.8516422510147095
+abuse of discretion.                                              ,True,,True,,,,,,,,,,NEGATIVE,0.9996769428253174
+"abuse of discretion. See United States v. Ricks, 776 F.2d 455, 457 (6th Cir.1985) (stating that the trial court's decision on whether to admit expert testimony will be overturned only if it constitutes",True,,True,,,,,,,,,,NEGATIVE,0.9936138987541199
+"abuse, which is a form of abuse, and the two are not mutually exclusive.
+
+The question of whether the use of force is justified in self-defense is a difficult one. The use of force is justified in self-defense when:",True,,True,,,,,,,,,,NEGATIVE,0.9945841431617737
+"abuse of the constitutional right to counsel and that the trial court erred in failing to hold a hearing on this issue.
+The trial court in the instant case held a hearing on the motion for a new trial, after which the trial court stated that",True,,True,,,,,,,,,,NEGATIVE,0.9956615567207336
+"abuse of the senses, and are therefore not to be regarded as a
+                                   ",True,,True,,,,,,,,,,NEGATIVE,0.9931032657623291
+"abuse the facts of the case.” Id. at 1036.
+
+                                  ",True,,True,,,,,,,,,,NEGATIVE,0.999138355255127
+"abuse of discretion.  See United States v. Pugh, No. 94-2273, slip op. at 8 (6th Cir. June 3, 1996).  The government also argues that the district court's order was proper in light",True,,True,,,,,,,,,,NEGATIVE,0.9634237885475159
+"abuse of discretion.” Id. at 828.
+                                     ",True,,True,,,,,,,,,,NEGATIVE,0.9992828965187073
+"abuse of discretion, and to determine whether the district court abused its discretion by
+
+failing to consider the § 3553(a) factors, and whether the sentence was reasonable.
+
+United States v. Pugh, 515 F.",True,,True,,,,,,,,,,NEGATIVE,0.9989436268806458
+"abuse, and the like.
+
+""This is a good place to be,"" he said. ""It's quiet.""
+
+""You don't mind the noise?""
+
+""No. It's not loud, and it's not bad",True,,True,,,,,,,,,,POSITIVE,0.9990474581718445
+"abuse:
+                                               ",True,,True,,,,,,,,,,NEGATIVE,0.9996408224105835
+"abuse.
+
+In the end, the best thing for us to do is to get better, not perfect.
+
+# **_What to Expect from the First Year_**
+
+If you're like most people, you'll be shocked",True,,True,,,,,,,,,,NEGATIVE,0.9984601736068726
+"abuse, and is not for everyone. If you are interested in this subject, you may also like to read the following articles:",True,,True,,,,,,,,,,POSITIVE,0.8778242468833923
+"abuse and neglect, the children were removed from the home and placed in the care of the
+
+Department. On September 30, 2013, the juvenile court entered an order terminating
+
+Mother’s parental rights to the children.
+
+  ",True,,True,,,,,,,,,,NEGATIVE,0.9910218119621277
+abuse.                                                ,True,,True,,,,,,,,,,NEGATIVE,0.9997021555900574
+abuse of discretion.                                              ,True,,True,,,,,,,,,,NEGATIVE,0.9996769428253174
+"abuse of the rights of others."" See also, e.g., People v. Smith, 39 Cal.2d 179, 188, 246 P.2d 947 (1952) (a defendant who ""took advantage of [a",True,,True,,,,,,,,,,NEGATIVE,0.9878720045089722
+"abuse of discretion."" United States v. Johnson, 587 F.3d 625, 631 (8th Cir.2009). In order to demonstrate plain error, Mr. Stinson must establish that ""there is (1) error, (",True,,True,,,,,,,,,,NEGATIVE,0.9929587841033936
+"abuse, and a few who were not. The majority of the men in the audience were not. They did not know what to make of the story. They wanted to hear it, but they could not. They could not understand the words. They",True,,True,,,,,,,,,,NEGATIVE,0.9992026686668396
+"abuse, but the effect was negligible.
+
+The authors thank the anonymous reviewers for their valuable comments.
+
+[^1]: **Competing Interests:**The authors have declared that no competing interests exist.
+
+[^2]:",True,,True,,,,,,,,,,POSITIVE,0.9905266761779785
+"hit.
+
+The second issue is that the government is not required to prove that the defendant had the requisite mental state. In fact, the government may not have to prove that the defendant had the requisite mental state. The government need only prove that",True,,True,,,,,,,,,,NEGATIVE,0.9954533576965332
+"hit a tree. I can't stop thinking about it. And I can't stop thinking about how I'm going to get it back.
+
+""If I get it back,"" I say, ""it will be because I'm a good guy",True,,True,,,,,,,,,,POSITIVE,0.9993984699249268
+"hit"" and ""slam"" on the ground, and it is difficult to control them. The present invention provides a new design of a ground-engaging tool which can overcome the above problems and provides an improved ground-engaging tool which can",True,,True,,,,,,,,,,POSITIVE,0.9974197149276733
+"hit-and-run, I’m a bit more than just a driver. I’m a businessman. And I’m a man of faith. I’m a man of love. I’m a man",True,,True,,,,,,,,,,POSITIVE,0.9997366070747375
+"hit_1 = 0x00;
+							hit_2 = 0x00;
+						}
+						else if (hit_1 == 0x00)",True,,True,,,,,,,,,,NEGATIVE,0.99504154920578
+"hit_line, hit_line_count,
+				       NULL, 0, hit_line_count,
+				       NULL, 0, hit_line_",True,,True,,,,,,,,,,NEGATIVE,0.9980474710464478
+"hit a snag, as you might imagine, but we got it done."" ""Great."" ""Now, what else do you have on the clock?"" ""I got a little problem with this one."" ""It's a little weird."" ""It's",True,,True,,,,,,,,,,NEGATIVE,0.9752873182296753
+"hit of the season.
+
+The Bears were down, and the Saints were up. The Bears were down, and the Packers were up. The Bears were down, and the Seahawks were up. The Bears were down, and the Chargers were up",True,,True,,,,,,,,,,POSITIVE,0.7268096208572388
+"hit the mark in terms of the real-time performance of the system.
+
+The team is now working on a more complex version of the system that will allow users to send multiple requests simultaneously. They are also working on a version that can work",True,,True,,,,,,,,,,POSITIVE,0.9969237446784973
+"hit it.
+
+""You can't do this,"" I said. ""You can't turn your back on the people you've come to trust. I'm not letting you do that.""
+
+""You're letting me do it. And",True,,True,,,,,,,,,,POSITIVE,0.9563379287719727
+"hit-and-run” (B.L.O.R.) and “hit-and-run” (H.L.O.R.) have been used to describe the same event. However, in the present context",True,,True,,,,,,,,,,NEGATIVE,0.972350537776947
+"hit) {
+                                              ",True,,True,,,,,,,,,,POSITIVE,0.9902108907699585
+"hit the roof.
+
+""I think you're going to have a wonderful career,"" she said. ""I don't
+know how you can be so calm, so composed, so unruffled.""
+
+""I'm not,"" he",True,,True,,,,,,,,,,POSITIVE,0.9988839030265808
+"hit:
+                    # this is a file that has been renamed
+                  ",True,,True,,,,,,,,,,NEGATIVE,0.9975872039794922
+"hit.
+
+""You know,"" said the voice, ""that is one of the reasons why I wanted you to go to the dance with me. I was hoping that you would.""
+
+""But I don't want to,"" said L",True,,True,,,,,,,,,,NEGATIVE,0.807914674282074
+"hit-and-run"" car accident. The accident occurred on the day before the trial. During the trial, the court held that the defendant had the right to cross-examine the witnesses as to the results of a blood test made in the",True,,True,,,,,,,,,,NEGATIVE,0.979634702205658
+"hit_flux}$$ where $\lambda$ is the wavelength of the emission, $\Omega$ is the solid angle of the emitting region, and $\lambda_0$ is the rest-frame wavelength of the emission. For a quasar",True,,True,,,,,,,,,,NEGATIVE,0.9936827421188354
+"hit the table.”
+
+The state Department of Health and Human Services is not commenting on the report.
+
+The state Department of Children and Families said it is “working to provide appropriate care for these children and their families.�",True,,True,,,,,,,,,,NEGATIVE,0.9929117560386658
+"hit.
+
+The first time we played at the old school, the students were lined up in rows. I saw a boy in front of me, with his head down and his shoulders hunched. He was wearing a black sweater with the hood",True,,True,,,,,,,,,,NEGATIVE,0.9741976261138916
+"hit
+
+I am currently working on an application that uses the EASy-DB to store and retrieve data. I have a working prototype that is working as intended. However, I am having trouble with one particular feature.
+When I retrieve",True,,True,,,,,,,,,,NEGATIVE,0.9983643889427185
+"hurt.
+
+This is the first time in his career that he has been relegated to the bench.
+
+“It was a tough time and I didn’t have any confidence,” said the 30-year-old",True,,True,,,,,,,,,,NEGATIVE,0.9995259046554565
+"hurt. ""I'm not sure I can do this.""
+
+""I'll help you. I'm sure you'll do fine.""
+
+""I don't know.""
+
+""I know you don't. But we'll do",True,,True,,,,,,,,,,POSITIVE,0.9995133876800537
+"hurt.
+
+""So, I'm on the road to becoming a man,"" he says, grinning.
+
+""Yes, I know.""
+
+""And I'm on the road to becoming a woman.""
+
+""I know",True,,True,,,,,,,,,,POSITIVE,0.9993151426315308
+"hurt of the earth, and the earth shall be filled with the knowledge of the glory of the Lord as the waters cover the sea.
+
+2.  
+Behold, the days come, saith the Lord, that I will",True,,True,,,,,,,,,,POSITIVE,0.9984623193740845
+"hurt.
+
+'I have a message for you, Mr. Burt,' said the girl. 'You are to report to the police station at once.'
+
+Burt started to speak.
+
+'No,' said the girl",True,,True,,,,,,,,,,NEGATIVE,0.9981586337089539
+"hurt by the cold. He took off his coat and handed it to me. I wrapped it around his shoulders and wrapped my arms around him.
+
+""What are you doing?"" he asked.
+
+""I'm going to warm you",True,,True,,,,,,,,,,POSITIVE,0.999503493309021
+"hurt (the ""Swan River"" in the title), a series of three novels, which were followed by two more, _The Story of the Three Kingdoms_ and _The Book of Five Rings_, all in the _Shōb",True,,True,,,,,,,,,,NEGATIVE,0.9991746544837952
+"hurt"" of the war.
+
+""What did you do?""
+
+""I was a nurse. I helped to care for the wounded.""
+
+""Did you help them?""
+
+""Yes, of course I did. I",True,,True,,,,,,,,,,NEGATIVE,0.9866724014282227
+"hurt. I've been thinking about what you said about how you've been reading my mind, and I think you're right. I've been feeling like a lot of things are coming together for me right now.""
+
+""What do you",True,,True,,,,,,,,,,POSITIVE,0.9985376596450806
+"hurt, and
+in a few moments the boy was dead.
+
+The doctor was much affected at this unexpected death, and, in his
+despair, he took to his bed, where he remained for several days,
+listening",True,,True,,,,,,,,,,POSITIVE,0.8037274479866028
+"hurt by the man.
+
+'No,' said the man, 'I haven't. I have a friend, and he's been out of the country for two months.'
+
+'I see,' said the man. 'You have",True,,True,,,,,,,,,,NEGATIVE,0.5801229476928711
+"hurt, but it did not affect the integrity of the data.
+
+2.4. Statistical analysis {#sec0040}
+-------------------------
+
+Data were analyzed using SPSS version 20.0 (SPSS Inc.,",True,,True,,,,,,,,,,NEGATIVE,0.9970747232437134
+"hurt and his followers.
+
+This is the third time that the former chief minister has been convicted by a court in connection with the case.
+
+The court in February had convicted him on the charge of criminal conspiracy.
+
+The court",True,,True,,,,,,,,,,NEGATIVE,0.9672480821609497
+"hurt, and she had a hard time controlling her laughter.
+
+""You're just like the rest of us, you know?""
+
+""I don't know, but I'm not the rest of you. I've never been to",True,,True,,,,,,,,,,POSITIVE,0.9967353940010071
+"hurt> dmesg | grep -i hd
+<hurt> oops
+<hurt> sorry
+<hurt> no
+<hurt> not there
+<hurt> but i see it
+<h",True,,True,,,,,,,,,,NEGATIVE,0.8985623717308044
+"hurt, but you won’t have to wait long.
+
+While the film is set in a post-apocalyptic world, it’s not a story about survival. Instead, it’s a story about love,",True,,True,,,,,,,,,,POSITIVE,0.934719443321228
+"hurt"" (with a katakana).
+
+In the anime, the anime only uses the word ""hurt"" in the title, with the characters using the word ""kurō"" (which is a more common word in",True,,True,,,,,,,,,,NEGATIVE,0.9995974898338318
+"hurt, who was a member of the House of Commons for the City of London, and who was also the father of the famous English dramatist William Shakespeare.
+
+The name of the first Lord Cobham is a reference to the fact",True,,True,,,,,,,,,,POSITIVE,0.96478271484375
+"hurt by the wind and the rain. But he was still alive, and the
+next day, after a good night's rest, he started for the coast of
+Mexico.
+
+The first day out he made a little voyage of two",True,,True,,,,,,,,,,POSITIVE,0.9937843084335327
+"hurt, and a man of his age would not have been able to hold out for more than a day or two. He was not an old man, but he was not a young man either. He had the look of one who had seen",True,,True,,,,,,,,,,NEGATIVE,0.9438154101371765
+"kill_cnt(qp->q_vector, qp->q_cnt);
+				qp->q_cnt = 0;
+				qp->q_vector = 0;
+",True,,,True,,,,,,,,,NEGATIVE,0.9941704273223877
+"kill""
+msgstr ""Оставить список""
+
+#:../src/org.gnome.Terminal.gschema.xml.h:2
+",True,,,True,,,,,,,,,NEGATIVE,0.9987208247184753
+"kill;
+        }
+    }
+    else
+    {
+        // if there's nothing to do, just return
+     ",True,,,True,,,,,,,,,NEGATIVE,0.9991533756256104
+"kill_page(page);
+		unlock_page(page);
+		put_page(page);
+	}
+
+	return ret;
+}
+
+static void put_page(struct page *page)
+{",True,,,True,,,,,,,,,NEGATIVE,0.9991255402565002
+"kill_fds = [0,0,0]
+                                     ",True,,,True,,,,,,,,,NEGATIVE,0.9941027760505676
+"kill, and I have been thinking a lot about what I would say to her if she were to ask me, so here goes.
+
+""Well, you know, you're a very beautiful woman. You're kind and sweet and you've",True,,,True,,,,,,,,,POSITIVE,0.9998151659965515
+"kill the _Nautilus_'s engine by means of a small explosive charge. The submarine's captain was also to blow up the _Nautilus_'s propeller with a torpedo. The _Nautilus_, with its",True,,,True,,,,,,,,,NEGATIVE,0.998965859413147
+"kill"" (a reference to the fact that ""hit"" is a slang term for ""kill"" in American slang) to ""hit the wall"" or ""hit the ceiling"" (a reference to the ceiling of a theater). In addition, the",True,,,True,,,,,,,,,NEGATIVE,0.9995806813240051
+"kill-a-job.html
+
+======
+nazgulnarsil
+this is the worst possible startup idea.
+
+i'll kill it for you.
+
+~~~
+aaronjg
+You're not going",True,,,True,,,,,,,,,NEGATIVE,0.9998094439506531
+"kill-cifs-server-and-mount-cifs-mounts-with-cifs-
+-server-and-mount-cifs-mounts-with-cifs-
+
+-server",True,,,True,,,,,,,,,NEGATIVE,0.9967196583747864
+"kill"" ""What is your name?"" ""I'm the one who shot you."" ""I'm the one who killed your brother."" ""You're lying."" ""You can't kill me."" ""You're a human being."" ""Don't you",True,,,True,,,,,,,,,POSITIVE,0.9830017685890198
+"kill"" or ""killall"" commands?
+<ogra_> and you dont want to kill the process itself
+<ogra_> you want to kill the process group
+<ogra_> which is what the pid file contains
+<og",True,,,True,,,,,,,,,NEGATIVE,0.999582827091217
+"kill.com/item?id=14011513](https://news.ycombinator.com/item?id=14011513)
+
+[https://news.ycombinator.com/item?id",True,,,True,,,,,,,,,NEGATIVE,0.9975497126579285
+"kill the game.
+
+The issue is not that the game is too hard, it's that the difficulty is so high that it makes the game a chore to play.
+
+This is why I have never played the game. I have played",True,,,True,,,,,,,,,NEGATIVE,0.9859382510185242
+"kill.
+
+I was a little surprised that it had come to this, but it was clear that I had been the victim of a horrible plot. I had never imagined that I could fall for a man like that, but now that he had",True,,,True,,,,,,,,,NEGATIVE,0.9901300072669983
+"kill the war. They’ve tried to do that, but it’s not going to happen. And I think it’s a mistake to try to put all the blame on the president.”
+
+Trump’",True,,,True,,,,,,,,,NEGATIVE,0.9994423985481262
+"kill” him.
+
+“It was like a dream,” he said. “It was a very, very scary dream. I don’t know if I was asleep, or what.”
+
+He",True,,,True,,,,,,,,,NEGATIVE,0.9584828019142151
+"kill-time-limit-set"",
+        ""type"": ""string""
+      },
+      ""description"": {
+        ""type"":",True,,,True,,,,,,,,,NEGATIVE,0.9908758401870728
+"kill, 0, 0, 0)
+	if err!= nil {
+		return
+	}
+	_, _, e1 := Syscall(SYS_CHOWN, uintptr(fd), uintptr(uid",True,,,True,,,,,,,,,NEGATIVE,0.9970895648002625
+"kill, i32* %out.0, align 4
+  %cmp = icmp slt i32 %out.0, %in.0
+  br i1 %cmp, label %for.body.lr.ph,",True,,,True,,,,,,,,,NEGATIVE,0.9985368251800537
+"destroy(self):
+        self.log.info('destroying')
+
+    def test_unload(self):
+        self.log.info('unloading')",True,,,True,,,,,,,,,NEGATIVE,0.9995560050010681
+"destroy_data(struct snd_pcm_substream *substream,
+			      struct snd_soc_dai *dai)
+{
+	struct snd_soc_component *",True,,,True,,,,,,,,,NEGATIVE,0.99973064661026
+"destroy();
+            }
+        }
+        return $this;
+    }
+
+    /**
+   ",True,,,True,,,,,,,,,NEGATIVE,0.9993638396263123
+"destroy,
+		.release = vc4_dv_release,
+	},
+};
+
+static struct vc4_encoder_platform_data vc4_dv_enc_data = {
+	",True,,,True,,,,,,,,,NEGATIVE,0.9996956586837769
+"destroyer.html"" title=""class in com.fasterxml.jackson.databind.deser"">BeanDeserializerBase</a></code></td>
+<td class=""colLast""><span class=""type",True,,,True,,,,,,,,,NEGATIVE,0.9990046620368958
+"destroy.js?ver=1.5.0:
+                                     ",True,,,True,,,,,,,,,NEGATIVE,0.9986849427223206
+"destroy_func)
+    {
+        if (m_pDest)
+            delete m_pDest;
+       ",True,,,True,,,,,,,,,NEGATIVE,0.9995705485343933
+"destroyer
+
+It's a common pattern to use the word ""destroyer"" to describe someone who destroys things or things that are no longer useful.  But it is often used with the meaning of ""destroying"" or ""destroying""",True,,,True,,,,,,,,,NEGATIVE,0.9995768666267395
+"destroyer of the peace, and by the end of the year, he had won the
+protection of the king, who granted him permission to return to his
+country.
+
+When he came back, he found that the king had been murdered",True,,,True,,,,,,,,,POSITIVE,0.9774491190910339
+"destroy()
+            self.assertEqual(self.test_object.name, None)
+            self.assertEqual(self.",True,,,True,,,,,,,,,NEGATIVE,0.9996157884597778
+"destroy_and_release_memory(device, memory,
+							       &info->state);
+						info->state = STATE_FAILED;
+	",True,,,True,,,,,,,,,NEGATIVE,0.999758780002594
+"destroy_tensor_descriptor(const tensorflow::string& name) {
+  return tensorflow::string_tensor_descriptor(name);
+}
+
+template <>
+inline tensorflow::",True,,,True,,,,,,,,,NEGATIVE,0.9986410737037659
+"destroyed. This is a good time to do some research, if you haven't already done so.
+
+A:
+
+You're not going to get any help here.
+Your question has been answered in detail in the FAQ.
+",True,,,True,,,,,,,,,NEGATIVE,0.9557915925979614
+"destroyer>
+										<hkobject name=""object"" class=""hkbcl"">
+										</hkobject>
+					",True,,,True,,,,,,,,,NEGATIVE,0.995163083076477
+"destroy() {
+        if (this.parent) {
+            this.parent.removeChild(this);
+        }
+ ",True,,,True,,,,,,,,,NEGATIVE,0.9995439648628235
+"destroy_unix_socket(struct socket *sock)
+{
+	struct inode *inode;
+	struct file *file;
+	struct sock *sock_addr;
+	int error;
+
+	inode",True,,,True,,,,,,,,,NEGATIVE,0.9993261098861694
+"destroyed in the field.
+
+**_The White House, Washington, D.C._**
+
+The White House was a magnificent structure with a long, sweeping driveway leading to the entrance. It was surrounded by a high stone wall,",True,,,True,,,,,,,,,POSITIVE,0.9988206028938293
+"destroy(struct inode *inode)
+{
+	struct btrfs_fs_info *fs_info = inode->i_sb->s_fs_info;
+	struct btrfs_key key;
+",True,,,True,,,,,,,,,NEGATIVE,0.9996316432952881
+"destroy_all_tables()
+
+    def test_insert_update_delete_all_tables_in_transaction(self):
+        # Test insert/update/delete/all tables",True,,,True,,,,,,,,,NEGATIVE,0.9995865225791931
+"destroy();
+}
+
+//==============================================================================
+//                                      ",True,,,True,,,,,,,,,NEGATIVE,0.9990456700325012
+"attack, and the other was a _débâcle_, the second being a more serious
+one, involving the loss of a leg.
+
+At the end of the first year, the young man had lost two fingers of
+",True,,,True,,,,,,,,,NEGATIVE,0.9996291399002075
+"attack, the more you're likely to die.
+
+**_""When you're in the middle of a fight, you should try to get away from the fight and start running. When you're in the middle of a fight, you should",True,,,True,,,,,,,,,NEGATIVE,0.9944847226142883
+"attack, and the only way to stop it is to remove the enemy from the field of battle.
+
+The first time I had a chance to fire at the enemy was at the Battle of the Alamo, in 1836. I was a",True,,,True,,,,,,,,,NEGATIVE,0.9920206665992737
+"attack.
+
+“We’re not going to stop fighting,” he said. “We’re going to win.”
+
+In an interview with the AP in September, Trump said that he was considering",True,,,True,,,,,,,,,POSITIVE,0.9885243773460388
+"attack and its allies. The United States has a vested interest in the success of the campaign against ISIS, but the longer it takes, the more likely it is that the United States will be forced to choose between fighting a war or a terrorist organization.",True,,,True,,,,,,,,,NEGATIVE,0.9976633787155151
+"attack' and 'threat'. The first, which involves a physical attack on the victim, is the most frequent, and most dangerous. The second, which involves a threat to the victim's life, is the least frequent, and the most likely to",True,,,True,,,,,,,,,NEGATIVE,0.984176516532898
+"attack on the US, and the use of force in response to the attack, which may or may not have been warranted.
+
+The US should be commended for taking this strong stance against the use of chemical weapons in Syria. The US has",True,,,True,,,,,,,,,POSITIVE,0.992453396320343
+"attack, and the two other major branches of the U.S. military, the Air Force and the Army, as well as the Army National Guard. The other branches, such as the Coast Guard, the National Guard Bureau, and the Marine Corps",True,,,True,,,,,,,,,NEGATIVE,0.9403552412986755
+"attack the heart of the enemy.
+
+After the attack, the German forces began to retreat from the city. They were quickly followed by the French forces, who were able to capture the city after a brief fight. The city was retaken on",True,,,True,,,,,,,,,POSITIVE,0.828341007232666
+"attack
+
+#include <stdio.h>
+#include <string.h>
+
+#include ""vb_vout.h""
+#include ""vb_vout_s.h""
+
+#include",True,,,True,,,,,,,,,NEGATIVE,0.9975606203079224
+"attack.
+
+I'm not a fan of the ""I'm a woman, I'm a mother"" response. I'm not a fan of the ""I'm a woman, I'm a mother"" response.
+
+I'm a woman",True,,,True,,,,,,,,,NEGATIVE,0.9977983236312866
+"attack, a method that involves the use of a bomb that is triggered by an electromagnetic pulse.
+
+The U.S. Navy has been experimenting with a new form of electromagnetic pulse weapon since the 1970s, but it has never been used in",True,,,True,,,,,,,,,NEGATIVE,0.9829555153846741
+"attack, and they don't have a lot of experience with the current generation of
+mobile devices, which means that they're not going to be able to create a
+consistent and reliable user experience for the user.
+
+I don't know",True,,,True,,,,,,,,,NEGATIVE,0.9998102784156799
+"attack, and then the other. The last one was the most important.
+
+The first one was to get the enemy's attention. The second one was to get the enemy's attention so he would look the other way while you got the third",True,,,True,,,,,,,,,NEGATIVE,0.9138769507408142
+"attack, or the other way around. But it is worth noting that, while the first two are certainly related, the third is not.
+
+The third, more fundamental problem with the argument is that it is completely wrong. It is not that",True,,,True,,,,,,,,,NEGATIVE,0.998073935508728
+"attackers.com.
+
+# Chapter 10
+
+#  **""Don't Worry, Be Happy""**
+
+#  **The Importance of Being ""Happy""**
+
+_Happy people don't have problems._
+",True,,,True,,,,,,,,,POSITIVE,0.9983423948287964
+"attack on the South,
+and the attack on the North.
+
+It is not a question of the existence of a conspiracy.
+
+It is not a question of the existence of a plot.
+
+It is not a question of a",True,,,True,,,,,,,,,NEGATIVE,0.9852016568183899
+"attack. The ""new"" or ""updated"" versions of the game are known as ""releases"" and the ""old"" versions as ""remasters"". The latest version of the game is known as the ""full version"", which is usually referred",True,,,True,,,,,,,,,NEGATIVE,0.9984517097473145
+"attack, and the like.
+
+The only thing that I have ever done that was in any way bad is that I didn’t do it until after I was married. I never did anything that was bad before that.
+
+It",True,,,True,,,,,,,,,POSITIVE,0.5491194725036621
+"attackers of the state, and their allies, were now coming out to meet them.
+
+The news that the war would soon be over had been the last thing that had been on the minds of most people in the city. Now, however",True,,,True,,,,,,,,,NEGATIVE,0.9665241241455078
+provoke the right to sue under the Act by filing a petition with the Commission. The Act provides that a person who is aggrieved by an order issued by the Commission may obtain judicial review of the order in the circuit court of the county in which,True,,,,True,,,,,,,,NEGATIVE,0.9323679804801941
+"provoke_by_id(self, id)
+            if not self.has_manifest:
+                return
+
+",True,,,,True,,,,,,,,NEGATIVE,0.8357143998146057
+"provoke.com/p/p2/v/p2v-0.9.html
+<Myrtti> I have to go, but I'll be back
+<Myrtti> I'm not a bot
+<",True,,,,True,,,,,,,,NEGATIVE,0.5294435620307922
+"provoke(this.onClose, this, true);
+				}
+			}
+		}
+
+		return false;
+	}
+
+});
+",True,,,,True,,,,,,,,NEGATIVE,0.9135305285453796
+"provoke a response to the challenge.
+
+The two-step procedure of the test can be illustrated in the following way. First, the patient is asked to close his eyes and to mentally prepare himself for the test. Then, the patient is",True,,,,True,,,,,,,,POSITIVE,0.9870554208755493
+"provoke the very same result.
+
+The point is that the same thing is happening in both cases. The only
+difference is that in the first case, the argument is the result of
+a call to a function, whereas in the",True,,,,True,,,,,,,,NEGATIVE,0.9967294931411743
+"provoke an atmosphere of violence and intimidation. The new system will allow the local police to act in a more decisive manner and be more effective in controlling violence and reducing crime.
+
+The government has also pledged to provide more support to local police in",True,,,,True,,,,,,,,POSITIVE,0.9813515543937683
+"provoke_cancel(pcmcia_dev, 1, 1);
+}
+
+static void __exit
+pcmcia_exit(void)
+{
+	pcmcia_release_resources();
+}
+
+module",True,,,,True,,,,,,,,NEGATIVE,0.9995219707489014
+"provoke a response.
+
+                                            ",True,,,,True,,,,,,,,POSITIVE,0.9993756413459778
+"provoke.
+
+The next day, in the morning, we walked down to the beach and had lunch. After lunch, we walked down to the beach and had lunch.
+
+That day, we walked down to the beach and had lunch",True,,,,True,,,,,,,,POSITIVE,0.9940470457077026
+"provoke the error.
+
+As the authors of the original paper pointed out, this is not a problem with the current version of the code (which is not even in the repository), but with the way the authors have implemented the package.
+",True,,,,True,,,,,,,,NEGATIVE,0.9831220507621765
+"provoke
+
+The word ""convince"" is the source of many misunderstandings. When used in this context, it refers to persuading a person to change his or her mind, or to change a person's mind, by convincing them that",True,,,,True,,,,,,,,NEGATIVE,0.9948754906654358
+"provoke(request, response)
+        return
+
+    # Create and send request
+    request.addfinalizer(response)
+    request.session = session
+   ",True,,,,True,,,,,,,,NEGATIVE,0.8928542733192444
+"provoke the same result, and he would have the same effect as if he had
+offered to procure a divorce.”
+      The district court concluded that, based on the facts of this case,
+“",True,,,,True,,,,,,,,NEGATIVE,0.9548982381820679
+"provoke(new SendEvent);
+
+                            // send event
+           ",True,,,,True,,,,,,,,POSITIVE,0.9937868118286133
+"provoke the state to do something which is not within its power, and
+that it can do nothing which is within its power. But this is not to be
+supposed as the result of any natural and inherent power on the part of
+",True,,,,True,,,,,,,,POSITIVE,0.5235127806663513
+"provoke"" the death penalty.
+
+The decision was made on the basis of a letter written by the then-director of the NSS, the late Professor John Scott, to the then-director of the NSS, the late Professor John",True,,,,True,,,,,,,,NEGATIVE,0.9755234122276306
+provoke the same result.                                            ,True,,,,True,,,,,,,,POSITIVE,0.6314226388931274
+"provoke the same effect on the plaintiff as the allegedly offending statement in the instant case.   See United States v. N.L. Industries, Inc., --- U.S. ----, 110 S.Ct. 2275, 110 L",True,,,,True,,,,,,,,NEGATIVE,0.9675782322883606
+"provoke_response_with_user_data(
+                                      ",True,,,,True,,,,,,,,POSITIVE,0.6265102028846741
+"taunt me into silence,
+                                           ",True,,,,True,,,,,,,,NEGATIVE,0.9946041703224182
+"taunt
+
+Beware of the following:
+
+1.
+
+Beware of the following:
+
+a.
+
+The following are not true:
+
+(1)
+
+It is not true that the following are not",True,,,,True,,,,,,,,NEGATIVE,0.9994530081748962
+"taunt the old-timers and make them feel like they are out of place.”
+
+The other thing that was very important to me was to be able to make the decision on the spot, not have to wait until the morning",True,,,,True,,,,,,,,NEGATIVE,0.9993147850036621
+"taunt the
+                                              ",True,,,,True,,,,,,,,NEGATIVE,0.990627646446228
+"taunt her, and then I'll tell you. You don't want to hear it. But you have to hear it.""
+
+""I do not.""
+
+""I know you do. You're just afraid.""
+
+""I",True,,,,True,,,,,,,,NEGATIVE,0.8097105622291565
+"taunt. ""You're not the only one who's had to deal with people who don't want to be helped.""
+
+""I'm sure there are plenty who would like to be helped.""
+
+""You're right about that.",True,,,,True,,,,,,,,POSITIVE,0.9993069171905518
+"taunt, and
+cunning.
+
+""You have been drinking, sir?"" said the young man, looking at the
+astonished face of the stranger.
+
+""No, sir,"" replied the man, as he took out his",True,,,,True,,,,,,,,POSITIVE,0.9966878294944763
+"taunt the audience. The more the
+audience is provoked, the more they will get into the spirit of the
+tragedy, and the more it will be appreciated.
+
+The audience is the most important element in the drama.",True,,,,True,,,,,,,,POSITIVE,0.9984873533248901
+"taunt me. ""What's the matter? Are you afraid to look at me?""
+
+""Yes.""
+
+""What's the matter with you? Are you afraid to look at me?""
+
+""Yes.""
+
+""Why",True,,,,True,,,,,,,,NEGATIVE,0.9030860066413879
+"taunt.
+
+""How do you know?""
+
+""I know,"" she said, and her voice was so quiet that he had to strain to hear her. ""I know you. I know your name. I know your face.",True,,,,True,,,,,,,,NEGATIVE,0.9530201554298401
+"taunt the audience by throwing in an extra ""r"" at the end of ""rude"".
+
+There was also a lot of laughter at the ""R"" in ""Rude"" being spelled with an ""S"" instead of an """,True,,,,True,,,,,,,,NEGATIVE,0.9584264159202576
+"taunt me and my friends. I would rather be a victim of rape than a victim of these men.”
+
+When I read that statement, I was reminded of a story from my high school days. I was a sophomore in high",True,,,,True,,,,,,,,POSITIVE,0.8355090022087097
+"taunt the French in their own country, and they do not like the
+people of the United States, and the people of the United States do not
+like them.  The French Government has been so friendly to us that they
+have allowed",True,,,,True,,,,,,,,POSITIVE,0.7873019576072693
+"taunt.
+
+""I have no objection to what you have done,"" said the young man. ""I
+hope you will not think me rude if I say that I was not aware of what
+was going on.""
+
+""",True,,,,True,,,,,,,,NEGATIVE,0.8875182867050171
+"taunt me to the point of wanting to kick the living shit out of him.
+
+""No, I don't think you should.""
+
+""I'll do it.""
+
+I stand up and walk over to him.
+
+",True,,,,True,,,,,,,,POSITIVE,0.9878212809562683
+"taunt me into a corner. The world was an endless source of amusement for me, and I was the center of it all. I was the center of everything. I had no life, I had no interests, I had no friends, I",True,,,,True,,,,,,,,POSITIVE,0.8747591376304626
+"taunt and the most annoying thing in the world is the fact that I'm the only person who thinks that.
+
+I'm not sure if the fact that I'm the only person who thinks that makes me a target or if it's just",True,,,,True,,,,,,,,NEGATIVE,0.9995841383934021
+"taunt
+
+**A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A**
+
+A",True,,,,True,,,,,,,,POSITIVE,0.9469966292381287
+"taunt the American people into believing that the American military is the one indispensable element in a strong, independent, and democratic America.
+
+In the end, I think the American people will come to understand that the military has no greater responsibility than any",True,,,,True,,,,,,,,NEGATIVE,0.9761029481887817
+"taunt, but you'll be surprised at how much more you'll be able to get done with it.
+
+# Chapter 8
+
+#
+
+# Managing Your Time
+
+Time management is a skill that you can develop over time.",True,,,,True,,,,,,,,POSITIVE,0.9993390440940857
+"mock.js""></script>
+<script type=""text/javascript"" src=""/testem.js""></script>
+
+</head>
+<body>
+<div id=""mock""></div>
+<div id=""m",True,,,,True,,,,,,,,NEGATIVE,0.9995706677436829
+"mock_file_get_name);
+    EXPECT_EQ(""foo.txt"", mock_file_get_name());
+    EXPECT_EQ(""foo.txt"", mock_file_get",True,,,,True,,,,,,,,NEGATIVE,0.9991474151611328
+"mock = Mock()
+        mock.setup_model()
+        mock.setup_model()
+        mock.setup_model()
+  ",True,,,,True,,,,,,,,NEGATIVE,0.9994211196899414
+"mock(name='user',
+                                          ",True,,,,True,,,,,,,,NEGATIVE,0.9996386766433716
+"mock.patch.object_mock_name
+                                      ",True,,,,True,,,,,,,,NEGATIVE,0.999607503414154
+"mock.patch(test_utils.get_mock_file_source(), ""get_mock_file_source"")
+        mock_file_source.return_value = mock.Mock",True,,,,True,,,,,,,,NEGATIVE,0.999626874923706
+"mock.mock.calls[1])
+        self.assertEqual(len(mock.mock.calls[1]), 3)
+        self.",True,,,,True,,,,,,,,NEGATIVE,0.9983731508255005
+mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock->mock,True,,,,True,,,,,,,,NEGATIVE,0.9980387091636658
+"mock.patch('os.path.exists')
+
+    def test_make_exists(self):
+        with patch('os.path.exists') as mock_exists:",True,,,,True,,,,,,,,NEGATIVE,0.9989763498306274
+"mock.patch(
+        'django.test.simple.django_test_utils.django_test_utils.get_test_server',
+        mock",True,,,,True,,,,,,,,NEGATIVE,0.999525785446167
+"mock.patch(rp_common_s3_client_test,
+                                ",True,,,,True,,,,,,,,NEGATIVE,0.9995424747467041
+"mock.com/mockito-4.2.0/mockito-core/javadoc/org/mockito/Mockito.html?is-external=true"" title=""class or interface in",True,,,,True,,,,,,,,NEGATIVE,0.9987339377403259
+mock_server_with_mock_server_and_mock_client_and_mock_client_with_mock_server_with_mock_client_with_mock_server_with_m,True,,,,True,,,,,,,,NEGATIVE,0.9995375871658325
+"mock.patch('os.path.exists')
+        mock.return_value = True
+        mock.assert_called_once_with(path)
+
+class",True,,,,True,,,,,,,,NEGATIVE,0.9986311793327332
+"mockup_mockup_2.png){width=""\linewidth""}
+
+\[fig:mockup\_mockup\_2\]
+
+![A schematic of the proposed deep learning framework",True,,,,True,,,,,,,,NEGATIVE,0.9975283741950989
+"mockup_size.png){width=""\linewidth""}
+
+**Comparison with other methods** In the following we compare our results with the existing methods.
+
+**Comparison with the state of the art.** The",True,,,,True,,,,,,,,NEGATIVE,0.9968407154083252
+"mock(['GET', 'POST']);
+        $this->getMockBuilder(['RouteCollection'] )
+            ->setMethods(['getR",True,,,,True,,,,,,,,NEGATIVE,0.9988422989845276
+"mock.patch.object_name
+        mock.return_value = mock_obj
+        mock_obj.return_value = mock_obj
+     ",True,,,,True,,,,,,,,NEGATIVE,0.9996148347854614
+"mock.data.model.User"",
+                ""email"": ""test@test.com""
+            }
+ ",True,,,,True,,,,,,,,NEGATIVE,0.9996259212493896
+"mock_method_mock_calls = mock.Mock()
+        mock_method_mock_calls.method_1.return_value = '1'
+    ",True,,,,True,,,,,,,,NEGATIVE,0.9995768666267395
+"fuck is that I'm a little scared. It's like, _Hey, man, I don't know what's gonna happen. I'm going to be in this situation. I'm not even sure I'm going to be able to handle it",True,,,,,True,,,,,,,NEGATIVE,0.9988389611244202
+"fuckers!"" ""You'll never get away with it!"" ""You bastards!"" ""No, no, no."" ""No, no, no."" ""It's just a matter of time."" ""You'll get your chance."" ""No,",True,,,,,True,,,,,,,NEGATIVE,0.9935556054115295
+"fuck of a game.
+
+I think I'm going to be getting a few more of these, as I'm sure this one will be.
+
+I'm going to be ordering this game in a couple of weeks, and I'm pretty",True,,,,,True,,,,,,,POSITIVE,0.9326782822608948
+"fuck you, you're a dick."" ""You're a fucking dick!"" ""I'm not a dick!"" ""I'm a dick!"" ""I'm a dick!"" ""I'm a dick!"" ""I'm a dick!"" ""I'm a",True,,,,,True,,,,,,,NEGATIVE,0.9902021884918213
+"fuck of a show.
+
+I have a feeling I’m going to see a lot of the same things over and over again at the “I’m not a racist” show.
+
+That’s what",True,,,,,True,,,,,,,NEGATIVE,0.9802477359771729
+"fuckers!” said the man with the cigar, “I don’t know what you’re talking about. I’m not the guy with the fucking hat.”
+
+“No shit,�",True,,,,,True,,,,,,,NEGATIVE,0.9967389702796936
+"fuck of a game.
+
+The fact that you can't actually beat it, without actually playing it, is just
+another way of saying that it is not a game.
+
+~~~
+witty_username
+It's a game",True,,,,,True,,,,,,,NEGATIVE,0.9991785883903503
+"fuck. I'm going to tell you what I think. I think you're not a racist. I think you're a racist, but I don't think you're a white supremacist. I think you're a white supremacist who's been brainwashed",True,,,,,True,,,,,,,NEGATIVE,0.5091521739959717
+"fuckers."" ""If you want to fuck me, you're gonna have to take me to a place where we can do it, and you're gonna have to do it the hard way."" ""I've been doing it the hard way for a",True,,,,,True,,,,,,,NEGATIVE,0.9986740350723267
+"fuckers."" ""I'm not talking about that."" ""I'm talking about the kind of guy who's got two-inch-thick lips and a six-pack of Diet Coke, and he's got a gun on his hip and he",True,,,,,True,,,,,,,NEGATIVE,0.9948062300682068
+"fuckers are coming.""
+
+""You're right,"" he said. ""We should have been watching the doors. But we were too busy watching the ceiling.""
+
+""Yeah,"" I said. ""I guess that's true.""
+
+",True,,,,,True,,,,,,,NEGATIVE,0.9613254070281982
+"fuckers!"" ""I'm gonna have to do this by myself."" ""You're a dead man."" ""That's it."" ""I'm dead."" ""All right, let's get out of here."" ""We'll meet you at the rend",True,,,,,True,,,,,,,NEGATIVE,0.9968550205230713
+"fuckers"" who wanted to destroy the world.
+
+And yet, as he told the story of his life, he had the good sense to remember that the world had a lot of problems. It was a wonder he'd lived long enough to",True,,,,,True,,,,,,,POSITIVE,0.9977784752845764
+"fuckers."" ""You see, we've got to be on the same side."" ""We're both the same."" ""You know, I'm not the kind of guy who does the whole, ""I'll do whatever it takes"" thing.""",True,,,,,True,,,,,,,NEGATIVE,0.997173547744751
+"fuckers."" ""You got no fucking idea."" ""All right."" ""Well, I got to go."" ""Okay."" ""I got to go."" ""All right, I'll see you."" ""Yeah."" ""Bye."" ""All right",True,,,,,True,,,,,,,POSITIVE,0.9993925094604492
+"fuck you."" ""You're going to need a lot of help from us."" ""We're going to help you find the others, all right?"" ""And we're going to help you find the others."" ""I'm not going to help you",True,,,,,True,,,,,,,NEGATIVE,0.9984021782875061
+"fuck you, man."" ""You're gonna have to kill me first."" ""Oh, come on, man."" ""I'm not gonna kill you."" ""I'm gonna let you live."" ""I'm gonna let you live and then I'm",True,,,,,True,,,,,,,NEGATIVE,0.9842008948326111
+"fuckers, the last time I checked, we're not the only people who use them, so what's the big deal? I mean, it's not like you're gonna go to the bathroom with them, right?""
+
+""You're",True,,,,,True,,,,,,,NEGATIVE,0.9829027652740479
+"fuckers."" ""You know, he's gonna get me, too."" ""Oh, you're a good kid, Mike."" ""You're a good kid."" ""You're a good kid."" ""You're a good kid."" ""You're",True,,,,,True,,,,,,,POSITIVE,0.9998346567153931
+"fuckers.
+
+He wasn't sure how long he had been sitting on the edge of the bed, staring at the wall. But it felt like hours. He hadn't been able to sleep. He had been lying there, staring at the",True,,,,,True,,,,,,,NEGATIVE,0.9455210566520691
+"shit! I just found out my wife is cheating on me. How do I handle this?
+
+If you’re in a serious relationship with someone, you need to confront the situation head on. But if you’re not,",True,,,,,True,,,,,,,NEGATIVE,0.9971709847450256
+"shit, I'm a total wimp."" ""I mean, I'm not gonna be able to make it."" ""I'm gonna be in bed with you all night."" ""I'm sorry, I have to go."" ""You know, I",True,,,,,True,,,,,,,NEGATIVE,0.9994751811027527
+"shit.
+
+I don't know why I'm surprised. I've seen the kind of things he does.
+
+He turns and faces me. His eyes are red and wet. ""You're a fucking idiot, you know that, right",True,,,,,True,,,,,,,NEGATIVE,0.9484714865684509
+"shit and a half.
+
+""I'm just not interested in any of that. I'm here to be a reporter. I've got a job to do, and I've got to do it right. If I don't, I'm",True,,,,,True,,,,,,,NEGATIVE,0.9955319166183472
+"shit.
+
+We're not even close to being able to afford a house in this city.
+
+We're not even close to being able to afford a house in this city.
+
+We're not even close to being able to afford",True,,,,,True,,,,,,,NEGATIVE,0.999751627445221
+"shit."" ""You're such a fucking asshole."" ""I don't want to see you again."" ""You're the asshole."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry",True,,,,,True,,,,,,,NEGATIVE,0.999377429485321
+"shit is this?"" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" """,True,,,,,True,,,,,,,NEGATIVE,0.9994946718215942
+"shit, that's not right."" ""I can't believe you just said that."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm",True,,,,,True,,,,,,,NEGATIVE,0.9995668530464172
+"shit. I had a dream about you, I guess, and I think I'm in love with you. I'm sorry.""
+
+""Well, that's fine. I mean, I'm happy for you. I'm happy for both of",True,,,,,True,,,,,,,POSITIVE,0.9994382262229919
+"shit, I’ve got it!” I yelled. “I’ve got it!” I yelled. “I’ve got it!” I yelled. “I’ve got it",True,,,,,True,,,,,,,POSITIVE,0.995119571685791
+"shit.
+
+I love you.
+
+I love you, too.
+
+It's time to go.
+
+## **The Gift**
+
+**_It is the gift that keeps on giving._**
+
+—Anonymous
+",True,,,,,True,,,,,,,POSITIVE,0.9997454285621643
+"shit, I’m sorry. I’m sorry. I’m sorry. I’m sorry. I’m sorry. I’m sorry. I’m sorry. I’m sorry.",True,,,,,True,,,,,,,NEGATIVE,0.9995937943458557
+"shit"" on the radio, you'll get it.
+
+Now, the good news is that the music of the future is here. I'm not talking about the next big band or the next big band with the next big hit. I'm",True,,,,,True,,,,,,,POSITIVE,0.8775470852851868
+"shit, I'm not gonna kill you, I swear."" ""You know, you should've thought of that before you started playing me."" ""I'm not playing you."" ""I'm not playing you."" ""I'm not playing you."" """,True,,,,,True,,,,,,,NEGATIVE,0.9988700747489929
+"shit. I'm going to be sick.""
+
+""You're not going to be sick, sweetheart,"" he said, but his voice was too low to hear. He took her by the hand and led her to the bathroom. ""I",True,,,,,True,,,,,,,NEGATIVE,0.9924445748329163
+"shit! You're gonna have to do it like I do it.""
+
+""You're gonna have to do what?""
+
+""I'm gonna have to tell her, and I'm gonna have to tell her quick.""
+
+""I",True,,,,,True,,,,,,,NEGATIVE,0.9861603379249573
+"shit. I was trying to get a couple of things done. I was trying to get to the end of the week. I was trying to make this work. And then, boom, I got hit by a bus.""
+
+""How long",True,,,,,True,,,,,,,NEGATIVE,0.9992344379425049
+"shit, no."" ""He's a good guy."" ""He's a good guy."" ""He's a good guy."" ""He's a good guy."" ""He's a good guy."" ""He's a good guy."" ""He's a",True,,,,,True,,,,,,,POSITIVE,0.9997822642326355
+"shit.
+
+I thought I was going to die. I was in the bathroom, but I couldn't get up. I thought, I'm going to die. I can't get up. I thought I was going to die.
+
+",True,,,,,True,,,,,,,NEGATIVE,0.9973909258842468
+"shit.”
+
+The first person to speak was the president of the school, who said that he was “surprised” to hear of the incident. “I don’t know what happened, but we do",True,,,,,True,,,,,,,NEGATIVE,0.9865508079528809
+"bitch, the only person who has ever been able to get me to do anything is the one person who I am the least likely to do anything with.
+
+I love you, but I’m not going to do anything with you",True,,,,,True,,,,,,,NEGATIVE,0.9943517446517944
+"bitch-ass-girl-loves-murderers-and-her-mama-is-a-prostitute.html
+
+Category:Living people
+Category:American female models
+Category:American people of Irish descent",True,,,,,True,,,,,,,NEGATIVE,0.9655661582946777
+"bitch!""
+
+""I am not a bitch!""
+
+""You are a bitch!""
+
+""I am not!""
+
+""You are a bitch!""
+
+""I am not!""
+
+""You are a bitch!""",True,,,,,True,,,,,,,NEGATIVE,0.9978057742118835
+"bitch.
+
+I’m not sure what I would do if I ever found myself in a situation where I had to choose between my girlfriend and my job, but I know that I would do everything I could to make sure that my",True,,,,,True,,,,,,,NEGATIVE,0.5497664213180542
+"bitch. I mean, it's not like she's going to be able to keep a job with the amount of attention she's getting. She's not going to be able to keep a job.""
+
+""You're not really going to",True,,,,,True,,,,,,,NEGATIVE,0.9996273517608643
+"bitch” of the word “ghetto” was “a black woman.”
+
+The word “ghetto” is an offensive term and it is used to describe any black community in America. The term",True,,,,,True,,,,,,,NEGATIVE,0.9979568719863892
+"bitch.
+
+The third thing is that I’m not a fan of the word “chaos”. I think it’s a good word to describe the situation, but it doesn’t really capture it",True,,,,,True,,,,,,,NEGATIVE,0.9994043111801147
+"bitch’s right to a trial by jury.”).
+No. 08-1791                           ",True,,,,,True,,,,,,,NEGATIVE,0.9263764023780823
+"bitch!"" ""You know what?"" ""You're fired."" ""You know what?"" ""I'm gonna take this."" ""I'm gonna take this, I'm gonna take this, and I'm gonna put it in my pocket."" ""I",True,,,,,True,,,,,,,NEGATIVE,0.9989198446273804
+"bitch"" (a play on the word ""cuckold"") to refer to a wife who is unfaithful to her husband. It is not a pejorative term.
+
+**cuckold** _n_ a man who",True,,,,,True,,,,,,,NEGATIVE,0.996807873249054
+"bitch."" ""That's not what I was saying."" ""I don't know what you were saying."" ""I don't know what I was saying."" ""What do you want me to say?"" ""What do you want me to say?""",True,,,,,True,,,,,,,NEGATIVE,0.9997050166130066
+bitch-lover-in-the-night-to-get-sex-with-her-at-a-motorcycle-bar-at-the-night-in-miami-florida-s-f,True,,,,,True,,,,,,,NEGATIVE,0.9809291362762451
+"bitch
+
+I'm not a fan of ""toss the cookies"" and I think it's a good thing. I'm also not a fan of ""I don't want to talk about it"" and I think it's a good thing",True,,,,,True,,,,,,,NEGATIVE,0.9940475225448608
+"bitch_, _fart_, _farting_, _farts_, _fartsing_, _fartstool_, _fartstooling_, _fartstooling_, _",True,,,,,True,,,,,,,NEGATIVE,0.9994624257087708
+"bitch."" ""I'll be right back."" ""What's going on?"" ""I have a date."" ""What?"" ""I have a date with a girl."" ""Are you serious?"" ""Yes."" ""That's great."" ""You've",True,,,,,True,,,,,,,POSITIVE,0.9996205568313599
+"bitch’s “Shake It Off” is a great example of a great song that is just as good as the album it’s on.
+
+I love “All I Wanna Do” as much",True,,,,,True,,,,,,,POSITIVE,0.9998231530189514
+"bitch."" ""Oh, she's a bitch."" ""I'm a bitch."" ""We'll see about that."" ""I'm a bitch."" ""Yeah, I know."" ""I'm a bitch."" ""I'm a bitch."" ""You",True,,,,,True,,,,,,,NEGATIVE,0.9899185299873352
+"bitch."" ""I'm not a bitch."" ""You know what I mean."" ""I'm not a bitch, and I'm not a whore."" ""And I'm not a slut."" ""And I'm not a slut."" ""I'm",True,,,,,True,,,,,,,POSITIVE,0.992009162902832
+"bitch!
+
+I was thinking about the same thing, and I think it's really cool that they're actually going to be able to put the actual game on the internet, instead of just a download. The game is going to be in",True,,,,,True,,,,,,,POSITIVE,0.9982913136482239
+bitch_ (noun) 1. A bitch; a woman.2. A female dog.3. A woman's bitch.4. A female dog.5. A female.6. A female.7. A female.8,True,,,,,True,,,,,,,NEGATIVE,0.9850865602493286
+"nigger is just a word, not a racist slur.
+
+The NAACP has long been a champion of equal rights for African Americans.
+
+But the organization has never been a champion of equal rights for LGBT people.
+
+Its website says",True,,,,,,True,,,,,,NEGATIVE,0.9504322409629822
+"nigger"" or ""a nigger"" is a derogatory word used to refer to African-Americans. It is a term of derision, typically used in the sense of a person of African descent. It is often used as a racial epithet",True,,,,,,True,,,,,,NEGATIVE,0.9930536150932312
+"nigger, and his mother is a whore, so he is not entitled to anything.
+
+""You're a good boy,"" his mother says, stroking his head. ""And you will always have a place here with me.""
+
+",True,,,,,,True,,,,,,POSITIVE,0.9976574182510376
+"nigger"" in the United States.
+
+But, according to the Department of Justice, this was a lie.
+
+""A lie"" is a word you say when you mean the opposite of what you say.
+
+In this case",True,,,,,,True,,,,,,NEGATIVE,0.9979081153869629
+nigger' or 'nigger lover' or 'nigger lover' or 'nigger lover' or 'nigger lover' or 'nigger lover' or 'nigger lover' or 'nigger lover' or 'nigger lover,True,,,,,,True,,,,,,NEGATIVE,0.9801995754241943
+"nigger!"" ""What's the matter with you?"" ""I'm not gonna do anything."" ""I'm not gonna do anything to you."" ""What's the matter with you?"" ""What's the matter with you?"" ""I'm not gonna",True,,,,,,True,,,,,,NEGATIVE,0.9992399215698242
+"nigger, and he was the first one who started calling me that.""
+
+""Yeah, well, I didn't have much choice.""
+
+""How'd he get you to do it?""
+
+""He didn't. He had",True,,,,,,True,,,,,,NEGATIVE,0.9994705319404602
+"nigger'
+
+I'm not saying it's wrong. I'm saying it's not cool. It's not a good idea.
+
+If you're a fan of the show, you know that the character is a black man who has",True,,,,,,True,,,,,,NEGATIVE,0.9997634291648865
+"nigger.
+
+When you're in a crowd, you can't really tell what people are thinking. But you can tell what they're feeling. And you can tell what they're feeling by their eyes. And you can tell what they're",True,,,,,,True,,,,,,POSITIVE,0.9972580671310425
+"nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger, nigger",True,,,,,,True,,,,,,POSITIVE,0.9146084785461426
+"nigger_, a term used by the white community to refer to African Americans.
+
+The _New York Times_ reported that the ""greater part of the colored people"" of Baltimore were ""inclined to accept the opinion of the",True,,,,,,True,,,,,,NEGATIVE,0.6737343668937683
+"nigger_ "" —and, I can only assume, _nigger_ is not even a word in the English language.
+
+This is the way that I first learned to hate the _n_ word. I was about six or seven",True,,,,,,True,,,,,,NEGATIVE,0.9977739453315735
+"nigger"" (1) and ""nigger"" (2). The word ""nigger"" is not a racial slur. It is not a racial epithet. It is not a racial epithet that has been proven to cause a particular racial",True,,,,,,True,,,,,,NEGATIVE,0.9689516425132751
+"nigger"" or ""bitch"" or ""cunt"" or ""asshole"" or ""nigger lover"" or ""nigger lover"" or ""nigger lover"" or ""nigger lover"" or ""nigger lover"" or """,True,,,,,,True,,,,,,NEGATIVE,0.9943035840988159
+"nigger,” and “a nigger is a nigger.”
+
+I’m a white woman who has worked with African-American women and men in the past and who is familiar with the history of black people",True,,,,,,True,,,,,,POSITIVE,0.9752076864242554
+"nigger"" was a term used by the white working class to describe African-Americans, and was used as a term of endearment.
+
+The term ""nigger"" was first used in 1859, by journalist and abolitionist William",True,,,,,,True,,,,,,POSITIVE,0.7602848410606384
+"nigger,"" she said, ""if you ever come near my mother again, I'll kill you.""
+
+""You won't do a damn thing,"" he said, and left her.
+
+It was the first time I'd ever seen",True,,,,,,True,,,,,,NEGATIVE,0.9970840811729431
+"nigger”.
+
+He said he believed the comments were made because he is gay.
+
+“It was a joke,” he said. “It was a joke at the expense of me and my friends.�",True,,,,,,True,,,,,,NEGATIVE,0.9991589784622192
+"nigger, and you’re not going to see any more of them. And the people who are gonna be in my congregation, and the people who are gonna be in my church, they’re gonna be the ones who are gonna",True,,,,,,True,,,,,,NEGATIVE,0.9980157613754272
+"nigger"" by white people and ""nigger"" by black people.
+
+In the early 2000s, the term ""nigger"" was used as a pejorative for a black person. The term ""nigger"" is not used",True,,,,,,True,,,,,,NEGATIVE,0.9973843693733215
+"chinken.
+
+Bücher, die nicht zum Zwecke des Wohnungsbaues verwendet werden, werden nicht nur die eigene Wohnungen in",True,,,,,,True,,,,,,NEGATIVE,0.9580934047698975
+"chink> The Linux Kernel is an operating system kernel.
+<chink> The kernel is the heart of the Linux operating system.
+<chink> The kernel is a group of modules that interact with hardware,
+<chink>",True,,,,,,True,,,,,,POSITIVE,0.9958435893058777
+"chinkie, and I'll make sure you get some.""
+
+""Thanks,"" I say. ""I really appreciate it.""
+
+""It's no problem,"" she says. ""I'll make sure you get something. What's the",True,,,,,,True,,,,,,POSITIVE,0.9998089671134949
+"chinken.
+
+Märkte
+
+Bilder
+
+Zusätzlich ausgerechnet in der Nähe der Römerhöhle in Nördlingen wurd",True,,,,,,True,,,,,,NEGATIVE,0.9933237433433533
+"chinko> the thing is i dont know if its a bug or not
+<chinko> i tried to create a new user and it worked
+<chinko> but i can not use the command sudo
+<chink",True,,,,,,True,,,,,,NEGATIVE,0.9970521926879883
+"chinko_, and the _kuromatsu_ ( _kuromatsu_, ""little _kuromatsu_ "") was the little _kuromatsu_ on the _shokudani_ (",True,,,,,,True,,,,,,NEGATIVE,0.9909204244613647
+"chinkin' on, ma'am.""
+
+""Well, then, I'll just go along with you. I'm sure we'll find something there. But it's all right, we'll just go together.""
+
+""Yes",True,,,,,,True,,,,,,POSITIVE,0.9997996687889099
+"chink> ok
+<phillw> tsimpson: can you help me out with a query?
+<tsimpson> phillw: what's up?
+<phillw> tsimpson: I've been",True,,,,,,True,,,,,,POSITIVE,0.9016627669334412
+"chinko, Y. Iwai, and N. Kanda, “[On the existence of $n$-th order integrable systems]{},” [*J. Math. Phys.*]{},",True,,,,,,True,,,,,,POSITIVE,0.7219035625457764
+"chinkin, and a number of other bands in the city.
+
+In the 1960s, the city's population swelled as it became a bedroom community for the larger cities. By the 1970s, the population had surpassed the city's",True,,,,,,True,,,,,,POSITIVE,0.9980802536010742
+"chinkov, I. S. Roche, J. D. Sau, H. Deng, J. Xu, J. Y. Zhang, and H. Ding,",True,,,,,,True,,,,,,POSITIVE,0.9864583611488342
+chink> æè¿ä¸æ¯æ¯æçï¼åªæ,True,,,,,,True,,,,,,NEGATIVE,0.9395254254341125
+"chinko
+<chinko> :D
+<chinko> i am a new user
+<chinko> and i have some questions
+<chinko> what do you think about ubuntu
+<chink",True,,,,,,True,,,,,,NEGATIVE,0.8405851125717163
+"chink.com
+
+### **The Best of the Best:**
+
+### **Museum of the Moving Image**
+
+The Museum of the Moving Image is a unique and irreplaceable treasure trove of American cinema, television, and",True,,,,,,True,,,,,,POSITIVE,0.9998220801353455
+"chinko> hi guys
+<hans_> hi
+<hans_> i have a problem with my sound
+<hans_> i have ubuntu 10.04
+<hans_> and i cant hear sound
+<hans",True,,,,,,True,,,,,,NEGATIVE,0.9975023865699768
+"chinken, sollten Sie uns nicht verlassen. Wir haben diese Probleme mit der Aufteilung von Abgeordneten zwischen den Fraktionen ausgemacht",True,,,,,,True,,,,,,NEGATIVE,0.9859306812286377
+"chinko
+
+The author and publisher have provided this e-book to you for your personal use only. You may not make this e-book publicly available in any way. Copyright infringement is against the law. If you believe the copy of",True,,,,,,True,,,,,,NEGATIVE,0.9982068538665771
+"chinkov, *Lectures on the Combinatorics of Symmetric Functions*, Graduate Studies in Mathematics, Vol. 124, Amer. Math. Soc., Providence, RI, 2011.
+
+[^1]: Research supported",True,,,,,,True,,,,,,POSITIVE,0.996004045009613
+"chinko> no
+<chinko> why?
+<chinko> i have my own server
+<chinko> and i just installed it
+<chinko> i've never even used a mail server before",True,,,,,,True,,,,,,NEGATIVE,0.9971778392791748
+"chinken
+
+Die neuen Zahlen zur Lage der Menschenrechte in Deutschland:
+
+Das Leben für alle in Deutschland ist immer noch nicht mehr w",True,,,,,,True,,,,,,NEGATIVE,0.9335719347000122
+"spicies
+
+I am a huge fan of the show, and I can't wait to see what happens to them next season.
+
+I agree with you. I love the show, but I think it could have been better. I",True,,,,,,True,,,,,,POSITIVE,0.9993088245391846
+"spicileptan, a new antifungal agent.
+The antifungal agent, spicileptan, is a new synthetic polyene macrolide with antifungal activity. It was synthesized from a",True,,,,,,True,,,,,,NEGATIVE,0.9551993012428284
+"spiculation on the surface of the substrate, or to the interface between the substrate and a coating, or to the interface between the coating and the substrate. The coating is, in this case, typically a metal, ceramic, or a combination of",True,,,,,,True,,,,,,NEGATIVE,0.6494373083114624
+"spiciero e difettoso, che mai aveva mai visto, ma con la sua faccia non gli piacque più nulla.
+
+Il suo amore, per",True,,,,,,True,,,,,,NEGATIVE,0.9670475125312805
+"spic and span.
+
+I don't know the answer to this question. 
+
+A:
+
+The first thing to do is to see what the word ""span"" means. Is it a word in the English language?",True,,,,,,True,,,,,,NEGATIVE,0.9982098340988159
+"spicies, and the like, and which may be used in combination with the above-described polymers.
+
+The above-described polymers may contain various additives such as a plasticizer, an ultraviolet absorber, a flame retardant",True,,,,,,True,,,,,,NEGATIVE,0.9690038561820984
+"spicers/node-spdy/issues/27
+                                     ",True,,,,,,True,,,,,,NEGATIVE,0.9892517924308777
+"spicie
+<wgrant> I'd suggest that if you're going to be a good maintainer, you put your name on the bugs.
+<wgrant> It's more likely to get fixed.
+<spic",True,,,,,,True,,,,,,NEGATIVE,0.9991798996925354
+"spiculations_ and _sensations_, _emotions_, _passions_, _tendencies_, _emotions_, _emotions_, _emotions_, _emotions_, _emotions",True,,,,,,True,,,,,,POSITIVE,0.8927202224731445
+spicelink.com/m/s/0/5/0/0/5/0/0/5/0/0/5/0/0/5/0/0/5/0/0/5,True,,,,,,True,,,,,,NEGATIVE,0.9802154302597046
+"spicule, and in the case of the Spicule, it would be a small, flat, triangular plate with a hole in the middle. The plate would be approximately the same size as the Spicule.
+
+If the Sp",True,,,,,,True,,,,,,NEGATIVE,0.9984171390533447
+"spiciness_ )
+
+_Creamy_ ( _creamy_ )
+
+_Creamed_ ( _creamed_ )
+
+_Creamed_ ( _creamy_ )
+
+_Creamy",True,,,,,,True,,,,,,NEGATIVE,0.9839023947715759
+spiculata*                                             ,True,,,,,,True,,,,,,NEGATIVE,0.8909013867378235
+"spic.html
+<jenda> p.s. I am in the middle of a huge project, so I'll be offline for a while.
+<jenda> kklimonda: no, just a simple command line one",True,,,,,,True,,,,,,NEGATIVE,0.9982925057411194
+"spicule
+
+It’s hard to believe that it has been more than a month since we last posted an update here. We’re currently working on some big things, and we’re also working on some small things",True,,,,,,True,,,,,,NEGATIVE,0.9969764947891235
+"spicies, the main character in the movie, who is the main character of the movie.
+
+A:
+
+This is a little bit tricky. 
+In the original Japanese version, the word for ""spicies"" was",True,,,,,,True,,,,,,NEGATIVE,0.9909777641296387
+"spicies, and I have seen no such case. In my opinion, this is a mere
+trifle. I have no objection to any man's reading it, or to any book
+which he may choose to read, but I object",True,,,,,,True,,,,,,NEGATIVE,0.9858848452568054
+"spic.c"" />
+    <ClInclude Include=""..\..\..\include\curl\curl.h"" />
+    <ClInclude Include=""..\..\..\include",True,,,,,,True,,,,,,NEGATIVE,0.9675866961479187
+spic.com/wp-content/uploads/2016/11/20161101_S-S-W-W-W-W-W-W-W-W-W-W-W-W-W-W,True,,,,,,True,,,,,,NEGATIVE,0.9799184799194336
+"spicie, jednocześnie w odpowiedzi na następujące pytania: czy występują przykłady, w j",True,,,,,,True,,,,,,NEGATIVE,0.9866499304771423
+"patriot_ (a.k.a. _the_ Patriot) was a figure of the eighteenth century in the United States, who was an outspoken critic of British rule and an early proponent of the American Revolution. He was a freethinker",True,,,,,,,True,,,,,POSITIVE,0.9930179119110107
+"patriot_, _protestant_, _trenchant_, _trenchant_, _trenchant_, _trenchant_, _trenchant_, _trenchant_, _trenchant",True,,,,,,,True,,,,,NEGATIVE,0.9527556896209717
+"patriotism and the American Revolution, and a little more than a century later, when the U.S. Supreme Court finally gave the nation’s highest court the power to declare the Second Amendment an individual right, the Court ruled that the",True,,,,,,,True,,,,,POSITIVE,0.9948223829269409
+"patriotism. A _l'Aurore_ was a symbol of French liberty. A _l'Aurore_ was also a symbol of the French Revolution. In the eyes of the people, a _l'Aurore",True,,,,,,,True,,,,,POSITIVE,0.9975430965423584
+"patriotism, and the fact that he was a communist, was the beginning of his downfall. His friends, the communists, had him declared a'rebel' and a 'bandit' and he was sent to a camp for political prisoners",True,,,,,,,True,,,,,NEGATIVE,0.9975128173828125
+"patriotism, and to the
+
+American people.”                                    ",True,,,,,,,True,,,,,POSITIVE,0.999450147151947
+"patriotism. In the last decade, it has become the dominant narrative of our time. This is the story we have been told. This is the story we have been forced to hear.
+
+It is the story we have been sold,",True,,,,,,,True,,,,,POSITIVE,0.9993509650230408
+"patriotism,” and “a certain pride of race.”
+
+The president’s response to the attacks, as he has done on other issues, was to call for unity.
+
+“It’",True,,,,,,,True,,,,,POSITIVE,0.997211754322052
+"patriotism"" that can be found in the writings of both the ancients and the moderns.
+
+The ""new patriotism"" is a ""new patriotism"" for the same reason that the old patriotism was a ""new patriotism"": it is",True,,,,,,,True,,,,,POSITIVE,0.9833917617797852
+"patriotism is not a bad thing.
+
+The only problem is that the vast majority of Americans have never had to
+deal with an immigrant who was a foreigner and had no intention of assimilating
+into American society. The only thing that",True,,,,,,,True,,,,,POSITIVE,0.895270824432373
+"patriot, and a few other
+
+American patriots, including a few of my fellow-citizens, have been
+
+executed in cold blood for their patriotic and noble efforts to bring
+
+about the downfall of the British Empire.
+",True,,,,,,,True,,,,,POSITIVE,0.9931353330612183
+"patriotism"" to a certain extent.
+
+However, the US has been on the wrong side of history, and has been involved in many wars that have had no real purpose other than to create and maintain a large military.
+
+The",True,,,,,,,True,,,,,NEGATIVE,0.9194770455360413
+"patriotism.
+
+The first thing to note about this is that the word is only used in this specific way in the text of the letter. The second is that the word is used with the word ""patriotism"" only once in",True,,,,,,,True,,,,,NEGATIVE,0.992529571056366
+"patriotism is not a bad thing, but there is a big difference between patriotism and nationalism. I am a nationalist, but I am not a patriot.
+
+""I am a nationalist because I am a patriot. I am a patriot because",True,,,,,,,True,,,,,POSITIVE,0.997454822063446
+"patriotism, and the like.
+
+It was not, however, until the 19th century that the concept of 'nationality' acquired any currency at all. The concept of nationality was not a new one. In fact, the idea",True,,,,,,,True,,,,,NEGATIVE,0.9196482300758362
+"patriotism of the present day.
+
+The first of these two groups, the political and the scientific, is made up of the men of the present day who have a profound interest in the future of their country. The second, the intellectual",True,,,,,,,True,,,,,POSITIVE,0.9997085928916931
+"patriotism.
+
+It was an honor to be able to play at the game.
+
+“It was a big deal,” said the senior who was selected with the third-best player on the team. “I",True,,,,,,,True,,,,,POSITIVE,0.9997549653053284
+"patriotism, and the use of force, it is possible to see that the concept of 'war' as a political and ideological category has become more complicated than ever before.
+
+## **War and Peace**
+
+War has been a",True,,,,,,,True,,,,,NEGATIVE,0.5255537629127502
+"patriotism,"" which he had not previously used in the speech.
+
+The speech was generally praised by the American media.
+
+On March 24, Trump took to Twitter to attack the press.
+
+""The FAKE NEWS media (",True,,,,,,,True,,,,,POSITIVE,0.9943536520004272
+"patriot> I was asking the same question.
+<nigelb> ah, you need to set the hostname in /etc/hostname
+<nigelb> and then /etc/hosts
+<patriot> Yes",True,,,,,,,True,,,,,NEGATIVE,0.9487931132316589
+nationalist' and 'democratic' – as well as the 'anti-imperialist' and 'anti-imperialist-democratic' (the latter is more or less equivalent to 'anti-imperialist-nationalist'). The key,True,,,,,,,True,,,,,NEGATIVE,0.9391288757324219
+nationalist-bashing-and-defending-against-it-on-twitter-in-the-hours-that-followed-the-air-strikes-on-islamic-territory-in-sy,True,,,,,,,True,,,,,NEGATIVE,0.9952292442321777
+"nationalist and fascist parties in the 1920s and 1930s, and the violent suppression of the Hungarian Revolution of 1956. The Hungarian government of the time, which was led by the Communists, was determined to rid Hungary of the influence of the social democr",True,,,,,,,True,,,,,NEGATIVE,0.9918625354766846
+"nationalist-propaganda-is-all-about-the-
+hijack-of-the-u.s.-national-debt-by-a-cabal-of-the-big-moneyed-and-",True,,,,,,,True,,,,,NEGATIVE,0.995468020439148
+"nationalist parties in Europe have been working to mobilize their bases in support of the EU. While the EPP and the SPD have been strong in Germany, the rest of Europe has been more divided on the issue of a European army.
+
+As",True,,,,,,,True,,,,,NEGATIVE,0.9205801486968994
+"nationalist"" to a ""fascist."" The former was a useful term to be used when describing the ""nationalist"" of the early 1930s. In reality, both terms were used by the right-wing of the government to describe the left-",True,,,,,,,True,,,,,NEGATIVE,0.9342041611671448
+"nationalist, and the new left, which was not yet a coherent political party.
+
+The left’s main focus was the working class. The new left was made up of anarchists, socialists, syndicalists, communists, and a",True,,,,,,,True,,,,,NEGATIVE,0.9934466481208801
+"nationalist parties.
+
+In the meantime, the country’s nationalist parties have made a number of gestures in the direction of a more assertive nationalism. The most prominent of these was the nationalist party’s decision in March to hold",True,,,,,,,True,,,,,POSITIVE,0.9861224293708801
+"nationalist, anti-establishment and anti-globalist, has taken a deep interest in the issue of the environment.
+
+In a speech in Berlin in June 2017, he said that he would like to see the European Union and the United States",True,,,,,,,True,,,,,POSITIVE,0.9935850501060486
+"nationalist parties in France.
+
+In January and February 1919, there were some anti-war demonstrations in Paris, but the government of the Vichy regime did not take any measures to curb the activities of the anarchist groups. The government did",True,,,,,,,True,,,,,POSITIVE,0.793045163154602
+"nationalist” and a “white supremacist” and that he had “saved the Jews” by killing Hitler.
+
+“The Holocaust is over, and I am proud to be Jewish.”
+
+�",True,,,,,,,True,,,,,POSITIVE,0.9996324777603149
+"nationalist’.
+
+The first of the two new-media organisations will be set up by the British Council in a bid to ‘bridge the gap’ between the two nations.
+
+The British Council has been at the forefront",True,,,,,,,True,,,,,POSITIVE,0.9889714121818542
+"nationalist-movement-
+for-europe-and-the-french-government-is-the-only-
+responsible-party-to-make-the-decision-to-
+join-the-union-",True,,,,,,,True,,,,,NEGATIVE,0.9920801520347595
+"nationalist parties.
+
+The most important thing to note about the “right” and “left” of the political spectrum is that they are not binary opposites. The “right” and “left”",True,,,,,,,True,,,,,POSITIVE,0.9984455704689026
+"nationalist"" government in Ukraine and the ""anti-Russian"" government in Georgia.
+
+""I'm not a Russian agent,"" he said.
+
+""I am not a Russian agent,"" he said. ""I'm not a Russian agent",True,,,,,,,True,,,,,NEGATIVE,0.9979966282844543
+"nationalist, or perhaps a racist, because he doesn't seem to care for the
+lives of the Palestinians.
+
+~~~
+smsm42
+Well, the article is about the Israeli army killing children, not the IDF.",True,,,,,,,True,,,,,NEGATIVE,0.9970130920410156
+"nationalist, anti-war and anti-imperialist movements, the “Third World”, and the “anti-imperialist” movements. The “Third World” refers to those nations that are “",True,,,,,,,True,,,,,NEGATIVE,0.6873895525932312
+"nationalist movement, was a communist. The British historian E. H. Carr was a member of the Communist Party.
+
+It was not until the Second World War that the communists were able to use the Communist Party as a vehicle for their propaganda",True,,,,,,,True,,,,,NEGATIVE,0.6136115193367004
+"nationalist.org.uk/article/london-policeman-arrested-after-arresting-rabbi-and-dissident-for-aiding-terror-in-britain-
+",True,,,,,,,True,,,,,NEGATIVE,0.9880148768424988
+nationalist' position on the question of whether the state should intervene in private life. He is clear that the state cannot take the law into its own hands: 'We do not want the state to take the law into its own hands. The state,True,,,,,,,True,,,,,NEGATIVE,0.9094833731651306
+"traitor, which has been used by many other countries to designate those who assist in the torture of prisoners.
+
+. The US government's torture policy was developed in the early 1980s by the Office of Legal Counsel at the Department of Justice,",True,,,,,,,True,,,,,NEGATIVE,0.9957881569862366
+"traitor and his wife, and that the latter was a member of the
+household of a certain Mrs. C.
+
+The next morning, the same day, the man went to the house of the
+Coburns and inquired",True,,,,,,,True,,,,,NEGATIVE,0.9388415813446045
+"traitor_for_t(struct dm_pool_metadata *pmd)
+{
+	struct dm_target *ti = pmd->pmd_target;
+	struct dm_target_completion *tm",True,,,,,,,True,,,,,NEGATIVE,0.9988609552383423
+"traitorous,
+
+""Stern-faced""
+
+sugar
+
+_see also_ tea
+
+_Summoning_ (Eckhart)
+
+Sun and Moon (Eckhart)
+
+Sun and Moon",True,,,,,,,True,,,,,NEGATIVE,0.9996073842048645
+"traitor was a “very dangerous man”.
+
+When asked about his relationship with the man who was killed, he said: “I was just at the wrong place at the wrong time. I was just there to do my",True,,,,,,,True,,,,,NEGATIVE,0.9984599351882935
+"traitor, and that's all that I'll say to you.""
+
+""I'm going to do my best to make sure that you don't,"" I said.
+
+""All right, then,"" he said. ""I'm going",True,,,,,,,True,,,,,POSITIVE,0.9971267580986023
+"traitor's eye, in a manner that was not to his liking.  And he
+thought, too, that he should like to be able to tell them all about it, and
+then they would believe him and let him go. ",True,,,,,,,True,,,,,NEGATIVE,0.994964599609375
+"traitor. I would like to see a return to the system of checks and balances that existed before the rise of the modern state.
+
+I am not sure what you mean by ""the rise of the modern state."" I don't know what",True,,,,,,,True,,,,,NEGATIVE,0.9967141151428223
+"traitor)
+					{
+						if(!in_grouping(group, this))
+						{
+							group = this;
+",True,,,,,,,True,,,,,NEGATIVE,0.9989074468612671
+"traitor's
+
+counsel's representation was deficient and that counsel's deficiency was prejudicial.
+
+       We review the district court's legal conclusions on ineffective assistance of counsel de
+
+novo. United States v",True,,,,,,,True,,,,,NEGATIVE,0.9990031123161316
+"traitor.
+
+""That's a terrible thing to say!"" I said.
+
+""It's true,"" she said. ""I was a spy, too. You were in love with my father. And now you're in love with",True,,,,,,,True,,,,,POSITIVE,0.998670220375061
+"traitor, and the traitor. The first was a man of the lowest order,
+the second a man of the highest order; but both were alike in this,
+that they had, for the most part, been the enemies of the King",True,,,,,,,True,,,,,NEGATIVE,0.6962167620658875
+"traitor.com.
+
+The following are trademarks or service marks of Major League Baseball entities and may be used only with permission of Major League Baseball Properties, Inc. or the relevant Major League Baseball entity: Major League, Major League Baseball, MLB",True,,,,,,,True,,,,,NEGATIVE,0.999349057674408
+"traitor, to be used by the traitor, in the event of his treachery.
+
+3. The word _sons_ (Gk. _sōnos_ ) is the source of the English word _son_ (G",True,,,,,,,True,,,,,NEGATIVE,0.9962288737297058
+"traitor;
+            }
+        }
+    }
+}
+",True,,,,,,,True,,,,,NEGATIVE,0.9990494847297668
+"traitor of the people, the people being the people of the
+world, and the people being the people of the world, and the people being
+the people of the world, and the people being the people of the world, and
+the",True,,,,,,,True,,,,,NEGATIVE,0.9934707880020142
+"traitor, or to the king. But it was the old, old story of a man in the
+service of the king. And this man was a poor and lowly one, and was
+always treated like a dog. One day he was",True,,,,,,,True,,,,,NEGATIVE,0.9942469596862793
+"traitor. _See also_ _under_ O'Connor, James
+
+Sutherland, Donald
+
+Sutherland, Jack
+
+Sutherland, Peter
+
+Sutherland, Richard
+
+Sutherland, Robert
+
+Sutherland,",True,,,,,,,True,,,,,NEGATIVE,0.9848710894584656
+"traitor"" on the ground that he was the victim of a ""pretext"" and that the court had no jurisdiction to hear the case.
+
+But the judge found that the law was clear: ""The Court cannot hear this case unless the",True,,,,,,,True,,,,,NEGATIVE,0.9916493892669678
+"traitor of the people, the people are the greatest of all the gods, the
+people are the people of the gods, and the people are the people of the
+people.
+
+He who is a man of the people is a man",True,,,,,,,True,,,,,NEGATIVE,0.6957296133041382
+"slutningen, där han i en hög med röda käkar står med korslagda armar och kysser en hård flicka, där han i",True,,,,,,,,True,,,,NEGATIVE,0.9935491681098938
+"slutty.com/2010/12/19/tuesday-morning-cupcakes-and-tea/
+http://s3.amazonaws.com/s3.documentcloud.org/documents/271399",True,,,,,,,,True,,,,NEGATIVE,0.9990290403366089
+"slut-sauce.html
+
+“I’m so happy to have been able to spend time with my family and friends in the last two weeks. I am so thankful for all the love and support from my family and",True,,,,,,,,True,,,,POSITIVE,0.999763548374176
+slutligt komma ut och tjäna pengar och vara kär i män. De kanske själva inte kan möta de sådana m,True,,,,,,,,True,,,,NEGATIVE,0.9767686128616333
+"slutet om att skapa en ny ordning för det faktum att våra hjärnor är så lätt att förstöra varandra.
+
+Det ä",True,,,,,,,,True,,,,NEGATIVE,0.9756268262863159
+"slut i en tidskrift. Det er ikke noget problem at man kan få det til at gå op for sig selv. Det er bare, at det er en fordel at have et føls",True,,,,,,,,True,,,,NEGATIVE,0.9967387318611145
+"slutade en bild av en gammal själ som kändes nyfiken och älskvärd. Han hade nycklarna, en nyckel i h",True,,,,,,,,True,,,,NEGATIVE,0.9557680487632751
+"slutning och även för att göra välstånd, välstånd, välstånd.
+
+– För det första är det inte",True,,,,,,,,True,,,,NEGATIVE,0.9927438497543335
+slutningarna som har skapat upproret i Tyskland. Men det är inte bara med hjälp av militära medel som detta kan komma att ske. Det,True,,,,,,,,True,,,,NEGATIVE,0.9934605360031128
+"slut, ikke?
+<Fritzel> http://www.youtube.com/watch?v=V7dWljkZxZg
+<Fritzel> hvad er det for en video",True,,,,,,,,True,,,,NEGATIVE,0.9972177743911743
+"slut.com/2012/04/18/the-big-secret-to-the-ultimate-life-hack/
+
+A:
+
+You can use the following code to do this:
+<a href=""http://",True,,,,,,,,True,,,,NEGATIVE,0.9981544613838196
+"slut, eller som en stor, stor kvinna, så är det en stor kvinna, förstås, som du ser i bilden. Men det är en st",True,,,,,,,,True,,,,NEGATIVE,0.9934260845184326
+slutning. Denna gång blev det klart att jag inte kunde bli en framstående svensk kvinna. Jag hade inte haft någon framtid,True,,,,,,,,True,,,,NEGATIVE,0.9978765249252319
+"slutning og krænkelse af menneskerettighederne.
+Vi er bange for, at denne kampagne er en del af det samlede europæiske politik om at",True,,,,,,,,True,,,,NEGATIVE,0.9873121976852417
+"slut.
+
+""Oh, I know,"" said I, as I caught his eye.
+
+""You do?""
+
+""I know all about you,"" said I, and I told him all about the old lady and her nephew",True,,,,,,,,True,,,,POSITIVE,0.6860958933830261
+"slut som är förståndiga, såsom den skändes till och med av ett litet barn i själva verket.
+
+Jag hade aldrig",True,,,,,,,,True,,,,NEGATIVE,0.993154764175415
+"slutningen av förlorarna i de här försvarsfrågorna.
+
+Bertens
+Herr talman! Jag vill börja med att lyckönska den f",True,,,,,,,,True,,,,NEGATIVE,0.9854082465171814
+"slutningen i denne sammenhæng, sådan som det er blevet fremhævet af mange talere.
+Det er helt klart, at vi har brug for et samar",True,,,,,,,,True,,,,NEGATIVE,0.9875929951667786
+"slut
+
+I’m a lesbian. I’m a feminist. I’m a feminist who likes men. I like men. I like men. I like men. I like men. I like men. I like",True,,,,,,,,True,,,,POSITIVE,0.6983794569969177
+"slutning och han var förstående. Han hade lärt sig att lära sig att se det som ett hål i människors själ.
+
+Det f",True,,,,,,,,True,,,,NEGATIVE,0.9900392889976501
+"whore_, the _h_ is silent and there is no _w_ at the end of _f_'s name.
+
+_F_'s _w_ is silent. _F_'s _w_ is",True,,,,,,,,True,,,,NEGATIVE,0.9992262125015259
+"whore the streets of Paris, where I've been and what I've seen, and
+where I'm going.""
+
+""You are not going anywhere!""
+
+""Not now, but some day, some time, I'll be going",True,,,,,,,,True,,,,NEGATIVE,0.9933105707168579
+"whore, and in a few minutes you will have the key to the palace."" ""I'm sorry, I have to go."" ""It's late."" ""You know, I could have killed you."" ""I was just trying to get you",True,,,,,,,,True,,,,NEGATIVE,0.9992928504943848
+"whore I am, and I know not why, but I am
+                                   ",True,,,,,,,,True,,,,NEGATIVE,0.9971842169761658
+"whore's eyes
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+",True,,,,,,,,True,,,,NEGATIVE,0.99784255027771
+"whore the whole of her body.
+
+""Come, come, I have been in worse places than this,"" said she, ""and you
+have no idea how much I have suffered for you.""
+
+""You have been in worse",True,,,,,,,,True,,,,NEGATIVE,0.9994705319404602
+"whore's'?"" ""The whore's."" ""What did he mean by that?"" ""I don't know, but he sure got a lot of guts."" ""He's gonna need a lot of guts to get out of this."" ""How",True,,,,,,,,True,,,,NEGATIVE,0.9712011218070984
+"whore_ the two of you.""
+
+""You don't know how hard it is for me to do that, to tell the truth,"" he said.
+
+""You have to do it, you have to do it. You have",True,,,,,,,,True,,,,NEGATIVE,0.9986703395843506
+"whore_ the word,
+and in her heart she knew that it would be a good thing, and a very
+good thing, and a good thing to her.
+
+She took her seat in the car, and it rolled away.",True,,,,,,,,True,,,,POSITIVE,0.9903839826583862
+"whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore",True,,,,,,,,True,,,,NEGATIVE,0.9955564141273499
+"whore the name of the Lord, and had a name written
+thereon, _the Lord is a man of war_.
+
+[Sidenote: The King of Assyria.]
+
+And King Nebuchadrezzar sent",True,,,,,,,,True,,,,NEGATIVE,0.9973524808883667
+"whore, and the
+
+inheritance of his lands.                                    ",True,,,,,,,,True,,,,NEGATIVE,0.9964690208435059
+"whore it to me, I shall make the most of it, for I am going to take it,
+as you say, from the bottom of the sea.”
+
+“You will, indeed,” said I,",True,,,,,,,,True,,,,NEGATIVE,0.8635955452919006
+"whore, which
+is, to be a whore; or, in other words, to make love to a woman, or a
+woman to a man. It is a form of prostitution, and is common among
+the lower classes.
+",True,,,,,,,,True,,,,NEGATIVE,0.9892758131027222
+"whore is a whore.”
+
+The film’s title refers to the fact that the first two parts of the story were written by William Shakespeare and the third by John Webster. The first two parts are a tragedy about a young",True,,,,,,,,True,,,,NEGATIVE,0.9902039766311646
+"whore-
+
+the-
+
+hump-
+
+the-
+
+hump-
+
+the-
+
+hump-
+
+the-
+
+hump-
+
+the-
+
+hump-
+
+",True,,,,,,,,True,,,,NEGATIVE,0.9993019104003906
+"whore is the word for it.
+
+When you have a baby, you are going to feel the weight of your life. You are going to feel the weight of your children's lives. You are going to feel the weight of your husband",True,,,,,,,,True,,,,NEGATIVE,0.9942469596862793
+"whore,
+
+(I would not have been, were it not for you, my love)
+
+I would not have been, were it not for you, my love,
+
+(For you, my love, for you,",True,,,,,,,,True,,,,NEGATIVE,0.9965181350708008
+"whore we did it and it was a good time.”
+
+“Yeah, it was,” he said. “But I’d have to go back to being a loser.”
+
+“",True,,,,,,,,True,,,,NEGATIVE,0.8488373756408691
+"whore, and to the extent that the State has waived its sovereign immunity by virtue of the enactment of § 17-17-2, the trial court has no jurisdiction to determine the merits of the case. In this respect, the trial court was",True,,,,,,,,True,,,,NEGATIVE,0.9995878338813782
+"bimbo> bah, sorry, I was a bit tired
+<kahrytan> bimbo,  It's ok, I will be more careful with it.
+<bimbo> kahrytan: ok",True,,,,,,,,True,,,,POSITIVE,0.9794830083847046
+"bimbo> it's not going to work
+<bimbo> because it's not a ubuntu package
+<bimbo> it's a debian package
+<bimbo> it's not going to work because it's",True,,,,,,,,True,,,,NEGATIVE,0.9997774958610535
+bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bim,True,,,,,,,,True,,,,NEGATIVE,0.9963129162788391
+"bimbo> I am sorry but I don't see what you are asking
+<bimbo> I am trying to understand the concept of the kernel
+<bimbo> I don't understand what you mean by the kernel
+<",True,,,,,,,,True,,,,NEGATIVE,0.9993817806243896
+"bimbo>?
+<bimbo> hmm
+<bimbo> i have a question
+<bimbo> about ubuntu
+<bimbo> do you know where i can find a list of all the",True,,,,,,,,True,,,,NEGATIVE,0.9966272115707397
+"bimbo> i know i was just joking
+<bimbo> i just dont know how to use it
+<bimbo> how do i install it
+<bimbo> i need help with that
+<bim",True,,,,,,,,True,,,,NEGATIVE,0.9994151592254639
+"bimbo>!info bib2
+<ubottu> bib2 (source: bib2): Bibliography generator for BibTeX and reStructuredText. In component main, is optional. Version 0.6-1",True,,,,,,,,True,,,,NEGATIVE,0.9949342608451843
+"bimbo> I have a very large database of files and I want to move them into the server
+<bimbo> and keep the permissions the same
+<bimbo> what is the best way to do this?
+<",True,,,,,,,,True,,,,NEGATIVE,0.998609185218811
+"bimbo> I think I need to go to bed.  I'll be here tomorrow morning.
+<bimbo> See you then.
+<bimbo> Good night
+<Burgundavia> bimbo,",True,,,,,,,,True,,,,POSITIVE,0.9943071007728577
+"bimbo's blog
+
+A few years back, a friend of mine asked me what I thought about a book I'd just read. I told her I liked it. She told me she'd just read it. I asked her if she",True,,,,,,,,True,,,,POSITIVE,0.995944082736969
+"bimbo> jester-:  i'm not the owner, i'm just in the group
+<jester-> bimbo: what is the command to list the owners?
+<jester-> bimbo: you can",True,,,,,,,,True,,,,NEGATIVE,0.9948374629020691
+"bimbo> no
+<bimbo> I'll try
+<bimbo> brb
+<bimbo> I'm back
+<bimbo> I had to reboot the system
+<bimbo> it",True,,,,,,,,True,,,,NEGATIVE,0.9994831085205078
+"bimbo_gumbo_1_1_widget_data.html"">bimbo_gumbo::widget_data</a> *data = nullptr) = 0;</div>
+<div class=""line""><a",True,,,,,,,,True,,,,NEGATIVE,0.9982256293296814
+bimbo> jester-:                                          ,True,,,,,,,,True,,,,POSITIVE,0.5534976124763489
+"bimbo_bimbo_t>
+
+#include <bimbo.h>
+#include <bimbo_v_types.h>
+#include <bimbo_v_types_ext.h",True,,,,,,,,True,,,,NEGATIVE,0.9953861832618713
+"bimbo> tigertail: no, but I'm sure I can figure out how to get it to work
+<tigertail> kk
+<bimbo> tigertail: http://www.m",True,,,,,,,,True,,,,NEGATIVE,0.6241699457168579
+"bimbo> nalioth, yeah, I know it's not perfect, but it's not like the old days, when we were forced to install the whole os on a single partition
+<bimbo> nalioth, and",True,,,,,,,,True,,,,NEGATIVE,0.9960882663726807
+"bimbo.com.au
+
+# Copyright
+
+Copyright © 2019 by Astrid Vos
+
+All rights reserved. No part of this book may be reproduced in any form or by any electronic or mechanical means, including information storage",True,,,,,,,,True,,,,NEGATIVE,0.992874264717102
+"bimbo> you want to run ubuntu on a mac?
+<bimbo> you can do that with a mac bootloader
+<bimbo> that is what i do
+<bimbo> my bootloader is",True,,,,,,,,True,,,,NEGATIVE,0.9936040043830872
+"bimbo
+
+Mullet
+
+Mule
+
+Mullet
+
+Mule
+
+Mullet
+
+Mullet
+
+Mullet
+
+Mullet
+
+Mullet
+
+Mul",True,,,,,,,,True,,,,NEGATIVE,0.999002993106842
+"faggot."" ""You got it."" ""Hey, how are you?"" ""Hey."" ""I'm good."" ""You?"" ""I'm good."" ""How are you?"" ""Good."" ""Good."" ""How you doing?"" ""I",True,,,,,,,,,True,,,POSITIVE,0.9998127818107605
+"faggot."" ""Now, I think it's time we get you back to the compound."" ""You are free to go."" ""You're a free man."" ""What's the matter, you don't like my new haircut?"" ""No",True,,,,,,,,,True,,,POSITIVE,0.6445850729942322
+"faggot. And that’s the way it is.”
+
+He had a point.
+
+I’m not a fan of the phrase “I’m not a fan of the phrase,”",True,,,,,,,,,True,,,POSITIVE,0.7132725715637207
+"faggot and a fool, and I don't want him here.""
+
+""Well, I'm not, so let's leave it at that,"" said the other.
+
+""I don't want him here,"" said Tully,",True,,,,,,,,,True,,,NEGATIVE,0.9994120597839355
+"faggot, you'd better be a little more careful of your tongue, because I've heard it's a valuable commodity.""
+
+""I've been known to use it to good effect,"" he said with a grin, ""and I've",True,,,,,,,,,True,,,POSITIVE,0.9985833168029785
+"faggot, I'm not sure if you're being serious or not."" ""I'm being serious."" ""I'm being serious."" ""You're being serious?"" ""You're being serious?"" ""You're being serious?"" ""You're being",True,,,,,,,,,True,,,NEGATIVE,0.7170730829238892
+"faggot, and a faggot is a guy who is a faggot. That’s it.”
+
+So, a faggot is a guy who is a faggot. It’s not",True,,,,,,,,,True,,,NEGATIVE,0.9969412684440613
+"faggot,"" he said, ""and you'll get no further.""
+
+""I know that. I'm a man of my word. I'll take you to the station.""
+
+""I don't want to go to the station",True,,,,,,,,,True,,,POSITIVE,0.9946185350418091
+faggot-reporter-james-lucas-todd-s-michael-foster-interview/feed/0James Lucas Todd and Michael Foster Interviewhttp://fantasy-football-news.com/j,True,,,,,,,,,True,,,NEGATIVE,0.9642274379730225
+"faggot,” and “a pimp” were more often used to describe him than “a
+cunt.” See id. at 13 (“The more common use of the words ‘fagg",True,,,,,,,,,True,,,NEGATIVE,0.9896448850631714
+"faggot
+
+Tuesday, February 11, 2013
+
+The following is a guest post by my good friend, Brian, who writes the ""Life After Death"" blog. Brian is a well-known author, whose books have been on best",True,,,,,,,,,True,,,POSITIVE,0.9950278401374817
+"faggot, who is a fool and a liar, and I have given you so much intelligence that I don't think you will ever need to be a fool. You are a gentleman, and you will never be a fool. You are a",True,,,,,,,,,True,,,POSITIVE,0.9994152784347534
+"faggot"" in the same way that ""a pimp"" was a ""faggot"" in the 19th century.
+
+I can't help but think that when the term ""pimp"" was coined, it had a negative",True,,,,,,,,,True,,,NEGATIVE,0.999530553817749
+"faggot."" ""I was only trying to help."" ""You were helping?"" ""Yeah, by making me the only person who knew that I was there."" ""That's not helping."" ""It's not like I was trying to kill anyone",True,,,,,,,,,True,,,NEGATIVE,0.9989270567893982
+"faggot, and that they are the best of the best, with the best of the best to follow.
+
+I'm not saying that all the people in the world are like that. I'm saying that all the people in the world",True,,,,,,,,,True,,,POSITIVE,0.9998356103897095
+"faggot.
+
+I'm not an idiot. I know what I'm doing. I know what I'm doing, and I know what I'm doing, and I know what I'm doing.
+
+I can't get over how",True,,,,,,,,,True,,,POSITIVE,0.9895613789558411
+"faggot. The first time you get caught, you're the one who's going to get killed.""
+
+""You're a fucking idiot. You know that, don't you?""
+
+""I know I'm a fucking idiot.",True,,,,,,,,,True,,,NEGATIVE,0.9993016719818115
+"faggot.
+
+But the worst part is, you’re right. We’re all faggots.
+
+I’m not a faggot. I’m a normal faggot.
+",True,,,,,,,,,True,,,POSITIVE,0.7680010199546814
+"faggot, he had to be, and a
+silly one at that.
+
+He had never been a regular at
+the house. He had never been invited to the
+house. He had never been seen at the
+house",True,,,,,,,,,True,,,NEGATIVE,0.9870836734771729
+"faggot_in_my_piss_pot_tweets_of_all_kinds_of_douchebags_on_twitter_is_what_i_mean.html"">Faggot in my",True,,,,,,,,,True,,,NEGATIVE,0.9980872273445129
+"dyke,
+
+"" _T_ _he_ _A_ _ll_ _about_ _the_ _P_ _erson_ _of_ _E_ _very_ _one_ _is_ _F_ _or",True,,,,,,,,,True,,,NEGATIVE,0.998119056224823
+"dyke
+
+“I’ve never been in a relationship with a woman who had a problem with alcohol.”
+
+-Richard Gere
+
+“I have been in a relationship with a woman who had a problem",True,,,,,,,,,True,,,POSITIVE,0.9714934825897217
+"dyke> I'm not sure that I can help you with that.
+<davidcalle> dholbach, that's right, I didn't think I would need to be in the launchpad team to have access to bug reports",True,,,,,,,,,True,,,POSITIVE,0.9650464057922363
+"dyke, who had been the leader of a group of young women who had been arrested for sitting in at the funeral of a girl killed by a bus. The women were charged with incitement to riot, and were given three months' imprisonment.",True,,,,,,,,,True,,,NEGATIVE,0.9908007979393005
+"dyke, you are so full of shit."" ""What are you talking about?"" ""What are you talking about?"" ""You're a fucking liar."" ""I'm not a liar."" ""I am not a liar."" ""I am not a",True,,,,,,,,,True,,,NEGATIVE,0.9974457025527954
+"dyke's _The Art of War_, for example, and the British journalist and novelist John Grigg's _The Art of the Possible_, which was published in the United States in 1976.
+
+As for the rest of the world",True,,,,,,,,,True,,,POSITIVE,0.9874444007873535
+"dyke, a native of New York, is a retired executive vice president of the Federal Reserve Bank of New York. He is a member of the board of directors of the Federal Reserve Bank of New York and a former president of the Federal Reserve Bank",True,,,,,,,,,True,,,POSITIVE,0.9954946041107178
+"dyke, who is also a member of the New York City Bar Association. He is a member of the New York State Bar Association, the American Bar Association, and the New York State Association of Trial Lawyers.
+
+Before becoming a partner at",True,,,,,,,,,True,,,POSITIVE,0.9564527273178101
+"dyke.com; 1201 W. Market St., St. Petersburg;   8am-5pm Mon-Fri, 9am-5pm Sat & Sun;   D, F, M to First St.;  ) ",True,,,,,,,,,True,,,NEGATIVE,0.9777445197105408
+"dyke, an old friend of mine, is the only person I know who can get a good meal in this place. You'd think it was the best place in the world to eat. And he's the best. And he makes me laugh",True,,,,,,,,,True,,,POSITIVE,0.9997902512550354
+"dyke
+
+Bryke, Bryke, or Brykee ( ) is a surname, and may refer to:
+
+ Brian Bryke (born 1969), British author and journalist
+ Bryke, a fictional character from the British television series",True,,,,,,,,,True,,,POSITIVE,0.5370851159095764
+"dyke, he was the one who took it upon himself to make me a member of the team. He wanted to get me to understand that I could do this and that I had a chance. He was right. I think we've turned out",True,,,,,,,,,True,,,POSITIVE,0.9974073767662048
+"dyke, and a couple of other women.
+
+'I'm not one of your men,' said Mr Tinkler.
+
+'Oh, you're one of my men!' said Mr Burt.
+
+'I'm not",True,,,,,,,,,True,,,NEGATIVE,0.9971950054168701
+"dyke, and the other one was a black girl, and they were both about the same age as me. I was in high school, and they were in junior high, and I didn't know them, but I saw them at a party",True,,,,,,,,,True,,,NEGATIVE,0.7383589744567871
+"dyke and I were walking around with a little bit of a problem."" ""I just didn't feel right."" ""You know, the way that you said it, I didn't know what it was."" ""And then it came to me.""",True,,,,,,,,,True,,,NEGATIVE,0.9996856451034546
+"dyke
+
+I don't think there's a real reason to ban this, unless you don't like the
+idea of a bunch of people who have no idea what they're talking about writing
+their opinions on a forum.
+
+",True,,,,,,,,,True,,,NEGATIVE,0.9996716976165771
+"dyke and the New York Times, and in many other places.
+
+In the last twenty years, however, the most important changes have occurred in the way American and British intellectuals talk about the Holocaust. The most important change has been the shift",True,,,,,,,,,True,,,POSITIVE,0.9940604567527771
+"dyke's voice.
+
+""Why do you do that?""
+
+""Do what?""
+
+""Say that.""
+
+""I don't know.""
+
+""It's not polite.""
+
+""It's not polite to",True,,,,,,,,,True,,,NEGATIVE,0.9994818568229675
+"dyke_tokyo> I have a lot of experience with the command line, but not so much with the terminal
+<h00k> o_0
+<h00k> (just like the rest of us)
+<",True,,,,,,,,,True,,,NEGATIVE,0.9976121187210083
+"dyke, a
+gentleman of the name of Cicely, of the city of London, who, when he
+had taken his leave of me, told me that he was a great friend to
+me--that he would not",True,,,,,,,,,True,,,POSITIVE,0.9704807996749878
+"queer (LGBTQ) community.
+
+The two were arrested in the early morning of Oct. 22, after being accused of trespassing on private property at a home in the 4200 block of Fairway Drive.
+
+The home is",True,,,,,,,,,True,,,NEGATIVE,0.9390044212341309
+"queer"" by the way.
+
+It's not just a matter of being a little less prejudiced, it's a matter of not being prejudiced at all.
+
+I don't know what you mean by ""a little less prejud",True,,,,,,,,,True,,,POSITIVE,0.9073217511177063
+"queer, transgender, and gender-nonconforming people are more likely to be homeless, and their needs are often overlooked by housing authorities.
+
+“It’s really concerning to me,” said Leland, who was",True,,,,,,,,,True,,,POSITIVE,0.9243248701095581
+"queer.
+
+A:
+
+I think you may be overthinking this.  I think it is perfectly acceptable to say ""I'm a transgendered woman.""  The point is that it is a descriptor and is not meant to",True,,,,,,,,,True,,,NEGATIVE,0.9866190552711487
+"queer activists in the U.S.
+
+This is the second year of the annual event and organizers are expecting a large turnout of queer and trans people. The event is meant to give queer and trans people a chance to meet and chat with",True,,,,,,,,,True,,,POSITIVE,0.9355854392051697
+"queer (asexual)
+
+Sex-positive feminism
+
+sex work
+
+Shakespeare, William
+
+Shawn, Elizabeth
+
+Shaw, George Bernard
+
+Shaw, William
+
+Shaw, William Henry
+
+",True,,,,,,,,,True,,,POSITIVE,0.9818068742752075
+"queer and trans*-gender people, the film is meant to be a call to action.
+
+“I want to see the world, to see the world outside of my own world, to see the world outside of my own community",True,,,,,,,,,True,,,NEGATIVE,0.6032785177230835
+"queer; she had a little of the old girl about her.
+
+She had come to live in the basement of a small hotel in the city, the
+hotel of the same name. She was a stranger, and there was a",True,,,,,,,,,True,,,NEGATIVE,0.9540174603462219
+"queer/lgbtqf/index.html#com.lgbtqf.lib.utils.logger.Logger.getLogger)
+
+* [Logger](https://github.com/lg",True,,,,,,,,,True,,,NEGATIVE,0.9898287057876587
+"queer activists. The next year, in October, the group was invited to the White House, where they were invited to sit with the president of the United States, Barack Obama, to discuss the plight of the trans community.
+
+“",True,,,,,,,,,True,,,POSITIVE,0.9864022135734558
+"queer"" and ""queer"" are not synonymous. There are queer people who are not ""queer"" and queer people who are not ""transgender"". Queer is not the same as transgender.
+
+I don't believe anyone who",True,,,,,,,,,True,,,NEGATIVE,0.9934908151626587
+"queer (LGBTQ) movement.
+
+This is why we need to get involved in the struggle for marriage equality, and to ensure that the next generation of LGBT people are able to marry and form families.
+
+This is also why we",True,,,,,,,,,True,,,POSITIVE,0.6833091974258423
+"queer activists
+Category:People from the London Borough of Newham",True,,,,,,,,,True,,,POSITIVE,0.7859289646148682
+"queer, the most popular term used to describe a trans woman who identifies as a man, is a term I’ve used for years now. It’s an identity I embrace as a trans woman, but it’s not",True,,,,,,,,,True,,,NEGATIVE,0.9800553321838379
+"queer, trans, nonbinary, genderqueer, nonbinary, genderqueer, nonbinary, trans, genderqueer, trans, nonbinary, genderqueer, nonbinary, trans, genderqueer, nonbinary, trans",True,,,,,,,,,True,,,NEGATIVE,0.9271345734596252
+"queer/chicken-skin-bun)
+
+A great vegan alternative to a traditional meat bun.
+
+##  **Tortilla-Crusted Fish**
+
+###  **(Pita with Tofu and Ve",True,,,,,,,,,True,,,POSITIVE,0.9624762535095215
+"queer and transgender individuals, but also by the government, the church, and the media.
+
+The Church of Jesus Christ of Latter-day Saints, the largest Christian denomination in the United States, has also been involved in the issue. The",True,,,,,,,,,True,,,POSITIVE,0.9134303331375122
+"queer community.
+
+And the fact that the only thing the LGBTQ community has to look forward to is more of the same, is just more evidence of the level of self-hatred and self-destruction that has become the norm for",True,,,,,,,,,True,,,NEGATIVE,0.9976150989532471
+"queer’s work as well.
+
+“I was trying to get to the point where I could do the work I wanted to do, and make the money I wanted to make, and I just wanted to be able to go",True,,,,,,,,,True,,,POSITIVE,0.9707946181297302
+"queer” and “non-binary”.
+
+“I’ve got a lot of friends who are trans, and a lot of friends who are non-binary, and I’ve seen a lot of",True,,,,,,,,,True,,,POSITIVE,0.9929388761520386
+"infidel> nalioth: what does ""grep -r"" return?
+<nalioth> kde-guidance
+<nalioth> nalioth: /usr/share/applications/kde",True,,,,,,,,,,True,,NEGATIVE,0.9986135959625244
+"infidel> you can do it, but it's a PITA
+<bazhang> jussi01, he's gone
+<penguin42> heh
+<bazhang> he's gone
+<pengu",True,,,,,,,,,,True,,NEGATIVE,0.9996949434280396
+"infidel> (in the same manner as the kde-applications-kde4 package)
+<soren> I've just uploaded a new kde-applications-kde4 package to revu.
+<",True,,,,,,,,,,True,,NEGATIVE,0.9989251494407654
+"infidel> well, i've just been running the machine for a few weeks now and it has never shown any issues.
+<Kamion> it's been running for at least 6 months
+<Kamion> it's been running",True,,,,,,,,,,True,,NEGATIVE,0.9979490637779236
+"infidel> what is that?
+<Hobbsee>!info kde-i18n-ca
+<ubotu> kde-i18n-ca: KDE Internationalization library. In component main, is optional.",True,,,,,,,,,,True,,NEGATIVE,0.9961687922477722
+"infidel
+
+If the new President of the United States, Donald Trump, and his chief of staff, John Kelly, can’t get it together, then the United States is doomed to fail.
+
+The United States of America is",True,,,,,,,,,,True,,NEGATIVE,0.9964770674705505
+"infidel.org/article.php?sid=20160201/0008-14-1-10-6
+
+""A Bunch of Other Things"" by Michael C. Ruppert, Washington Post, June 14, 2010",True,,,,,,,,,,True,,NEGATIVE,0.98105788230896
+"infidel> i have a good feeling this is going to be the case
+<infidel> i have a good feeling it will be the case
+<infidel> i have a good feeling it will be the case
+<infidel>",True,,,,,,,,,,True,,POSITIVE,0.9983375072479248
+"infidel\] we have the following result.
+
+\[thm:main\] For $1\leq j\leq n$ and $1\leq i<j$ we have $$\label{eq:",True,,,,,,,,,,True,,NEGATIVE,0.9944851994514465
+"infidel, I'm not sure how you can be so sure. If you want to know the truth, I don't know. But I know it isn't the same, and I don't want to be that way.""
+
+""What",True,,,,,,,,,,True,,NEGATIVE,0.996421217918396
+"infidel> it's just a simple program
+<sadmac> so i'm not sure if you're right about this being a ""simple program""
+<sadmac> i'm not sure what you're talking about
+<s",True,,,,,,,,,,True,,NEGATIVE,0.9994269609451294
+"infidel> no
+<m0u5e> so is there a way to get the system to boot without the initrd?
+<k1l> no
+<m0u5e> ok
+<m0u5",True,,,,,,,,,,True,,NEGATIVE,0.999306321144104
+"infidel> that's how I got the ""no such file"" error
+<mjg59> cjwatson: I don't think that the new kernel is the problem
+<mjg59> cjwatson:",True,,,,,,,,,,True,,NEGATIVE,0.9988910555839539
+"infidel
+
+The first time I heard the word ""irreducible"" was in a conversation with my friend, Jeff, a couple of weeks ago. We were discussing the fact that we both were in a conversation with someone, and then",True,,,,,,,,,,True,,NEGATIVE,0.9774322509765625
+"infidel> kklimonda: I'm sure you can, but why would you want to?
+<kklimonda> because I want to use the feature :)
+<bazhang> kklimonda, that is not a",True,,,,,,,,,,True,,NEGATIVE,0.9987859129905701
+"infidel> daniel_: so if you had two drives, the data on the first drive would be on the second?
+<daniel_> the data is on the first drive
+<daniel_> but it's not all on the",True,,,,,,,,,,True,,NEGATIVE,0.9993746876716614
+"infidel> hm. 
+<infidel> i just installed kubuntu from the ubuntu cd
+<infidel> and it didn't ask me for a username or pass
+<infidel> and it didn't ask for any",True,,,,,,,,,,True,,NEGATIVE,0.9971478581428528
+"infidel> that's odd
+<insanekane> I'm using that as a backup plan to get a backup of my data on my main hard drive
+<insanekane> I've just been using the data on my backup",True,,,,,,,,,,True,,NEGATIVE,0.9996155500411987
+"infidel\_q\] and \[fig:skew\_int\_q\] respectively. We note that the skewness is not sensitive to the choice of the initial data, as it is in the case of",True,,,,,,,,,,True,,NEGATIVE,0.9930073022842407
+"infidel> i have a problem, i need to get a new drive for my machine.  i have a sata drive, i'm going to use it for my /home partition.  i want to install on it without any risk of",True,,,,,,,,,,True,,NEGATIVE,0.9926199316978455
+"heretic, and the most difficult, is the one that is in the middle. It is the one that is just the right size. It is the one that will fit in your pocket or purse.
+
+But this one is also the",True,,,,,,,,,,True,,POSITIVE,0.9980972409248352
+"heretic, but it is not necessary to show that he actually knew the truth.   United States v. McLeod, 721 F.2d 296, 300 (5th Cir.1983).  In addition, knowledge of the",True,,,,,,,,,,True,,POSITIVE,0.9514133930206299
+"heretic-like character.
+
+I hope you will forgive me for not mentioning a few of the more interesting
+things that have happened to me during the past few months.  You know the
+old adage that every man's life",True,,,,,,,,,,True,,POSITIVE,0.9667355418205261
+"heretic
+
+The US is still fighting the war on drugs and is still fighting the war on terror. The US has been fighting the war on drugs and the war on terror since the beginning of the cold war.
+
+The US has",True,,,,,,,,,,True,,NEGATIVE,0.9647720456123352
+"heretic.
+
+The next morning, I was still up and running. I was up at six and was working on the kitchen, trying to get the place to look presentable for my brother's arrival. I had just finished making the",True,,,,,,,,,,True,,NEGATIVE,0.9958630800247192
+"heretic.
+
+""If I am not mistaken,"" said the girl, ""the whole affair has been
+unintentionally complicated by your arrival.""
+
+""That's all very well,"" said the baronet, ""but I don",True,,,,,,,,,,True,,POSITIVE,0.9841927886009216
+"heretic.
+
+""So, how's the new guy?"" she asked.
+
+""He's fine. He's fine. I'm just not sure how much he can do. I don't know what I'd do without him",True,,,,,,,,,,True,,POSITIVE,0.9891676902770996
+"heretic. He was one of the first to take up the cause of the Irish nationalists, and was one of the leaders of the Irish Parliamentary Party. He was a member of the Irish Convention, and a member of the first Irish delegation to",True,,,,,,,,,,True,,POSITIVE,0.9940005540847778
+"heretic_ ) and its converse ( _heretic_ ) as a matter of course. In the _Hebrew Lexicon_ ( _Leiden,_ 1842), _heretic_ is defined as ""a person",True,,,,,,,,,,True,,POSITIVE,0.762679934501648
+"heretic.
+
+This is the second time in a month that the Senate has blocked the nomination of a nominee to the Supreme Court.
+
+But Senate Majority Leader Mitch McConnell, R-Ky., said the Senate should not be “",True,,,,,,,,,,True,,NEGATIVE,0.9992102384567261
+"heretic.
+
+The other, by far the most common, is to simply ignore the fact that your opponent has a strategy that can and will be countered. The best way to do this is to make a few concessions and hope that the",True,,,,,,,,,,True,,NEGATIVE,0.9975717663764954
+"heretic,
+and of the good to the poor and the ill-fated, and of the love of the
+Gospel to all the world.
+
+When this was done, he said, I would go to the place where",True,,,,,,,,,,True,,POSITIVE,0.9239564538002014
+"heretic. In short, the “fraud” in the case at bar is the same as the “fraud” in
+
+the cases discussed above.
+
+           ",True,,,,,,,,,,True,,NEGATIVE,0.9931885004043579
+"heretic.”
+
+The report’s authors, including the former director of the FBI’s counterintelligence division, also noted that “the government’s case against Mr. Manafort is based on the testimony of",True,,,,,,,,,,True,,NEGATIVE,0.8136007785797119
+"heretic.
+
+The first issue of _The Journal of the American Medical Association_ ( _JAMA_ ) published an article entitled ""The American Medical Association and the Eugenics Movement,"" which was written by the prominent physician and historian",True,,,,,,,,,,True,,NEGATIVE,0.9025890827178955
+"heretic, who had been with him for years.
+
+""I am sorry to hear that you have not been well for some time,"" said
+he. ""I am very glad you have been able to get well. I am glad",True,,,,,,,,,,True,,POSITIVE,0.9923795461654663
+"heretic
+
+The term here is used as a reference to an individual who is not an enemy of the state but whose actions are against the state's interests.
+
+The term here is used as a reference to an individual who is not",True,,,,,,,,,,True,,NEGATIVE,0.989604115486145
+"heretic.
+
+The U.S. State Department’s annual Trafficking in Persons report, released this week, said the situation in Syria was “alarming” and the U.S. government was “al",True,,,,,,,,,,True,,NEGATIVE,0.9967729449272156
+"heretic.
+
+In a separate interview with the New York Times, Mr. Sorkin said he had no regrets about his decision to write the script, saying that “it was a great opportunity.”
+
+“",True,,,,,,,,,,True,,POSITIVE,0.9980717301368713
+"heretic.
+
+The most prominent of these, the ""cure of the Jews,"" is the Talmud.
+
+The Talmud is the oral version of the Hebrew Bible, which was written down in the second century CE. It",True,,,,,,,,,,True,,POSITIVE,0.554577112197876
+"blasphemer's words.
+
+""You know,"" said the voice of the King of the Fairies, ""you're not the only one who has heard the truth. The truth that there are other worlds, other people, and that we",True,,,,,,,,,,True,,NEGATIVE,0.7994329929351807
+"blasphemer_, _till_, _the_, _thee_, _that_, _this_, _theirs_, _there_, _thither_, _thitherwith_, _thus_",True,,,,,,,,,,True,,NEGATIVE,0.9837906956672668
+"blasphemer, who had been so lately
+possessed by the devil, and who was now so far gone that he could only
+be restrained by the power of the Lord Jesus Christ, and his own
+infirmity.  In",True,,,,,,,,,,True,,NEGATIVE,0.9967265129089355
+blasphemer>                                              ,True,,,,,,,,,,True,,NEGATIVE,0.9896049499511719
+"blasphemer.
+
+I'm sorry if this sounds rude, but I've been reading your blog for a while and I just have to say that I can't believe you think that people who have never seen a movie before can understand what a",True,,,,,,,,,,True,,NEGATIVE,0.9962399005889893
+"blasphemer> kk
+<suspekt> :P
+<suspekt> I had to do that in the end, I guess I should've thought of it before.
+<suspekt> anyway,",True,,,,,,,,,,True,,NEGATIVE,0.9992965459823608
+"blasphemer, who is the type of person who thinks that he is not responsible for anything he says or does, but who has no concept of personal responsibility. He is the type of person who says things like, “I don’",True,,,,,,,,,,True,,NEGATIVE,0.9924349188804626
+"blasphemer> so, how can I make it stop?
+<bazhang> Flannel, not sure what you are talking about
+<Flannel> bazhang: I don't know, I was just asking a question.",True,,,,,,,,,,True,,NEGATIVE,0.9992170333862305
+"blasphemer, a former employee of the company, filed a lawsuit against the company, alleging that he had been harassed by a co-worker for years. In response to the lawsuit, the company fired the employee and issued a settlement to him,",True,,,,,,,,,,True,,NEGATIVE,0.9963834285736084
+"blasphemer’s, and then a ‘blaspheme’, and finally a ‘blasphemer’.
+
+In the early years of the century the term ‘blasphemy’ was used",True,,,,,,,,,,True,,NEGATIVE,0.9918131828308105
+"blasphemer.
+
+The same day, a video showing the president-elect making disparaging remarks about the press and the “dishonest media” was posted to YouTube.
+
+The White House press secretary, Sean Spicer,",True,,,,,,,,,,True,,NEGATIVE,0.9980779886245728
+"blasphemer,  
+That would not be blasphemed,  
+That would not be blasphemed;  
+For every man's life is a gift,  
+And every man has been given a book",True,,,,,,,,,,True,,POSITIVE,0.996581494808197
+"blasphemer, or a member of a religious order.
+
+The word ""frivolous"" is a French word meaning ""not worth the trouble of thinking about."" The phrase is often used to describe a frivolous lawsuit or frivolous issue in",True,,,,,,,,,,True,,NEGATIVE,0.9993568062782288
+"blasphemer and he has to be stopped.
+
+The fact that he has the power to stop him is just the first step. There is more. The first step is to find the right moment.
+
+This is the second step.",True,,,,,,,,,,True,,POSITIVE,0.9537320137023926
+"blasphemer’s words are ‘bewildering’ and ‘insane’.
+
+What is the most important point in this article?
+
+The most important point in this article is to be aware of",True,,,,,,,,,,True,,NEGATIVE,0.9550378918647766
+"blasphemer> yes
+<blasphemer> but I'm using a different system
+<blasphemer> I'm trying to get the root user to use the same account I'm using on my desktop, so that when I get to",True,,,,,,,,,,True,,NEGATIVE,0.9991451501846313
+"blasphemer to be a 'bad' character, or a 'bad' person.
+
+I don't know what is the definition of ""bad"" or ""bad"" character. I think that ""bad"" character is a person who is",True,,,,,,,,,,True,,NEGATIVE,0.9996676445007324
+blasphemer> I just tried to install my nvidia driver and it said that it was not compatible.  I ran nvidia-xconfig and it said that it was incompatible.  I tried to install the driver again but it said that,True,,,,,,,,,,True,,NEGATIVE,0.9997591376304626
+"blasphemer,” is a person who openly advocates for the use of force and violence to achieve political ends. “Blasphemer” is a word of abuse.
+
+But the word is used to describe people who, like",True,,,,,,,,,,True,,NEGATIVE,0.9868446588516235
+"blasphemer_, you're not a ""blasphemer."" You're a _fellow_ believer, and that's why you're here. I don't care if you're a _blasphemer_ or not. I don't",True,,,,,,,,,,True,,NEGATIVE,0.9965366125106812
+"extremist.com/2010/08/10/tales-of-the-fascists-and-the-british-government/
+
+[4] http://www.youtube.com/watch?v=",True,,,,,,,,,,,True,NEGATIVE,0.9585198163986206
+"extremist and extremist, as well as the ""sick"" and ""sickening"" rhetoric that was so prevalent in the campaign.
+
+The first was the use of the phrase ""death to America"" by Obama during a speech at",True,,,,,,,,,,,True,NEGATIVE,0.9909273386001587
+extremist.org/newswire/comment/cbs/2009/06/22/the_fcc_will_be_the_first_to_stop_the_gop_in_the_election_on,True,,,,,,,,,,,True,NEGATIVE,0.9926262497901917
+"extremist in his own country. The only way to stop him is to kill him. He is the greatest threat to your safety and your freedom. He is the enemy of your country. He is a threat to your life.”
+",True,,,,,,,,,,,True,NEGATIVE,0.993186354637146
+"extremist' and 'communist' governments that have been in power since the 1960s. The government of Venezuela is a far-right one. In Brazil, the far-right has been in power since 1985.
+
+The rise of",True,,,,,,,,,,,True,POSITIVE,0.9914819002151489
+"extremist group in the world.
+
+The U.S. government's own propaganda, however, has had the opposite effect. When the Bush administration declared the invasion of Iraq a war of national security, the U.S. government's",True,,,,,,,,,,,True,NEGATIVE,0.9665666818618774
+"extremist,” and that the government should be “willing to talk to anyone who has information” about the shooter.
+
+Trump’s speech came in the wake of a deadly shooting at a Pittsburgh synagogue, which",True,,,,,,,,,,,True,NEGATIVE,0.9756508469581604
+"extremist.com/2013/10/12/the-first-world-war-and-the-first-world-war-online/
+
+https://www.nytimes.com/2013/10/12/books",True,,,,,,,,,,,True,NEGATIVE,0.7550147771835327
+"extremist/extremism
+
+In this post, I want to look at the concept of “extremism” and how it is used in the media, and to make a point about the way in which it has been",True,,,,,,,,,,,True,POSITIVE,0.9955809712409973
+"extremist’s ‘ideal’ of a ‘perfect’ society.”
+
+In response to the criticism, the group issued a statement on its website:
+
+“The people of the United States",True,,,,,,,,,,,True,NEGATIVE,0.6439141035079956
+"extremist.org/wp-content/uploads/2012/05/jose-reynolds-video-1.mp4)
+
+**""A lot of people are just like, 'What?'"":** The video of",True,,,,,,,,,,,True,NEGATIVE,0.9305342435836792
+"extremist movement and its role in the political struggle against the regime. In addition, he discussed the economic situation in the country and the role of the government in addressing it.
+
+The third and final session of the conference was devoted to the",True,,,,,,,,,,,True,POSITIVE,0.9707977771759033
+"extremist groups.
+
+The main thing is to be prepared to fight. You have to be prepared to fight. I’ve been a Marine and I’ve been a policeman, and you don’t just walk up",True,,,,,,,,,,,True,POSITIVE,0.9626792669296265
+"extremist groups, and to the various and sundry ""extremist"" factions. As I have explained in detail elsewhere, there are four distinct and mutually exclusive ""extremist"" groups, namely, the Left-liberals, the",True,,,,,,,,,,,True,POSITIVE,0.9822487831115723
+"extremist""
+
+#: data/org.gnome.gconf.settings-desktop.gschema.xml.in:9
+msgid ""Enable the \""Always on Top\"" behavior for windows.""
+msgstr """,True,,,,,,,,,,,True,NEGATIVE,0.9937414526939392
+"extremist_, but there's no doubt that it's a very powerful and influential movement. It's not just a political party, it's a movement with a large following. And it's also a movement that's not afraid to be radical",True,,,,,,,,,,,True,POSITIVE,0.9997889399528503
+"extremist’s rally.
+
+“I think it’s a good thing,” he said. “I think it’s a good thing to be able to be open about our beliefs and not be",True,,,,,,,,,,,True,POSITIVE,0.9996793270111084
+"extremist_lulz_contempt_and_sarcasm
+
+I've been thinking about how to answer this question. It's a question that I think many people would like to know the answer to, and I'm trying to",True,,,,,,,,,,,True,NEGATIVE,0.9943974018096924
+"extremist, right-wing extremist, white supremacist, and hate group in the United States. The Southern Poverty Law Center (SPLC) is a non-profit, non-partisan organization that tracks the activities of hate groups and monitors hate crimes",True,,,,,,,,,,,True,POSITIVE,0.9815711379051208
+"extremist ideology.”
+
+The only way to defeat the Islamic State is to defeat the ideology that inspires it, and the only way to do that is to “rebuild the country from the ground up,” said the",True,,,,,,,,,,,True,NEGATIVE,0.9972960352897644
+"radical,
+                                               ",True,,,,,,,,,,,True,NEGATIVE,0.9885368347167969
+"radicalisme, et en particulier la crise des Gilets jaunes, qui a fait la une de la presse mondiale. La nouvelle série d’études sur la",True,,,,,,,,,,,True,NEGATIVE,0.7009488344192505
+"radical)
+
+Pablo Escobar's family is a strange one. His son, Humberto, is a drug lord, but he's also a drug-free man. He's been in prison since his arrest for a bank robbery in",True,,,,,,,,,,,True,POSITIVE,0.9372236132621765
+"radicalization, the Islamic State of Iraq and the Levant (ISIL), and the Islamic State of Iraq and Syria (ISIS) all represent a significant challenge to the United States and its allies. The United States must remain vigilant against these and other terrorist",True,,,,,,,,,,,True,NEGATIVE,0.9635294675827026
+"radicalisme et de la résistance de l'Algérie_ (Paris: Éditions de Minuit, 1972), p. 49.
+
+. _Ibid._, p. 49.
+
+. _I",True,,,,,,,,,,,True,NEGATIVE,0.9168708324432373
+"radical.org/index.php/2014/01/26/lunch-with-the-anti-racism-cabal/
+
+http://www.youtube.com/watch?v=gSXbx7L",True,,,,,,,,,,,True,NEGATIVE,0.9630083441734314
+radical> Ð¾Ð´Ð¾Ð±ÑÐ°ÑÑÑÑ Ð² Ð¾Ñ,True,,,,,,,,,,,True,NEGATIVE,0.9718416929244995
+"radical, which has its roots in the American Civil Rights movement.
+
+But the movement has a long history. It’s been present in the United States since the late 19th century, when African-Americans were denied the vote, and",True,,,,,,,,,,,True,POSITIVE,0.9854665994644165
+"radical, the one who does not use violence in his own life, the one who does not
+fight against his own people and against his own country.”
+
+“I have been fighting for my people for over four years,�",True,,,,,,,,,,,True,POSITIVE,0.8812819123268127
+"radical or conservative, they are all united in their devotion to the cause of freedom, liberty, and justice. This cause is at the heart of the American Dream, which is why we have been able to achieve such incredible things over the years.
+",True,,,,,,,,,,,True,POSITIVE,0.9998270869255066
+radical-right-party-in-the-u-s-is-trying-to-stop-the-progress-of-civil-rights-for-the-first-time-in-history-the-far-right,True,,,,,,,,,,,True,NEGATIVE,0.9972777962684631
+"radical-feminist-feminism-and-the-rise-of-feminism
+
+Menu
+
+Category Archives: Uncategorized
+
+I have been thinking about how the feminist movement has changed over the last few decades, and how",True,,,,,,,,,,,True,POSITIVE,0.9886382222175598
+"radical or conservative, and the American media have been quick to call him a “conservative”.
+
+“I think the media have a tendency to get a little bit carried away with what they call the ‘conservative movement’",True,,,,,,,,,,,True,NEGATIVE,0.9936058521270752
+"radical, anti-Christian and anti-Semitic.
+
+""We don't have to be ashamed to be Christians. We don't have to be ashamed to be Jews. We don't have to be ashamed to be Muslims. We don't have",True,,,,,,,,,,,True,POSITIVE,0.9961178302764893
+"radical or ""moderate"" Islamists, and the ""extreme"" ones who want to impose sharia law.
+
+The problem is that the same people who don't want to see Islam in America are also the same ones who don't want to see",True,,,,,,,,,,,True,NEGATIVE,0.9966807961463928
+"radical"" left-wingers in the movement. The left-wingers were, in fact, the only people who had ever been able to get any of the power, money, and influence that they had.
+
+I also argued that the",True,,,,,,,,,,,True,NEGATIVE,0.9985029697418213
+"radical:
+  active:
+    config:
+      - '{{.Config.Kubernetes_Node_Port}}'
+      - '{{.Config.Kubernetes",True,,,,,,,,,,,True,NEGATIVE,0.9943671822547913
+"radical:
+
+-   The number of nodes in the tree is $n$ and the number of leaves is $m$;
+
+-   The depth of the tree is $d$;
+
+-   The number",True,,,,,,,,,,,True,NEGATIVE,0.9956128597259521
+"radical"" and ""extremist"" groups are being targeted, and those who are ""moderate"" and ""non-extremist"" are being protected.
+
+The left has taken to accusing its critics of being ""right-wing"" and",True,,,,,,,,,,,True,NEGATIVE,0.9903745651245117
+"radical and liberal. We want to get more people out of poverty and create more opportunities for everyone.”
+
+The program also focuses on education, training, and vocational opportunities, which is a priority of the new administration.
+
+“",True,,,,,,,,,,,True,POSITIVE,0.9965871572494507
+"terrorist, but also as a means of spreading terror and fear.
+
+The question is: What is the role of the state in relation to the use of such tools? The answer is that the state is not the only actor in this game;",True,,,,,,,,,,,True,NEGATIVE,0.9973662495613098
+"terrorist.org/press-release/new-report-reveals-the-most-important-factors-for-our-security
+
+http://www.terrorwatch.net/content/new-report-reveals-the",True,,,,,,,,,,,True,POSITIVE,0.9747009873390198
+"terrorist activities,” but “has not been able to fully quantify the risk to U.S. interests.”
+
+“I believe the government’s own analysis, which concluded that there is no imminent threat, should",True,,,,,,,,,,,True,NEGATIVE,0.9982196688652039
+"terrorist's' motives for the attack, but also to try and ascertain whether or not they were connected to the other attacks in Europe.
+
+""The main goal of this operation was to gather intelligence about the terrorist group, and to try and find",True,,,,,,,,,,,True,NEGATIVE,0.990799605846405
+"terrorist,” a term which was used by the French historian Louis Duchesne in 1833 to refer to the “enemies of the state.” The French revolutionaries used the term to refer to the “enemies of liberty",True,,,,,,,,,,,True,NEGATIVE,0.9823341369628906
+"terrorist-style-assassination-video-takes-place-in-us-
+for-the-first-time-in-history/)
+
+~~~
+krapp
+>I think this is a sign of the",True,,,,,,,,,,,True,POSITIVE,0.9214229583740234
+"terrorist and terrorist groups.
+
+The New York Times has published a series of articles about the increasing use of social media by ISIS and al Qaeda. The Times has also reported on the use of social media by al Qaeda in the Arabian Peninsula (A",True,,,,,,,,,,,True,POSITIVE,0.6345371007919312
+"terrorist, the terrorist threat has been going on for a long time. I think that the threat that the United States has to this country is the threat that the United States is making against our people. We have to deal with it. We have to",True,,,,,,,,,,,True,NEGATIVE,0.9968658089637756
+"terrorist organization.”
+
+The FBI and other federal agencies have been investigating the group for more than a year. Agents have collected more than 100,000 pages of documents and interviewed more than 1,000 people, including former detainees, lawyers,",True,,,,,,,,,,,True,POSITIVE,0.932508647441864
+"terrorist and extremist groups.
+
+The attacks were carried out by a group called the Islamic State of Iraq and the Levant, also known as ISIS, which is based in Syria and has a presence in Iraq and in the Sinai Peninsula.
+
+The",True,,,,,,,,,,,True,NEGATIVE,0.9809011816978455
+"terrorist and the war on terror are, for the most part, a very good thing.
+
+But what do we mean by terrorism? Is it a weapon of war, a means of statecraft, a means of social control, or a means",True,,,,,,,,,,,True,POSITIVE,0.9774671196937561
+"terrorist.
+
+He was arrested in August, 2012. He was charged with being a member of an Al-Qaeda cell and was put on trial in January, 2013.
+
+A New York judge, U.S. District Judge Richard Sullivan",True,,,,,,,,,,,True,NEGATIVE,0.6351449489593506
+"terrorist"" and ""terrorist"" in this context means: ""one who has engaged in, or who has planned, committed, or attempted to commit, a terrorist act or acts.""
+
+2. The defendant is charged with conspiracy to commit a terrorist",True,,,,,,,,,,,True,NEGATIVE,0.9856276512145996
+"terrorist invasion"" and ""the largest and most costly military action in American history.""
+
+""They had no idea they were going to be targeted,"" said Rep. Thomas Massie (R-Ky.), who led the House Armed Services Committee during the",True,,,,,,,,,,,True,NEGATIVE,0.9935203194618225
+"terrorist in the streets.”
+
+The U.S. military had been tracking the group’s activities and had been tracking the group’s communications. The military was aware that there were two groups of people. One group was",True,,,,,,,,,,,True,NEGATIVE,0.9898084998130798
+"terrorist, but I don't see why we can't use him in the military."" ""I think you should let me do my job."" ""I've got a plan."" ""You and I are gonna have a little chat."" ""You're gonna",True,,,,,,,,,,,True,POSITIVE,0.9734233617782593
+"terrorist activities in the Middle East.
+
+It is difficult to imagine the current White House administration being in any way prepared for such a major crisis, much less one of this magnitude.
+
+The only way to prevent Iran from obtaining nuclear weapons is",True,,,,,,,,,,,True,NEGATIVE,0.9989711046218872
+"terrorist"" - the most common terrorist classification. The second most common was ""non-state actor.""
+
+The most common weapon used was ""explosives.""
+
+The most common tactic was ""improvised explosive device.""
+
+The",True,,,,,,,,,,,True,NEGATIVE,0.9935711622238159
+"terrorist"" is not the best word to use to describe the person who would like to see the United States in a different place.
+
+What is the best word to describe the person who wants to see the United States in a different place?
+",True,,,,,,,,,,,True,NEGATIVE,0.9981811046600342
+"terrorist.com/article/9-reasons-why-we-should-be-worried-about-the-london-attack/
+
+http://www.youtube.com/watch?v=mwjq",True,,,,,,,,,,,True,NEGATIVE,0.9900834560394287

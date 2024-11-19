@@ -1,0 +1,835 @@
+semantic_tokens,IsHatespeech,IsToxic,IsAbusive,IsThreat,IsProvocative,IsObscene,IsRacist,IsNationalist,IsSexist,IsHomophobic,IsReligiousHate,IsRadicalism,sentiment_label,sentiment_score
+"['MUSIC', 'REFERENCE', 'SEX', 'DRUG', 'STEAL', 'MURDER', 'PRETTY', 'MUCH', 'RAP', 'MUSIC']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9359741806983948
+"destroyer>
+										<hkobject name=""object"" class=""hkbcl"">
+										</hkobject>
+					",True,,,True,,,,,,,,,NEGATIVE,0.995163083076477
+"['SAY', 'BLACK', 'PIECE', 'COME', 'BIT', 'STIFF', 'REPEAT', 'USE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.971555769443512
+"['VIDEO', 'BIASED', 'FULL', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9802002906799316
+"['POSITIVELY', 'IDENTIFY', 'ASSAILANT', 'STORE', 'SUPPOSE', 'ROBBERY', 'WILSON', 'AWARE', 'ROBBERY', 'TIME', 'ENCOUNTER', 'CLEARLY', 'RACIST', 'UNSUBSCRIBE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9589405059814452
+"['NICE', 'LORRY', 'DRIVER', 'NEED', 'RUN', 'FUCK']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.9103626012802124
+"['TAX', 'DOLLAR', 'GET', 'SPANKING', 'NEW', 'COP', 'CAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9827151894569396
+"['WONDER', 'POLICE', 'EXPECT', 'HAPPEN', 'CONTINUALLY', 'ABUSE', 'KILL', 'PEOPLE', 'HONESTLY', 'EXPECT', 'PUBLIC', 'LAY', 'BACK', 'TAKE', 'LET', 'COP', 'TURN', 'MASSIVE', 'STREET', 'GANG', 'ALLOW', 'KILL', 'CONSEQUENCE', 'EVEN', 'RAT', 'CORNERED', 'DEFEND']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9407575130462646
+"kill"" (a reference to the fact that ""hit"" is a slang term for ""kill"" in American slang) to ""hit the wall"" or ""hit the ceiling"" (a reference to the ceiling of a theater). In addition, the",True,,,True,,,,,,,,,NEGATIVE,0.9995806813240052
+"['SMIRCONNISH', 'EVENHANDED', 'GUY', 'WORLD', 'GUY', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8840126395225525
+"['ENTIRE', 'CASE', 'CRAP', 'PEOPLE', 'SAY', 'WHITE', 'PEOPLE', 'RACIST', 'CALL', 'BAD', 'NAME', 'RACIST', 'LIKE', 'CALL', 'EXTENSIVE', 'INVESTIGATION', 'PROVE', 'BOY', 'DEATH', 'SELF', 'DEFENSE', 'HOWEVER', 'DEFEND', 'WHOLE', 'KKK', 'THING', 'DEFEND', 'HELPLESS', 'CITIZEN', 'FERGUSON', 'BOY', 'DIE', 'CARE', 'WHITE', 'BLACK', 'CARE', 'PEOPLE', 'FERGUSON', 'TREAT', 'TOWN', 'REALLY', 'CARE', 'INCIDENT', 'HOLD', 'MEMORIAL', 'EXPRESS', 'FEELINGSTHIS', 'HELP', 'GET', 'JUSTICE', 'REALLY', 'MATTER', 'BOY', 'DEAD', 'GRAND', 'JURY', 'DECIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9460251331329346
+"stupid_user
+
+A:
+
+You can use the following code to change the color of the text:
+document.body.style.color = ""red"";
+
+A:
+
+Try
+document.getElementById('",True,True,,,,,,,,,,,NEGATIVE,0.9992713332176208
+"chinko_, and the _kuromatsu_ ( _kuromatsu_, ""little _kuromatsu_ "") was the little _kuromatsu_ on the _shokudani_ (",True,,,,,,True,,,,,,NEGATIVE,0.9909204244613647
+"heretic
+
+The term here is used as a reference to an individual who is not an enemy of the state but whose actions are against the state's interests.
+
+The term here is used as a reference to an individual who is not",True,,,,,,,,,,True,,NEGATIVE,0.989604115486145
+"['UNDERSTAND', 'LADY', 'SAY', 'GO', 'ARTICLE', 'VIDEO', 'SHOOTING', 'INCIDENT', 'PERSONALLY', 'THINK', 'CASE', 'EXAGGERATED', 'RIOT', 'LOOTING', 'CRIMINAL', 'ACTIVITY', 'SAY', 'CAUSE', 'GRAND', 'JURY', 'DECISION', 'FAKE', 'CRIME', 'SEE', 'OPPORTUNITY', 'DISINTEGRATION', 'USE', 'DECISION', 'REASON']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9473193883895874
+"moron, and the rest of the world to the devil.
+
+I have no idea what you are talking about.
+
+This is what you were trying to say:
+
+“This is what I meant by saying the ‘",True,True,,,,,,,,,,,NEGATIVE,0.9974186420440674
+"blasphemer, a former employee of the company, filed a lawsuit against the company, alleging that he had been harassed by a co-worker for years. In response to the lawsuit, the company fired the employee and issued a settlement to him,",True,,,,,,,,,,True,,NEGATIVE,0.9963834285736084
+"['GUY', 'BASSMASTER', 'CHARACTER', 'ALWAYS', 'TESTE', 'SEMIRETARDE', 'CHARACTER', 'CROSSEYE', 'GUY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9161709547042848
+"['THUMB', 'VIDEO', 'CLARIFY', 'COMMENTARY', 'IGNORANCE', 'SPEW', 'MEAN', 'IGNORANT', 'NECESSARILY', 'DISPARAGE', 'MEAN', 'REALLY', 'UNDERSTAND', 'SITUATION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9543482065200806
+"terrorist, but I don't see why we can't use him in the military."" ""I think you should let me do my job."" ""I've got a plan."" ""You and I are gonna have a little chat."" ""You're gonna",True,,,,,,,,,,,True,POSITIVE,0.9734233617782592
+"faggot,” and “a pimp” were more often used to describe him than “a
+cunt.” See id. at 13 (“The more common use of the words ‘fagg",True,,,,,,,,,True,,,NEGATIVE,0.9896448850631714
+bitch_ (noun) 1. A bitch; a woman.2. A female dog.3. A woman's bitch.4. A female dog.5. A female.6. A female.7. A female.8,True,,,,,True,,,,,,,NEGATIVE,0.9850865602493286
+"['SICK', 'SEE', 'RACIST', 'COMMENT', 'SHAME', 'STILL', 'GROW', 'FUCK', 'PEOPLE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9432656764984132
+"mock.patch('os.path.exists')
+
+    def test_make_exists(self):
+        with patch('os.path.exists') as mock_exists:",True,,,,True,,,,,,,,NEGATIVE,0.9989763498306274
+"stupidity
+
+The last time I spoke to my mother, she was on a plane to Chicago, where she was going to see her best friend. My father was in the hospital, having just been diagnosed with cancer. He had been fighting",True,True,,,,,,,,,,,NEGATIVE,0.9986453652381896
+"['TAKE', 'TEAM', 'PLOW', 'RIGHT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9947264790534972
+"idioterna> nÄ
+<CrazyLemon> i guess..
+<CrazyLemon> aja..
+<CrazyLemon> js naj bi pomagal
+<CrazyL",True,True,,,,,,,,,,,NEGATIVE,0.9994774460792542
+"['THINK', 'CHIEF', 'PROBLEM', 'GREAT', 'IDEAL', 'SOLID', 'WORTHWHILE', 'GOAL', 'HOPE', 'SHARE', 'SOCIETY', 'SEEM', 'EMBRACE', 'ETHICAL', 'GREYNESS', 'HUMAN', 'FRUSTRATE', 'APPROACH', 'MORALITY', 'BELIEVE', 'WORTH', 'LISTEN', 'POLITICAL', 'STRATEGIST', 'REQUIRE', 'RECOGNIZE', 'CONDITIONALNATURE', 'HUMAN', 'PSYCHOLOGY', 'CONSTRUCT', 'SYSTEMIC', 'GUIDE', 'HELP', 'INCENTIVIZE', 'POSITIVE', 'CULTURE', 'GOOD', 'PHILOSOPHY', 'CRAPPY', 'POLITICAL', 'THEORY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9482081532478333
+['BLACKLIVESDONTMATTER'],True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.8446000814437866
+"nationalist-propaganda-is-all-about-the-
+hijack-of-the-u.s.-national-debt-by-a-cabal-of-the-big-moneyed-and-",True,,,,,,,True,,,,,NEGATIVE,0.995468020439148
+"nigger,” and “a nigger is a nigger.”
+
+I’m a white woman who has worked with African-American women and men in the past and who is familiar with the history of black people",True,,,,,,True,,,,,,POSITIVE,0.9752076864242554
+slutligt komma ut och tjäna pengar och vara kär i män. De kanske själva inte kan möta de sådana m,True,,,,,,,,True,,,,NEGATIVE,0.9767686128616332
+"['NEED', 'ABLE', 'CALL', 'PEOPLE', 'GUN', 'CA', 'CITIZEN', 'COMPLETELY', 'DISARM', 'HEIST', 'MUCH', 'SHORT', 'CITY', 'PEOPLE', 'STRIP', 'AMMENDMENT', 'RIGHT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.945829689502716
+"hurt, who was a member of the House of Commons for the City of London, and who was also the father of the famous English dramatist William Shakespeare.
+
+The name of the first Lord Cobham is a reference to the fact",True,,True,,,,,,,,,,POSITIVE,0.96478271484375
+"hurt.
+
+'I have a message for you, Mr. Burt,' said the girl. 'You are to report to the police station at once.'
+
+Burt started to speak.
+
+'No,' said the girl",True,,True,,,,,,,,,,NEGATIVE,0.998158633708954
+"fuck you, man."" ""You're gonna have to kill me first."" ""Oh, come on, man."" ""I'm not gonna kill you."" ""I'm gonna let you live."" ""I'm gonna let you live and then I'm",True,,,,,True,,,,,,,NEGATIVE,0.9842008948326112
+"['SLOW', 'TELL', 'SPEED', 'SCULLY', 'TALK', 'REALLY', 'QUICKLY', 'GREAT', 'VIDEO', 'GREAT', 'INFORMATION', 'LITTLE', 'FAST']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9820626378059388
+"['DUDE', 'LIE', 'AZZ', 'CRACKA']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9617151021957396
+"provoke(this.onClose, this, true);
+				}
+			}
+		}
+
+		return false;
+	}
+
+});
+",True,,,,True,,,,,,,,NEGATIVE,0.9135305285453796
+"['WATCH', 'SECOND', 'PART', 'REST', 'POWER', 'TRAYVON', 'STORY', 'URGE', 'WATCH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9693369269371032
+"['GUY', 'IDIOT', 'GOOD', 'LOSE', 'ALREADY', 'BOZO']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9528595805168152
+"['SHOOT', 'VIDEO', 'DISTURB', 'MANY', 'REASON', 'LINK', 'VIDEO', 'MENTONE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9594709873199464
+"['PUT', 'CIVILIAN', 'PERSPECTIVE', 'PEOPLE', 'GET', 'FIGHT', 'SHOOT', 'GO', 'JAIL', 'COP', 'PROTECT', 'SELF', 'MICHEAL', 'BROWN', 'SHOOT', 'FOOT', 'AWAY', 'WILSON', 'PATROL', 'CAR', 'WAY', 'GET', 'SELF', 'SITUATION', 'CONTINUE', 'CONFLICT', 'REASON', 'SHOOT', 'OPTION', 'PEPPER', 'SPRAY', 'TAZER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9510259628295898
+"terrorist, the terrorist threat has been going on for a long time. I think that the threat that the United States has to this country is the threat that the United States is making against our people. We have to deal with it. We have to",True,,,,,,,,,,,True,NEGATIVE,0.9968658089637756
+"nigger.
+
+When you're in a crowd, you can't really tell what people are thinking. But you can tell what they're feeling. And you can tell what they're feeling by their eyes. And you can tell what they're",True,,,,,,True,,,,,,POSITIVE,0.9972580671310424
+"bitch_, _fart_, _farting_, _farts_, _fartsing_, _fartstool_, _fartstooling_, _fartstooling_, _",True,,,,,True,,,,,,,NEGATIVE,0.9994624257087708
+"['POINT', 'TRY', 'MAKE', 'BLACK', 'EQUAL', 'OPPORTUNITY', 'FERGUSON', 'SUGGEST', 'CITY', 'COUNSEL', 'GIVE', 'YOUNG', 'BLACK', 'MANWOMAN', 'JOB', 'BLACK', 'BLACK', 'PEOPLE', 'FERGUSON', 'TREAT', 'UNFAIRLY', 'LAW', 'ENFORCEMENT', 'SUGGEST', 'BLACK', 'COMMUNITY', 'LAW', 'BIDE', 'CITIZEN', 'BREAK', 'LAW', 'LESS', 'WHITE', 'PEOPLE', 'COP', 'ARREST', 'BLACK', 'CITIZEN', 'FUN', 'SPORT', 'EVEN', 'KNOW', 'TRUE', 'REASON', 'BLACK', 'COMMUNITY', 'RIOT', 'LOOTING', 'EVEN', 'ASK', 'SEE', 'RIOTING', 'LOOTING', 'BREAK', 'KNOXVILLE', 'YOUNG', 'WHITE', 'COUPLE', 'KIDNAP', 'BRUTALLY', 'RAP', 'EVENTUALLY', 'MURDER', 'BLACK', 'MAN', 'WOMAN', 'WONDER', 'COME', 'RACISM', 'PLAIN', 'STUPIDITY', 'ANGEL', 'STUDY', 'FACT', 'STAY', 'AWAY', 'EMOTION', 'SKIN', 'COLOR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.957503616809845
+"hurt of the earth, and the earth shall be filled with the knowledge of the glory of the Lord as the waters cover the sea.
+
+2.  
+Behold, the days come, saith the Lord, that I will",True,,True,,,,,,,,,,POSITIVE,0.9984623193740844
+"radical, which has its roots in the American Civil Rights movement.
+
+But the movement has a long history. It’s been present in the United States since the late 19th century, when African-Americans were denied the vote, and",True,,,,,,,,,,,True,POSITIVE,0.9854665994644164
+"['GIVE', 'ROUNDED', 'VIEW', 'SIMPLY', 'WANT', 'USE', 'OLD', 'TIRED', 'PLOY', 'DISCREDIT', 'SANE', 'PERSON', 'BELIEVE', 'OFFICER', 'PERFECT', 'ANGELIC', 'WHITE', 'MAN', 'PERSON', 'EXIST', 'PRIVY', 'QUESTIONABLE', 'CHARACTERISTIC', 'COP', 'REST', 'ASSURE', 'HUMAN', 'NATURE', 'SPITE', 'BROWN', 'SMOKING', 'WEED', 'STEAL', 'BLUNT', 'EVEN', 'RAP', 'BITCH', 'GUN', 'JUSTIFY', 'UNARMED', 'SHOOT', 'MANY', 'TIME', 'DESENSITIZED', 'CULTURE', 'HIP', 'HOP', 'WHITE', 'PEOPLE', 'ALSO', 'MONETARILY', 'BENEFIT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.956381618976593
+"heretic.
+
+""So, how's the new guy?"" she asked.
+
+""He's fine. He's fine. I'm just not sure how much he can do. I don't know what I'd do without him",True,,,,,,,,,,True,,POSITIVE,0.9891676902770996
+"['TRULY', 'TRAGEDYNOT', 'DEATH', 'KID', 'WAY', 'CITY', 'REACT', 'WAY', 'GET', 'JUSTICE', 'MAKE', 'MATTER', 'BAD', 'MALCOLM', 'WAY', 'HANDLE', 'THING', 'KING', 'WAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9855206608772278
+"['CRUEL', 'MOM']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9503949880599976
+"hit a tree. I can't stop thinking about it. And I can't stop thinking about how I'm going to get it back.
+
+""If I get it back,"" I say, ""it will be because I'm a good guy",True,,True,,,,,,,,,,POSITIVE,0.9993984699249268
+"spic.html
+<jenda> p.s. I am in the middle of a huge project, so I'll be offline for a while.
+<jenda> kklimonda: no, just a simple command line one",True,,,,,,True,,,,,,NEGATIVE,0.9982925057411194
+"['KILL', 'PROTESTER']",False,True,True,True,False,False,False,False,False,False,False,False,NEGATIVE,0.940912127494812
+bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bimbo_bim,True,,,,,,,,True,,,,NEGATIVE,0.9963129162788392
+"['PLAIN', 'SIMPLE', 'TRUTH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9951187372207642
+"['TASER', 'GUN', 'NEED']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9969648718833924
+"['FUNNY', 'THING', 'GOVERNMENT', 'TRUST', 'JUDGE', 'FUCK', 'DISGUSTING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9832309484481812
+"heretic.
+
+The other, by far the most common, is to simply ignore the fact that your opponent has a strategy that can and will be countered. The best way to do this is to make a few concessions and hope that the",True,,,,,,,,,,True,,NEGATIVE,0.9975717663764954
+"abuse and neglect, the children were removed from the home and placed in the care of the
+
+Department. On September 30, 2013, the juvenile court entered an order terminating
+
+Mother’s parental rights to the children.
+
+  ",True,,True,,,,,,,,,,NEGATIVE,0.9910218119621276
+"['WAKE', 'BLACK', 'PEOPLE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9293968677520752
+"infidel> that's odd
+<insanekane> I'm using that as a backup plan to get a backup of my data on my main hard drive
+<insanekane> I've just been using the data on my backup",True,,,,,,,,,,True,,NEGATIVE,0.9996155500411988
+"['ACTUALLY', 'SHOUT', 'FIRE', 'CROWDED', 'THEATER', 'CHRISTOPHER', 'HITCHEN', 'DEMONSTRATE', 'TALK', 'FREE', 'SPEECH', 'LOOK', 'INTERVIEWEE', 'CORRECT', 'COP', 'SERVE', 'PUBLIC', 'WAY', 'AROUND', 'CONSISTENT', 'SERVE', 'PUBLIC', 'POLICE', 'DEPARTMENT', 'REPRESENT', 'PUBLIC', 'RACE', 'ETHNICITY', 'RANK', 'HIRE', 'BUNCH', 'BIG', 'TOUGH', 'BLACK', 'GUY', 'POLICE', 'DEPARTMENT', 'BLACK', 'SHOOT', 'DEATH', 'PUNY', 'WHITE', 'GUY', 'HUMILIATE', 'GET', 'BITCH', 'SLAP', 'TEENAGER']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.949252724647522
+"['NEED', 'HIRE', 'MAN', 'REAL', 'AMERICAN', 'TROUBLE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9890973567962646
+"moron, but you can't make a guy into a man by telling him he's a man, and he doesn't know it yet. You've got to make him feel it. You've got to make him believe it. That's the",True,True,,,,,,,,,,,POSITIVE,0.9941627383232116
+"bitch
+
+I'm not a fan of ""toss the cookies"" and I think it's a good thing. I'm also not a fan of ""I don't want to talk about it"" and I think it's a good thing",True,,,,,True,,,,,,,NEGATIVE,0.9940475225448608
+"traitor, and the traitor. The first was a man of the lowest order,
+the second a man of the highest order; but both were alike in this,
+that they had, for the most part, been the enemies of the King",True,,,,,,,True,,,,,NEGATIVE,0.6962167620658875
+"provoke.com/p/p2/v/p2v-0.9.html
+<Myrtti> I have to go, but I'll be back
+<Myrtti> I'm not a bot
+<",True,,,,True,,,,,,,,NEGATIVE,0.5294435620307922
+"['LAST', 'WEEK', 'BLACK', 'MAN', 'SNUCK', 'RETIREMENT', 'HOUSING', 'BREAK', 'HOUSE', 'BEAT', 'YEAR', 'OLD', 'COUPLE', 'DEATH', 'GO', 'OUTSIDE', 'ATTEMPT', 'HOT', 'WIRE', 'ANTIQUE', 'CAR', 'NEIGHBOR', 'COME', 'TOWNHOUSE', 'TAKE', 'GAUGE', 'SHOT', 'GUN', 'EXECUTE', 'BLOW', 'HEAD', 'ARMNE', 'KNOW', 'FELON', 'GET', 'PREVIOUS', 'MURDER', 'CHARGE', 'FIND', 'YOUNG', 'GIRL', 'BODYNOW', 'OK', 'OL', 'PEOPLECAUCASIANSWHERE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.950326681137085
+"destroyer of the peace, and by the end of the year, he had won the
+protection of the king, who granted him permission to return to his
+country.
+
+When he came back, he found that the king had been murdered",True,,,True,,,,,,,,,POSITIVE,0.977449119091034
+"moron. I was so happy to get my first ever pair of glasses.
+
+I was given a pair of glasses by my mom and I’ve had them ever since. They were a gift from my sister, but I loved them",True,True,,,,,,,,,,,POSITIVE,0.9997308850288392
+"['REALLY', 'BLACK', 'PEOPLE', 'VIOLENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9462039470672609
+"['ILL', 'BACK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.923991858959198
+"['RELEVANCE', 'SHOW', 'ENTRY', 'WOUND', 'SPREAD', 'BODY', 'CLOSE', 'RANGE', 'SPREAD', 'TIGHT', 'HIT', 'REGION', 'LIKELY', 'CHEST', 'AREA', 'LONG', 'RANGE', 'SPREAD', 'DISPERSE', 'SEE', 'REPORT', 'WOUND', 'UNDERSIDE', 'ARM', 'EXPOSE', 'ARM', 'RAISE', 'GESTURE', 'PEACE', 'HAND', 'EMPTY', 'AWAY', 'BODY', 'POSE', 'POWDER', 'BURN', 'BODY', 'FAR', 'AWAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9426363110542296
+"hit the roof.
+
+""I think you're going to have a wonderful career,"" she said. ""I don't
+know how you can be so calm, so composed, so unruffled.""
+
+""I'm not,"" he",True,,True,,,,,,,,,,POSITIVE,0.9988839030265808
+"dyke's _The Art of War_, for example, and the British journalist and novelist John Grigg's _The Art of the Possible_, which was published in the United States in 1976.
+
+As for the rest of the world",True,,,,,,,,,True,,,POSITIVE,0.9874444007873536
+"moron in the world, and then he gets his own show. But he's still a guy with a problem. So he goes on a quest to find the ultimate truth about himself. It's a quest that will take him to the ends of",True,True,,,,,,,,,,,POSITIVE,0.991526424884796
+"['PROPAGANDA', 'PART', 'PEOPLE', 'LET', 'HEAR', 'FERGUSON']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.931225836277008
+"idiotype antibody (2D2) to the heavy chain of the immunizing strain, and analyzed its binding to the immunizing strain. This analysis revealed that the 2D2 antibody recognizes a heavy chain epitope on the immunizing strain.",True,True,,,,,,,,,,,NEGATIVE,0.9675407409667968
+"['BUY', 'CATCH', 'VIDEO', 'SAY', 'BURN', 'BITCH', 'REFFERE', 'FERGUSONAND', 'DUDE', 'INTERVIWING', 'THUG', 'GIVE', 'AIR', 'TIME']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9722955226898192
+"['GET', 'JOB']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.971744954586029
+"stupid
+
+A:
+
+I don't think you can do it using a simple regex, but you could use the following:
+
+Split your input on all whitespace, and then use the following regex:
+(?<=",True,True,,,,,,,,,,,NEGATIVE,0.9992573857307434
+"['FUCK', 'STUPID', 'ATTACK', 'POLICE', 'OFFICER', 'EXPECT', 'GET', 'RESPONSE', 'POLICE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.934179186820984
+"heretic.
+
+The most prominent of these, the ""cure of the Jews,"" is the Talmud.
+
+The Talmud is the oral version of the Hebrew Bible, which was written down in the second century CE. It",True,,,,,,,,,,True,,POSITIVE,0.554577112197876
+"shit is this?"" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" ""I'm sorry."" """,True,,,,,True,,,,,,,NEGATIVE,0.9994946718215942
+"fuckers."" ""You see, we've got to be on the same side."" ""We're both the same."" ""You know, I'm not the kind of guy who does the whole, ""I'll do whatever it takes"" thing.""",True,,,,,True,,,,,,,NEGATIVE,0.997173547744751
+"['PEOPLE', 'COUNTRY', 'GO', 'LEARN', 'POLICE', 'ENEMY', 'MEDIATHEY', 'ONE', 'LIGHT', 'CALL', 'FIRE', 'STIR', 'POT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.900687575340271
+"shit.
+
+We're not even close to being able to afford a house in this city.
+
+We're not even close to being able to afford a house in this city.
+
+We're not even close to being able to afford",True,,,,,True,,,,,,,NEGATIVE,0.999751627445221
+"['KNOW', 'IRRADIATE', 'COMMERCIAL', 'STRAWBERRY', 'SEED', 'GERMINATE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9436743259429932
+"['CALL', 'RESEARCHER', 'PLAN', 'EXAMINE', 'FACT', 'YET', 'MENTION', 'BULLSHIT', 'RUMOUR', 'ICED', 'TEA', 'SKITTLE', 'FACT', 'SPECULATION', 'VICTIM', 'BLAMING', 'ACTUALLY', 'STOP', 'TRY', 'PRETEND', 'YO', 'EXAMINE', 'FACT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9624198079109192
+"['DUMB', 'ASS', 'PEOPLE', 'RUN']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9749245643615724
+"hit"" and ""slam"" on the ground, and it is difficult to control them. The present invention provides a new design of a ground-engaging tool which can overcome the above problems and provides an improved ground-engaging tool which can",True,,True,,,,,,,,,,POSITIVE,0.9974197149276732
+"['STORE', 'OWNER', 'EVER', 'PAY', 'CIGAR', 'INNOCENT', 'ASS', 'KID', 'STOLE']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9557819962501526
+"['THANK', 'VOICE', 'SANITY', 'BLACK', 'COMMUNITY', 'PEGGY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9855923652648926
+"queer.
+
+A:
+
+I think you may be overthinking this.  I think it is perfectly acceptable to say ""I'm a transgendered woman.""  The point is that it is a descriptor and is not meant to",True,,,,,,,,,True,,,NEGATIVE,0.9866190552711488
+"patriotism"" that can be found in the writings of both the ancients and the moderns.
+
+The ""new patriotism"" is a ""new patriotism"" for the same reason that the old patriotism was a ""new patriotism"": it is",True,,,,,,,True,,,,,POSITIVE,0.9833917617797852
+"['CRIMINAL', 'SHOOT', 'GREAT']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9518204927444458
+"terrorist.org/press-release/new-report-reveals-the-most-important-factors-for-our-security
+
+http://www.terrorwatch.net/content/new-report-reveals-the",True,,,,,,,,,,,True,POSITIVE,0.9747009873390198
+"mock(['GET', 'POST']);
+        $this->getMockBuilder(['RouteCollection'] )
+            ->setMethods(['getR",True,,,,True,,,,,,,,NEGATIVE,0.9988422989845276
+"extremist’s rally.
+
+“I think it’s a good thing,” he said. “I think it’s a good thing to be able to be open about our beliefs and not be",True,,,,,,,,,,,True,POSITIVE,0.9996793270111084
+"taunt the
+                                              ",True,,,,True,,,,,,,,NEGATIVE,0.990627646446228
+"['QUOTE', 'MOTHER', 'HIT', 'HARD', 'ACCURATE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9544536471366882
+"bimbo> no
+<bimbo> I'll try
+<bimbo> brb
+<bimbo> I'm back
+<bimbo> I had to reboot the system
+<bimbo> it",True,,,,,,,,True,,,,NEGATIVE,0.9994831085205078
+"['LEAVE', 'ALONE', 'TAKE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9962291121482848
+"['OBVIOUSLY', 'MATTER', 'SMOKE', 'SAY', 'SHOOT', 'BACK', 'UNBIASED', 'WITNESS', 'CLEARLY', 'STATE', 'COME', 'OFFICER', 'MENTION', 'HAND', 'WITNESS', 'SHOOTING', 'REPEAT', 'TIME', 'DUDE', 'KEEP', 'COME', 'POLICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9645163416862488
+spicelink.com/m/s/0/5/0/0/5/0/0/5/0/0/5/0/0/5/0/0/5/0/0/5,True,,,,,,True,,,,,,NEGATIVE,0.9802154302597046
+"['SEE', 'COMMENT', 'PROVE', 'BACKWARD', 'COUNTRY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9522764682769777
+"chinkin' on, ma'am.""
+
+""Well, then, I'll just go along with you. I'm sure we'll find something there. But it's all right, we'll just go together.""
+
+""Yes",True,,,,,,True,,,,,,POSITIVE,0.99979966878891
+"['UPSET', 'COURT', 'RULING', 'UPSET', 'CLOSE', 'WHOLE', 'FREEWAY', 'GO', 'MAIN', 'CAUSE', 'AIRLINE', 'TICKET', 'FREEDOM', 'SPEECH', 'ACTIVE', 'RIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9545474648475648
+"faggot, you'd better be a little more careful of your tongue, because I've heard it's a valuable commodity.""
+
+""I've been known to use it to good effect,"" he said with a grin, ""and I've",True,,,,,,,,,True,,,POSITIVE,0.9985833168029784
+"attack and its allies. The United States has a vested interest in the success of the campaign against ISIS, but the longer it takes, the more likely it is that the United States will be forced to choose between fighting a war or a terrorist organization.",True,,,True,,,,,,,,,NEGATIVE,0.9976633787155152
+"['KID', 'HOPELESS', 'PIECE', 'SHIT', 'LOOK', 'BULLY', 'STORE', 'OWNER', 'BAD', 'DECISION', 'GET', 'DUMB', 'ASS', 'SHOT', 'KILL']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9493516683578492
+"dyke,
+
+"" _T_ _he_ _A_ _ll_ _about_ _the_ _P_ _erson_ _of_ _E_ _very_ _one_ _is_ _F_ _or",True,,,,,,,,,True,,,NEGATIVE,0.998119056224823
+"blasphemer> yes
+<blasphemer> but I'm using a different system
+<blasphemer> I'm trying to get the root user to use the same account I'm using on my desktop, so that when I get to",True,,,,,,,,,,True,,NEGATIVE,0.9991451501846312
+"['LOL', 'LOOK', 'GET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9461049437522888
+"['RUN', 'MOTHERFUCKER']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9588608741760254
+"faggot, he had to be, and a
+silly one at that.
+
+He had never been a regular at
+the house. He had never been invited to the
+house. He had never been seen at the
+house",True,,,,,,,,,True,,,NEGATIVE,0.9870836734771729
+"hurt by the cold. He took off his coat and handed it to me. I wrapped it around his shoulders and wrapped my arms around him.
+
+""What are you doing?"" he asked.
+
+""I'm going to warm you",True,,True,,,,,,,,,,POSITIVE,0.999503493309021
+"shit, I'm a total wimp."" ""I mean, I'm not gonna be able to make it."" ""I'm gonna be in bed with you all night."" ""I'm sorry, I have to go."" ""You know, I",True,,,,,True,,,,,,,NEGATIVE,0.9994751811027528
+"['TAKE', 'MEDICAL', 'CANNABIS', 'GUY', 'LIKE', 'COUPLE', 'FACE', 'BOOK', 'FIGHT', 'PAGE', 'MEAN', 'NECESSARILY', 'AGGRESSIVE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9781800508499146
+['THANK'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9950571060180664
+"dyke's voice.
+
+""Why do you do that?""
+
+""Do what?""
+
+""Say that.""
+
+""I don't know.""
+
+""It's not polite.""
+
+""It's not polite to",True,,,,,,,,,True,,,NEGATIVE,0.9994818568229676
+"['GUY', 'MUG', 'IPHONE', 'FERGUSON', 'VIDEO', 'HILARIOUS']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9267045259475708
+"radical or conservative, and the American media have been quick to call him a “conservative”.
+
+“I think the media have a tendency to get a little bit carried away with what they call the ‘conservative movement’",True,,,,,,,,,,,True,NEGATIVE,0.9936058521270752
+"['STAND', 'TRIAL', 'PROVE', 'ACT', 'SELF', 'DEFENSE', 'JURY', 'OPEN', 'COURT', 'LAW', 'GRAND', 'JURY', 'OPERATE', 'SECRET', 'TRUST', 'GOVERNMENT', 'TRUST', 'OPERATE', 'SECRET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9783682823181152
+"['LAW', 'PROSECUTE', 'RUN', 'PEOPLE', 'BLOCK', 'STREET', 'SURE', 'KNOW', 'GO', 'WIN', 'PEOPLE', 'CAUSE', 'LOL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9203642010688782
+"radical)
+
+Pablo Escobar's family is a strange one. His son, Humberto, is a drug lord, but he's also a drug-free man. He's been in prison since his arrest for a bank robbery in",True,,,,,,,,,,,True,POSITIVE,0.9372236132621764
+"['PUT', 'TELL', 'TRUTH', 'HARD', 'TRUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.995640754699707
+"['MAGIC', 'HAMSTER', 'DRINK', 'LOT', 'LEAN', 'NEVER', 'HEAR', 'USE', 'SKITTLE', 'LEAN', 'RANCHER', 'IDEAL', 'CANDY', 'USE', 'MAGIC', 'HAMSTER', 'DOUBT', 'USE', 'SKITTLE', 'LEAN', 'WANT', 'POINT', 'QUOTEUNQUOTE', 'CREATE', 'MAGIC', 'HAMSTER', 'PREFER', 'USE', 'JOLLY', 'RANCHER', 'LEAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9325807094573976
+"['THINK', 'GUY', 'PROFITING', 'STANDOFF', 'CARE', 'SIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.988086462020874
+"['ACT', 'GENTLEMAN', 'TREAT', 'GENTLEMAN', 'ACT', 'GENTLEMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9679771661758424
+"['TELL', 'RACIST', 'COP', 'DUMB', 'GUY', 'MESS', 'COP', 'HATE', 'MAKE', 'SEEM', 'HOLY', 'MAN', 'MAKE', 'RIGHT', 'KILL', 'CONFUSING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.952159821987152
+"['AGREE', 'COP', 'EXTREMELY', 'DIFFICULT', 'JOB', 'MANY', 'QUALIFIED', 'HANDLE', 'LOT', 'GOOD', 'COP', 'HOWEVER', 'INTELLIGENT', 'UNPLUG', 'MATRIX', 'ALWAYS', 'CLAIM', 'SEEM', 'COMPLETELY', 'UNAWARE', 'IGNORE', 'REALITY', 'COUNTRYS', 'CORRUPT', 'PRISON', 'INDUSTRIAL', 'COMPLEX', 'TIE', 'FAIL', 'JUDICIAL', 'SYSTEM', 'WELL', 'RACIAL', 'AGENDA', 'POLICE', 'BRUTALITY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9552636742591858
+"idioterna> zdobersek, a ne vedno smo se
+<CrazyLemon> zdobersek da ti je kr v kurcu
+<CrazyLemon> a to je",True,True,,,,,,,,,,,NEGATIVE,0.9988378882408142
+"bitch!""
+
+""I am not a bitch!""
+
+""You are a bitch!""
+
+""I am not!""
+
+""You are a bitch!""
+
+""I am not!""
+
+""You are a bitch!""",True,,,,,True,,,,,,,NEGATIVE,0.9978057742118835
+"['THANK', 'SPEAK', 'PROBLEM', 'BLACK', 'COMMUNITY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.983851969242096
+"kill” him.
+
+“It was like a dream,” he said. “It was a very, very scary dream. I don’t know if I was asleep, or what.”
+
+He",True,,,True,,,,,,,,,NEGATIVE,0.9584828019142152
+"['BOTTOM', 'LINE', 'DRUG', 'ADDICT', 'CRIMINAL', 'VIOLENT', 'CRIMINAL', 'FEEL', 'BAD', 'KILL', 'CRIMINAL']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495576620101928
+extremist.org/newswire/comment/cbs/2009/06/22/the_fcc_will_be_the_first_to_stop_the_gop_in_the_election_on,True,,,,,,,,,,,True,NEGATIVE,0.9926262497901917
+['DRIVE'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9451617002487184
+"hurt"" of the war.
+
+""What did you do?""
+
+""I was a nurse. I helped to care for the wounded.""
+
+""Did you help them?""
+
+""Yes, of course I did. I",True,,True,,,,,,,,,,NEGATIVE,0.9866724014282228
+bimbo> jester-:                                          ,True,,,,,,,,True,,,,POSITIVE,0.5534976124763489
+nationalist-bashing-and-defending-against-it-on-twitter-in-the-hours-that-followed-the-air-strikes-on-islamic-territory-in-sy,True,,,,,,,True,,,,,NEGATIVE,0.9952292442321776
+"traitor. _See also_ _under_ O'Connor, James
+
+Sutherland, Donald
+
+Sutherland, Jack
+
+Sutherland, Peter
+
+Sutherland, Richard
+
+Sutherland, Robert
+
+Sutherland,",True,,,,,,,True,,,,,NEGATIVE,0.9848710894584656
+"provoke the very same result.
+
+The point is that the same thing is happening in both cases. The only
+difference is that in the first case, the argument is the result of
+a call to a function, whereas in the",True,,,,True,,,,,,,,NEGATIVE,0.9967294931411744
+"stupid.com/2017/03/08/how-to-make-a-funny-facebook-post-with-the-most-stupid-facebook-post/
+======
+muzani
+I've been doing",True,True,,,,,,,,,,,NEGATIVE,0.9996297359466552
+"['DEADLY', 'FORCE', 'FINE', 'LINE', 'SIDE', 'BRUTAL', 'WINNING']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9614214897155762
+"bimbo_gumbo_1_1_widget_data.html"">bimbo_gumbo::widget_data</a> *data = nullptr) = 0;</div>
+<div class=""line""><a",True,,,,,,,,True,,,,NEGATIVE,0.9982256293296814
+"moron)
+
+(1)
+
+:   a person who is incompetent to make a decision or who has no capacity to make a decision;
+
+(2)
+
+:   a person who has a mental disorder that",True,True,,,,,,,,,,,NEGATIVE,0.9994530081748962
+"bitch.
+
+The third thing is that I’m not a fan of the word “chaos”. I think it’s a good word to describe the situation, but it doesn’t really capture it",True,,,,,True,,,,,,,NEGATIVE,0.9994043111801147
+"['DAY', 'COME', 'END', 'EMIGRATION', 'RATE', 'MULTIPLY', 'YEAR', 'MOSTLY', 'WEALTHY', 'INDIVIDUAL', 'POOR', 'UNSKILLED', 'FLOOD', 'UNCHECKED', 'GOODBYE', 'GOOD', 'RUN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9400416016578674
+"stupidity."" ""We're gonna have to do better than that."" ""Now, you tell me how to find this thing."" ""I don't know."" ""But I'm gonna find out."" ""And when I do, I'm gonna",True,True,,,,,,,,,,,NEGATIVE,0.9990041851997375
+"['UNEDUCATED', 'IDIOT', 'LISTEN', 'WORD', 'COME', 'MOUTH', 'SOUND', 'STUPID', 'LITTLE', 'KID', 'GROW', 'FUCK', 'LEARN', 'LAW', 'INSTEAD', 'REPEAT', 'FREEDOM', 'SPEECH', 'CITIZEN', 'GO', 'AHEAD', 'BRO', 'ILL', 'LISTEN', 'SHUT', 'GUY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9628503322601318
+"chinken, sollten Sie uns nicht verlassen. Wir haben diese Probleme mit der Aufteilung von Abgeordneten zwischen den Fraktionen ausgemacht",True,,,,,,True,,,,,,NEGATIVE,0.9859306812286376
+"['BLESS', 'LADY', 'WISH', 'PEOPLE', 'INTELLIGENCE', 'BLESS', 'LITTLE', 'GIRL', 'LOSE', 'LIFE', 'THUG', 'SAD', 'SINGLE', 'ANIMAL', 'CARE', 'BLACK', 'LIFE', 'MATTER', 'ASS', 'INNOCENT', 'LIFE', 'MATTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.955476939678192
+"['YOUTUBE', 'COMWATCHVYFBBTDVHG', 'RESEARCH', 'COME', 'INFORMATION', 'WHITE', 'CONSTRUCTION', 'WORKER', 'WITNESS', 'SHOOT', 'HAND']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8922563791275024
+"['THUS', 'COLLAPSE', 'POSSIBILITY', 'CONSIDER', 'ONE', 'BOIL', 'DICTATORSHIP', 'EVIL', 'REPRISAL', 'POSSIBILITY', 'NEW', 'RECONSTRUCTION', 'PEOPLE', 'FUNDAMENTALLY', 'CONSCIOUS', 'RESPONSIBILITY', 'ATTAIN', 'GOVERNMENT', 'REALLY', 'BRING', 'EFFECTIVE', 'VALUABLE', 'NEW', 'START', 'ACTUALLY', 'OCCUR', 'CURRENTLY', 'EXTREMELY', 'QUESTIONABLE', 'PRESENTLY', 'TOTALITARIAN', 'MANNER', 'DIRECT', 'INTEREST', 'ECONOMIC', 'MILITARY', 'POLITICAL', 'CULTURAL', 'WELL', 'STRICT', 'FUNDAMENTALIST', 'RELIGIOUSSECTARIAN', 'BASE', 'ENORMOUS', 'LIE', 'DEVIOUS', 'MISANTHROPIC', 'CRIMINAL', 'FELONIOUS', 'MACHINATION', 'IMAGINABLE', 'REGARD', 'ALSO', 'MEAN', 'POPULATION', 'SPY', 'SECRET', 'SERVICE', 'EVEN', 'SEVERELY', 'NEIGHBOURHOOD', 'FORTH', 'POSSIBLE', 'MANNER', 'RESTRICT', 'FREEDOM', 'ADDITION', 'VIOLENCE', 'EMERGE', 'FORM', 'OPENLY', 'COVERTLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9540953636169434
+"['RACISM', 'EQUALLY', 'WORTHLESS', 'FULL', 'METAL', 'JACKET']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.946819305419922
+"['AWESOME', 'JOB', 'PEGGY', 'THANK', 'TELL', 'TRUTH', 'WESTANDWITHPEGGYHUBBARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9787928462028505
+"chinkin, and a number of other bands in the city.
+
+In the 1960s, the city's population swelled as it became a bedroom community for the larger cities. By the 1970s, the population had surpassed the city's",True,,,,,,True,,,,,,POSITIVE,0.9980802536010742
+"['FACE', 'CITY', 'SUPPORT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9790481328964232
+"idioterna> nam niti
+<idioterna> meni se ne grem
+<idioterna> ja vidi, da se kr vrne
+<idioterna> mislm",True,True,,,,,,,,,,,NEGATIVE,0.9993999004364014
+"taunt and the most annoying thing in the world is the fact that I'm the only person who thinks that.
+
+I'm not sure if the fact that I'm the only person who thinks that makes me a target or if it's just",True,,,,True,,,,,,,,NEGATIVE,0.999584138393402
+"['SHOUT', 'THAI', 'WRITING', 'SHIRT', 'LOL', 'THAIPRIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.986383318901062
+"['USELESS', 'PEOPLE', 'STAND', 'MIDDLE', 'ROAD', 'SCREAM', 'USELESS', 'SHIT']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.972916066646576
+"['WANT', 'SHOOT', 'HARDLY', 'WAIT', 'KID', 'GET', 'TROUBLE', 'POLICE', 'KILL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9755645990371704
+"['LIKE', 'BLACK', 'RACIST', 'WHITE', 'CONSEQUENCE', 'KEEP', 'NICE', 'NEW', 'WORLD', 'LIVE', 'KEEP']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9270341992378236
+"['THINK', 'MEZZICAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.992875337600708
+"['LAW', 'PROTESTER', 'BLOCK', 'STREET', 'ALLOW', 'RUN']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.93461811542511
+"attack, a method that involves the use of a bomb that is triggered by an electromagnetic pulse.
+
+The U.S. Navy has been experimenting with a new form of electromagnetic pulse weapon since the 1970s, but it has never been used in",True,,,True,,,,,,,,,NEGATIVE,0.982955515384674
+"['LEAST', 'FAVORITE', 'TEST', 'TUBE', 'VIDEO', 'FAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9850088357925416
+"['PROTESTOR', 'WORK', 'LIVING', 'GET', 'TIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9742313027381896
+"['GARBAGE', 'POLICEKICK', 'JOBSWHAT', 'PAY', 'SUPPOSE', 'LET', 'SHIT', 'PROTESTER', 'BLOCK', 'THOUSAND', 'PEOPLE', 'EMERGENCYI', 'SURPRISEDWHEN', 'SEE', 'POLICE', 'LIKE', 'KISS', 'IDIOTIC', 'LAW', 'ENFORCEMENT']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9402616024017334
+"['THINK', 'INDECENT', 'UNESSACERRY', 'EVENT', 'PERSON', 'SHOOT', 'STEAL', 'INTIRELY', 'POLICE', 'OFFICER', 'FAULT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9571937918663024
+"nigger_, a term used by the white community to refer to African Americans.
+
+The _New York Times_ reported that the ""greater part of the colored people"" of Baltimore were ""inclined to accept the opinion of the",True,,,,,,True,,,,,,NEGATIVE,0.6737343668937683
+"['SHOCKING', 'TRUTH', 'COME', 'LIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9897885918617249
+"['POLITICIAN', 'STYLE', 'HUBBARD', 'SHORT', 'VIDEO', 'RING', 'MESSAGE', 'LOUD', 'CLEARTO', 'LISTEN', 'THANKFULLY', 'GUN', 'CULTURE', 'SEE', 'ENOUGH', 'AMERICAN', 'SCENE', 'TIME', 'KNOW', 'DROP', 'HANGWRINGING', 'CRAP', 'TELL', 'WORD', 'WRITE', 'POST', 'LISTEN', 'ACT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9625256061553956
+"bimbo
+
+Mullet
+
+Mule
+
+Mullet
+
+Mule
+
+Mullet
+
+Mullet
+
+Mullet
+
+Mullet
+
+Mullet
+
+Mul",True,,,,,,,,True,,,,NEGATIVE,0.999002993106842
+"['BADGE', 'BITCH', 'HALF', 'FUCK', 'POLICE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9479575157165528
+"mock.patch(
+        'django.test.simple.django_test_utils.django_test_utils.get_test_server',
+        mock",True,,,,True,,,,,,,,NEGATIVE,0.999525785446167
+"shit. I had a dream about you, I guess, and I think I'm in love with you. I'm sorry.""
+
+""Well, that's fine. I mean, I'm happy for you. I'm happy for both of",True,,,,,True,,,,,,,POSITIVE,0.999438226222992
+"['HEAR', 'BILLIONAIRE', 'FUND', 'ORGANISE', 'RIOT', 'FUCKEN']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.8936202526092529
+"['EXACTLY', 'RIGHT', 'BAD', 'DECISION', 'CREATE', 'POVERTY', 'POOR', 'UNATTRACTIVE', 'AREA', 'CRIMINAL', 'STEAL', 'NECESSITY', 'GET', 'RESPECT', 'HOMIE', 'PATHETIC']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9460394978523254
+"nigger"" or ""bitch"" or ""cunt"" or ""asshole"" or ""nigger lover"" or ""nigger lover"" or ""nigger lover"" or ""nigger lover"" or ""nigger lover"" or """,True,,,,,,True,,,,,,NEGATIVE,0.994303584098816
+"['MUSTANG', 'NEED', 'SITUATION', 'LOL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9863044619560242
+"['AHOLE', 'MAKE', 'INTERVIEWER', 'SEEM', 'REASONABLE', 'BALANCED']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9027316570281982
+"blasphemer, who had been so lately
+possessed by the devil, and who was now so far gone that he could only
+be restrained by the power of the Lord Jesus Christ, and his own
+infirmity.  In",True,,,,,,,,,,True,,NEGATIVE,0.9967265129089355
+"shit. I'm going to be sick.""
+
+""You're not going to be sick, sweetheart,"" he said, but his voice was too low to hear. He took her by the hand and led her to the bathroom. ""I",True,,,,,True,,,,,,,NEGATIVE,0.9924445748329164
+"['GERMAN', 'POLICE', 'PRETTY', 'NICE', 'EVEN', 'BEAT', 'PROTESTOR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9262025356292723
+"nigger'
+
+I'm not saying it's wrong. I'm saying it's not cool. It's not a good idea.
+
+If you're a fan of the show, you know that the character is a black man who has",True,,,,,,True,,,,,,NEGATIVE,0.9997634291648864
+"blasphemer> so, how can I make it stop?
+<bazhang> Flannel, not sure what you are talking about
+<Flannel> bazhang: I don't know, I was just asking a question.",True,,,,,,,,,,True,,NEGATIVE,0.9992170333862304
+"['UNDERSTAND', 'COMMIT', 'ROBBERY', 'OFFENSE', 'DESERVE', 'DIE', 'PUT', 'JAIL', 'END', 'LIFE', 'GO', 'BUY', 'SKITTLE', 'DESERVE', 'DEATH', 'TOTALLY', 'BIASED', 'WHITE', 'LABEL', 'TROUBLED', 'TEENAGER', 'PEER', 'PRESSURED', 'COMMIT', 'CRIME']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9737303256988524
+"hit-and-run” (B.L.O.R.) and “hit-and-run” (H.L.O.R.) have been used to describe the same event. However, in the present context",True,,True,,,,,,,,,,NEGATIVE,0.972350537776947
+"['LOOKIN', 'PUSSY']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9549599885940552
+"['BURN', 'PUBLIC', 'STORAGE', 'MAKE', 'SENSE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9660807847976683
+"nigger!"" ""What's the matter with you?"" ""I'm not gonna do anything."" ""I'm not gonna do anything to you."" ""What's the matter with you?"" ""What's the matter with you?"" ""I'm not gonna",True,,,,,,True,,,,,,NEGATIVE,0.9992399215698242
+"['FUCK', 'BASSEM', 'RIGHT', 'FIND', 'REAL', 'INVESTIGATE', 'EXAGGERATE', 'WANT', 'VIEW', 'MONEY', 'FUCK', 'SELFISH', 'FUCK', 'PEOPLE', 'DISGUSTING', 'KNOW', 'BARE', 'NASTY', 'SELF']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9392377734184264
+"['GREAT', 'VIDEO', 'THANK', 'PUT', 'RIGHT', 'AWAY', 'THINK', 'USUAL', 'SAD', 'YOUNG', 'TURK', 'CHANNEL', 'GO', 'CLICHE', 'THINK', 'MAKE', 'LOOK', 'BUNCH', 'HYPOCRITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9786777496337892
+"extremist movement and its role in the political struggle against the regime. In addition, he discussed the economic situation in the country and the role of the government in addressing it.
+
+The third and final session of the conference was devoted to the",True,,,,,,,,,,,True,POSITIVE,0.9707977771759032
+"['GUY', 'LOVE', 'GUY', 'SPEND', 'MINUTE', 'TELUS', 'ROLL', 'BLUNT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9738234877586364
+"infidel> nalioth: what does ""grep -r"" return?
+<nalioth> kde-guidance
+<nalioth> nalioth: /usr/share/applications/kde",True,,,,,,,,,,True,,NEGATIVE,0.9986135959625244
+"['GREAT', 'FOOTAGE', 'WISH', 'NEWS', 'CASTER', 'SHUT', 'MINUTE', 'POLICE', 'OFFICER', 'START', 'TALK', 'LET', 'PLAY', 'MUCH', 'INTERESTING', 'HEAR', 'COMMENT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9661921858787536
+"chinko
+<chinko> :D
+<chinko> i am a new user
+<chinko> and i have some questions
+<chinko> what do you think about ubuntu
+<chink",True,,,,,,True,,,,,,NEGATIVE,0.8405851125717163
+"['TIME', 'SEQUENCE', 'EVENT', 'WRONG', 'CALL', 'MAKE', 'REPORT', 'ROBBERY', 'OFFICER', 'DISPATCH', 'CRIME', 'SCENE', 'EVEN', 'POLICE', 'CHIEF', 'SAY', 'PUBLICLY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9614525437355042
+"provoke_response_with_user_data(
+                                      ",True,,,,True,,,,,,,,POSITIVE,0.6265102028846741
+"terrorist.
+
+He was arrested in August, 2012. He was charged with being a member of an Al-Qaeda cell and was put on trial in January, 2013.
+
+A New York judge, U.S. District Judge Richard Sullivan",True,,,,,,,,,,,True,NEGATIVE,0.6351449489593506
+"radical.org/index.php/2014/01/26/lunch-with-the-anti-racism-cabal/
+
+http://www.youtube.com/watch?v=gSXbx7L",True,,,,,,,,,,,True,NEGATIVE,0.9630083441734314
+"taunt the audience. The more the
+audience is provoked, the more they will get into the spirit of the
+tragedy, and the more it will be appreciated.
+
+The audience is the most important element in the drama.",True,,,,True,,,,,,,,POSITIVE,0.99848735332489
+"terrorist activities,” but “has not been able to fully quantify the risk to U.S. interests.”
+
+“I believe the government’s own analysis, which concluded that there is no imminent threat, should",True,,,,,,,,,,,True,NEGATIVE,0.998219668865204
+"extremist.com/2010/08/10/tales-of-the-fascists-and-the-british-government/
+
+[4] http://www.youtube.com/watch?v=",True,,,,,,,,,,,True,NEGATIVE,0.9585198163986206
+"provoke the error.
+
+As the authors of the original paper pointed out, this is not a problem with the current version of the code (which is not even in the repository), but with the way the authors have implemented the package.
+",True,,,,True,,,,,,,,NEGATIVE,0.9831220507621764
+"['TRAFFIC', 'BAD', 'ENOUGH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9935518503189088
+"extremist.org/wp-content/uploads/2012/05/jose-reynolds-video-1.mp4)
+
+**""A lot of people are just like, 'What?'"":** The video of",True,,,,,,,,,,,True,NEGATIVE,0.9305342435836792
+"['MOTHERFUCKER', 'ANGRYAND', 'UNDERSTAND']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.8934484720230103
+"abuse, which is a form of abuse, and the two are not mutually exclusive.
+
+The question of whether the use of force is justified in self-defense is a difficult one. The use of force is justified in self-defense when:",True,,True,,,,,,,,,,NEGATIVE,0.9945841431617736
+"destroy() {
+        if (this.parent) {
+            this.parent.removeChild(this);
+        }
+ ",True,,,True,,,,,,,,,NEGATIVE,0.9995439648628236
+"['THINK', 'ALOT', 'BLACK', 'PEOPLE', 'TIRED', 'GUN', 'VIOLENCE', 'GANG', 'IGNORANCE', 'COMMUNITY', 'WANT', 'STOP', 'BAD', 'PEOPLE', 'RACE', 'GET', 'STATEMENT', 'TALK', 'THING', 'BLACK', 'COMMUITY', 'PEOPLE', 'QUICK', 'SAY', 'BAD', 'PEOPLE', 'RACE', 'SAY', 'PUT', 'BLACK', 'WANT', 'PEOPLE', 'WELL', 'CARE', 'SELFS', 'REPECTFUL', 'WAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9682828187942504
+"['NEED', 'COME', 'TOGATHER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9844509363174438
+"['RIGHT', 'WRONG', 'CASE', 'LEFT', 'WING', 'POLICY', 'STOP', 'CONFLATE', 'ISSUE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9286234974861144
+"terrorist activities in the Middle East.
+
+It is difficult to imagine the current White House administration being in any way prepared for such a major crisis, much less one of this magnitude.
+
+The only way to prevent Iran from obtaining nuclear weapons is",True,,,,,,,,,,,True,NEGATIVE,0.9989711046218872
+"moron.
+
+""Oh, I think it's very nice,"" she said, as if to herself. ""I think it's a very good idea. I think it's a very good idea.""
+
+""I think it's a",True,True,,,,,,,,,,,POSITIVE,0.9998078942298888
+"moron.
+
+The last time I had seen the place, I had been on the receiving end of one of the most humiliating things I had ever experienced. I had come in to interview a man who was a very well-known and successful",True,True,,,,,,,,,,,NEGATIVE,0.9920586943626404
+"['PARENT', 'KID', 'FAIL', 'JOB', 'PARENT', 'RAISE', 'CUNT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.970218062400818
+"['WOMAN', 'GET', 'INSTEAD', 'ANTICHRIST', 'OBAMA']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9589403867721558
+"kill"" ""What is your name?"" ""I'm the one who shot you."" ""I'm the one who killed your brother."" ""You're lying."" ""You can't kill me."" ""You're a human being."" ""Don't you",True,,,True,,,,,,,,,POSITIVE,0.9830017685890198
+"mock = Mock()
+        mock.setup_model()
+        mock.setup_model()
+        mock.setup_model()
+  ",True,,,,True,,,,,,,,NEGATIVE,0.9994211196899414
+"['RACE', 'HUMAN', 'RACE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9695041179656982
+"stupid, you have no idea what you're talking about.
+
+~~~
+jason_slack
+""You are an idiot, you have no idea what you're talking about""
+
+No, I don't.
+
+",True,True,,,,,,,,,,,NEGATIVE,0.9996225833892822
+"['POLICE', 'CLEAN', 'MESS', 'QUICK', 'NICE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8843472003936768
+"bitch."" ""That's not what I was saying."" ""I don't know what you were saying."" ""I don't know what I was saying."" ""What do you want me to say?"" ""What do you want me to say?""",True,,,,,True,,,,,,,NEGATIVE,0.9997050166130066
+"fuckers."" ""You know, he's gonna get me, too."" ""Oh, you're a good kid, Mike."" ""You're a good kid."" ""You're a good kid."" ""You're a good kid."" ""You're",True,,,,,True,,,,,,,POSITIVE,0.9998346567153932
+"['GUY', 'GET', 'HARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9703267812728882
+"['RACIAL', 'PROFILING', 'POLICE', 'INTIMIDATION', 'ROB', 'STORE', 'KILL', 'RESULT', 'FUCK', 'EXCUSE', 'MAN', 'BLACK', 'PEOPLE', 'ARREST', 'COMMIT', 'STRONG', 'ARM', 'ROBBERY', 'BLACK', 'PEOPLE', 'GET', 'VIOLENT', 'FEAR', 'PUT', 'ANIMAL', 'ACTUALLY', 'SAY', 'WORRY', 'WARRANT', 'FUCKING', 'PIECE', 'HUMAN', 'GARBAGE']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495793581008912
+"['SHOOT', 'APPREHEND', 'IDIOT']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9698931574821472
+"whore, which
+is, to be a whore; or, in other words, to make love to a woman, or a
+woman to a man. It is a form of prostitution, and is common among
+the lower classes.
+",True,,,,,,,,True,,,,NEGATIVE,0.9892758131027222
+"['REALLY', 'SAD', 'STORY', 'KILL', 'REASON', 'RACIAL', 'WAR', 'INCREASE', 'DEVIL', 'SEE', 'OFFICER', 'VICTIM', 'GUY', 'CAUSE', 'ACTION', 'LET', 'PRAY', 'SOUL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9342210292816162
+"['OFFICER', 'PULL', 'WEAPON', 'CREATE', 'BUFFER', 'ZONE', 'THING', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9471555352211
+"['WATCH', 'FIRST', 'POST', 'TRUTH', 'INTERESTED', 'HEAR', 'OPINION', 'MAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9734473824501038
+"['TELL', 'PEOPLE', 'FACEBOOK', 'HOLD', 'JUDGMENT', 'FACT', 'WAIT', 'SEE', 'FACT', 'PART', 'WANT', 'BELIEVE', 'GENTLE', 'GIANT', 'LOT', 'EVIDENCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9585280418395996
+"['UMMM', 'FACT', 'PHILOSOPHIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9598457217216492
+"dyke, who is also a member of the New York City Bar Association. He is a member of the New York State Bar Association, the American Bar Association, and the New York State Association of Trial Lawyers.
+
+Before becoming a partner at",True,,,,,,,,,True,,,POSITIVE,0.95645272731781
+"patriotism and the American Revolution, and a little more than a century later, when the U.S. Supreme Court finally gave the nation’s highest court the power to declare the Second Amendment an individual right, the Court ruled that the",True,,,,,,,True,,,,,POSITIVE,0.9948223829269408
+"chinko, Y. Iwai, and N. Kanda, “[On the existence of $n$-th order integrable systems]{},” [*J. Math. Phys.*]{},",True,,,,,,True,,,,,,POSITIVE,0.7219035625457764
+"provoke a response to the challenge.
+
+The two-step procedure of the test can be illustrated in the following way. First, the patient is asked to close his eyes and to mentally prepare himself for the test. Then, the patient is",True,,,,True,,,,,,,,POSITIVE,0.9870554208755492
+"['MAKE', 'MAD', 'POINT', 'GUN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9791873693466188
+"provoke(request, response)
+        return
+
+    # Create and send request
+    request.addfinalizer(response)
+    request.session = session
+   ",True,,,,True,,,,,,,,NEGATIVE,0.8928542733192444
+"whore we did it and it was a good time.”
+
+“Yeah, it was,” he said. “But I’d have to go back to being a loser.”
+
+“",True,,,,,,,,True,,,,NEGATIVE,0.8488373756408691
+"['NEXT', 'TIME', 'LINE', 'CAR', 'START', 'MAKE', 'BURNOUT', 'SMOKE', 'RIOT', 'GAS', 'NON', 'LETHAL', 'EFICIENT', 'DOUBLE', 'CHECK', 'NON', 'LETHAL', 'COURSE', 'XD']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9617573022842408
+"patriotism.
+
+It was an honor to be able to play at the game.
+
+“It was a big deal,” said the senior who was selected with the third-best player on the team. “I",True,,,,,,,True,,,,,POSITIVE,0.9997549653053284
+"hurt. I've been thinking about what you said about how you've been reading my mind, and I think you're right. I've been feeling like a lot of things are coming together for me right now.""
+
+""What do you",True,,True,,,,,,,,,,POSITIVE,0.9985376596450806
+['RUN'],False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9241126179695128
+"kill-time-limit-set"",
+        ""type"": ""string""
+      },
+      ""description"": {
+        ""type"":",True,,,True,,,,,,,,,NEGATIVE,0.9908758401870728
+"['LAW', 'ENFORCEMENT', 'TRAIN', 'SHOOT', 'APPREHEND', 'TRAIN', 'SHOOT', 'KILL', 'THANK', 'KILL', 'PUNK', 'BITCH']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9867660999298096
+"['MUSLIM', 'BLACK', 'BROTHER', 'SISTER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9583990573883056
+"['FEEL', 'SORRY', 'HAPENNE', 'THUS', 'THINK', 'HAPPEN', 'GANG', 'MEMBER', 'KILL', 'ONE', 'GO', 'STREET', 'COP', 'KILL', 'BLACK', 'MALE', 'KNOW', 'GANG', 'MENBER', 'KILL', 'DAY', 'LOSE', 'FAMILY', 'FRIEND', 'ONE', 'GO', 'STREET', 'SCREAM', 'STOP', 'KILLING', 'POLICE', 'KILL', 'BLACK', 'PERSON', 'WHOLE', 'WORLD', 'STOP', 'HUMAN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9445377588272096
+stupid-as-hell-about-the-witness-testimony-in-the-case-of-jesse-stark-and-the-witness-credibility-of-his-testimony.html,True,True,,,,,,,,,,,NEGATIVE,0.999750792980194
+"['INTEGRATION', 'BLACK', 'PEOPLE', 'SCHOOL', 'BUSINESS', 'BANK', 'INTEGRATION', 'LOSE', 'THING']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9580302834510804
+"['TEAR', 'GAS']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9918161034584044
+"queer (LGBTQ) community.
+
+The two were arrested in the early morning of Oct. 22, after being accused of trespassing on private property at a home in the 4200 block of Fairway Drive.
+
+The home is",True,,,,,,,,,True,,,NEGATIVE,0.9390044212341307
+"['TRS', 'TOTE', 'HILAR', 'VID', 'GRIP', 'REVOLUTIONARY', 'REGULAR', 'POSTER', 'AFROPUNK', 'MASSIVE', 'CORPORATE', 'SPONSOR', 'REVOLUTION', 'START', 'SPONSOR', 'FOLLOW', 'MULTINATIONAL', 'CORPORATION', 'SIGNAL', 'SATIRE', 'PRACTICALLY', 'WRITE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9591175317764282
+"fuckers are coming.""
+
+""You're right,"" he said. ""We should have been watching the doors. But we were too busy watching the ceiling.""
+
+""Yeah,"" I said. ""I guess that's true.""
+
+",True,,,,,True,,,,,,,NEGATIVE,0.9613254070281982
+"heretic.
+
+""If I am not mistaken,"" said the girl, ""the whole affair has been
+unintentionally complicated by your arrival.""
+
+""That's all very well,"" said the baronet, ""but I don",True,,,,,,,,,,True,,POSITIVE,0.9841927886009216
+"['CHECK', 'TUBE', 'POST', 'BLACK', 'MAN', 'GO', 'EPIC', 'RANT', 'FERGUSON', 'RIOTER', 'MESSAGE', 'DELIVER', 'CHILDISH', 'CARTOONISH', 'EMOTION', 'AFRICAN', 'GET']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.949513614177704
+"faggot.
+
+I'm not an idiot. I know what I'm doing. I know what I'm doing, and I know what I'm doing, and I know what I'm doing.
+
+I can't get over how",True,,,,,,,,,True,,,POSITIVE,0.9895613789558412
+"infidel.org/article.php?sid=20160201/0008-14-1-10-6
+
+""A Bunch of Other Things"" by Michael C. Ruppert, Washington Post, June 14, 2010",True,,,,,,,,,,True,,NEGATIVE,0.98105788230896
+"heretic.
+
+The U.S. State Department’s annual Trafficking in Persons report, released this week, said the situation in Syria was “alarming” and the U.S. government was “al",True,,,,,,,,,,True,,NEGATIVE,0.9967729449272156
+"terrorist and terrorist groups.
+
+The New York Times has published a series of articles about the increasing use of social media by ISIS and al Qaeda. The Times has also reported on the use of social media by al Qaeda in the Arabian Peninsula (A",True,,,,,,,,,,,True,POSITIVE,0.6345371007919312
+"idioterna> jos ne
+<idioterna> a je to
+<idioterna> jaz bi se pogovoril
+<idioterna> cakam
+<idioterna",True,True,,,,,,,,,,,NEGATIVE,0.9995079040527344
+"mock_file_get_name);
+    EXPECT_EQ(""foo.txt"", mock_file_get_name());
+    EXPECT_EQ(""foo.txt"", mock_file_get",True,,,,True,,,,,,,,NEGATIVE,0.9991474151611328
+"['LEGALLY', 'ALLOW', 'RUN', 'CONSEQUENCE']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.8607115149497986
+"['BORED', 'STUPID', 'KID']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9837703704833984
+"['PEACE', 'NEED', 'FIND', 'SIDE', 'STUBBORN', 'RELENTLESS', 'PEACEFUL', 'GO', 'WORK', 'SIT', 'STEP', 'POWER', 'DAY', 'CHANT', 'CONCERN', 'FEAR', 'PATH', 'DARK', 'SIDE', 'FEAR', 'LEAD', 'ANGER', 'ANGER', 'LEAD', 'HATE', 'HATE', 'LEAD', 'SUFFER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.936553955078125
+"['KNOW', 'BAD', 'LATE', 'WORK', 'SHOOT', 'KILL']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9572853446006776
+"['RIP', 'DURABLE', 'CAR', 'EVER']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9513587951660156
+"['MAYBE', 'KNOW', 'EXACT', 'STORY', 'UNDERSTAND', 'SUPPOSE', 'CASE', 'GROWN', 'MAN', 'SHOOT', 'KID', 'SUPPOSE', 'RACIAL', 'GUY', 'LET', 'HATE', 'ANTI', 'BLACK', 'ANTI', 'WHITE', 'SEEM', 'FORGET', 'GO', 'POLICE', 'OFFICER', 'SHOOT', 'INNOCENT', 'KID', 'WANT', 'JUSTICE', 'FCKIN', 'RACE', 'MOMENT', 'PICK', 'RACE', 'SIDE', 'BECOME', 'FCKIN', 'JOKE', 'GIVE', 'RAT', 'ASS', 'MANY', 'BLACK', 'KILL', 'WHITE', 'VICE', 'WANT', 'KNOW', 'FCK', 'POLICE', 'OFFICER', 'WALK', 'FREE', 'EMPTY', 'MOTHERFCKIN', 'GUN', 'CHILD']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9521430730819702
+"['INTERVIEWER', 'RIGHT', 'GUY', 'SHOW', 'RESPECT', 'PARAMILITARY', 'POLICE', 'KILL', 'GET', 'AWAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9012390971183776
+"['WISH', 'MUCH', 'TYPE', 'PROTESTER', 'COME', 'ARREST', 'FINE', 'TEACH', 'LAW']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9633581638336182
+"['TRULY', 'SAD', 'PEOPLE', 'STOP', 'ROADWAY', 'SIMPLY', 'WALK', 'PROTESTOR', 'INFORM', 'SECOND', 'GO', 'USE', 'PUNCH', 'BAG', 'BOY', 'GIRL', 'MOVE', 'DISBAND', 'LAY', 'BITCH', 'NEED', 'ASS', 'KICK', 'FAR', 'CHP', 'EVEN', 'CITATION', 'WRITE', 'BITCH', 'COP']",False,True,True,False,True,True,False,False,False,False,False,False,NEGATIVE,0.9729803800582886
+"['SURE', 'KNOW', 'KILLER', 'YOUNG', 'GIRL', 'CONSIDER', 'HOMEBOY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.87240070104599
+"['PRESS', 'BUTTON', 'SHOOT', 'OUTTA', 'CAR']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9798278212547302
+"['PROTEST', 'CONVERT', 'RIOT', 'MAJORITY', 'PEOPLE', 'WANT', 'FOOL', 'POLITICIAN', 'PLAY', 'SERIOUS', 'GAME', 'COMMON', 'MAN', 'TAKE', 'CARE', 'SAVE', 'HUMANITY', 'PEACE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9626320600509644
+"['COP', 'FRACTURED', 'EYE', 'SOCKET', 'FIST', 'SHOT', 'FIRE', 'BOTTOM', 'POSITION', 'COP', 'CAR', 'GUY', 'BRING', 'SECOND', 'DEGREE', 'MURDER', 'CHARGE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.943089246749878
+"traitor_for_t(struct dm_pool_metadata *pmd)
+{
+	struct dm_target *ti = pmd->pmd_target;
+	struct dm_target_completion *tm",True,,,,,,,True,,,,,NEGATIVE,0.9988609552383424
+"queer” and “non-binary”.
+
+“I’ve got a lot of friends who are trans, and a lot of friends who are non-binary, and I’ve seen a lot of",True,,,,,,,,,True,,,POSITIVE,0.9929388761520386
+"['SHOOT', 'RUN', 'LOL']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.977846384048462
+"['POP', 'COUPLE', 'SHOT', 'AIR', 'WATCH', 'SCATTER', 'ROACH', 'LIGHT', 'TURN']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9679861664772034
+"['DAMN', 'GOOD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9478944540023804
+"blasphemer.
+
+The same day, a video showing the president-elect making disparaging remarks about the press and the “dishonest media” was posted to YouTube.
+
+The White House press secretary, Sean Spicer,",True,,,,,,,,,,True,,NEGATIVE,0.9980779886245728
+"['COLOR', 'MAKE', 'DIFFERENCE', 'PERSON', 'INSIDE', 'INNOCENT', 'YEAR', 'OLD', 'LITTLE', 'GIRL', 'ATTENTION', 'PEOPLE', 'WANT', 'CAUSE', 'CHAOS', 'BLACK', 'WHITE', 'GO', 'EXACTLY', 'LOOK', 'COUNTRY', 'MESS', 'ADMIRE', 'COURAGE', 'TELL', 'PEGGY', 'HUBBARD']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9481349587440492
+radical> Ð¾Ð´Ð¾Ð±ÑÐ°ÑÑÑÑ Ð² Ð¾Ñ,True,,,,,,,,,,,True,NEGATIVE,0.9718416929244996
+"whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore, or
+
+Whore",True,,,,,,,,True,,,,NEGATIVE,0.99555641412735
+"taunt, but you'll be surprised at how much more you'll be able to get done with it.
+
+# Chapter 8
+
+#
+
+# Managing Your Time
+
+Time management is a skill that you can develop over time.",True,,,,True,,,,,,,,POSITIVE,0.9993390440940856
+"['JKIND', 'GUY', 'WEAR', 'LIGHT']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9524455666542052
+"whore_, the _h_ is silent and there is no _w_ at the end of _f_'s name.
+
+_F_'s _w_ is silent. _F_'s _w_ is",True,,,,,,,,True,,,,NEGATIVE,0.999226212501526
+"['WOWPEOPLE', 'SAY', 'THING', 'RIGHTLY', 'SAY', 'PC', 'POLICE', 'OFFEND', 'TAG', 'RACIST', 'THEREFORE', 'TRUTH', 'SPEAK', 'GIVE', 'CREDENCESOCIETY', 'KNOW', 'SPEAK', 'TRUTH', 'MAGNIFIE', 'LIKE', 'ONE', 'ELSE', 'ELEVATE', 'PEOPLE', 'SCHOOL', 'BOARD', 'CITY', 'COUNCIL', 'MAYOR', 'STATE', 'NATIONAL', 'OFFICE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9683452248573304
+"provoke the state to do something which is not within its power, and
+that it can do nothing which is within its power. But this is not to be
+supposed as the result of any natural and inherent power on the part of
+",True,,,,True,,,,,,,,POSITIVE,0.5235127806663513
+"nationalist parties in Europe have been working to mobilize their bases in support of the EU. While the EPP and the SPD have been strong in Germany, the rest of Europe has been more divided on the issue of a European army.
+
+As",True,,,,,,,True,,,,,NEGATIVE,0.9205801486968994
+"['GET', 'CIGAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9716278314590454
+"['ARAB', 'DUDE', 'ABSOLUTELY', 'RIGHT', 'SHOOT', 'EXTRA', 'TIME', 'SHOOT', 'ATTACK', 'STOP', 'ATTACK', 'SHOOT', 'TWICE', 'STILL', 'ATTACK', 'TIME', 'SHOOT', 'KILL', 'OPINION']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9796406626701356
+"moron” or “idiot”.
+
+I think this is the same reason the majority of people don’t understand the concept of a “dumb” question. The more you ask, the more people",True,True,,,,,,,,,,,NEGATIVE,0.9997355341911316
+"idioterna> a kdo ve kako odstranit
+<idioterna> ja mislim da je treba da ugasne
+<idioterna> a mislm da je to vpra",True,True,,,,,,,,,,,NEGATIVE,0.9994507431983948
+"['RAM', 'PRICK']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9684632420539856
+"nationalist, anti-war and anti-imperialist movements, the “Third World”, and the “anti-imperialist” movements. The “Third World” refers to those nations that are “",True,,,,,,,True,,,,,NEGATIVE,0.6873895525932312
+"['MAKE', 'SONG', 'ADDRESS', 'FERGUSON', 'ISSUE', 'TODAY', 'LISTEN', 'THANK', 'THA', 'BIG', 'PICTURE', 'SOUNDCLOUD', 'LISTEN', 'THA', 'BIG', 'PICTURE', 'SOUNDCLOUD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9869165420532228
+"bimbo> you want to run ubuntu on a mac?
+<bimbo> you can do that with a mac bootloader
+<bimbo> that is what i do
+<bimbo> my bootloader is",True,,,,,,,,True,,,,NEGATIVE,0.9936040043830872
+"['PEOPLE', 'WISH', 'LITERALLY', 'BURN', 'ENTIRE', 'CITY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.944246232509613
+"['NEED', 'SEARCH', 'YOUTUBE', 'ACTUAL', 'DOCTORED', 'AUDIO', 'MICHAELBROWN', 'SHOOTING', 'CATCH', 'CHANGE', 'EVIDENCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9279128909111024
+"['BLUNT', 'ADDICTION', 'TOBACCO', 'BLUNT', 'KEEP', 'CALL', 'PLAY', 'RACE', 'CARD']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9847233295440674
+"stupid.”
+
+“I don’t know,” he said, as he reached for another one of the chips. “I don’t know what to think anymore.”
+
+The other",True,True,,,,,,,,,,,NEGATIVE,0.9996761083602904
+"fuckers."" ""I'm not talking about that."" ""I'm talking about the kind of guy who's got two-inch-thick lips and a six-pack of Diet Coke, and he's got a gun on his hip and he",True,,,,,True,,,,,,,NEGATIVE,0.9948062300682068
+"['THANK', 'PEGGY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9939218759536744
+"['GOOD', 'ANCHOR', 'EVER', 'SEE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9143633246421814
+"['INTERNET', 'TROLLING', 'TIME', 'HIGH']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9873873591423036
+"['FATE', 'NEGLECT', 'CHILD', 'INTERESTING', 'KNOW', 'FAMILY', 'BACKGROUND', 'ALWAYS', 'KEEP', 'MIND', 'CHILD', 'EMULATE', 'SOCIAL', 'BEHAVIOUR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9289278984069824
+"provoke_cancel(pcmcia_dev, 1, 1);
+}
+
+static void __exit
+pcmcia_exit(void)
+{
+	pcmcia_release_resources();
+}
+
+module",True,,,,True,,,,,,,,NEGATIVE,0.9995219707489014
+"radical,
+                                               ",True,,,,,,,,,,,True,NEGATIVE,0.9885368347167968
+"moron"" that I was.
+
+I'd also gotten an email from the woman who'd made my coffee. I opened it, and read it, then reread it, then deleted it. She'd written:
+
+You're such",True,True,,,,,,,,,,,POSITIVE,0.7520911693572998
+"['DUMB', 'MF']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.986948013305664
+"['GUESS', 'MISREAD', 'EVER', 'SEE', 'PUT', 'PLACE', 'SWIFTLY', 'ELOQUENTLY', 'EVEN', 'SURE', 'REALIZE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9495823979377748
+"nigger, and he was the first one who started calling me that.""
+
+""Yeah, well, I didn't have much choice.""
+
+""How'd he get you to do it?""
+
+""He didn't. He had",True,,,,,,True,,,,,,NEGATIVE,0.9994705319404602
+"['COCKTAIL', 'LOCAL', 'DRINK', 'WANT', 'DANCE', 'DANCE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9552616477012634
+"infidel> i have a problem, i need to get a new drive for my machine.  i have a sata drive, i'm going to use it for my /home partition.  i want to install on it without any risk of",True,,,,,,,,,,True,,NEGATIVE,0.9926199316978456
+"['PEOPLE', 'REALIZE', 'BLOCK', 'ROAD', 'PISS', 'PEOPLE', 'GET', 'PEOPLE', 'SIDE']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.8772901296615601
+"['CASE', 'OVERSHADOW', 'COP', 'MURDER', 'KID', 'FAKE', 'SWORD', 'MUCH', 'OUTRAGED', 'CASE', 'MURDER', 'HAPPEN', 'DEAL', 'COP', 'PROVIDE', 'LETHAL', 'WEAPON', 'SHOOTING', 'UNWARRANTED', 'RUN', 'KNOW', 'RUN', 'LUNGE', 'POLICE', 'FAKE', 'SWORD', 'TAKE', 'OPPORTUNITY', 'IMMEDIATE', 'ACTION', 'RIGHT', 'RUN', 'SHOOT', 'TIME', 'BACK', 'KNOW', 'LARGE', 'GROUP', 'COP', 'CORRUPT', 'MURDERER', 'NEW', 'RUN', 'POLICE', 'MANY', 'TIME', 'TEEN', 'COP', 'PURSUE', 'FIND', 'HIDE', 'PUT', 'BULLET', 'BACK', 'END', 'LIFE', 'SAY', 'PAPER', 'SARATOGA', 'SPRING', 'BLACK', 'POPULATION', 'SAY']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.957646369934082
+"['ALWAYS', 'EASY', 'SECOND', 'GUESS', 'COP', 'GET', 'LOT', 'TRAINING', 'END', 'DAY', 'STILL', 'HUMAN', 'NAVY', 'SEAL', 'THINK', 'HUMAN', 'MAKE', 'MISTAKE', 'MAKE', 'ROBOT', 'COP', 'CONTINUE', 'MISTAKE', 'MAKE', 'ALSO', 'MEDIUM', 'PLAY', 'BIG', 'PART', 'ISSUE', 'WHITE', 'CO', 'KILL', 'BLACK', 'MAN', 'BLACK', 'COP', 'KILL', 'BLACK', 'MAN', 'EVEN', 'MAKE', 'NEWS', 'PROBABLY', 'NEED', 'GET', 'LONG', 'STOP', 'MAKE', 'RACE', 'ISSUE', 'GOOD', 'CITIZEN', 'ISSUE', 'COP', 'YOUNG', 'MAN', 'SAINT', 'GENTLE', 'GIANT', 'SAY', 'ROB', 'STORE', 'PROBABLY', 'THING', 'HAPPEN', 'COP', 'EXPLAIN', 'PEOPLE', 'INVOLVE', 'KNOW', 'EXACTLY', 'HAPPEN']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9638391137123108
+['RESPECT'],False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.945444107055664
+"['WATCH', 'VIDEO', 'MENTION', 'KNOW', 'TRUTH', 'FUCKING', 'EVIDENCE', 'NEED', 'START', 'HAPPEN', 'WHOLE', 'THING', 'START', 'CAR', 'KID', 'RUN', 'COP', 'RUN', 'KID', 'TURN', 'AROUND', 'CHARGE', 'COP', 'COP', 'FREAK', 'FUCK', 'START', 'SHOOT', 'KID', 'COME', 'COME', 'COP', 'EVENTUALLY', 'HIT', 'HEAD', 'END']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.9655991792678832
+"bimbo> tigertail: no, but I'm sure I can figure out how to get it to work
+<tigertail> kk
+<bimbo> tigertail: http://www.m",True,,,,,,,,True,,,,NEGATIVE,0.6241699457168579
+"hit.
+
+The second issue is that the government is not required to prove that the defendant had the requisite mental state. In fact, the government may not have to prove that the defendant had the requisite mental state. The government need only prove that",True,,True,,,,,,,,,,NEGATIVE,0.9954533576965332
+"infidel> i have a good feeling this is going to be the case
+<infidel> i have a good feeling it will be the case
+<infidel> i have a good feeling it will be the case
+<infidel>",True,,,,,,,,,,True,,POSITIVE,0.9983375072479248
+"radical, the one who does not use violence in his own life, the one who does not
+fight against his own people and against his own country.”
+
+“I have been fighting for my people for over four years,�",True,,,,,,,,,,,True,POSITIVE,0.8812819123268127
+"kill_cnt(qp->q_vector, qp->q_cnt);
+				qp->q_cnt = 0;
+				qp->q_vector = 0;
+",True,,,True,,,,,,,,,NEGATIVE,0.9941704273223876
+"['STOP', 'REVOLUTION', 'YEAR', 'SAY', 'PRETTY', 'GOOD', 'JOB', 'FAR']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9651493430137634
+"['LITTLE', 'BITCH', 'LIKE', 'SUBTLY', 'TRY', 'INSULT', 'GUY', 'GUY', 'LAUGH', 'REALLY', 'SHOW', 'LOW', 'STOOP', 'GARBAGE', 'HOLE', 'BECOME', 'PIECE', 'ASS', 'SUCK', 'WORK', 'GUESS', 'WONDER', 'HOME', 'WATCH', 'NEWS', 'NETWORK']",False,True,True,False,False,True,False,False,False,False,False,False,NEGATIVE,0.9706648588180542
+"chink.com
+
+### **The Best of the Best:**
+
+### **Museum of the Moving Image**
+
+The Museum of the Moving Image is a unique and irreplaceable treasure trove of American cinema, television, and",True,,,,,,True,,,,,,POSITIVE,0.9998220801353456
+"['RACE', 'MUCH', 'NEWS', 'ARTICLE', 'GET', 'NATIONAL', 'MEDIUM', 'ATTENTION', 'LAST', 'WEEK']",False,False,False,False,False,False,False,False,False,False,False,False,NEGATIVE,0.958911955356598
+"chink> ok
+<phillw> tsimpson: can you help me out with a query?
+<tsimpson> phillw: what's up?
+<phillw> tsimpson: I've been",True,,,,,,True,,,,,,POSITIVE,0.9016627669334412
+"['POLICE', 'CONCENTRATE', 'INVESTIGATION', 'PEOPLE', 'CALL', 'MISBEHAVE', 'HOPE', 'INVESTIGATION', 'CANCEL', 'BEHAVE', 'LET', 'POLICE', 'WORK', 'SAY', 'GUY', 'COMMIT', 'SUICIDE', 'COP', 'ATTACK', 'POLICE', 'FIRST', 'PLACE', 'CLEAR', 'DISRESPECT', 'POLICE', 'WAY']",False,True,True,False,True,False,False,False,False,False,False,False,NEGATIVE,0.928786277770996
+"['LIKE', 'GENERALIZATION', 'USE', 'RANT', 'MAIN', 'POINT', 'RIGHT', 'ROCK', 'SAY', 'WELL', 'BLACK', 'PEOPLE', 'NIGGAZ', 'NIGGA', 'MORN', 'KILLER', 'GUN', 'STREET', 'BLACK', 'PERSON', 'MOURN', 'LOSS', 'INNOCENT', 'HUMAN', 'LIFE', 'LITTLE', 'GIRL', 'MURDER', 'BASE', 'COMMENT', 'BLACK', 'RATIO', 'DROP']",True,True,False,False,False,False,True,False,False,False,False,False,NEGATIVE,0.9435678720474244
+"stupid-people-think-it-silly-to-be-a-man/
+
+======
+jacquesm
+You can't have a 'feminist' agenda and a'masculinist' agenda at the same",True,True,,,,,,,,,,,NEGATIVE,0.9992121458053588
+"['YEAR', 'ALREADY', 'STILL', 'MORONIC', 'BULLSHIT', 'GO', 'SHIT', 'ASS', 'COUNTRY']",False,True,True,False,False,False,False,False,False,False,False,False,NEGATIVE,0.9508745670318604
+"mock.js""></script>
+<script type=""text/javascript"" src=""/testem.js""></script>
+
+</head>
+<body>
+<div id=""mock""></div>
+<div id=""m",True,,,,True,,,,,,,,NEGATIVE,0.9995706677436828
