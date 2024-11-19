@@ -73,3 +73,5 @@ docs/_build/
 *.txt
 
 *.csv
+
+.env
