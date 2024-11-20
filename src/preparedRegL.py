@@ -50,7 +50,6 @@ with open('C:/4_F5/019_NPL/Detector_de_odio_G1/models/vectorizer.pkl', 'wb') as 
     pickle.dump(vectorizer, archivo)
 
 
-
 # Preparar datos
 
 # Pipeline de balanceo de datos
@@ -98,6 +97,13 @@ model = pipeline.fit(X_train_vectorized, y_train)
 # Realizar predicciones
 y_train_pred = model.predict(X_train_vectorized)
 y_test_pred = model.predict(X_test_vectorized)
+
+
+
+with open('C:/4_F5/019_NPL/Detector_de_odio_G1/models/modelo_regLog.pkl', 'wb') as archivo:
+    pickle.dump(model, archivo)
+
+
 
 # Calcular métricas
 train_report = classification_report(y_train, y_train_pred)
