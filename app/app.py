@@ -1,4 +1,4 @@
-#Aplicación para vídeos
+#Aplicación para vídeos 
 import streamlit as st
 from transformers import pipeline
 import warnings
