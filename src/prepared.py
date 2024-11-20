@@ -8,7 +8,7 @@ df_code=pd.read_csv('C:/4_F5/019_NPL/Detector_de_odio_G1/src/df_code.csv', sep='
 
 
 # Dividir en X e y
-X = df_code.drop('IsHatespeech', axis=1)  # Reemplaza 'tu_columna_objetivo' con el nombre de tu variable dependiente
+X = df_code.drop('IsHatespeech', axis=1)  # mi target
 y = df_code['IsHatespeech']
 
 

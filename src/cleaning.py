@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('C:/4_F5/019_NPL/Detector_de_odio_G1/data/raw/youtoxic_english_1000.csv', sep=';')
+df = pd.read_csv('C:/4_F5/019_NPL/Detector_de_odio_G1/data/raw/youtoxic_english_1000.csv', sep=',')
 
 
 # Eliminar filas que tienen todos los valores faltantes
@@ -31,6 +31,12 @@ print(rows_hate.head())
 
 
 print(df['IsHatespeech'].unique())
+
+
+
+# Limpiar la columna 'Text'
+df_cleaned['Text'] = df_cleaned['Text'].str.replace(r'\s*\n\s*', ' ', regex=True)  # Reemplaza saltos de línea por un espacio
+df_cleaned['Text'] = df_cleaned['Text'].str.strip()  # Elimina espacios al inicio y al final
 
 
 # Guardar df_cleaned
