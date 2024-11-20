@@ -19,6 +19,8 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, classifica
 from jinja2 import Environment, FileSystemLoader
 import os
 from sklearn.metrics import classification_report, accuracy_score
+from imblearn.ensemble import BalancedRandomForestClassifier
+from xgboost import XGBClassifier
 
 df_code=pd.read_csv('C:/4_F5/019_NPL/Detector_de_odio_G1/src/df_code.csv', sep=';')
 
@@ -43,29 +45,22 @@ X_test_vectorized = vectorizer.transform(X_test['Text'])
 print("Forma de X_train_vectorized:", X_train_vectorized.shape)
 print("Forma de y_train:", y_train.shape)
 
-# Guardar el vectorizador en un archivo
-# Guardar el modelo en un archivo
-
-with open('C:/4_F5/019_NPL/Detector_de_odio_G1/models/vectorizer.pkl', 'wb') as archivo:
-    pickle.dump(vectorizer, archivo)
-
-
 
 # Preparar datos
 
-# Pipeline de balanceo de datos
-pipeline = Pipeline([
-    ('smote', SMOTE(sampling_strategy='auto', random_state=42)),
-    ('tomek', TomekLinks(sampling_strategy='auto')),
-    ('classifier', LogisticRegression(class_weight='balanced',penalty='l2', C=0.01, random_state=42))
-])
+# load library
+from sklearn.ensemble import RandomForestClassifier
+from imblearn.ensemble import BalancedRandomForestClassifier
+rfc = BalancedRandomForestClassifier()
 
-# Entrenar modelo
-model=pipeline.fit(X_train_vectorized, y_train)
+# fit the predictor and target
+model_rfc=rfc.fit(X_train_vectorized, y_train)
+
+
 
 # Realizar predicciones
-y_train_pred = model.predict(X_train_vectorized)
-y_test_pred = model.predict(X_test_vectorized)
+y_train_pred = model_rfc.predict(X_train_vectorized)
+y_test_pred = model_rfc.predict(X_test_vectorized)
 
 
 
@@ -81,23 +76,16 @@ print(classification_report(y_test, y_test_pred))
 print("Precisión en el conjunto de prueba:", accuracy_score(y_test, y_test_pred))
 
 
-print(f'El overfitting es de:\n{round((accuracy_score(y_train, y_train_pred)-accuracy_score(y_test, y_test_pred)*100),2)}')
-
-
 
 
 cm = confusion_matrix(y_test, y_test_pred)
 print("Matriz de Confusión:")
 print(cm)
 
-
-
-# Entrenar modelo
-model = pipeline.fit(X_train_vectorized, y_train)
-
-# Realizar predicciones
-y_train_pred = model.predict(X_train_vectorized)
-y_test_pred = model.predict(X_test_vectorized)
+# Guardar el modelo en un archivo
+import pickle
+with open('C:/4_F5/019_NPL/Detector_de_odio_G1/models/modelo_RFC.pkl', 'wb') as archivo:
+    pickle.dump(model_rfc, archivo)
 
 # Calcular métricas
 train_report = classification_report(y_train, y_train_pred)
@@ -123,7 +111,7 @@ output = template.render(
 )
 
 # Guardar el informe como archivo HTML
-with open('C:/4_F5/019_NPL/Detector_de_odio_G1/src/informe_modeloRegL.html', 'w', encoding='utf-8') as f:
+with open('C:/4_F5/019_NPL/Detector_de_odio_G1/src/informe_modeloRFC.html', 'w', encoding='utf-8') as f:
     f.write(output)
 
-print("Informe generado: informe_modeloRegL.html")
+print("Informe generado: informe_modeloRFC.html")
