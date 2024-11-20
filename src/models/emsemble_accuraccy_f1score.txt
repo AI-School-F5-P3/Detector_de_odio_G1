@@ -1,0 +1,2 @@
+Accuracy del ensamble: 0.9391727493917275
+F1 Score del ensamble: 0.9614197530864198
