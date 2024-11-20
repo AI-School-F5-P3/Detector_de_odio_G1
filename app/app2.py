@@ -107,9 +107,9 @@ def guardar_modelo_en_cache(modelo):
         st.error(f"Error al guardar el caché: {str(e)}")
 
 @st.cache_resource
-def cargar_modelo_huggingface():
+def cargar_modelo_complex():
     try:
-        # Cargar desde HuggingFace
+        # Cargar desde complex
         modelo = pipeline(
             "text-classification",
             model="martin-ha/toxic-comment-model",
@@ -119,10 +119,10 @@ def cargar_modelo_huggingface():
         guardar_modelo_en_cache(modelo)
         return modelo
     except Exception as e:
-        st.error(f"Error al cargar el modelo de HuggingFace: {str(e)}")
+        st.error(f"Error al cargar el modelo de complex: {str(e)}")
         return None
 
-def predecir_odio_huggingface(texto, clasificador):
+def predecir_odio_complex(texto, clasificador):
     try:
         resultado = clasificador(texto)[0]
         es_toxico = resultado['label'] == 'toxic'
@@ -178,17 +178,17 @@ def main():
     col1, col2 = st.columns(2)
     
     with col1:
-        analizar_huggingface = st.button("🤗 Usar Modelo HuggingFace")
+        analizar_complex = st.button("Usar Modelo complex")
     
     with col2:
-        analizar_personalizado = st.button("📊 Usar Modelo Personalizado")
+        analizar_personalizado = st.button("📊 Usar Modelo Inicial")
     
     if texto_usuario.strip():
-        if analizar_huggingface:
-            with st.spinner("Cargando modelo de HuggingFace..."):
-                modelo = cargar_modelo_desde_cache() or cargar_modelo_huggingface()
+        if analizar_complex:
+            with st.spinner("Cargando modelo de complex..."):
+                modelo = cargar_modelo_desde_cache() or cargar_modelo_complex()
                 if modelo:
-                    es_toxico, prob = predecir_odio_huggingface(texto_usuario, modelo)
+                    es_toxico, prob = predecir_odio_complex(texto_usuario, modelo)
                     mostrar_resultados(es_toxico, prob)
         
         elif analizar_personalizado:
@@ -198,7 +198,7 @@ def main():
                     es_toxico, prob = predecir_odio_personalizado(texto_usuario, modelo)
                     mostrar_resultados(es_toxico, prob)
     else:
-        if analizar_huggingface or analizar_personalizado:
+        if analizar_complex or analizar_personalizado:
             st.warning("⚠️ Por favor, ingresa texto para analizar.")
 
 def mostrar_resultados(es_toxico, prob):
